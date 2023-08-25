@@ -43,7 +43,8 @@ Max damage was increased by almost 3 times, but the radius was nerfed to half of
 |Velocity|1.25|1.25|3.5 (arbiter in vanilla PD2 is 7)|
 
 **Poison grenades:** nerfed. They now can't really kill anything, at best they will get normal swat to 50% hp, BUT the damage over time effect is now 30 seconds, so keeping your grinder/anarchist regen is even easier. Don't expect to get any kills though. Recommended usage: snipe groups that are far away, so by the time they get to you they have less health.
-**Incendiary grenades: most powerful area denial. Best time to kill. As a con, ammo pick up is almost non-existent.
+
+**Incendiary grenades:** most powerful area denial. Best time to kill. As a con, ammo pick up is almost non-existent.
 
 **Electric nades:** no change.
 
