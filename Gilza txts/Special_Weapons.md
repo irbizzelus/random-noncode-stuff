@@ -36,8 +36,8 @@ Overall ammo pick up for all launchers is 20% lower then vanilla PD2.
 
 **Normal grenades:**
 Max damage was increased by almost 3 times, but the radius was nerfed to half of vanilla PD2. New "high velocity" grenades were added to gl40, piglet, compact 40mm and china lake. Comparison of normal grenade types:
-|Vanilla PD2|Gilza|Gilza High Velocity|
-|--------|--------|--------|
+||Vanilla PD2|Gilza|Gilza High Velocity|
+|--------|--------|--------|--------|
 |Damage|1000|4000 (enemies have more health so it's 3x the dmg)|4000|
 |Radius|350|175|90|
 |Velocity|1.25|1.25|3.5 (arbiter in vanilla PD2 is 7)|
