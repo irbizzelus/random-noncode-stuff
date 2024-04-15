@@ -1,61 +1,27 @@
+# Assault rifles:
+All DMR kits and some long barrels were reworked into "Armour piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved.
+
+New weapon mods:
+* M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but are categorized as ammuntion
+* 7.62 Little Friend now has a 5.56 conversion kit - it reduces damage but increases ammo pick up
+* Byk-1 now has a 5.45 conversion kit - it reduces damage but increases ammo pick up
+* Car-4, AK 7.62 and Golgen AK 7.62 now have HP rounds - they can be used to update weapon's damage class (which includes ammo pick up)
+* 7.62 Little Friend and Byk-1 now have a High velocity round for their underbarrel launchers - increase grenade travel speed by 3x with a 20% ammo pick up cost. Note: only works if you are the lobby host, otherwise reverts itself to standard round stats.
+* Gewehr3's CQB and Sniper kits have new updated values, CQB now reduced damage class () and increases stats, while the Sniper kit acts like an AP kit
+
+New damage classes:
+|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
+|--------|--------|--------|--------|
+|120 dmg|3|4|Best for crits|
+|155 dmg|2|3|Combos well with "Overkill" aced|
+|200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of ~10% ammo pick up|
+|250 dmg|1|2|Most stable and comfortable TTK, but poor ammo economy if not accurate.|
+|450 dmg|1|1|Usually highest recoil and worst ammo economy. Best combined with body expertise/ammo related skills.|
 
 NOT FINISHED YET
 
-## General:
-* All DMR kits were reworked into 'Armor Piercing Kits' that can penetrate body armor, shields and walls. Due to technical limitations, they are now categorized as ammunition
-* Most mag increasing mods now make your reload speed slower
-* Normal grenades should not explode mid air if hit by bullets (Host only)
+# Shotguns:
 
-## Stability rework and weapon performance:
-||
-
-### Weapon performance
-
-[color=#ca8f2f]**All weapon categories:**[/color]
-* You now suffer from 25% accuracy penalty when shooting while moving (both ADS and hip-fire)
-
-[color=#ca8f2f]**Changes for weapon categories: AR's, SMG's(+akimbo) and LMG's**[/color]
-* You can now suffer from 30% accuracy penalty if your weapon is toggled to full-auto fire mode. If you switch to single-fire fire mode during the heist your accuracy will be increased (provides some usage to the switch fire mod keybind, and also makes you feel tacticool)
-* You receive 50% bonus to stability if your weapon is toggled to single-fire mode
-
------
-
-### Stability rework
-
-[color=#ca8f2f]**Affected weapon categories: AR's, SMG's(+akimbo),LMG's, Full-auto Pistols(+akimbo), Miniguns(including Hailstorm)**[/color]
-* Your base stability value now represents how much recoil your weapon will have by default. This amount can be decreased with weapon modifications as usual
-* Amount of horizontal recoil was overall reduced
-* Horizontal recoil will now also be dependent on base stability. If base stability value starts with number divisible by 2, recoil will lean mostly to the left, and vise versa. (Example: 24 base stability will favour weapon recoil to the left, and 56 will favour it to the right)
-
-[color=#e4df86]**What does this all mean?**[/color]
-
-Base stability value is now going to be more important then amount of stability bonuses you can give to weapons. If some weapon has base stability of <10 its going to be really hard to control even if you get it to 100 stability with mods/skills. However the opposite is also true, where weapons with high base stability will feel like laser beams, and you won't have to worry about getting any stability bonuses for them. 
-
-Horizontal recoil is overall easier to predict.
-You will now have to toggle your weapon's fire mode (if it can do that) based on the engagement distance.
-
-Some weapons might feel the same, and others completely different from vanilla. 
-And yes, max recoil you can have here is higher then in vanilla (try Amr-16 with no mods for lolz).
-||
-
-#### Assault rifles:
-||
-All DMR kits were reworked into Armour piercing kits that can penetrate shields, body armor and walls, but ammo pick up while using them is halved. 
-M308 and galant rifles received AP rounds, that are similar to AP kits, but have better ammo economy.
-7.62 little friend AR can be equipped with a 5.56 conversion kit that reduces damage but increases ammo pick up
-Car-4 AR can use HP rounds to change it's damage profile from 175 to 210
-
-|Damage profile|Headshots to kill normal swat|Headshots to kill heavy swats|Notes|
-|--------|--------|--------|--------|
-|105 dmg|2|4|Best for crits|
-|146 dmg|2|3|If used with overkill aced, and base damage is increased with mods to 149+ becomes 1-2 bullets to kill type|
-|175 dmg|2|3|Basically 146 profile, but with better anti-dozer potential at a cost of total ammo pick up.|
-|210 dmg|1|2|Most average, most stable, poor ammo economy if not accurate.|
-|420 dmg|1|1|Usually highest recoil and worst ammo economy. Best combined with body expertise/ammo related skills.|
-||
-
-#### Shotguns:
-||
 This one is most interesting in my opinion.
 Damage profile depends on shotgun type:
 
@@ -90,8 +56,6 @@ All shotguns now have new damage fall-off. For more detail in game, use "More we
 **Dragon's breath**: cuts total ammo by 50%, ammo pick up by 80%. Reduces accuracy and amount of pellets from 12 to 6. No extra headshot damage. Distance at which fire can be triggered was reduced from 1400 to 900. Will deal 1180 damage over a 3 second period to any lit target. (Yes, it one-shots all swat's with any shotgun. Higher damaging shotguns can 'one shot' some specials.)
 
 **Tombstone slug**: cuts total ammo by ~35%, and ammo pick up by 20%. Deals roughly 400 damage over 2 seconds. This will allow for all shotguns to benefit from this slug differently, depending on their breakpoints. Best shotgun shell for regen-based perks.
-
-||
 
 #### Light machine guns:
 ||
