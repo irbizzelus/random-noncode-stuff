@@ -1,16 +1,12 @@
 
 NOT FINISHED YET
 
-:::### Weapon changes:::
-
-#### General:
-||
+## General:
 * All DMR kits were reworked into 'Armor Piercing Kits' that can penetrate body armor, shields and walls. Due to technical limitations, they are now categorized as ammunition
 * Most mag increasing mods now make your reload speed slower
 * Normal grenades should not explode mid air if hit by bullets (Host only)
-||
 
-#### Stability rework and weapon performance:
+## Stability rework and weapon performance:
 ||
 
 ### Weapon performance
