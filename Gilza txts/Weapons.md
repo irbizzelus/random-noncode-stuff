@@ -22,28 +22,21 @@ New damage classes:
 |250 dmg|1|2|Most stable and comfortable TTK, but poor ammo economy if not accurate.|
 |450 dmg|1|1|Usually highest recoil and worst ammo economy. Best combined with body expertise/ammo related skills.|
 
-
-
 # Shotguns:
 
-This one is most interesting in my opinion.
-Damage profile depends on shotgun type:
+Damage class depends on shotgun type:
 
-|Shotgun type|Damage profile|Headshots to kill normal swat|Headshots to kill heavy swat|Specialization|
+|Shotgun type|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
 |--------|--------|--------|--------|--------|
-|Pump-action|420 dmg|1|1|Most accurate but slowest. Recommended ammo: slug, to pen shields or HE|
-|Semi-auto no mag|305 dmg|1|2|The in-betweeners. Become 1-1 bullets to kill type with overkill. Recommended ammo: flechette or tombstone slugs, to not waste as much ammo finishing off low hp targets|
-|Semi or full-auto with mag|110 dmg|2|4|Spammm. Recommended ammo: buckshot for better breakpoints with overkill, HE or Dragon's Breath|
-|Double barrel|1250 dmg|1|1|Can one-shot-bodyshot normal and heavy swats. One-shot everyone else in the head. Recommended ammo: flechette or slugs.|
+|Pump-action|450 dmg|1|1|Slowest of them all. The only type to have new "Breaching" rounds, that allow to unlock everything that saw OVE9000 can (only for primaries).|
+|Semi-auto no mag|325 dmg|1|2|The in-betweeners. Become 1-1 bullets to kill type with overkill skill.|
+|Semi or full-auto with mag|100 dmg|3|5|Spammm. Overkill skill is practically mandatory.|
+|Double barrel|1000 dmg|1|1|Can one-shot-bodyshot normal and heavy swats. One-shot everyone else in the head.|
 
-All shotguns now have new damage fall-off. For more detail in game, use "More weapon stats" mod. Short descriptions:
-- Double barrel's have best range with 50% damage at furthest point.
-- Pump action's have 2nd best range after double barrels, but lowest minimal damage of only 20% at furthest point.
-- Semi-auto's are just slightly worse then pump actions and their damage is reduced to 33% at furthest point.
-- Full-auto's have shortest range but their drop off is longest in terms of % over range. They still deal lowest damage across all distances, but due to this slow drop off, they are more efficient with crits/body expertise at range since their damage is reduced slower then other shotguns. Minimal damage is 50%.
+All shotguns now have new damage fall-off. For more details use "More weapon stats" mod in game.
 
 
-[color=#ca8f2f]*One new ammo type was added for __primary__ pump-action shotguns:*[/color]
+*One new ammo type was added for __primary__ pump-action shotguns:*
 
 **Breaching round**: Can open any locked space that OVE9000 saw usually can. Allows to pen shields, walls and body armor. Damage and damage fall-off are cut significantly.
 
