@@ -1,3 +1,7 @@
+FILE NOT YET FINISHED
+
+<p align="right"> Use this icon up-top to view weapon chapters: <img width="40" height="40" src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
+
 # Assault rifles:
 All DMR kits and some long barrels were reworked into "Armour piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved.
 
@@ -18,7 +22,7 @@ New damage classes:
 |250 dmg|1|2|Most stable and comfortable TTK, but poor ammo economy if not accurate.|
 |450 dmg|1|1|Usually highest recoil and worst ammo economy. Best combined with body expertise/ammo related skills.|
 
-NOT FINISHED YET
+
 
 # Shotguns:
 
