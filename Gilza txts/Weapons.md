@@ -26,24 +26,24 @@ New damage classes:
 
 ### General shotgun updates
 
-All shotguns now have new damage fall-off. For more details use "More weapon stats" mod in game.
-All shotguns now fire 12 pellets per shot.
+* All shotguns now have new damage fall-off. For more details use "More weapon stats" mod in game.
+* All shotguns now fire 12 pellets per shot.
 
 #### New shotgun damage
-Shotgun's damage in the base game spreads it's damage across every pellet you fire. Most shotguns have 8-12 pellets. So if you were to hit an enemy, you would deal "shotgun's damage/amount of pellets" per every pellet you hit, so not every hit will deal full damage.
+Shotgun's damage in the base game spreads it's damage across every pellet you fire. Most shotguns have 8-12 pellets. So if you were to hit an enemy, you would deal "shotgun's damage/amount of pellets" per every pellet you hit, so not every hit would deal full damage.
 
 Now, every shotgun has a minimal damage multiplier, that ensures your shotgun will always deal minimal multiplier damage. So, as example:
 
 We have a shotgun with 10 pellets and max total damage of 200. In vanilla PD2 every pellet deals 20 damage, simple enough. With Gilza this same shotgun also has a minimal shotgun damage multiplier property, and let's say for this shotgun it's 0.5.
 So anytime you fire your shotgun, first pellet that hits an enemy, will ALWAYS deal 100 damage. After it, other pellets from the same shot will deal "100/9" or ~11.11 damage.
-This ensures that your shotgun can always kill enemy in (2 in this case) set amount of shots. This damage still scales with damage drop off however, so you can't 2-tap a sniper on the opposite side of the map, they will just receive "minimal damage/2" for the first pellet.
+This ensures that your shotgun can always kill enemy in (2 in this case) set amount of shots. This damage still scales with damage drop off however, so you can't 2-tap a sniper on the opposite side of the map, they will just receive "minimal damage/2" for the first pellet.\n
 This multiplier is different for every shotgun class, and double barrels for example always have a multiplier of 1, so you only need 1 pellet to connect, additonal pellets will deal 0 damage.
 
 ### New damage classes:
 |Shotgun type|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Minimal shotgun damage multiplier|Notes|
 |--------|--------|--------|--------|--------|--------|
 |Double barrel|1000 dmg|1|1|1|Can one-shot-bodyshot normal and heavy swats. One-shot everyone else in the head.|
-|Pump-action|450 dmg|1|1|0.67|Slowest of them all. The only type to have new "Breaching" rounds, that allow to unlock everything that saw OVE9000 can (only for primaries).|
+|Pump-action|450 dmg|1|1|0.67|Slowest of them all. The only type to have new "Breaching" rounds.|
 |Semi-auto no mag|325 dmg|1|2|0.5|The in-betweeners. Become 1-1 bullets to kill type with overkill skill.|
 |Some semi-auto's and full-auto with mags|100 dmg|3|5|0.35|Spammm. Overkill skill is practically mandatory.|
 
