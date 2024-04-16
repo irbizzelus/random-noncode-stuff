@@ -1,6 +1,6 @@
 FILE NOT YET FINISHED
 
-<p align="right"> Use this icon up-top to view weapon chapters: <img width="40" height="40" src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
+<p align="right"> Use this icon up-top to view weapon category chapters: <img width="40" height="40" src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
 # Assault rifles:
 ### General AR updates
