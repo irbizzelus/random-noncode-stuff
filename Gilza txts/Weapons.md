@@ -5,7 +5,7 @@ FILE NOT YET FINISHED
 # Assault rifles:
 All DMR kits and some long barrels were reworked into "Armour piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved.
 
-## New weapon mods:
+### New weapon mods
 * M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but are categorized as ammuntion
 * 7.62 Little Friend now has a 5.56 conversion kit - it reduces damage but increases ammo pick up
 * Byk-1 now has a 5.45 conversion kit - it reduces damage but increases ammo pick up
@@ -13,7 +13,7 @@ All DMR kits and some long barrels were reworked into "Armour piercing kits" tha
 * 7.62 Little Friend and Byk-1 now have a High velocity round for their underbarrel launchers - increase grenade travel speed by 3x with a 20% ammo pick up cost. Note: only works if you are the lobby host, otherwise reverts itself to standard round stats.
 * Gewehr3's CQB and Sniper kits have new updated values, CQB now reduced damage class () and increases stats, while the Sniper kit acts like an AP kit
 
-## New damage classes:
+### New damage classes
 |Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
 |--------|--------|--------|--------|
 |120 dmg|3|4|Best for crits|
