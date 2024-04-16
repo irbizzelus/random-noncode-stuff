@@ -3,7 +3,8 @@ FILE NOT YET FINISHED
 <p align="right"> Use this icon up-top to view weapon chapters: <img width="40" height="40" src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
 # Assault rifles:
-All DMR kits and some long barrels were reworked into "Armour piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved.
+### General AR updates
+* All DMR kits and some long barrels were reworked into "Armour piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved.
 
 ### New weapon mods
 * M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but are categorized as ammuntion
