@@ -5,12 +5,13 @@ FILE NOT YET FINISHED
 # Assault rifles:
 ### General AR updates
 * All DMR kits and some long barrels were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved. Affected weapons: Car-4, AK74, AMR16, Gewehr3, KS12 (upper receiver).
+* About a third of all AR's had their rate of fire updated
 
 ### New attachments
 * M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but are categorized as ammuntion
 * 7.62 Little Friend now has a 5.56 conversion kit - it reduces damage but increases ammo pick up
 * Byk-1 now has a 5.45 conversion kit - it reduces damage but increases ammo pick up
-* Car-4, AK 7.62 and Golgen AK 7.62 now have HP rounds - they can be used to update weapon's damage class (which includes ammo pick up)
+* Car-4, AK 7.62 and Golgen AK 7.62 now have HP rounds - they can be used to upgrade weapon's damage class (which affects ammo pick up)
 * 7.62 Little Friend and Byk-1 now have a High velocity round for their underbarrel launchers - increase grenade travel speed by 3x with a 20% ammo pick up cost. Note: only works if you are the lobby host, otherwise reverts itself to standard round stats.
 * Gewehr3's CQB and Sniper kits have new updated values, CQB kit now has reduced damage class (200) but increases other stats, while the Sniper kit acts like an AP kit
 
@@ -27,8 +28,9 @@ FILE NOT YET FINISHED
 
 ### General shotgun updates
 
-* All shotguns now have new damage fall-off. For more details use "More weapon stats" mod in game.
+* All shotguns now have new damage fall-off. In short: more damage per shot = better damage distance. For more details use "More weapon stats" mod in game.
 * All shotguns now fire 12 pellets per shot.
+* Rate of fire was updated for almost every shotgun, and it is now balanced withing it's damage class
 
 #### New shotgun damage
 Shotgun's damage in the base game spreads it's damage across every pellet you fire. Most shotguns have 8-12 pellets. So if you were to hit an enemy, you would deal "shotgun's damage/amount of pellets" per every pellet you hit, so not every hit would deal full damage.
@@ -66,7 +68,7 @@ Additional stats, like DOT damage and ammo pick up changes, are included in game
 
 ### General LMG updates
 * Breakpoints and TTK are kept the same
-* Accuracy without a bipod is extremely poor, but you get extra 50% accuracy when bipoded compared to vanilla PD2
+* Accuracy without a bipod is extremely poor, but you get extra ~50% accuracy when bipoded compared to vanilla PD2
 
 ### New damage drop off introduced
 * 50% damage for the first 2 meters
@@ -113,7 +115,7 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 
 With all of the changes above, pistols should now be a really comfortable alternative for mid range as a secondary, while SMG's are better up close and snipers at longer ranges.
 
-### New weapon mods
+### New attachments
 * Broomstick's long barrel is now an AP kit.
 * Matever .357 revolver can now use AP rounds, similar to an AP kit.
 
@@ -141,7 +143,7 @@ Note: the Peacemaker .45 revolver has a damage profile of 650, which allows it t
 
 These changes make SMG's a more distinct CQB category. While being extremely effective at closer ranges, they will loose their fire power really quickly at longer distances. If you want to have more firepower at range use pistols or snipers.
 
-### New weapon mods
+### New attachments
 * Kobus90 can use AP rounds.
 
 ### New damage classes
