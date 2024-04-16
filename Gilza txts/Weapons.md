@@ -98,7 +98,10 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 |The 50cal|6500 dmg|1|1|1 |1 |The one and only Dozer-buster. Takes 2 bodyshots to kill a dozer, minigun versions take 4. Double bullet amount for DS difficulty.|
 
 # All akimbo weapons:
-Complete copies of their non-akimbo counterparts, *but* damage is cut in half, to compensate you firing two shots at the same time. Otherwise revolvers with 450 damage would waste their ammo in under 60 seconds. Ammo pick up is compensated for this change.
+### General Akimbo updates
+* Stability/accuracy/concealment stats are now copies 1 to 1 from non-akimbo counterparts
+* Damage is cut in half compared to non-akimbo counterparts, to compensate for the act of firing two shots at the same time. Otherwise revolvers with 450 damage would waste their ammo in under a minute. Ammo pick up is compensated for this change.
+* Ammo capacity on average is lower then other weapons - you are expected to use Akimbo ammo skills while using these weapons
 
 # Pistols:
 
