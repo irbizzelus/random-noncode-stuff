@@ -42,7 +42,7 @@ As for headshots: if any of your pellets from the same shot connects to the head
 
 Shotgun multiplier is different per shotgun class - double barrels for example always have a multiplier of 1, so you only need 1 pellet to connect, additonal pellets will deal 0 damage.
 
-### New damage classes:
+### New damage classes
 |Shotgun type|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Minimal shotgun damage multiplier|Notes|
 |--------|--------|--------|--------|--------|--------|
 |Double barrel|1000 dmg|1|1|1|Can one-shot-bodyshot normal and heavy swats. One-shot everyone else in the head.|
@@ -61,54 +61,46 @@ Additional stats, like DOT damage and ammo pick up changes, are included in game
 * **Dragon's breath**: Reduces amount of pellets to 9. No extra headshot damage. Deals 350 fire damage over a 2 second period to any lit target.
 * **Tombstone slug**: Deals roughly 120 damage over 3 seconds.
 
-# Light machine guns:
-||
-- Breakpoints and TTK are kept the same
-- Now use new stability rework = more recoil
-- Ammo pick up reduced
-- Accuracy without a bipod is extremely poor, but you get extra 50% accuracy when bipoded compared to vanilla
+# Light machine guns
 
-New damage drop off introduced:
-80% damage for the first 1.5 meters
-100% damage for 14 meters
-Progressive increase in damage from 14-36m
-150% damage after 36 meters
+### General LMG updates
 
-LMG's will now be better at long range bipoded support, but slightly worse at point blank ranges (note: Akron Hc and Campbell LMG's don't have increased damage at range, and Buzzsaw LMG has 2x damage after 36 meters, instead of 1.5x)
+* Breakpoints and TTK are kept the same
+* Accuracy without a bipod is extremely poor, but you get extra 50% accuracy when bipoded compared to vanilla PD2
 
-All of the changes above should provide a more defending playstyle, especially if used with new "Slow and Steady" skill.
-||
+### New damage drop off introduced
+* 50% damage for the first 2 meters
+* 100% damage for 12 meters after
+* Progressive increase in damage at 14-36 meters
+* 165% max damage after 36 meters
 
-#### Sniper rifles:
-||
-Damage drop-off removed, now deal same damage regardless of distance.
-__All__ snipers were reworked to one-shot headshot any enemy (except dozers and Winters).
-Balanced around BODYSHOTS now, and how many bullets it takes to kill enemies in the body.
-Damage profile depends on sniper type:
+Note: Akron Hc and Campbell LMG's don't have increased damage at range, and Buzzsaw LMG has 2x damage after 36 meters, instead of 1.65x.
 
-|Sniper type|Damage profile|BODYshots to kill normal|BODYshots to kill heavy swat|Specialization|
-|--------|--------|--------|--------|--------|
-|Semi-auto |560 dmg|2 |3 |The basic one, only headshots 1 shot|
-|Lever-action |630 dmg|1|2|The anti-trash (enemy type i mean) one. Secondary bolt sniper also uses this dmg profile|
-|Bolt action |1260 dmg|1|1 |Kill normal and heavy swats with one shot to the body. Pretty good, ay?|
-|Heavy bolt action |1600 dmg|1|1 |Kill normal swat, heavy swat, medics, tazers, and marshal marksmen with one shot to the body. Ammo pick up is lowered by 10%|
-|The 50cal|8050 dmg|1|1|Can one-shot-bodyshot anyone. Dozers on DW difficulty take 2 bodyshots to kill, minigun dozers take 4. Double bullet amount for DS difficulty. Ammo pick up is extremely low|
+### Summary
+LMG's will now be better at long range bipoded support, but slightly worse at point blank ranges. All of the changes above should provide a more defending playstyle, especially if used with new "Slow and Steady" skill.
 
-All sniper rifles have __identical ammo pick up.__(except for 50cal and heavy bolt action) Explanation: semi-auto snipers on average are much better when dealing with multiple enemies in a short period of time, thanks to their mag capacity and ROF. Bolt and lever action rifles are worse in this scenario, but due to their bodyshot damage, you don't have to aim for the head all the time, which means your accuracy on average will be higher with them. To summarize: if you are a good shot, semi-auto's will be best weapons of choice, due to their firepower, but if you feel like being lazy, or are not that good of a shot, you can sacrifice DPS to have overall better ammo economy due to less misses.
 
-||
+# Sniper rifles:
 
-#### All akimbos:
-||
-Pretty much just copies of their non-akimbo counterparts, with less stability but slightly better ammo pickup. Akimbo SMG's and full auto pistols use new stability rework.
-||
+### General Sniper updates
+* Damage drop-off removed, now deal same damage regardless of distance.
+* Can now one-shot headshot any enemy (except Dozers and cpt. Winters).
+* Now balanced around BODYSHOTS, and how many bullets it takes to kill enemies in the body.
 
-#### Specials:
-||
-Sorry, but ModWorkShop's new version forces me to leave a link here, because of the new character limit per mod page:
-https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Special_Weapons.md
-||
-#### Pistols:
+### New damage classes
+
+|Sniper type|Damage profile|BODYshots to kill a light swat|BODYshots to kill a heavy swat|BODYshots to kill a tazer|BODYshots to kill a cloaker|Notes|
+|--------|--------|--------|--------|--------|--------|--------|
+|Semi-auto |650 dmg|1 |2|2 |3 |The anti-trash (enemy type). Should be used mostly for headshots.|
+|Lever-action |950 dmg|1|1|2|2|Can one tap heavy swats, so you only have to go for headshots on some special enemies.|
+|Bolt action |1300 dmg|1|1 |1 |2 |Bolt snipers are slow, but you can one tap bodyshot everyone except for the cloaker, dozer and cpt. Winters. Pretty good, ay?|
+|Heavy bolt action |1600 dmg|1|1 |1 |1 |Same as bold actions, but can one-shot-bodyshot cloakers as well. This class is used for low mag capacity bolt snipers.|
+|The 50cal|6500 dmg|1|1|1 |1 |The one and only Dozer-buster. Takes 2 bodyshots to kill a dozer, minigun versions take 4. Double bullet amount for DS difficulty.|
+
+# All akimbos weapons
+Complete copies of their non-akimbo counterparts, *but* damage is cut in half, to compensate you firing two shots at the same time. Otherwise revolvers with 450 damage would waste their ammo in under 60 seconds. Ammo pick up is compensated for this change.
+
+#Pistols:
 ||
 __All__ pistols now have no damage drop-off, so they are now more efficient at longer distances then SMG's.
 Base ROF for all full-auto pistols was buffed by 25%. (max ROF with gun nut skill totals to be the same as without Gilza)
@@ -129,7 +121,7 @@ With all of the changes above, pistols should now be a really comfortable altern
 |630 dmg|1|1|Can one-shot-body shot normal swat. Used by Peacemaker and Kahn .357 (with a 6 round mag mod) revolvers|
 ||
 
-#### Sub machine guns:
+# Sub machine guns:
 ||
 Kobus90 (better known as P90) can use AP rounds.
 
@@ -149,6 +141,8 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 |210 dmg|1|2 |Heavy|
 ||
 
+
+# Specials:
 ### Bows/crossbows:
 For the most part are balanced around bodyshots like snipers. Explosive shots now deal 2x the damage (since they cant get headshots that deal 3x damage). Heavy bows can one-shot-bodyshot tazers, light bows only normal swats, with one shot headshots on heavy swat.
 Projectiles and their damage is handled by the host, so changes here will only be active when you are the host.
