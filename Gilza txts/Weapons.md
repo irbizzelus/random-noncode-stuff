@@ -151,54 +151,41 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 
 # Specials:
 ### Bows/crossbows:
-For the most part are balanced around bodyshots like snipers. Explosive shots now deal 2x the damage (since they cant get headshots that deal 3x damage). Heavy bows can one-shot-bodyshot tazers, light bows only normal swats, with one shot headshots on heavy swat.
-Projectiles and their damage is handled by the host, so changes here will only be active when you are the host.
+* Fixed stats for some bows that displayed incorrect information.
+* Added armor peircing to all arrows for body armor.
+* Updates a few stats, so bows and crossbows would feel slightly more different from each other.
 
-### Saws:
-Saws now show you their actual ammo, allow for reloads at any time and are more effective against enemies (all enemies receive 9x damage in-game compared to saw's stat when viewed in the inventory). Can now also pick up ammo with Saw Massacre (ACED) skill.
+### OVE9000 Saw:
+* Allows for reloads at any time.
+* All enemies receive 9x damage in-game compared to saw's stat when viewed in the inventory. This was done in such a way due to damage calculations around saw's atachments and unlockable surfaces like metal doors.
+* Can now also pick up ammo with Saw Massacre (ACED) skill.
 
 ### Flamethrowers:
-Basically better now. Ammo capacity was nerfed, reload was slightly buffed, and damage was buffed by a lot. Magazines now completely change how flamethrower performs:
+Ammo capacity was reduced, reload speed and damage were increased.
+
+Magazines now completely change how flamethrower performs:
 |Mag|Stats|Playstyle|
 |--------|--------|--------|
 |Rare|leaves you with only 1 damage, but makes afterburn happen more often. Strongest afterburn damage over longest period of time|Poke enemies to get them to burn, delaying them and letting them burn out while you are in cover|
 |Well done|Doubles your damage but decreases chances for afterburn. Afterburn also deals really low damage|Be more direct with your flames and don't rely on afterburn at all|
 |Default|Only 25% chance for afterburn (75% base game) but afterburn will deal roughly 60% of hp to a normal swat|All around an ok choice|
 
-Secondary flamethrower has less damage and less ammo capacity.
+Secondary flamethrower has less damage per tick and worse ammo economy.
 
-### Miniguns:
-Damage breakpoints are identical. 
-Ammo stats changed from 750/750 to 600/900
-Reload sped up by 20%
-Ammo pick up reduced, and is now different in between both miniguns since one does more damage per bullet then another.
+### Miniguns (+Hailstorm):
+* TTK and breakpoints are identical for headshots, but better for bodyshots due to Gilza's health pool updates
+* Ammo capacity stats changed from 750(mag)/750(total) to 600(mag)/900(total)
+* Reload sped up by 20%
+* Ammo pick up reduced, and is now different between the two miniguns we have, since one does more damage per bullet then another.
+* Hailstorm now has 210/630 ammo and better accuracy/stability stats. Ammo pick up for it is slightly better then in vanilla as well.
 
-Hailstorm now has 210/630 ammo and better accuracy/stability stats. Ammo pick up for it is slightly better then in vanilla as well.
+### Grenade and rocket launchers (Underbarrels included):
+* Piglet launcher received a reload speed buff.
+* Overall ammo pick up for all launchers is ~20% higher then in vanilla PD2, but now varies more depending on the grenade launcher and it's damage.
+* All grenades now have MUCH more detail in their descriptions. They now include ammo pick up adjustments, damage over time, and other additional properties.
+* Added a high velocity grenade to almost all GL's
 
-### Rocket launchers:
-Damage breakpoints on dozers are the same. Radius was reduced by 25%. Both changes are host-sided.
-
-### Grenade launchers:
-
-Almost all changes here are host-sided. That means that if you are a client and use grenade launchers you won't benefit from damage, blast radius  or velocity changes at all.
-
-All grenade launchers had their blast radius nerfed by roughly 50% but damage increased by 300% to make launchers be less effective against big groups, but more effective against any enemy type.
-
-Overall ammo pick up for all launchers is 20% lower then vanilla PD2.
-
-**Normal grenades:**
-Max damage was increased by almost 3 times, but the radius was nerfed to half of vanilla PD2. New "high velocity" grenades were added to gl40, piglet, compact 40mm and china lake. Comparison of normal grenade types:
-||Vanilla PD2|Gilza|Gilza High Velocity|
-|--------|--------|--------|--------|
-|Damage|1000|4000 (enemies have more health so it's 3x the dmg)|4000|
-|Radius|350|175|90|
-|Velocity|1.25|1.25|3.5 (arbiter in vanilla PD2 is 7)|
-
-**Poison grenades:** nerfed. They now can't really kill anything, at best they will get normal swat to 50% hp, BUT the damage over time effect is now 30 seconds, so keeping your grinder/anarchist regen is even easier. Don't expect to get any kills though. Recommended usage: snipe groups that are far away, so by the time they get to you they have less health.
-
-**Incendiary grenades:** most powerful area denial. Best time to kill. As a con, ammo pick up is almost non-existent.
-
-**Electric nades:** no change.
-
-Also, almost all launchers got reload speed buffs. Especially the piglet.
-Launchers that have lower damage then others: Arbiter, Basilisk 3v.
+##### Grenade launcher's ammunition:
+* High velocity rounds: New greande type (not avialable on Basilisk 3V and Arbiter grenade launchers). Grenade launch speed is tripled at a cost of 20% ammo pick up. Other stats are identicall to standard frag round. NOTE: does not work as a client, because host handles projectiles in PD2 and i can't do anything about it. What i can do, is make your ammo pick up identicall to the standard frag round if you are playing as a client, so you wouldnt have to worry about swapping nade types all the time.
+* Poison grenades: practically can't kill anything, BUT the damage over time effect is now 30 seconds, and during the FULL 30 SECOND DURATION enemies are now stun locked in the vomitting animation. This makes poision and extremely effective slow-down tool, escpecially if you use it at chokes, or enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now.
+* Incendiary grenades: Ammo pick up is now reduced even more then in the base game.
