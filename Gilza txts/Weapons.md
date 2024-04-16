@@ -61,7 +61,7 @@ Additional stats, like DOT damage and ammo pick up changes, are included in game
 * **Dragon's breath**: Reduces amount of pellets to 9. No extra headshot damage. Deals 350 fire damage over a 2 second period to any lit target.
 * **Tombstone slug**: Deals roughly 120 damage over 3 seconds.
 
-# Light machine guns
+# Light machine guns:
 
 ### General LMG updates
 * Breakpoints and TTK are kept the same
@@ -96,7 +96,7 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 |Heavy bolt action |1600 dmg|1|1 |1 |1 |Same as bold actions, but can one-shot-bodyshot cloakers as well. This class is used for low mag capacity bolt snipers.|
 |The 50cal|6500 dmg|1|1|1 |1 |The one and only Dozer-buster. Takes 2 bodyshots to kill a dozer, minigun versions take 4. Double bullet amount for DS difficulty.|
 
-# All akimbo weapons
+# All akimbo weapons:
 Complete copies of their non-akimbo counterparts, *but* damage is cut in half, to compensate you firing two shots at the same time. Otherwise revolvers with 450 damage would waste their ammo in under 60 seconds. Ammo pick up is compensated for this change.
 
 # Pistols:
