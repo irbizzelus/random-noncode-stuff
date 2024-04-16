@@ -6,7 +6,7 @@ FILE NOT YET FINISHED
 ### General AR updates
 * All DMR kits and some long barrels were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved.
 
-### New weapon mods
+### New attachments
 * M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but are categorized as ammuntion
 * 7.62 Little Friend now has a 5.56 conversion kit - it reduces damage but increases ammo pick up
 * Byk-1 now has a 5.45 conversion kit - it reduces damage but increases ammo pick up
@@ -139,7 +139,7 @@ Note: the Peacemaker .45 revolver has a damage profile of 650, which allows it t
 These changes make SMG's a more distinct CQB category. While being extremely effective at closer ranges, they will loose their fire power really quickly at longer distances. If you want to have more firepower at range use pistols or snipers.
 
 ### New weapon mods
-* Kobus90 (better known as P90) can use AP rounds.
+* Kobus90 can use AP rounds.
 
 ### New damage classes
 |Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
