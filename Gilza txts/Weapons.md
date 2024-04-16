@@ -152,7 +152,7 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 # Specials:
 ### Bows/crossbows:
 * Fixed stats for some bows that displayed incorrect information.
-* Added armor peircing to all arrows for body armor.
+* Added body armor armor peircing to all arrows.
 * Updates a few stats, so bows and crossbows would feel slightly more different from each other.
 
 ### OVE9000 Saw:
