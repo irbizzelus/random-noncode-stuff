@@ -4,7 +4,7 @@ FILE NOT YET FINISHED
 
 # Assault rifles:
 ### General AR updates
-* All DMR kits and some long barrels were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved.
+* All DMR kits and some long barrels were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved. Affected weapons: Car-4, AK74, AMR16, Gewehr3, KS12 (upper receiver).
 
 ### New attachments
 * M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but are categorized as ammuntion
@@ -12,14 +12,14 @@ FILE NOT YET FINISHED
 * Byk-1 now has a 5.45 conversion kit - it reduces damage but increases ammo pick up
 * Car-4, AK 7.62 and Golgen AK 7.62 now have HP rounds - they can be used to update weapon's damage class (which includes ammo pick up)
 * 7.62 Little Friend and Byk-1 now have a High velocity round for their underbarrel launchers - increase grenade travel speed by 3x with a 20% ammo pick up cost. Note: only works if you are the lobby host, otherwise reverts itself to standard round stats.
-* Gewehr3's CQB and Sniper kits have new updated values, CQB now reduced damage class () and increases stats, while the Sniper kit acts like an AP kit
+* Gewehr3's CQB and Sniper kits have new updated values, CQB kit now has reduced damage class (200) but increases other stats, while the Sniper kit acts like an AP kit
 
 ### New damage classes
 |Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
 |--------|--------|--------|--------|
 |120 dmg|3|4|Best for crits|
-|155 dmg|2|3|Combos well with "Overkill" aced|
-|200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of ~10% ammo pick up|
+|155 dmg|2|3|Average rifles, should feel the most similar to vanilla PD2 AR's|
+|200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of ~10% ammo pick up. Benefits from "Overkill" aced the best, due to damage class upgrade|
 |250 dmg|1|2|Most stable and comfortable TTK, but poor ammo economy if not accurate.|
 |450 dmg|1|1|Usually highest recoil and worst ammo economy. Best combined with body expertise/ammo related skills.|
 
