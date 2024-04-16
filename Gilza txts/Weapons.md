@@ -24,37 +24,38 @@ New damage classes:
 
 # Shotguns:
 
-Damage class depends on shotgun type:
-
-|Shotgun type|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
-|--------|--------|--------|--------|--------|
-|Pump-action|450 dmg|1|1|Slowest of them all. The only type to have new "Breaching" rounds, that allow to unlock everything that saw OVE9000 can (only for primaries).|
-|Semi-auto no mag|325 dmg|1|2|The in-betweeners. Become 1-1 bullets to kill type with overkill skill.|
-|Semi or full-auto with mag|100 dmg|3|5|Spammm. Overkill skill is practically mandatory.|
-|Double barrel|1000 dmg|1|1|Can one-shot-bodyshot normal and heavy swats. One-shot everyone else in the head.|
+### General shotgun updates
 
 All shotguns now have new damage fall-off. For more details use "More weapon stats" mod in game.
 
+#### New shotgund damage
+Shotgun's damage in the base game spreads it's damage across every pellet you fire. Most shotguns have 8-12 pellets. So if you were to hit an enemy, you would deal "shotgun's damage/amount of pellets" per every pellet you hit, so not every hit will deal full damage.
+Now, every shotgun has a minimal damage multiplier, that ensures your shotgun will always deal minimal multiplier damage. So, as example:
+We have a shotgun with 10 pellets and max total damage of 200. In vanilla PD2 every pellet deals 20 damage, simple enough. With Gilza this same shotgun also has a minimal shotgun damage multiplier property, and let's say for this shotgun it's 0.5.
+So anytime you fire your shotgun, first pellet that hits an enemy, will ALWAYS deal 100 damage. After it, other pellets from the same shot will deal "100/9" or ~11.11 damage.
+This ensures that your shotgun can always kill enemy in (2 in this case) set amount of shots. This damage still scales with damage drop off however, so you can't 2-tap a sniper on the opposite side of the map, they will just receive "minimal damage/2" for the first pellet.
+This multiplier is different for every shotgun class, and double barrels for example always have a multiplier of 1, so you only need 1 pellet to connect, additonal pellets will deal 0 damage.
 
-*One new ammo type was added for __primary__ pump-action shotguns:*
+### New damage classes:
+|Shotgun type|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Minimal shotgun damage multiplier|Notes|
+|--------|--------|--------|--------|--------|--------|
+|Double barrel|1000 dmg|1|1|1|Can one-shot-bodyshot normal and heavy swats. One-shot everyone else in the head.|
+|Pump-action|450 dmg|1|1|0.67|Slowest of them all. The only type to have new "Breaching" rounds, that allow to unlock everything that saw OVE9000 can (only for primaries).|
+|Semi-auto no mag|325 dmg|1|2|0.5|The in-betweeners. Become 1-1 bullets to kill type with overkill skill.|
+|Some semi-auto's and full-auto with mags|100 dmg|3|5|0.35|Spammm. Overkill skill is practically mandatory.|
 
-**Breaching round**: Can open any locked space that OVE9000 saw usually can. Allows to pen shields, walls and body armor. Damage and damage fall-off are cut significantly.
+### Shotgun ammo.
+Additional stats, like stability, damage and ammo pick up changes, are included in game as a description.
 
-[color=#ca8f2f]*All shotgun ammo types were reworked:*[/color]
+**Breaching round**: new ammo type for __primary__ pump-action shotguns - can open any locked space that OVE9000 saw usually can. Also allows to pen shields and body armor.
+**Buckshot**: doubles your damage, but removes extra headshot damage.
+**HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, leading to more enemies in blas radius receiving more damage. Self-damage to players was also reduced.
+**Flechette**: 'Pellet' amount reduced to 5. Still provides body armor pen and increased damage range.
+**AP slugs**: provides a bit of damage range along with body armor, shields and wall armor piercing.
+**Dragon's breath**: Reduces amount of pellets to 9. No extra headshot damage. Deals 350 fire damage over a 2 second period to any lit target.
+**Tombstone slug**: Deals roughly 120 damage over 3 seconds.
 
-**Buckshot**: now increases damage based on the shotgun category, so all shotguns gain similar in power breakpoint bonuses. Ammo pick up reduced by 20%
-
-**HE Slug**: doubles your damage (but no headshot extra damage). Removes all stability, cuts ammo pick up by 60% and total capacity by 50%
-
-**Flechette**: no longer gives any stat changes. 'Pellet' amount reduced to 5. Reduces ammo pick up by 10%. Provides body armor piercing and 50% damage range
-
-**AP slugs**: removed accuracy and damage stats, cuts total ammo capacity ~40% and ammo pick up by 25%, provides 20% damage range along with armor piercing
-
-**Dragon's breath**: cuts total ammo by 50%, ammo pick up by 80%. Reduces accuracy and amount of pellets from 12 to 6. No extra headshot damage. Distance at which fire can be triggered was reduced from 1400 to 900. Will deal 1180 damage over a 3 second period to any lit target. (Yes, it one-shots all swat's with any shotgun. Higher damaging shotguns can 'one shot' some specials.)
-
-**Tombstone slug**: cuts total ammo by ~35%, and ammo pick up by 20%. Deals roughly 400 damage over 2 seconds. This will allow for all shotguns to benefit from this slug differently, depending on their breakpoints. Best shotgun shell for regen-based perks.
-
-#### Light machine guns:
+# Light machine guns:
 ||
 - Breakpoints and TTK are kept the same
 - Now use new stability rework = more recoil
