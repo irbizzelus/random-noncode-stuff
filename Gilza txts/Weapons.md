@@ -13,7 +13,7 @@ FILE NOT YET FINISHED
 * Byk-1 now has a 5.45 conversion kit - it reduces damage but increases ammo pick up
 * Car-4, AK 7.62 and Golgen AK 7.62 now have HP rounds - they can be used to upgrade weapon's damage class (which affects ammo pick up)
 * 7.62 Little Friend and Byk-1 now have a High velocity round for their underbarrel launchers - increase grenade travel speed by 3x with a 20% ammo pick up cost. Note: only works if you are the lobby host, otherwise reverts itself to standard round stats.
-* Gewehr3's CQB and Sniper kits have new updated values, CQB kit now has reduced damage class (200) but increases other stats, while the Sniper kit acts like an AP kit
+* Gewehr3's CQB and Sniper kits have new updated values: CQB kit now has reduced damage class (200) with increases to other stats, while the Sniper kit acts like an AP kit
 
 ### New damage classes
 |Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
@@ -41,14 +41,14 @@ With Gilza, this same shotgun also has a minimal shotgun damage multiplier prope
 Anytime you fire this shotgun, first pellet that hits an enemy, would ALWAYS deal 100 damage. After it, other pellets from the same shot will deal "100/9" or ~11.11 damage.
 This ensures that your shotgun can always kill enemy in (2 in this case) set amount of shots. This damage still scales with damage drop off however, so you can't 2-tap a sniper on the opposite side of the map, they will just receive "minimal damage/2" for the first pellet.
 
-As for headshots: if any of your pellets from the same shot connects to the head, your minimal damage will also receive a headshot multiplier, other pellets deal additional damage only if they land in the head.
+As for headshots: if any of your pellets from the same shot connects to the head, your minimal damage will also receive a headshot multiplier. Additional pellets deal extra headshot damage only if they land in the head.
 
 Shotgun multiplier is different per shotgun class - double barrels for example always have a multiplier of 1, so you only need 1 pellet to connect, additonal pellets will deal 0 damage.
 
 ### New damage classes
 |Shotgun type|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Minimal shotgun damage multiplier|Notes|
 |--------|--------|--------|--------|--------|--------|
-|Double barrel|1000 dmg|1|1|1|Can one-shot-bodyshot normal and heavy swats. One-shot everyone else in the head.|
+|Double barrel|1000 dmg|1|1|1|Can one-shot-bodyshot light and heavy swats. One-shot everyone else in the head.|
 |Pump-action|450 dmg|1|1|0.67|Slowest of them all. The only type to have new "Breaching" rounds.|
 |Semi-auto no mag|325 dmg|1|2|0.5|The in-betweeners. Become 1-1 shots to kill type with overkill skill.|
 |Some semi-auto's and full-auto's with mags|100 dmg|3|5|0.35|Spammm. Overkill skill is practically mandatory.|
@@ -56,13 +56,13 @@ Shotgun multiplier is different per shotgun class - double barrels for example a
 ### Shotgun ammo.
 Additional stats, like DOT damage and ammo pick up changes, are included in game in ammo descriptions.
 
-* **Breaching round**: new ammo type for __primary__ pump-action shotguns - can open any locked space that OVE9000 saw usually can. Also allows to pen shields and body armor.
+* **Breaching round**: new ammo type for __*primary*__ pump-action shotguns - can open any locked space that OVE9000 saw usually can. Also allows to pen shields and body armor.
 * **Buckshot**: doubles your damage, but removes extra headshot damage.
 * **HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, which leads to enemies in the blast radius receiving more damage. Self-damage to players was also reduced.
 * **Flechette**: 'Pellet' amount reduced to 5. Still provides body armor pen and increased damage range.
-* **AP slugs**: provides a bit of damage range along with body armor, shields and wall armor piercing.
-* **Dragon's breath**: Reduces amount of pellets to 9. No extra headshot damage. Deals 350 fire damage over a 2 second period to any lit target.
-* **Tombstone slug**: Deals roughly 120 damage over 3 seconds.
+* **AP slugs**: provides same AP and similar range bonuses as in vanilla PD2, but ammo pick up is worse.
+* **Dragon's breath**: Reduces amount of pellets to 9. Deals 350 fire damage over a 2 second period to any lit target.
+* **Tombstone slug**: Deals roughly 120 damage over 3 seconds. Helpfull for low damage class shotguns, or vampire-like-regen perks.
 
 # Light machine guns:
 
@@ -93,15 +93,15 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 
 |Sniper type|Damage profile|BODYshots to kill a light swat|BODYshots to kill a heavy swat|BODYshots to kill a tazer|BODYshots to kill a cloaker|Notes|
 |--------|--------|--------|--------|--------|--------|--------|
-|Semi-auto |650 dmg|1 |2|2 |3 |The anti-trash (enemy type). Should be used mostly for headshots.|
+|Semi-auto |650 dmg|1 |2|2 |3 |The anti-trash (enemy type) rifles. Should be used mostly for headshots.|
 |Lever-action |950 dmg|1|1|2|2|Can one tap heavy swats, so you only have to go for headshots on some special enemies.|
 |Bolt action |1300 dmg|1|1 |1 |2 |Bolt snipers are slow, but you can one tap bodyshot everyone except for the cloaker, dozer and cpt. Winters. Pretty good, ay?|
-|Heavy bolt action |1600 dmg|1|1 |1 |1 |Same as bold actions, but can one-shot-bodyshot cloakers as well. This class is used for low mag capacity bolt snipers.|
+|Heavy bolt action |1600 dmg|1|1 |1 |1 |Same as bolt actions, but can one-shot-bodyshot cloakers as well. This class is used for low mag capacity bolt snipers.|
 |The 50cal|6500 dmg|1|1|1 |1 |The one and only Dozer-buster. Takes 2 bodyshots to kill a dozer, minigun versions take 4. Double bullet amount for DS difficulty.|
 
 # All akimbo weapons:
 ### General Akimbo updates
-* Stability/accuracy/concealment stats are now copies 1 to 1 from non-akimbo counterparts
+* Stability/accuracy/concealment stats are now copied 1 to 1 from non-akimbo counterparts
 * Damage is cut in half compared to non-akimbo counterparts, to compensate for the act of firing two shots at the same time. Otherwise revolvers with 450 damage would waste their ammo in under a minute. Ammo pick up is compensated for this change.
 * Ammo capacity on average is lower then other weapons - you are expected to use Akimbo ammo skills while using these weapons
 
@@ -110,10 +110,10 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 ### General Pistol updates
 * Now have no damage drop-off, which makes them more effective at longer distances then SMG's.
 * Base ROF for all full-auto pistols was buffed by 25%. Max ROF with "Gun Nut" skill totals to be the same as without Gilza
-* Base ROF for all semi-auto pistols was nerfed by 20%. "Gun Nut" skill makes pistol's ROF same as their vanilla ROF
+* Base ROF for all semi-auto pistols was nerfed by 20%. "Gun Nut" skill makes pistol's ROF same as their vanilla ROF without "Gun Nut"
 * Pistols with AP properties, have halved ammo pick up.
 
-With all of the changes above, pistols should now be a really comfortable alternative for mid range as a secondary, while SMG's are better up close and snipers at longer ranges.
+With all of the changes above, pistols should now be a really comfortable alternative for mid ranges as a secondary, while SMG's are better up close and snipers at longer ranges.
 
 ### New attachments
 * Broomstick's long barrel is now an AP kit.
@@ -152,13 +152,13 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 |95 dmg|3|5 |Crits/Stealth. Have high ROF|
 |120 dmg|3|4 |Crits/Stealth. Most have high ROF|
 |155 dmg|2|3|Average|
-|200 dmg|2|3|Average, but with less restrictive modding. 10% less pick up compared to 155 class|
+|200 dmg|2|3|Average, but with less restrictive modding. 10% less pick up compared to 155 class. Combines well with "Overkill" aced due to new damage breakpoints|
 |250 dmg|1|2 |Heavy hitters|
 
 # Specials:
 ### Bows/crossbows:
 * Fixed stats for some bows that displayed incorrect information.
-* Added body armor armor peircing to all arrows.
+* Added body armor peircing to all arrows.
 * Updates a few stats, so bows and crossbows would feel slightly more different from each other.
 
 ### OVE9000 Saw:
@@ -172,9 +172,9 @@ Ammo capacity was reduced, reload speed and damage were increased.
 Magazines now completely change how flamethrower performs:
 |Mag|Stats|Playstyle|
 |--------|--------|--------|
+|Default|Only 20% chance for afterburn (75% base game), afterburn will deal 300 damage over 2 seconds.|All around an ok choice|
 |Rare|leaves you with only 1 damage, but makes afterburn happen more often. Strongest afterburn damage over longest period of time|Poke enemies to get them to burn, delaying them and letting them burn out while you are in cover|
 |Well done|Doubles your damage but decreases chances for afterburn. Afterburn also deals really low damage|Be more direct with your flames and don't rely on afterburn at all|
-|Default|Only 20% chance for afterburn (75% base game), afterburn will deal 300 damage over 2 seconds.|All around an ok choice|
 
 Secondary flamethrower has less damage per tick and worse ammo economy.
 
@@ -191,7 +191,7 @@ Secondary flamethrower has less damage per tick and worse ammo economy.
 * All grenades now have MUCH more detail in their descriptions. They now include ammo pick up adjustments, damage over time, and other additional properties.
 * Added a high velocity grenade to almost all GL's
 
-#### Grenade launcher's ammunition:
+#### Grenade launcher's ammunition with noticable differenes:
 * High velocity rounds: New greande type (not avialable on Basilisk 3V and Arbiter grenade launchers). Grenade's travel speed is tripled at a cost of 20% ammo pick up. Other stats are identicall to standard frag round. NOTE: does not work as a client, because host handles projectiles in PD2 and i can't do anything about it. What i can do, is make your ammo pick up identicall to the standard frag round if you are playing as a client, so you wouldnt have to worry about swapping nade types all the time.
 * Poison grenades: practically can't kill anything, BUT the damage over time effect is now 30 seconds, and during the FULL 30 SECOND DURATION enemies are now stun locked in the vomitting animation. This makes poision an extremely effective slow-down tool, escpecially if you use it in chokes, or on enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now.
 * Incendiary grenades: Ammo pick up is now reduced even more then in the base game.
