@@ -55,7 +55,7 @@ Additional stats, like DOT damage and ammo pick up changes, are included in game
 
 * **Breaching round**: new ammo type for __primary__ pump-action shotguns - can open any locked space that OVE9000 saw usually can. Also allows to pen shields and body armor.
 * **Buckshot**: doubles your damage, but removes extra headshot damage.
-* **HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, leading to more enemies in blas radius receiving more damage. Self-damage to players was also reduced.
+* **HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, which leads to enemies in the blast radius receiving more damage. Self-damage to players was also reduced.
 * **Flechette**: 'Pellet' amount reduced to 5. Still provides body armor pen and increased damage range.
 * **AP slugs**: provides a bit of damage range along with body armor, shields and wall armor piercing.
 * **Dragon's breath**: Reduces amount of pellets to 9. No extra headshot damage. Deals 350 fire damage over a 2 second period to any lit target.
@@ -64,7 +64,6 @@ Additional stats, like DOT damage and ammo pick up changes, are included in game
 # Light machine guns
 
 ### General LMG updates
-
 * Breakpoints and TTK are kept the same
 * Accuracy without a bipod is extremely poor, but you get extra 50% accuracy when bipoded compared to vanilla PD2
 
@@ -97,50 +96,58 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 |Heavy bolt action |1600 dmg|1|1 |1 |1 |Same as bold actions, but can one-shot-bodyshot cloakers as well. This class is used for low mag capacity bolt snipers.|
 |The 50cal|6500 dmg|1|1|1 |1 |The one and only Dozer-buster. Takes 2 bodyshots to kill a dozer, minigun versions take 4. Double bullet amount for DS difficulty.|
 
-# All akimbos weapons
+# All akimbo weapons
 Complete copies of their non-akimbo counterparts, *but* damage is cut in half, to compensate you firing two shots at the same time. Otherwise revolvers with 450 damage would waste their ammo in under 60 seconds. Ammo pick up is compensated for this change.
 
-#Pistols:
-||
-__All__ pistols now have no damage drop-off, so they are now more efficient at longer distances then SMG's.
-Base ROF for all full-auto pistols was buffed by 25%. (max ROF with gun nut skill totals to be the same as without Gilza)
-Base ROF for all semi-auto pistols was nerfed by ~50%
-All pistols with AP bullets like 5/7, have reduced ammo pick ups.
-Broomstick and Matever .357 revolver can now use AP kit/AP rounds to pen shields, walls and body armor.
+# Pistols:
 
-With all of the changes above, pistols should now be a really comfortable alternative for mid-long range as a secondary, while SMG's are better up close and snipers at range.
+### General Pistol updates
+* Now have no damage drop-off, which makes them more effective at longer distances then SMG's.
+* Base ROF for all full-auto pistols was buffed by 25%. Max ROF with "Gun Nut" skill totals to be the same as without Gilza
+* Base ROF for all semi-auto pistols was nerfed by 20%. "Gun Nut" skill makes pistol's ROF same as their vanilla ROF
+* Pistols with AP properties, have halved ammo pick up.
 
-|Damage profile|Headshots to kill normal swat|Headshots to kill heavy swat|Notes|
+With all of the changes above, pistols should now be a really comfortable alternative for mid range as a secondary, while SMG's are better up close and snipers at longer ranges.
+
+### New weapon mods
+* Broomstick's long barrel is now an AP kit.
+* Matever .357 revolver can now use AP rounds, similar to an AP kit.
+
+### New damage classes
+
+|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
 |--------|--------|--------|--------|
-|77 dmg|3|6|Full auto's|
-|95 dmg|3|5|Full auto's|
-|105 dmg|2|4|Average|
-|146 dmg|2|3|Average, can be combined with overkill skill if damage raised to 149 with mods for improved breakpoints|
-|210 dmg|1|2|Heavies like Deagle|
-|420 dmg|1|1|Revolvers|
-|630 dmg|1|1|Can one-shot-body shot normal swat. Used by Peacemaker and Kahn .357 (with a 6 round mag mod) revolvers|
-||
+|88 dmg|3|6|Bernetti auto|
+|95 dmg|3|5|Most Full auto's|
+|120 dmg|3|4|Mostly for crits and stealth|
+|155 dmg|2|3|Average, perfect for loud|
+|250 dmg|1|2|Heavies like Deagle|
+|450 dmg|1|1|Revolvers|
+
+Note: the Peacemaker .45 revolver has a damage profile of 650, which allows it to one-shot bodyshot light swats, and 2 shot tazers without skill investments, to compensate it's reload speed. Otherwise has revolver-like ammo pick up and other stats.
 
 # Sub machine guns:
-||
-Kobus90 (better known as P90) can use AP rounds.
 
-New damage fall-off introduced:
-120% damage for the first 2 meters
-100% damage for 7 meters after
-Reduction in damage from 9-35 meters
-50% damage after 35 meters
+### New damage drop off introduced
+
+* 125% damage for the first 2.5 meters
+* 100% damage for 5.5 meters after
+* Progressive decrease in damage at 9-40 meters
+* 50% max damage after 40 meters
 
 These changes make SMG's a more distinct CQB category. While being extremely effective at closer ranges, they will loose their fire power really quickly at longer distances. If you want to have more firepower at range use pistols or snipers.
 
-|Damage profile|Headshots to kill normal swat|Headshots to kill heavy swat|Notes|
-|--------|--------|--------|--------|
-|95 dmg|3|5 |Concealed with high ROF|
-|105 dmg|2|4|Average|
-|146 dmg|2|3|Can be combined with overkill skill if damage raised to 149 with mods for improved breakpoints|
-|210 dmg|1|2 |Heavy|
-||
+### New weapon mods
+* Kobus90 (better known as P90) can use AP rounds.
 
+### New damage classes
+|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
+|--------|--------|--------|--------|
+|95 dmg|3|5 |Crits/Stealth. Have high ROF|
+|120 dmg|3|4 |Crits/Stealth. Most have high ROF|
+|155 dmg|2|3|Average|
+|200 dmg|2|3|Average, but with less restrictive modding. 10% less pick up compared to 155 class|
+|250 dmg|1|2 |Heavy hitters|
 
 # Specials:
 ### Bows/crossbows:
