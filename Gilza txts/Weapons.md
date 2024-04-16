@@ -4,7 +4,7 @@ FILE NOT YET FINISHED
 
 # Assault rifles:
 ### General AR updates
-* All DMR kits and some long barrels were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved. Affected weapons: Car-4, AK74, AMR16, Gewehr3, KS12 (upper receiver).
+* All DMR kits and some long barrels were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved. Affected weapons: Car-4, AK74, AK 7.62, Golden AK 7.62, AMR16, Gewehr3, KS12 (upper receiver).
 * About a third of all AR's had their rate of fire updated
 
 ### New attachments
