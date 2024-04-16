@@ -168,7 +168,7 @@ Magazines now completely change how flamethrower performs:
 |--------|--------|--------|
 |Rare|leaves you with only 1 damage, but makes afterburn happen more often. Strongest afterburn damage over longest period of time|Poke enemies to get them to burn, delaying them and letting them burn out while you are in cover|
 |Well done|Doubles your damage but decreases chances for afterburn. Afterburn also deals really low damage|Be more direct with your flames and don't rely on afterburn at all|
-|Default|Only 25% chance for afterburn (75% base game) but afterburn will deal roughly 60% of hp to a normal swat|All around an ok choice|
+|Default|Only 20% chance for afterburn (75% base game), afterburn will deal 300 damage over 2 seconds.|All around an ok choice|
 
 Secondary flamethrower has less damage per tick and worse ammo economy.
 
