@@ -47,19 +47,19 @@ Shotgun multiplier is different per shotgun class - double barrels for example a
 |--------|--------|--------|--------|--------|--------|
 |Double barrel|1000 dmg|1|1|1|Can one-shot-bodyshot normal and heavy swats. One-shot everyone else in the head.|
 |Pump-action|450 dmg|1|1|0.67|Slowest of them all. The only type to have new "Breaching" rounds.|
-|Semi-auto no mag|325 dmg|1|2|0.5|The in-betweeners. Become 1-1 bullets to kill type with overkill skill.|
-|Some semi-auto's and full-auto with mags|100 dmg|3|5|0.35|Spammm. Overkill skill is practically mandatory.|
+|Semi-auto no mag|325 dmg|1|2|0.5|The in-betweeners. Become 1-1 shots to kill type with overkill skill.|
+|Some semi-auto's and full-auto's with mags|100 dmg|3|5|0.35|Spammm. Overkill skill is practically mandatory.|
 
 ### Shotgun ammo.
-Additional stats, like stability, damage and ammo pick up changes, are included in game as a description.
+Additional stats, like DOT damage and ammo pick up changes, are included in game in ammo descriptions.
 
-**Breaching round**: new ammo type for __primary__ pump-action shotguns - can open any locked space that OVE9000 saw usually can. Also allows to pen shields and body armor.
-**Buckshot**: doubles your damage, but removes extra headshot damage.
-**HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, leading to more enemies in blas radius receiving more damage. Self-damage to players was also reduced.
-**Flechette**: 'Pellet' amount reduced to 5. Still provides body armor pen and increased damage range.
-**AP slugs**: provides a bit of damage range along with body armor, shields and wall armor piercing.
-**Dragon's breath**: Reduces amount of pellets to 9. No extra headshot damage. Deals 350 fire damage over a 2 second period to any lit target.
-**Tombstone slug**: Deals roughly 120 damage over 3 seconds.
+* **Breaching round**: new ammo type for __primary__ pump-action shotguns - can open any locked space that OVE9000 saw usually can. Also allows to pen shields and body armor.
+* **Buckshot**: doubles your damage, but removes extra headshot damage.
+* **HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, leading to more enemies in blas radius receiving more damage. Self-damage to players was also reduced.
+* **Flechette**: 'Pellet' amount reduced to 5. Still provides body armor pen and increased damage range.
+* **AP slugs**: provides a bit of damage range along with body armor, shields and wall armor piercing.
+* **Dragon's breath**: Reduces amount of pellets to 9. No extra headshot damage. Deals 350 fire damage over a 2 second period to any lit target.
+* **Tombstone slug**: Deals roughly 120 damage over 3 seconds.
 
 # Light machine guns:
 ||
