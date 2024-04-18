@@ -1,6 +1,6 @@
 [Link to the ModWorkshop page.](https://modworkshop.net/mod/39854)
 
-<p align="right"> Use this icon up-top to view weapon category chapters: <img width="40" height="40" src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
+<p align="right"> Use this icon <img width="40" height="40" src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> up-top right to view weapon category chapters. </p>
 
 # Assault rifles:
 ### General AR updates
