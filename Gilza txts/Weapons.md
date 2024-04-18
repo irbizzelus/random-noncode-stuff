@@ -30,7 +30,7 @@
 
 * All shotguns now have new damage fall-off. In short: more damage per shot = better damage distance. For more details use "More weapon stats" mod in game.
 * All shotguns now fire 12 pellets per shot.
-* Rate of fire was updated for almost every shotgun, and it is now balanced withing it's damage class
+* Rate of fire was updated for almost every shotgun, and it is now balanced within it's damage class
 
 #### New shotgun damage
 Shotgun's damage in the base game spreads it's damage across every pellet you fire. Most shotguns have 8-12 pellets. So if you were to hit an enemy, you would deal "shotgun's damage/amount of pellets" per every pellet you hit, so not every hit would deal full damage.
