@@ -61,7 +61,7 @@ Additional stats, like DOT damage and ammo pick up changes, are included in game
 * **Breaching round**: new ammo type for __*primary*__ pump-action shotguns - can open any locked space that OVE9000 saw usually can. Also allows to pen shields and body armor.
 * **Buckshot**: doubles your damage, but removes extra headshot damage.
 * **HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, which leads to enemies in the blast radius receiving more damage. Self-damage to players was also reduced.
-* **Flechette**: 'Pellet' amount reduced to 5. Still provides body armor pen and increased damage range.
+* **Flechette**: 'Pellet' amount reduced to 6. Still provides body armor pen and increased damage range.
 * **AP slugs**: provides same AP and similar range bonuses as in vanilla PD2, but ammo pick up is worse.
 * **Dragon's breath**: Reduces amount of pellets to 9. Deals 350 fire damage over a 2 second period to any lit target.
 * **Tombstone slug**: Deals roughly 300 damage over 6 seconds, and stun-locks enemies during full poision duration. Helpfull for low damage class shotguns, and/or vampire-like-regen perks.
