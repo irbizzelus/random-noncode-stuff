@@ -1,14 +1,16 @@
 [Link to the ModWorkshop page.](https://modworkshop.net/mod/39854)
 
+[Link to the latest Patch Notes.](https://github.com/irbizzelus/Gilza/releases)
+
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
 # Assault rifles:
 ### General AR updates
-* All DMR kits and some long barrels were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved. Affected weapons: Car-4, AK74, AK 7.62, Golden AK 7.62, AMR16, Gewehr3, KS12 (upper receiver).
+* All DMR kits and some long barrels were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved. Affected weapons: Car-4, AK74, AK 7.62, Golden AK 7.62, AMR16, Clarion, Gewehr3, KS12 (upper receiver).
 * About a third of all AR's had their rate of fire updated
 
 ### New attachments
-* M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but are categorized as ammuntion
+* M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but they are categorized as ammuntion
 * 7.62 Little Friend now has a 5.56 conversion kit - it reduces damage but increases ammo pick up
 * Byk-1 now has a 5.45 conversion kit - it reduces damage but increases ammo pick up
 * Car-4, AK 7.62 and Golgen AK 7.62 now have HP rounds - they can be used to upgrade weapon's damage class (which affects ammo pick up)
@@ -30,7 +32,7 @@
 
 * All shotguns now have new damage fall-off. In short: more damage per shot = better damage distance. For more details use "More weapon stats" mod in game.
 * All shotguns now fire 12 pellets per shot.
-* Rate of fire was updated for almost every shotgun, and it is now balanced within it's damage class
+* Rate of fire was updated for almost every shotgun, and it is now balanced around other shotguns with same damage class
 
 #### New shotgun damage
 Shotgun's damage in the base game spreads it's damage across every pellet you fire. Most shotguns have 8-12 pellets. So if you were to hit an enemy, you would deal "shotgun's damage/amount of pellets" per every pellet you hit, so not every hit would deal full damage.
@@ -196,3 +198,10 @@ Secondary flamethrower has less damage per tick and worse ammo economy.
 * High velocity rounds: New greande type (not avialable on Basilisk 3V and Arbiter grenade launchers). Grenade's travel speed is tripled at a cost of 20% ammo pick up. Other stats are identicall to standard frag round. NOTE: does not work as a client, because host handles projectiles in PD2 and i can't do anything about it. What i can do, is make your ammo pick up identicall to the standard frag round if you are playing as a client, so you wouldnt have to worry about swapping nade types all the time.
 * Poison grenades: practically can't kill anything, BUT the damage over time effect is now 30 seconds, and during the FULL 30 SECOND DURATION enemies are now stun locked in the vomitting animation. This makes poision an extremely effective slow-down tool, escpecially if you use it in chokes, or on enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now.
 * Incendiary grenades: Ammo pick up is now reduced even more then in the base game.
+
+# Throwables:
+### General updates:
+* All "projectile" throwables like knives, shurikens etc. can now penetrate enemy body armor
+* All throwables can not be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable
+* All stats left untouched except for DOT (damage-over-time) effects
+* All important stats are now included in each throwable's description
