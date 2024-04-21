@@ -202,6 +202,6 @@ Secondary flamethrower has less damage per tick and worse ammo economy.
 # Throwables:
 ### General updates:
 * All "projectile" throwables like knives, shurikens etc. can now penetrate enemy body armor
-* All throwables can not be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable
+* All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable
 * All stats left untouched except for DOT (damage-over-time) effects
 * All important stats are now included in each throwable's description
