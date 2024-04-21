@@ -62,7 +62,7 @@ Additional stats, like DOT damage and ammo pick up changes, are included in game
 * **Flechette**: 'Pellet' amount reduced to 5. Still provides body armor pen and increased damage range.
 * **AP slugs**: provides same AP and similar range bonuses as in vanilla PD2, but ammo pick up is worse.
 * **Dragon's breath**: Reduces amount of pellets to 9. Deals 350 fire damage over a 2 second period to any lit target.
-* **Tombstone slug**: Deals roughly 120 damage over 3 seconds. Helpfull for low damage class shotguns, or vampire-like-regen perks.
+* **Tombstone slug**: Deals roughly 300 damage over 6 seconds, and stun-locks enemies during full poision duration. Helpfull for low damage class shotguns, and/or vampire-like-regen perks.
 
 # Light machine guns:
 
@@ -91,7 +91,7 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 
 ### New damage classes
 
-|Sniper type|Damage profile|BODYshots to kill a light swat|BODYshots to kill a heavy swat|BODYshots to kill a tazer|BODYshots to kill a cloaker|Notes|
+|Sniper type|Damage class|BODYshots to kill a light swat|BODYshots to kill a heavy swat|BODYshots to kill a tazer|BODYshots to kill a cloaker|Notes|
 |--------|--------|--------|--------|--------|--------|--------|
 |Semi-auto |650 dmg|1 |2|2 |3 |The anti-trash (enemy type) rifles. Should be used mostly for headshots.|
 |Lever-action |950 dmg|1|1|2|2|Can one tap heavy swats, so you only have to go for headshots on some special enemies.|
@@ -130,7 +130,7 @@ With all of the changes above, pistols should now be a really comfortable altern
 |250 dmg|1|2|Heavies like Deagle|
 |450 dmg|1|1|Revolvers|
 
-Note: the Peacemaker .45 revolver has a damage profile of 650, which allows it to one-shot bodyshot light swats, and 2 shot tazers without skill investments, to compensate it's reload speed. Otherwise has revolver-like ammo pick up and other stats.
+Note: the Peacemaker .45 revolver has a damage class of 650, which allows it to one-shot bodyshot light swats, and 2 shot tazers without skill investments, to compensate it's reload speed. Otherwise has revolver-like ammo pick up and other stats.
 
 # Sub machine guns:
 
@@ -163,6 +163,7 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 
 ### OVE9000 Saw:
 * Allows for reloads at any time.
+* Can now penetrate body armor regardless of skills/attachments.
 * All enemies receive 9x damage in-game compared to saw's stat when viewed in the inventory. This was done in such a way due to damage calculations around saw's atachments and unlockable surfaces like metal doors.
 * Can now also pick up ammo with Saw Massacre (ACED) skill.
 
