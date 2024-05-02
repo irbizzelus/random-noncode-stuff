@@ -78,7 +78,9 @@ Additional stats, like DOT damage and ammo pick up changes, are included in game
 * Progressive increase in damage at 14-36 meters
 * 165% max damage after 36 meters
 
-Note: Akron Hc and Campbell LMG's don't have increased damage at range, and Buzzsaw LMG has 2x damage after 36 meters, instead of 1.65x.
+Notes:
+* LMG's that don't have bipods don't have any damage drop-off - they always deal their standard damage.
+* Low damage LMG's like the Buzzsaw have 2.1x damage after 36 meters, instead of 1.65x.
 
 ### Summary
 LMG's will now be better at long range bipoded support, but slightly worse at point blank ranges. All of the changes above should provide a more defending playstyle, especially if used with new "Slow and Steady" skill.
@@ -146,7 +148,7 @@ Note: the Peacemaker .45 revolver has a damage class of 650, which allows it to 
 These changes make SMG's a more distinct CQB category. While being extremely effective at closer ranges, they will loose their fire power really quickly at longer distances. If you want to have more firepower at range use pistols or snipers.
 
 ### New attachments
-* Kobus90 can use AP rounds.
+* Kobus90 and it's akimbo version can now use AP rounds.
 
 ### New damage classes
 |Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
@@ -186,7 +188,7 @@ Secondary flamethrower has less damage per tick and worse ammo economy.
 * Ammo capacity stats changed from 750(mag)/750(total) to 600(mag)/900(total)
 * Reload sped up by 20%
 * Ammo pick up reduced, and is now different between the two miniguns we have, since one does more damage per bullet then another.
-* Hailstorm now has 210/630 ammo and better accuracy/stability stats. Ammo pick up for it is slightly better then in vanilla as well.
+* Hailstorm now has 210/630 ammo, better accuracy/stability stats and no damage drop-off penalties. Ammo pick up for it is slightly better then in vanilla as well.
 
 ### Grenade and rocket launchers (Underbarrels included):
 * Piglet launcher received a reload speed buff.
@@ -196,7 +198,7 @@ Secondary flamethrower has less damage per tick and worse ammo economy.
 
 #### Grenade launcher's ammunition with noticable differenes:
 * High velocity rounds: New greande type (not avialable on Basilisk 3V and Arbiter grenade launchers). Grenade's travel speed is tripled at a cost of 20% ammo pick up. Other stats are identicall to standard frag round. NOTE: does not work as a client, because host handles projectiles in PD2 and i can't do anything about it. What i can do, is make your ammo pick up identicall to the standard frag round if you are playing as a client, so you wouldnt have to worry about swapping nade types all the time.
-* Poison grenades: practically can't kill anything, BUT the damage over time effect is now 30 seconds, and during the FULL 30 SECOND DURATION enemies are now stun locked in the vomitting animation. This makes poision an extremely effective slow-down tool, escpecially if you use it in chokes, or on enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now.
+* Poison grenades: practically can't kill anything, BUT the damage over time effect is now 20 seconds, and during the FULL 20 SECOND DURATION enemies are now stun locked in the vomitting animation. This makes poision an extremely effective slow-down/crowd control tool, escpecially if you use it in chokes, or on enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now.
 * Incendiary grenades: Ammo pick up is now reduced even more then in the base game.
 
 # Throwables:
