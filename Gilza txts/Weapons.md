@@ -52,9 +52,9 @@ Shotgun multiplier is different per shotgun class - double barrels for example a
 |Shotgun type|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Minimal shotgun damage multiplier|Notes|
 |--------|--------|--------|--------|--------|--------|
 |Double barrel|1000 dmg|1|1|1|Can one-shot-bodyshot light and heavy swats. One-shot everyone else in the head.|
-|Pump-action|450 dmg|1|1|0.67|Slowest of them all. The only type to have new "Breaching" rounds.|
-|Semi-auto no mag|325 dmg|1|2|0.5|The in-betweeners. Become 1-1 shots to kill type with overkill skill.|
-|Some semi-auto's and full-auto's with mags|100 dmg|3|5|0.35|Spammm. Overkill skill is practically mandatory.|
+|Pump-action|450 dmg|1|1|0.8|Slowest of them all. The only type to have new "Breaching" rounds.|
+|Semi-auto no mag|325 dmg|1|2|0.67|The in-betweeners. Become 1-1 shots to kill type with overkill skill.|
+|Some semi-auto's and full-auto's with mags|100 dmg|3|5|0.5|Spammm. Overkill skill is practically mandatory.|
 
 ### Shotgun ammo.
 Additional stats, like DOT damage and ammo pick up changes, are included in game in ammo descriptions.
