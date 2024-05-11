@@ -36,7 +36,7 @@
 * Rate of fire was updated for almost every shotgun, and it is now balanced around other shotguns with same damage class
 
 #### New shotgun damage
-Shotgun damage in vanilla Payday 2 is always the same if at least one of your shotgun pellets hits an enemy, and its always equal to the damage stat you see in your invenotry (excluding damage drop off).
+Shotgun damage in vanilla Payday 2 is always the same if at least one of your shotgun pellets hits an enemy, and its always equal to the damage stat you see in your invenotry.
 
 In most video games, shotgun's damage is spread across every fired pellet. So if you were to hit an enemy, you would deal "shotgun's damage/amount of pellets" per every pellet you hit, so not every hit would deal full damage.
 
