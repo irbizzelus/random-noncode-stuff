@@ -13,6 +13,7 @@
 * M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but they are categorized as ammuntion
 * 7.62 Little Friend now has a 5.56 conversion kit - it reduces damage but increases ammo pick up
 * Byk-1 now has a 5.45 conversion kit - it reduces damage but increases ammo pick up
+* Falcon rifle now has 7.62x51mm SP rounds - they reduce damage class to 250 and increase ammo pick up
 * Car-4, AK 7.62 and Golgen AK 7.62 now have HP rounds - they can be used to upgrade weapon's damage class (which affects ammo pick up)
 * 7.62 Little Friend and Byk-1 now have a High velocity round for their underbarrel launchers - increase grenade travel speed by 3x with a 20% ammo pick up cost. Note: only works if you are the lobby host, otherwise reverts itself to standard round stats.
 * Gewehr3's CQB and Sniper kits have new updated values: CQB kit now has reduced damage class (200) with increases to other stats, while the Sniper kit acts like an AP kit
@@ -22,7 +23,7 @@
 |--------|--------|--------|--------|
 |120 dmg|3|4|Best for crits|
 |155 dmg|2|3|Average rifles, should feel the most similar to vanilla PD2 AR's|
-|200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of ~10% ammo pick up. Benefits from "Overkill" aced the best, due to damage class upgrade|
+|200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of 15% ammo pick up. Benefits from "Overkill" aced the best, due to damage class upgrade|
 |250 dmg|1|2|Most stable and comfortable TTK, but poor ammo economy if not accurate.|
 |450 dmg|1|1|Usually highest recoil and worst ammo economy. Best combined with body expertise/ammo related skills.|
 
@@ -31,7 +32,7 @@
 ### General shotgun updates
 
 * All shotguns now have new damage fall-off. In short: more damage per shot = better damage distance. For more details use "More weapon stats" mod in game.
-* All shotguns now fire 12 pellets per shot.
+* All shotguns now fire 10 pellets per shot.
 * Rate of fire was updated for almost every shotgun, and it is now balanced around other shotguns with same damage class
 
 #### New shotgun damage
@@ -63,8 +64,8 @@ Additional stats, like DOT damage and ammo pick up changes, are included in game
 * **HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, which leads to enemies in the blast radius receiving more damage. Self-damage to players was also reduced.
 * **Flechette**: 'Pellet' amount reduced to 6. Still provides body armor pen and increased damage range.
 * **AP slugs**: provides same AP and similar range bonuses as in vanilla PD2, but ammo pick up is worse.
-* **Dragon's breath**: Reduces amount of pellets to 9. Deals 350 fire damage over a 2 second period to any lit target.
-* **Tombstone slug**: Deals roughly 300 damage over 6 seconds, and stun-locks enemies during full poision duration. Helpfull for low damage class shotguns, and/or vampire-like-regen perks.
+* **Dragon's breath**: Reduces amount of pellets to 8. Deals 350 fire damage over a 2 second period to any lit target.
+* **Tombstone slug**: Deals roughly 250 damage over 6 seconds, and stun-locks enemies during full poision duration. Damage is no longer affected by weapon's damage drop off, and always deals full damage. Helpfull for low damage class shotguns, and/or vampire-like-regen perks. 
 
 # Light machine guns:
 
@@ -74,9 +75,9 @@ Additional stats, like DOT damage and ammo pick up changes, are included in game
 
 ### New damage drop off introduced
 * 50% damage for the first 2 meters
-* 100% damage for 12 meters after
-* Progressive increase in damage at 14-36 meters
-* 165% max damage after 36 meters
+* 100% damage for 10 meters after
+* Progressive increase in damage at 12-22 meters
+* 165% max damage after 22 meters
 
 Notes:
 * LMG's that don't have bipods don't have any damage drop-off - they always deal their standard damage.
@@ -140,10 +141,10 @@ Note: the Peacemaker .45 revolver has a damage class of 650, which allows it to 
 
 ### New damage drop off introduced
 
-* 125% damage for the first 2.5 meters
-* 100% damage for 5.5 meters after
-* Progressive decrease in damage at 9-40 meters
-* 50% max damage after 40 meters
+* 125% damage for the first 2 meters
+* 100% damage for 7 meters after
+* Progressive decrease in damage at 9-21 meters
+* 50% damage after 21 meters
 
 These changes make SMG's a more distinct CQB category. While being extremely effective at closer ranges, they will loose their fire power really quickly at longer distances. If you want to have more firepower at range use pistols or snipers.
 
@@ -156,7 +157,7 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 |95 dmg|3|5 |Crits/Stealth. Have high ROF|
 |120 dmg|3|4 |Crits/Stealth. Most have high ROF|
 |155 dmg|2|3|Average|
-|200 dmg|2|3|Average, but with less restrictive modding. 10% less pick up compared to 155 class. Combines well with "Overkill" aced due to new damage breakpoints|
+|200 dmg|2|3|Average, but with less restrictive modding. 15% less pick up compared to 155 class. Combines well with "Overkill" aced due to new damage breakpoints|
 |250 dmg|1|2 |Heavy hitters|
 
 # Specials:
@@ -191,15 +192,17 @@ Secondary flamethrower has less damage per tick and worse ammo economy.
 * Hailstorm now has 210/630 ammo, better accuracy/stability stats and no damage drop-off penalties. Ammo pick up for it is slightly better then in vanilla as well.
 
 ### Grenade and rocket launchers (Underbarrels included):
-* Piglet launcher received a reload speed buff.
+* Piglet launcher received a reload speed buff
+* Basilisk 3V received 2 new attachments that limit it's mag capacity for ease of use, while also providing some other minor stat adjustments
 * Overall ammo pick up for all launchers is ~20% higher then in vanilla PD2, but now varies more depending on the grenade launcher and it's damage.
 * All grenades now have MUCH more detail in their descriptions. They now include ammo pick up adjustments, damage over time, and other additional properties.
 * Added a high velocity grenade to almost all GL's
 
 #### Grenade launcher's ammunition with noticable differenes:
 * High velocity rounds: New greande type (not avialable on Basilisk 3V and Arbiter grenade launchers). Grenade's travel speed is tripled at a cost of 20% ammo pick up. Other stats are identicall to standard frag round. NOTE: does not work as a client, because host handles projectiles in PD2 and i can't do anything about it. What i can do, is make your ammo pick up identicall to the standard frag round if you are playing as a client, so you wouldnt have to worry about swapping nade types all the time.
-* Poison grenades: practically can't kill anything, BUT the damage over time effect is now 20 seconds, and during the FULL 20 SECOND DURATION enemies are now stun locked in the vomitting animation. This makes poision an extremely effective slow-down/crowd control tool, escpecially if you use it in chokes, or on enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now.
+* Poison grenades: practically can't kill anything, BUT the damage over time effect is now 16 seconds, and during the FULL 16 SECOND DURATION enemies are now stun locked in the vomitting animation. This makes poision an extremely effective slow-down/crowd control tool, escpecially if you use it in chokes, or on enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now. Ammo pick up is lower then in the base game.
 * Incendiary grenades: Ammo pick up is now reduced even more then in the base game.
+* Sting grenades (the shotgun-like one) now provides 250% increased ammo pick up instead of ~150%
 
 # Throwables:
 ### General updates:
