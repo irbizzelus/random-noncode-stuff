@@ -36,17 +36,23 @@
 * Rate of fire was updated for almost every shotgun, and it is now balanced around other shotguns with same damage class
 
 #### New shotgun damage
-Shotgun's damage in the base game spreads it's damage across every pellet you fire. Most shotguns have 8-12 pellets. So if you were to hit an enemy, you would deal "shotgun's damage/amount of pellets" per every pellet you hit, so not every hit would deal full damage.
+Shotgun damage in vanilla Payday 2 is always the same if at least one of your shotgun pellets hits an enemy, and its always equal to the damage stat you see in your invenotry (excluding damage drop off).
 
-Now, every shotgun has a minimal damage multiplier, that ensures your shotgun will always deal minimal multiplier damage. So, as example: We have a shotgun with 10 pellets and max total damage of 200. In vanilla PD2 every pellet deals 20 damage, simple enough.
+In most video games, shotgun's damage is spread across every fired pellet. So if you were to hit an enemy, you would deal "shotgun's damage/amount of pellets" per every pellet you hit, so not every hit would deal full damage.
 
-With Gilza, this same shotgun also has a minimal shotgun damage multiplier property, and let's say for this shotgun it's 0.5.
+Gilza uses a new "hybrid" system which adds a "minimal shotgun damage multiplier" property to all shotguns. It ensures that your shotgun will always deal minimal amount of damage per shot, with the rest of the damage being applied with additional pellets.
+
+For ease of explanation, here is an example: Let's take a shotgun with 10 pellets and max total damage of 200. In vanilla PD2 you would deal 200 damage if at least one of your pellets hits an enemy. In most other games every pellet would deal 20 damage individually.
+
+With Gilza, this same shotgun also has a minimal shotgun damage multiplier property. This property depends on shotguns's damage class, but for the sake of this example let's say for this shotgun it's 0.5.
 Anytime you fire this shotgun, first pellet that hits an enemy, would ALWAYS deal 100 damage. After it, other pellets from the same shot will deal "100/9" or ~11.11 damage.
-This ensures that your shotgun can always kill enemy in (2 in this case) set amount of shots. This damage still scales with damage drop off however, so you can't 2-tap a sniper on the opposite side of the map, they will just receive "minimal damage/2" for the first pellet.
+This ensures that your shotgun can always kill enemies in a set amount of shots.
+
+This damage still scales with damage drop off however, so enemies on the opposite side of the map will just receive "minimal damage * minimal shotgun damage multiplier" for the first pellet.
 
 As for headshots: if any of your pellets from the same shot connects to the head, your minimal damage will also receive a headshot multiplier. Additional pellets deal extra headshot damage only if they land in the head.
 
-Shotgun multiplier is different per shotgun class - double barrels for example always have a multiplier of 1, so you only need 1 pellet to connect, additonal pellets will deal 0 damage.
+Shotgun multiplier is different per shotgun class - double barrels for example always have a multiplier of 1, so you only need 1 pellet to connect, additonal pellets will deal 0 damage. Because of that, doubel barrel shotguns will feel the most similar to vanilla PD2 shotguns.
 
 ### New damage classes
 |Shotgun type|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Minimal shotgun damage multiplier|Notes|
