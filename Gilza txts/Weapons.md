@@ -4,6 +4,8 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
+Stats are updated for patch: 2.2
+
 # Assault rifles:
 ### General AR updates
 * All DMR kits and some long barrels were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved. Affected weapons: Car-4, AK74, AK 7.62, Golden AK 7.62, AMR16, Clarion, Gewehr3, KS12 (upper receiver).
@@ -128,7 +130,7 @@ With all of the changes above, pistols should now be a really comfortable altern
 
 ### New attachments
 * Broomstick's long barrel is now an AP kit.
-* Matever .357 revolver can now use AP rounds, similar to an AP kit.
+* Matever .357 revolver (including akimbo version) can now use AP rounds, similar to an AP kit.
 
 ### New damage classes
 
@@ -147,7 +149,7 @@ Note: the Peacemaker .45 revolver has a damage class of 650, which allows it to 
 
 ### New damage drop off introduced
 
-* 125% damage for the first 2 meters
+* 120% damage for the first 2 meters
 * 100% damage for 7 meters after
 * Progressive decrease in damage at 9-21 meters
 * 50% damage after 21 meters
