@@ -4,7 +4,64 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for patch: 2.2
+Stats are updated for patch: 2.3
+
+# General weapon handling updates:
+## Recoil: general changes
+All weapons' recoil was overall increased. However, first 5 bullets fired from your weapon will have reduced recoil, so firing in short controlled burst is beneficial, especially at longer ranges. Reduced recoil for first 5 bullets does not apply to Shotguns, Snipers, and single shot fire mode Pistols.
+
+Amount of recoil now depends on your weapon's base stability value - stability value that you see whenever you purchase a weapon, before skills/weapon attachments were applied. Lower base stability means higher overall recoil. Because of these changes, 2 weapons with identical stability values after skills/attachments __will__ feel different, if their base stability is different.
+
+Horizontal recoil will now always favor weapons into a certain pre-defined direction - either left or right. Horizontal recoil will never jump from left to right (and vice versa), but the pull to whichever direction, is overall stronger then in the base game.
+
+## Recoil: new compensation
+Whenever you hold the trigger your weapon's recoil forces your camera to climb up. If you stop holding the trigger, your camera will go down to where-ever you were aiming at the start of the trigger pull. This mechanic is almost completely gone now, because weapons have more overall recoil, and after a lengthy burst your camera would come back down to the floor. 
+Compensation still exists for weapons with extremely low recoil however, for the first couple of shots. So, if you are using your weapon in single-fire or firing in short bursts, it will feel better to use for longer ranges.
+
+**Compensation visuals**
+| Gilza (compensation disabled) | Vanilla PD2 (compensation enabled) |
+| -------- | -------- |
+|  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Compensation_off.gif)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Compensation_on.gif)  |
+
+-----
+
+## Recoil: Hip-fire
+Hip-fire now has a 40% recoil penalty. This penalty is applied AFTER your stability value, so if your weapon has 100 stability, it will feel like ~60 stability when you hip-fire your weapon. Technician's "Fire control" skill can remove this penalty.
+
+## Accuracy: Hip-fire
+Hip-fire now has a 25% accuracy penalty. This penalty is applied AFTER your accuracy value, so if your weapon has 100 accuracy, it will feel like ~75 accuracy when you hip-fire your weapon. Technician's "Fire control" skill can remove this penalty.
+
+## Accuracy: Full-auto
+Full-auto fire mode now has a 25% accuracy penalty. This penalty is applied AFTER your accuracy value, so if your weapon has 100 accuracy, it will feel like ~75 accuracy when your weapon is switched to full-auto fire mode. Switching your weapon's fire mode during the heist, will negate this penalty, for as long as your weapon's fire mode is set to single-fire.
+
+# General weapon tweaks:
+* Weapons' accuracy and stability are no longer affected if you: crouch, jump, walk or sprint
+* DMR kits and some long barrels were converted into "AP kits" that can penetrate shields, body armor and walls
+* More weapon attachments have descriptions now with more details, like ammo pick up changes, damage values etc.
+* A LOT of weapon attachments were rebalanced
+* Mag increasing attachments will now slow down your reload speed
+* Some attachments like Stocks and Foregrips can now speed up your reload speed
+* All scopes don't have accuracy/stability bonuses anymore - you can choose whichever one you like the look of more
+* Scopes on Sniper rifles will now have "logical" concealment
+* Every shotgun will now deal a minimal % of it's damage with every shot. % depends on the shotgun type. For more info check the shotgun tab.
+
+# Melee weapons overhaul:
+Melee weapon damage that you see in your inventory now represents how much % of enemy's HP your weapon will deal with a swing. This includes charged damage as well. So if you have a melee weapon with 25(50) damage, it will kill an enemy in 4(2) hits.
+
+Melee weapons now deal 20%-75% damage per hit.
+
+Some enemies take less melee damage:
+* Bulldozers receive _5x_ less melee damage, so a 50dmg melee would kill dozers in 10 hits
+* Most bosses receive _10x_ less melee damage, so a 50dmg melee would kill bosses in 20 hits
+* Winters and his shields receive _2x_ less melee damage, so a 25dmg melee would kill them in 8 hits
+
+Melee knockdown now depends on weapon's range. More range your melee has, less knockdown it has. It might not always make sense when you look at some melees, but suppress your instincts in the honor of better balance!
+
+Grey swats can now be knocked down by melee weapons.
+
+Almost all melee charge sounds were removed, due to charge time mismatch. It's recommended to use some other (HUD) mod to visually show you your melee charge progress.
+
+"Kazaguruma" and "Lumber Lite L2 chainsaw" melee weapons can now deal chainsaw-like melee damage while holding the weapon in front of you. This feature is directly ported from [IREnFIST](https://modworkshop.net/mod/28585).
 
 # Assault rifles:
 ### General AR updates
@@ -15,6 +72,7 @@ Stats are updated for patch: 2.2
 * M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but they are categorized as ammuntion
 * 7.62 Little Friend now has a 5.56 conversion kit - it reduces damage but increases ammo pick up
 * Byk-1 now has a 5.45 conversion kit - it reduces damage but increases ammo pick up
+* AMCAR now has RRLP rounds - they reduce damage class to 120 and increase ammo pick up
 * Falcon rifle now has 7.62x51mm SP rounds - they reduce damage class to 250 and increase ammo pick up
 * Car-4, AK 7.62 and Golgen AK 7.62 now have HP rounds - they can be used to upgrade weapon's damage class (which affects ammo pick up)
 * 7.62 Little Friend and Byk-1 now have a High velocity round for their underbarrel launchers - increase grenade travel speed by 3x with a 20% ammo pick up cost. Note: only works if you are the lobby host, otherwise reverts itself to standard round stats.
@@ -131,6 +189,7 @@ With all of the changes above, pistols should now be a really comfortable altern
 ### New attachments
 * Broomstick's long barrel is now an AP kit.
 * Matever .357 revolver (including akimbo version) can now use AP rounds, similar to an AP kit.
+* White Streak and Baby Deagle (including akimbo versions) can now use AP rounds, similar to an AP kit. They come in 2 versions - standard and low velocity.
 
 ### New damage classes
 
@@ -177,7 +236,8 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 ### OVE9000 Saw:
 * Allows for reloads at any time.
 * Can now penetrate body armor regardless of skills/attachments.
-* All enemies receive 9x damage in-game compared to saw's stat when viewed in the inventory. This was done in such a way due to damage calculations around saw's atachments and unlockable surfaces like metal doors.
+* All enemies receive 10x damage in-game compared to saw's stat when viewed in the inventory. This was done in such a way due to damage calculations around saw's atachments and unlockable surfaces like metal doors.
+* No longer deals extra damage with headshots to all enemies, except for Bulldozers
 * Can now also pick up ammo with Saw Massacre (ACED) skill.
 
 ### Flamethrowers:
