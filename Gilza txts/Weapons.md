@@ -18,7 +18,7 @@ Horizontal recoil will now always favor weapons into a certain pre-defined direc
 Whenever you hold the trigger your weapon's recoil forces your camera to climb up. If you stop holding the trigger, your camera will go down to where-ever you were aiming at the start of the trigger pull. This mechanic is almost completely gone now, because weapons have more overall recoil, and after a lengthy burst your camera would come back down to the floor. 
 Compensation still exists for weapons with extremely low recoil however, for the first couple of shots. So, if you are using your weapon in single-fire or firing in short bursts, it will feel better to use for longer ranges.
 
-**Compensation visuals**
+**Compensation visuals** (GIF's make take some time to load)
 | Gilza (compensation disabled) | Vanilla PD2 (compensation enabled) |
 | -------- | -------- |
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Compensation_off.gif)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Compensation_on.gif)  |
@@ -59,7 +59,7 @@ Melee knockdown now depends on weapon's range. More range your melee has, less k
 
 Grey swats can now be knocked down by melee weapons.
 
-Almost all melee charge sounds were removed, due to charge time mismatch. It's recommended to use some other (HUD) mod to visually show you your melee charge progress.
+Almost all melee charge sounds were removed, due to charge time mismatch. To add clarity, new option for melee UI was added to Gilza's options menu and it's enabled by default.
 
 "Kazaguruma" and "Lumber Lite L2 chainsaw" melee weapons can now deal chainsaw-like melee damage while holding the weapon in front of you. This feature is directly ported from [IREnFIST](https://modworkshop.net/mod/28585).
 
