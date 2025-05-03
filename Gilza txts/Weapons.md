@@ -4,7 +4,7 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for patch: 2.4
+Stats are updated for patch: 2.4.10
 
 # General weapon handling updates:
 ## Recoil: general changes
@@ -35,6 +35,7 @@ Hip-fire now has a 28 accuracy point penalty, to incentivize aiming down sights.
 
 ## Accuracy: Full-auto
 Full-auto fire mode now has a 28 accuracy point penalty. This penalty is applied only when your weapon is switched to full-auto fire mode - switching your weapon's fire mode during the heist, will negate this penalty, for as long as your weapon's fire mode is set to single-fire.
+This penalty is not applied while bipoded.
 
 # General weapon tweaks:
 * Weapons' accuracy and stability are no longer affected if you: crouch, jump, walk or sprint
@@ -140,7 +141,7 @@ Additional stats, like DOT damage and ammo pick up changes, are included in game
 
 ### General LMG updates
 * Breakpoints and TTK are kept the same, except for M60 that has highest damage per shot but extremely slow rate of fire
-* Accuracy without a bipod is extremely poor, but you get extra ~2x accuracy when bipoded compared to vanilla PD2
+* Accuracy without a bipod is extremely poor, but you get extra accuracy when bipoded compared to vanilla PD2
 
 ### New damage drop off introduced
 * 80% damage for the first 1.5 meters
