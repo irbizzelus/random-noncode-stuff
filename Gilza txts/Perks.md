@@ -4,7 +4,7 @@
 
 <p align="right"> Use this icon to select the perk you are interested in: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for DEV patch: 2.5
+Stats are updated (NOT COMPLETE) for DEV patch: 2.5
 
 # General info:
 
@@ -281,6 +281,476 @@ Any 32 concealment melee of your choise.
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Gambler_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Gambler.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Grinder:
+
+| Vanilla | Gilza |
+| -------- | -------- |
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Grinder_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Grinder.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Yakuza:
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza_vanilla.png)  |
+|  Gilza | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+
+# Yakuza:
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza_vanilla.png)  |
+|  Gilza | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Ex-president:
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Ex-president_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Ex-president.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Maniac:
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Maniac_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Maniac.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Anarchist:
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Anarchist_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Anarchist.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Kingpin (unchanged):
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Sicario:
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Stoic:
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Stoic_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Stoic.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Tag Team:
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Tag_Team_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Tag_Team.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Hacker:
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Hacker_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Hacker.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+
+# Leech:
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Leech:
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Custom perk - Brawler:
+
+|  |
+| -------- |
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# Custom perk - Speed Junkie:
+
+|  |
+| -------- |
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+
+# Custom perk - Guardian:
+
+|  |
+| -------- |
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png)  |
+
+### Changes Summary
+Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+
+### Additional info/tips
+Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+
+### Barebone requirements
+https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+Self heal and dodge should be focused.
+
+### Build to try
+https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
+Use ammo bags deplotyable and the Two-Piece Suit.
+
+Weapons:
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
+95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
+Viper/concussion grenades to help with revives, since you can pick them up decently often.
+Any 32 concealment melee of your choise.
+
+# COPYCAT:
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_first4_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_first4.png)  |
 
 ### Changes Summary
 Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
