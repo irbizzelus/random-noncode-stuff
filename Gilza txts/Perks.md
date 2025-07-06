@@ -53,7 +53,7 @@ UPDATE
 
 -----
 
-# Muscle (2/5):
+# Muscle (1/5):
 
 | Vanilla | Gilza |
 | -------- | -------- |
@@ -145,17 +145,14 @@ UPDATE
 
 -----
 
-# Crook:
+# Crook (3/5):
 
 | Vanilla | Gilza |
 | -------- | -------- |
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crook_vanilla.png)  |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crook.png)   |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
-
-### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Added 75% AP chance to allow for easier stacking of this statistic with Surefire, or Silencer AP skills. This perk was significantly improved via indirect buffs to the Ghost's artfull dodger sub-tree, allowing you to both gain dodge cheaper, and also gaining armor on dodge from the new tier 4 Revitalised skill.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -170,7 +167,7 @@ UPDATE
 
 -----
 
-# Burglar:
+# Burglar (3/5):
 
 |  |  |
 | -------- | -------- |
@@ -178,10 +175,10 @@ UPDATE
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Burglar.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+All passive stealth bonuses were buffed from 10-15% to 25%. Saving 2.5 seconds on a pager in stealth is still worse than having a Pocket ECM, but at least it doesnt feel nearly as useless anymore. Improvements to the 5th card of the deck allow you to go for the "Hybrid" stealth-loud playstyle much better now, since LBV will now have same exact dodge amount as the 2-Piece Suit, allowing you to gain a little more survivability, and not even losing out on concealment if you equip the Inner Pockets skill. Additionally using silenced weapons will now improve your concealment even more, allowing for much more flexibility when it comes down to weapon vareity.
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+This is not anything new, but your general playstyle for loud should be sniping most of the time, because enemies will target you less if you stand still, and also target you less if you are further away from enemies than your teammates are. And since enemies will always focus you for a few seconds after you damage them, it is recommended you run one-shotting weapons, and snipers fit this role the best.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -196,7 +193,7 @@ UPDATE
 
 -----
 
-# Infiltrator:
+# Infiltrator (2/5):
 
 |  |  |
 | -------- | -------- |
@@ -204,10 +201,10 @@ UPDATE
 |  Gilza | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Infiltrator.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+This perk deck is affected by all the important mod updates mentioned [here](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes)). Since temporary damage resistance is much easier to both activate and keep, and damage resistance can be stacked much more effectively with other skills, total amount of DR gained from the perk was slighlty reduced. Specific amount is important for a health-based breakpoint on DS, but overall survivability of this perk deck is MUCH better than in vanilla, since your max potential damage resistance is easier to activate, and your total DR is also much higher.
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+For DS builds - 3 tap is achieved much easier now and even 4 tap is possible. 5+ is possible with maniac/crew cheifs on your team, making this deck absolutely busted in coordinated teams. As long as you have the temporary DR bonus that is.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -222,17 +219,17 @@ UPDATE
 
 -----
 
-# Sociopath:
+# Sociopath (1/5):
 
 | Vanilla | Gilza |
 | -------- | -------- |
 |  ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Sociopath_vanilla.png)  | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Sociopath.png) |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+Adjusted first perk card's melee values to compensate new melee damage system. Other parts of the deck untouched, since it's already good enough, and it also received some indirect bonuses from changes to damage resistance and underdog activation trigger.
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Tip for both vanilla and Gilza - this is not a melee deck, despite how many buffs it gives to melee.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -247,7 +244,7 @@ UPDATE
 
 -----
 
-# Gambler:
+# Gambler (5/5):
 
 |  |  |
 | -------- | -------- |
@@ -255,6 +252,7 @@ UPDATE
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Gambler.png)  |
 
 ### Changes Summary
+Even though this is a full rework, the general idea of "pick up ammo for bonuses" is still here, but with a more "gambly" twist!  
 Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
 
 ### Additional info/tips
@@ -267,25 +265,24 @@ Self heal and dodge should be focused.
 ### Build to try
 https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
 Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
-
+Use ammo bags deplotyable and the Two-Piece Suit.  
 Weapons:
 125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
 95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
 Viper/concussion grenades to help with revives, since you can pick them up decently often.
 Any 32 concealment melee of your choise.
 
-# Grinder:
+# Grinder (1/5):
 
 | Vanilla | Gilza |
 | -------- | -------- |
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Grinder_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Grinder.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+Slighlty improved AP chance (5% big wow) to allow for this stat to work better with other AP skills like Surefire and silencers AP skills.
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+For DS specifically - run this deck when you have Crew Chief on your team for the 2 tap health breakpoint with fastest self-healing of all decks in the gamae. Otherwise this deck is still sorta mid tier for DS.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
