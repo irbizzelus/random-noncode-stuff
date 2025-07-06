@@ -30,86 +30,68 @@ Most perk decks noted bellow will follow this format:
 
 -----
 
-# Crew Chief (minor):
+# Crew Chief (2/5):
 
-| Vanilla | Gilza |
+| Vanilla (3rd card) | Gilza (3rd card) |
 | -------- | -------- |
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crew_Chief_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crew_Chief.png)  |
 
-### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+#### Changes Summary
+Adjusted the 3rd card to provide "shouting" bonus to both basic and aced version of inspire. Vanilla description describes the buff as "shouting distance", even though it only affects enemy intimidations and highlights. Now it's both more clear in what it does and does a little extra thing (total max range for inspire is 11.25m now, so not that big of a change). In addition, damage resistance aspects of this perk were buffed both due to global damage resistance update, and because of the shared "Underdog" skill trigger (for more info on these changes, scroll up [here](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes)).
 
-### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+#### Additional info/tips
+Gameplay and builds you can create are about the same as in vanilla, since all changes are relatively minor, however damage resistance focused builds are definitely better than their vanilla counterparts.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+#### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
-### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+#### Build to try
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 -----
 
-# Muscle (minor):
+# Muscle (2/5):
 
 | Vanilla | Gilza |
 | -------- | -------- |
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Muscle_vanilla.png) | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Muscle.png)   |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+Added increased self-healing while playing on DS difficulty. This change was done purely to bump this perk up a bit, since it's already pretty decent, but it's drastic change in effectiveness between DW and DS is a bit too much. Overall gameplay is identicall.
 
-### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
-
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 -----
 
-# Armorer (unchanged):
+# Armorer (0/5):
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+This perk is perfectly fine and does not require any changes, the only reason it's even mentioned here was to avoid questions like "why no armorer here?"
 
-### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
-
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 -----
 
@@ -125,20 +107,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 -----
 
@@ -155,20 +133,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 -----
 
@@ -184,20 +158,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 -----
 
@@ -214,20 +184,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 -----
 
@@ -244,20 +210,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 -----
 
@@ -273,20 +235,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 -----
 
@@ -330,20 +288,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 # Yakuza:
 
@@ -358,49 +312,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
-
-
-# Yakuza:
-
-|  |  |
-| -------- | -------- |
-|  Vanilla | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza_vanilla.png)  |
-|  Gilza | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza.png)  |
-
-### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
-
-### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
-
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
-
-### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
-
-Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 # Ex-president:
 
@@ -415,20 +336,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 # Maniac:
 
@@ -443,20 +360,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 # Anarchist:
 
@@ -471,20 +384,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 # Kingpin (unchanged):
 
@@ -494,20 +403,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 # Sicario:
 
@@ -522,20 +427,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 # Stoic:
 
@@ -550,20 +451,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 # Tag Team:
 
@@ -578,20 +475,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 # Hacker:
 
@@ -606,20 +499,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 
 # Leech:
@@ -635,48 +524,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
-
-# Leech:
-
-|  |  |
-| -------- | -------- |
-|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png)  |
-|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech.png)  |
-
-### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
-
-### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
-
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
-
-### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
-
-Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 # Custom perk - Brawler:
 
@@ -690,20 +547,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 # Custom perk - Speed Junkie:
 
@@ -717,20 +570,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 
 # Custom perk - Guardian:
@@ -745,20 +594,16 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
 
 # COPYCAT:
 
@@ -773,17 +618,13 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
-Self heal and dodge should be focused.
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
 
 ### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.
+https://pd2builder.netlify.app
+UPDATE
 
 Weapons:
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+UPDATE
