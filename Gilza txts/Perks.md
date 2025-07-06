@@ -36,17 +36,18 @@ Most perk decks noted bellow will follow this format:
 | -------- | -------- |
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crew_Chief_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crew_Chief.png)  |
 
-##### Changes Summary
+
+### Changes Summary
 Adjusted the 3rd card to provide "shouting" bonus to both basic and aced version of inspire. Vanilla description describes the buff as "shouting distance", even though it only affects enemy intimidations and highlights. Now it's both more clear in what it does and does a little extra thing (total max range for inspire is 11.25m now, so not that big of a change). In addition, damage resistance aspects of this perk were buffed both due to global damage resistance update, and because of the shared "Underdog" skill trigger (for more info on these changes, scroll up [here](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes)).
 
-##### Additional info/tips
+### Additional info/tips
 Gameplay and builds you can create are about the same as in vanilla, since all changes are relatively minor, however damage resistance focused builds are definitely better than their vanilla counterparts.
 
-##### Barebone build skills
+### Barebone build skills
 https://pd2builder.netlify.app
 UPDATE
 
-##### Build to try
+### Build to try
 https://pd2builder.netlify.app
 UPDATE
 
