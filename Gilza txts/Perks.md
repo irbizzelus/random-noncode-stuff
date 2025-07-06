@@ -8,6 +8,11 @@ Stats are updated (NOT COMPLETE) for DEV patch: 2.5
 
 # General info:
 
+Aspects of Gilza rebalance you need to know before going through most of the perks bellow:
+1) Melee damage is now applied as a % of enemy's total health per hit, so a 35 damage melee kills an enemy in 3 hits. Some enemies, like Bulldozers and Bosses, have resistance to melee-%-damage and will take less damage (for example - Bulldozers take 10x less melee damage). This makes melee weapons overall much more effective, but most skills and perks affecting melee were nerfed to compensate.
+2) Damage resistance is now combined additively instead of multiplicatively. This affects all damage resistance skills in the game, effectively buffing this statistic, especially if you decide to stack multiple DR skills. Note that max possible damage resistance is only 85%, to avoid "god mode" situations. (Example: in vanilla having 25% DR, 10% DR, and 15% DR would reduce incoming damage by: 100% * 0.75 * 0.9 * 0.85 = 57.375% or about 43% total damage resistance. With Gilza you will instead get 50% damage resistance total with the same combo.)
+3) "Underdog" skill activation trigger is now different. In vanilla this skill is based on enemies that are currently hostile to you, but with Gilza this check was replaced with a LOS (line-of-sight) check between you and the enemy, making this skill more consistent for Online play. In addition, instead of activating for 7 seconds, then having a 1 (or more) second cooldown before activating the buff for 7 seconds again, this skill will now endlessly re-activate itself as long as you have required amount of enemies withing your LOS. This skill affects: Crew Chief, Infiltrator, Sociopath.
+
 ### Info bellow perks:
 Barebone requirements - skills that are needed to run selected perk deck effectively. Can have (DS) tag for Death Sentence difficulty specifically.
 Build to try - recommended build if you don't feel like optimizing a build on your own.
