@@ -38,10 +38,7 @@ Most perk decks noted bellow will follow this format:
 
 
 ### Changes Summary
-Adjusted the 3rd card to provide "shouting" bonus to both basic and aced version of inspire. Vanilla description describes the buff as "shouting distance", even though it only affects enemy intimidations and highlights. Now it's both more clear in what it does and does a little extra thing (total max range for inspire is 11.25m now, so not that big of a change). In addition, damage resistance aspects of this perk were buffed both due to global damage resistance update, and because of the shared "Underdog" skill trigger (for more info on these changes, scroll up [here](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes)).
-
-### Additional info/tips
-Gameplay and builds you can create are about the same as in vanilla, since all changes are relatively minor, however damage resistance focused builds are definitely better than their vanilla counterparts.
+Adjusted the 3rd card to provide "shouting" bonus to both basic and aced version of inspire. Vanilla description describes the buff as "shouting distance", even though it only affects enemy intimidations and highlights. Now it's both more clear in what it does and does a little extra thing (total max range for inspire is 11.25m now, so not that big of a change). In addition, damage resistance aspects of this perk were buffed both due to global damage resistance update, and because of the shared "Underdog" skill trigger (for more info on these changes, scroll up [here](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes)). Build vareity may have improved slighlty, but gameplay is overall untouched.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -96,17 +93,14 @@ UPDATE
 
 -----
 
-# Rogue (minor):
+# Rogue (3/5):
 
 | Vanilla | Gilza |
 | -------- | -------- |
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Rogue_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Rogue.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
-
-### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Copycat and Hacker are both just straight upgrades to this deck, so to compensate, this deck is now slighlty more effective in it's own playstyle. Dodge buffs might be extremely small, but do consider that new options in the arfull dodger skill sub-tree are also indirectly buffing this deck. Additionally, AP chance can now work well with both new Surefire and Silencer AP skills, instead of being a joke of a bonus.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -121,7 +115,7 @@ UPDATE
 
 -----
 
-# Hitman:
+# Hitman (5/5):
 
 |  |  |
 | -------- | -------- |
@@ -129,10 +123,14 @@ UPDATE
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Hitman.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+Probably the biggest rework of all vanilla perk decks, because vanilla version is just ass. Armor recovery is a stat that could've been important if default armor recovery timer was 5 or more seconds instead of 3, or if different armors actually altered this timer, but this is not the reality. This rework has only kepth the final 9th card the same, because that affect is relatively powerfull, compared to the rest of this deck.  
+Card 1: Now rewards you for landing "badass" kills, like with throwing knives or melee weapons, to somewhat fullfill the phantasy of John Wich movies, in which anything can be a powerfull weapon in your hands.  
+Card 3: Statistical buffs to akimbos are the same, and the armor recovery bonus was converted into a temporary bonus (like Overkill skill) to keep this aspect of the original perk still present. Limiting trigger to specific weapon types makes it less powerful than if you had it passively at all times from any kill, since this bonus can be increased (in Card 7) and other bonuses were also added, so it would be a bit too good.  
+Card 5: Now provides 5 second of invulnerability with 20 second cooldown (similarly to armorer, effective cooldown is 20-5=15 seconds), if you manage to secure a specific combo. In my experience this combo is extremely difficult to achieve, especially at higher difficulties, which makes the reward that you get balanced, even if you consider the 7th card buff.  
+Card 7: Having a bounty system on a perk deck that is named "Hitman" is just simply cool, this was good enough of a reason to add this. After killing your bounty you will now improve aspects of previous hitman specific perk cards, making the user of this deck more effective than it's vanilla counterpart, but only sometimes, and not for too long, which makes it balanced, while also allowing to keep playing it roughly how you would in vanilla (aka relying purely on recovery).
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Use small arm firearms to constantly activate recovery for the passive bonus, use melee/throwables in a pinch for a little bit of armor gating, and if you see a group of enemies clumped up together try to activate the kill combo off of them. Or you can simply play it as you would in vanilla, with only one change to your gameplay - you should seek out your bounty to improve your recovery for a while.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
