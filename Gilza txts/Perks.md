@@ -649,7 +649,7 @@ UPDATE
 
 ### Changes Summary
 Copycat overall is a really good deck, but amount of health you gain from it is simply too good. Gaining 2 tap health on DS with a 2 second invulerability by just having a joker is a bit too good, considering some options from the 9th perk card copies, so some of the neutral aspects (non-copy parts) of the deck were nerfed.  
-- Choose a boost for cards 1,3,5,7: Healing bonus is reduced from 20% to 15%, to make 2 tap health builds on DS harder to get. Armor and dodge bonuses unchanged. Crouch and bag movement speed bonus was unchanged, but this bonus now also allows to carry more total ammo. This is a niche upgrade, but can be sometimes usefull, when other upgrades you just simply don't need.
+- Choose a boost for cards 1,3,5,7: Health bonus is reduced from 20% to 15%, to make 2 tap health builds on DS harder to get. Armor and dodge bonuses unchanged. Crouch and bag movement speed bonus was unchanged, but this bonus now also allows to carry more total ammo. This is a niche upgrade, but can be sometimes usefull, when you just simply don't need other upgrades.
 - Card 1: Identical
 - Card 3: Identical, but the heal bonus is different when using Bullseye skill. This was done in such a way because both of these skills share a cooldown in the code. It is possible to split these timers, but if i did so, all infoHUD's out there will be broken and display incorrect information. This way infoHUD's wont be broken and overall amount per minute is the same, even though you could agrue that this will lead to slighlty less healing since you can't always activate this skill after it's cooldown is over, but thats a small price to pay considering other buffs this perk got.
 - Card 5: Identical
@@ -658,7 +658,7 @@ Copycat overall is a really good deck, but amount of health you gain from it is 
 Info on all the 9th card replacements (including 3 new ones from custom perks) are further bellow.
 
 ### Additional info/tips
-Focus on keeping your health above 50% threshold to be able to trigger the invulnerability effect. If you are running copies that don't provide you with additional healing, do not get yourself more health, unless you are using hostage taker, because 3rd card always recovers a flat amount of health, it would be easier to get to 50% threshold from this healing if your max health is not increased.
+Focus on keeping your health above 50% threshold to be able to trigger the invulnerability effect. If you are running copies that don't provide you with additional healing, do not get yourself more health, unless you are using hostage taker, because 3rd card always recovers a flat amount of health, and it would be easier to get to 50% threshold from this healing if your max health is not increased.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -671,10 +671,13 @@ UPDATE
 Weapons:
 UPDATE
 
+### 9th card copies
+Replaced card names to always showcase mimicking perk deck name instead of showing the name of a skill from a perk deck. On top of the fact that this is confusing because you simply can't know all of their names, they are also not always correct, because sometimes a mimicking 9th card can combine bonuses of multiple cards of a perk deck with different names.
+
 ### 9th copy - Crew Chief
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crew_Chief.png) |
 | -------- |
-| Vanilla bonuses + 50% stamina + 8% extra damage resistance. This card now provides highest DR of all 9th card copies while providing a stamina team boost. |
+| Vanilla bonuses + 50% stamina + shouting range + 8% extra damage resistance. This card now provides highest DR of all 9th card copies while providing additonal minor buffs. |
 
 ### 9th copy - Muscle
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Muscle.png) |
@@ -700,3 +703,98 @@ UPDATE
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crook.png) |
 | -------- |
 |  Crook's effects were indirectly buffed by artful dodger sub tree in ghost, so no new effects are needed. This is the only 9th copy card that provides imrpoved AP bonus. |
+
+### 9th copy - Burglar
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Burglar.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Infiltrator
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Infiltrator.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Sociopath
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Sociopath.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Gambler
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Gambler.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Grinder
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Grinder.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Yakuza
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Yakuza.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Ex-president
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Ex-president.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Maniac
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Maniac.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Anarchist
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Anarchist.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Biker
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Biker.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Kingpin
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Kingpin.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Sicario
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Sicario.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Stoic
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Stoic.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Tag Team
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Tag_Team.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Hacker
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Hacker.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Leech
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Leech.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Brawler
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Brawler.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Speed Junkie
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Speed_Junkie.png) |
+| -------- |
+| big wow |
+
+### 9th copy - Guardian
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
+| -------- |
+| big wow |
