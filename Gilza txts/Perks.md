@@ -26,7 +26,7 @@ Most perk decks noted bellow will follow this format:
 2) Image showcase of the changes - easiest way to go through all the changes.
 3) Summary of the changes - usually includes an answer for the question "why?" for most changes. This part may sometimes be split per perk deck card for ease of reading.
 4) Additional tips - if perk's rework was significant enough, this is a custom perk deck, or there is some other reason to share them - tips for the perk might appear under this section.
-5) Build(s) to try - includes a "barebones" set up with most important skills for each deck (yes, bullseye is almost always there), and at least 1 build to try, in case you don't feel like figuring out a new build, due to how many changes this mod has made. Most builds do not include an in-depth description of weapons and their attachments, because you should figure those out on your own, since Gilza allows for much more variety when it comes down to the weapon selection. Can have a (DS) tag for Death Sentence difficulty specific builds.
+5) Build(s) to try - includes a "barebones" set up with most important skills for each deck (yes, bullseye is almost always there), and at least 1 build to try, in case you don't feel like figuring out a new build, due to how many changes this mod has made. Most builds do not include an in-depth description of weapons and their attachments, because you should figure those out on your own, since Gilza allows for much more variety when it comes down to the weapon selection. Builds themselves are Death Sentence difficulty focused, which will most likely make them work well at lower difficulties as well. Some builds may be specified to be only viable for certain difficulties.
 
 -----
 
@@ -38,18 +38,16 @@ Most perk decks noted bellow will follow this format:
 
 
 ### Changes Summary
-Adjusted the 3rd card to provide "shouting" bonus to both basic and aced version of inspire. Vanilla description describes the buff as "shouting distance", even though it only affects enemy intimidations and highlights. Now it's both more clear in what it does and does a little extra thing (total max range for inspire is 11.25m now, so not that big of a change). In addition, damage resistance aspects of this perk were buffed both due to global damage resistance update, and because of the shared "Underdog" skill trigger (for more info on these changes, scroll up [here](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes)). Build vareity may have improved slighlty, but gameplay is overall untouched.
+Adjusted the 3rd card to provide "shouting" bonus to both basic and aced version of inspire. Vanilla description describes the buff as "shouting distance", even though it only affects intimidations and enemy highlights. Now it's both more clear in what it does and does a little extra thing (total max range for inspire is 11.25m now, so not that big of a change). In addition, damage resistance aspects of this perk were buffed both due to global damage resistance update, and because of the shared "Underdog" skill trigger (for more info on these changes, scroll up to [General info - Gilza rebalance changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes)). Build vareity may have improved slighlty, but gameplay is overall untouched.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 -----
 
@@ -62,16 +60,14 @@ UPDATE
 ### Changes Summary
 Added increased self-healing while playing on DS difficulty. This change was done purely to bump this perk up a bit, since it's already pretty decent, but it's drastic change in effectiveness between DW and DS is a bit too much. Overall gameplay is identicall.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 -----
 
@@ -80,16 +76,14 @@ UPDATE
 ### Changes Summary
 This perk is perfectly fine and does not require any changes, the only reason it's even mentioned here was to avoid questions like "why no armorer here?"
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 -----
 
@@ -102,16 +96,14 @@ UPDATE
 ### Changes Summary
 Copycat and Hacker are both just straight upgrades to this deck, so to compensate, this deck is now slighlty more effective in it's own playstyle. Dodge buffs might be extremely small, but do consider that new options in the arfull dodger skill sub-tree are also indirectly buffing this deck. Additionally, AP chance can now work well with both new Surefire and Silencer AP skills, instead of being a joke of a bonus.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 -----
 
@@ -132,16 +124,14 @@ Probably the biggest rework of all vanilla perk decks, because vanilla version i
 ### Additional info/tips
 Use small arm firearms to constantly activate recovery for the passive bonus, use melee/throwables in a pinch for a little bit of armor gating, and if you see a group of enemies clumped up together try to activate the kill combo off of them. Or you can simply play it as you would in vanilla, with only one change to your gameplay - you should seek out your bounty to improve your recovery for a while.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 -----
 
@@ -154,16 +144,14 @@ UPDATE
 ### Changes Summary
 Added 75% AP chance to allow for easier stacking of this statistic with Surefire, or Silencer AP skills. This perk was significantly improved via indirect buffs to the Ghost's artfull dodger sub-tree, allowing you to both gain dodge cheaper, and also gaining armor on dodge from the new tier 4 Revitalised skill.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 -----
 
@@ -180,16 +168,14 @@ All passive stealth bonuses were buffed from 10-15% to 25%. Saving 2.5 seconds o
 ### Additional info/tips
 This is not anything new, but your general playstyle for loud should be sniping most of the time, because enemies will target you less if you stand still, and also target you less if you are further away from enemies than your teammates are. And since enemies will always focus you for a few seconds after you damage them, it is recommended you run one-shotting weapons, and snipers fit this role the best.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 -----
 
@@ -206,16 +192,14 @@ This perk deck is affected by all the important mod updates mentioned [here](htt
 ### Additional info/tips
 For DS builds - 3 tap is achieved much easier now and even 4 tap is possible. 5+ is possible with maniac/crew cheifs on your team, making this deck absolutely busted in coordinated teams. As long as you have the temporary DR bonus that is.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 -----
 
@@ -231,16 +215,14 @@ Adjusted first perk card's melee values to compensate new melee damage system. O
 ### Additional info/tips
 Tip for both vanilla and Gilza - this is not a melee deck, despite how many buffs it gives to melee.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 -----
 
@@ -258,15 +240,14 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 ### Additional info/tips
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
-### Barebone requirements
-https://pd2builder.netlify.app/?s=0-8d010-9g10-41200
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app/?s=0-8d010-9g10-41200  
 Self heal and dodge should be focused.
 
-### Build to try
-https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100
+Build 1 - Ultimate ammo guy. https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100  
 Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit.  
-Weapons:
+Use ammo bags deplotyable and the Two-Piece Suit.    
+Weapons to use:  
 125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
 95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
 Viper/concussion grenades to help with revives, since you can pick them up decently often.
@@ -284,16 +265,14 @@ Slighlty improved AP chance (5% big wow) to allow for this stat to work better w
 ### Additional info/tips
 For DS specifically - run this deck when you have Crew Chief on your team for the 2 tap health breakpoint with fastest self-healing of all decks in the gamae. Otherwise this deck is still sorta mid tier for DS.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # Yakuza(3/5):
 
@@ -314,16 +293,14 @@ New resistance effect that you gain from Yakuza will now reduce this 1 second ti
 ### Additional info/tips
 Gameplay overall is about the same - shoot, duck to cover to recover, shoot. Gained buffs will imrpove this aspect by allowing you to to this faster and more often, while damage resist from behind and additional movement speed will allow you to relocate easier. 
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # Ex-president (5/5):
 
@@ -342,16 +319,14 @@ This perk is mostly buffed, but still feels pretty balanced, while being much ea
 ### Additional info/tips
 Gameplay is about the same as in vanilla, and can be even more passive now, since you can get armor recovery bonuses from teammates. Damaging yourself with explosives to heal might still be a decent idea for some cases, but relying on it, in my opinion, is not needed at all anymore.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # Maniac (4/5):
 
@@ -367,16 +342,14 @@ In addition to this change, while playing on DS you can now get 72 damage aborpt
 ### Additional info/tips
 Poison and other DOT effects are favoured heavily if you want to keep your stacks at max with ease. Do keep in mind that poison is really ammo hungry when making your builds.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # Anarchist (3/5):
 
@@ -393,16 +366,14 @@ There are only 2 important changes:
 Basically all armors are now flipped. This is a side grade to vanilla version of anarchist, since you can get more armor gating from ICTV than what vanilla anarchist suit allows, but at the same time you can not build crits+zerk set ups anymore, while also slowing you down (movement wise) since you would want to run heavier armor for best armor gating. ICTV is even more braindead on DS in terms of survivability sometimes than vanilla suit, but the fact that it will take you 3x more time to run to cover if you are caught out in the open compensates itself already.  
 Since changes above are mostly focused at DS difficulty where armor gating is important, another small change was made for lower end armors, which favours lower difficulties. Your total amount of armor gain per minute is higher with lower end armors like the suit. This is true for both passive and on-damage effect. So if you prefered to run ICTV anarchist in vanilla on lower difficulties, you can now go for something like a HBV or a suit, to gain movement speed and about the same armor gain per minute.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # Biker (3/5):
 
@@ -416,32 +387,28 @@ Added a little bit of armor and health to improve passive survivability and allo
 Functionality of the core of the deck is unchanged, "Stack of Regeneration" is a term that i invented for the healing effect you get and the newly re-written description describes how the perk actually works on the back-end, to give players who wish to optimize thier playstyle more information. On top of standard functionality, you will now not be able to receive, aka waste, stacks of regeneration while af full armor and health. For the same reason "Overstack Prevention" cooldown was added. This effect, while active, will ignore incoming healing from kills, if you have any amount of armor left. This effect does not affect your total possible amount of healing per minute, since it also gets reduced by 5th and 9th cards, where standard stack of regeneration cooldown is noramly reduced. It also is completely ignored while you have no armor remaining.  
 Overall these changes were made to make this deck much more consistent, and do not require infoHUD's of any sort to survive, since you almost always will have stacks to gain regeneration from.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # Kingpin (0/5):
 
 ### Changes Summary
 Same as with armorer, this deck is here to let you know that it was not changes. Description were updated for card #1 and #9 to fix incorrect values and let you know that kills refill 1 second for the cooldown.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # Sicario (1/5):
 
@@ -456,16 +423,14 @@ Smokebomb cooldown was reduced from 60 to 45 seconds, since this perk deck is al
 ### Additional info/tips
 Do not equip new Revitalized skill from tier 4 artfull dodge subtree since it doesn't do anything when you have sicario.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # Stoic (2/5):
 
@@ -481,16 +446,14 @@ Most of the changes are numerical, for the most part reducing effectivness of th
 - Card 9: Similarly to card 7, this is a compensation for the first card, to make healing slighlty better, since you now take more direct damage, and DOT you have is drained faster.  
 Overall this deck should feel about the same, but you may wanna play it slighlty more carefuly, since you take a bit more damage now.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # Tag Team (3/5):
 
@@ -503,16 +466,14 @@ UPDATE
 Removed LOS (line of sight) requirement to the target. Increased amount that the timer is increased by, to keep the effect going for longer easier. Increased max possible damage abosrption, and reduced required amount of kills to get it, to imrpove survivability.  
 This deck's main issue is how expensive it is to run well (skill points wise), even though it does work pretty well when it is set up, so not many changes were needed.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # Hacker (2/5):
 
@@ -526,16 +487,14 @@ Nerfed cooldown of 1 ecm to 140 seconds, nerfing it for both stealth and loud.
 Cooldown gain per kill reduced from 6 to 4 seconds. ECM duration in loud increased to 12 seconds to compensate much longer breaks in between uses. Healing gained per kill was increased to compensate longer intervals in-between activations. Temporary dodge now requires 3 kills, and provides the same dodge bonus for longer, to compensate breaks between uses.  
 This perk deck is simply too good, and the main reason for it is the ECM stun effect. Making ECMs activate less often allows for "spammibility" of this deck to go down, while keeping player survivability at the same level.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 
 # Leech (5/5):
@@ -558,16 +517,14 @@ This rework is my atttempt to make this perk deck into a more supportive role, w
 ### Additional info/tips
 Please, please, please use Painkillers skill on higher difficulties. Bonuses that you get from teammate revives are not incredibly strong, while letting your teammates go down again because they are in a vulnerable position and you don't have this skill is both foolish and not nice. This is a general tip for using Inspire skill, but it applies to this new version of Leech the most.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # CUSTOM PERK - Brawler:
 
@@ -581,16 +538,14 @@ A perk deck focused on melee weapons and team "protection". You are supposed to 
 ### Additional info/tips
 Focus on melee and survivability skills the most. Do not assume that you have god mode, even if you currently have maxed bonuses. Use a sniper or a similar weapons to deal with snipers/shileds, while running saw and melee as your primary weapons.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # CUSTOM PERK - Speed Junkie:
 
@@ -605,16 +560,14 @@ Moving provides you with points to a meter which provides bonuses to dodge, weap
 ### Additional info/tips
 One of a few (if not the only) perk deck that actually gets use out of the Running from Death skill. Adrenaline spike is an RNG based temorary effect that gives you practical god mode and increased kill potential, but keep in mind that once it's over you are screwed if you are not in cover. This is the ultimate run and run perk deck, but it has a flaw - you can't really use text chat since you cant move and use chat, and not moving with this deck is a death sentence.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 
 # CUSTOM PERK - Guardian:
@@ -629,16 +582,14 @@ Stand still to create an area. While inside of your area you (mostly) take less 
 ### Additional info/tips
 This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choise is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the richochet perk card.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 # COPYCAT:
 
@@ -660,16 +611,14 @@ Info on all the 9th card replacements (including 3 new ones from custom perks) a
 ### Additional info/tips
 Focus on keeping your health above 50% threshold to be able to trigger the invulnerability effect. If you are running copies that don't provide you with additional healing, do not get yourself more health, unless you are using hostage taker, because 3rd card always recovers a flat amount of health, and it would be easier to get to 50% threshold from this healing if your max health is not increased.
 
-### Barebone build skills
-https://pd2builder.netlify.app
-UPDATE
+### Build(s) to try
+Barebone skills - https://pd2builder.netlify.app  
+Need this that and that
 
-### Build to try
-https://pd2builder.netlify.app
-UPDATE
-
-Weapons:
-UPDATE
+Build 1 - balls. https://pd2builder.netlify.app  
+does this that and that  
+Weapons to use:  
+such and such
 
 ### 9th card copies
 Replaced card names to always showcase mimicking perk deck name instead of showing the name of a skill from a perk deck. On top of the fact that this is confusing because you simply can't know all of their names, they are also not always correct, because sometimes a mimicking 9th card can combine bonuses of multiple cards of a perk deck with different names.
