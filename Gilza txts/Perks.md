@@ -378,7 +378,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Anarchist(3/5):
+# Anarchist (3/5):
 
 |  |  |
 | -------- | -------- |
@@ -392,6 +392,29 @@ There are only 2 important changes:
 
 Basically all armors are now flipped. This is a side grade to vanilla version of anarchist, since you can get more armor gating from ICTV than what vanilla anarchist suit allows, but at the same time you can not build crits+zerk set ups anymore, while also slowing you down (movement wise) since you would want to run heavier armor for best armor gating. ICTV is even more braindead on DS in terms of survivability sometimes than vanilla suit, but the fact that it will take you 3x more time to run to cover if you are caught out in the open compensates itself already.  
 Since changes above are mostly focused at DS difficulty where armor gating is important, another small change was made for lower end armors, which favours lower difficulties. Your total amount of armor gain per minute is higher with lower end armors like the suit. This is true for both passive and on-damage effect. So if you prefered to run ICTV anarchist in vanilla on lower difficulties, you can now go for something like a HBV or a suit, to gain movement speed and about the same armor gain per minute.
+
+### Barebone build skills
+https://pd2builder.netlify.app
+UPDATE
+
+### Build to try
+https://pd2builder.netlify.app
+UPDATE
+
+Weapons:
+UPDATE
+
+# Biker (3/5):
+
+|  |  |
+| -------- | -------- |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Biker.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Biker_vanilla.png)  |
+
+### Changes Summary
+Added a little bit of armor and health to improve passive survivability and allow for 2 tap by default on DS.  
+Functionality of the core of the deck is unchanged, "Stack of Regeneration" is a term that i invented for the healing effect you get and the newly re-written description describes how the perk actually works on the back-end, to give players who wish to optimize thier playstyle more information. On top of standard functionality, you will now not be able to receive, aka waste, stacks of regeneration while af full armor and health. For the same reason "Overstack Prevention" cooldown was added. This effect, while active, will ignore incoming healing from kills, if you have any amount of armor left. This effect does not affect your total possible amount of healing per minute, since it also gets reduced by 5th and 9th cards, where standard stack of regeneration cooldown is noramly reduced. It also is completely ignored while you have no armor remaining.  
+Overall these changes were made to make this deck much more consistent, and do not require infoHUD's of any sort to survive, since you almost always will have stacks to gain regeneration from.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -444,7 +467,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Stoic:
+# Stoic (2/5):
 
 |  |  |
 | -------- | -------- |
@@ -452,10 +475,11 @@ UPDATE
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Stoic.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
-
-### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Most of the changes are numerical, for the most part reducing effectivness of this perk deck slighlty, specifically for the first card. (Main reason - COPYCAT, second reason - this deck is a bit too good)
+- Card 1: Changed direct and indirect damage split from 75 to 70 to increase incoming damage taken. Reduced DOT part of the damage split to 10 seconds from 11.2 (12 is vanilla's inaccuracy) to make DOT go down faster, dealing more damage.
+- Card 7: Cooldown gain while at low health reduced from 2 to 1.5 seconds to compensate new threshold of 45%. This skill should now activate much more often, improving survivability as compensation for the nerfs in the first perk card
+- Card 9: Similarly to card 7, this is a compensation for the first card, to make healing slighlty better, since you now take more direct damage, and DOT you have is drained faster.  
+Overall this deck should feel about the same, but you may wanna play it slighlty more carefuly, since you take a bit more damage now.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -468,7 +492,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Tag Team:
+# Tag Team (3/5):
 
 |  |  |
 | -------- | -------- |
@@ -476,10 +500,8 @@ UPDATE
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Tag_Team.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
-
-### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Removed LOS (line of sight) requirement to the target. Increased amount that the timer is increased by, to keep the effect going for longer easier. Increased max possible damage abosrption, and reduced required amount of kills to get it, to imrpove survivability.  
+This deck's main issue is how expensive it is to run well (skill points wise), even though it does work pretty well when it is set up, so not many changes were needed.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -492,7 +514,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Hacker:
+# Hacker (2/5):
 
 |  |  |
 | -------- | -------- |
@@ -500,10 +522,9 @@ UPDATE
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Hacker.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
-
-### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Nerfed cooldown of 1 ecm to 140 seconds, nerfing it for both stealth and loud.  
+Cooldown gain per kill reduced from 6 to 4 seconds. ECM duration in loud increased to 12 seconds to compensate much longer breaks in between uses. Healing gained per kill was increased to compensate longer intervals in-between activations. Temporary dodge now requires 3 kills, and provides the same dodge bonus for longer, to compensate breaks between uses.  
+This perk deck is simply too good, and the main reason for it is the ECM stun effect. Making ECMs activate less often allows for "spammibility" of this deck to go down, while keeping player survivability at the same level.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -517,7 +538,7 @@ Weapons:
 UPDATE
 
 
-# Leech:
+# Leech (5/5):
 
 |  |  |
 | -------- | -------- |
