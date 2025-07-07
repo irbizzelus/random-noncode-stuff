@@ -53,12 +53,12 @@ such and such
 
 # Muscle (1/5):
 
-| Vanilla | Gilza |
+| Vanilla (9th card) | Gilza (9th card) |
 | -------- | -------- |
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Muscle_vanilla.png) | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Muscle.png)   |
 
 ### Changes Summary
-Added increased self-healing while playing on DS difficulty. This change was done purely to bump this perk up a bit, since it's already pretty decent, but it's drastic change in effectiveness between DW and DS is a bit too much. Overall gameplay is identicall.
+Added increased self-healing while playing on DS difficulty. This change was done purely to bump this perk up a bit, since it's already pretty decent, but it's drastic change in effectiveness between DW and DS is a bit too much. Overall gameplay is identical.
 
 ### Build(s) to try
 Barebone skills - https://pd2builder.netlify.app  
@@ -89,7 +89,7 @@ such and such
 
 # Rogue (3/5):
 
-| Vanilla | Gilza |
+| Vanilla (9th card) | Gilza (9th card) |
 | -------- | -------- |
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Rogue_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Rogue.png)  |
 
@@ -109,15 +109,15 @@ such and such
 
 # Hitman (5/5):
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Hitman_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Hitman.png)  |
 
 ### Changes Summary
-Probably the biggest rework of all vanilla perk decks, because vanilla version is just ass. Armor recovery is a stat that could've been important if default armor recovery timer was 5 or more seconds instead of 3, or if different armors actually altered this timer, but this is not the reality. This rework has only kepth the final 9th card the same, because that affect is relatively powerfull, compared to the rest of this deck.  
+Probably the biggest rework of all vanilla perk decks, because vanilla version is just ass. Armor recovery is a stat that could've been important if default armor recovery timer was 5 or more seconds instead of 3, or if different armors actually altered this timer, but this is not the reality. This rework has only kept the final 9th card the same, because that affect is relatively powerfull, compared to the rest of this deck.  
 - Card 1: Now rewards you for landing "badass" kills, like with throwing knives or melee weapons, to somewhat fullfill the phantasy of John Wich movies, in which anything can be a powerfull weapon in your hands.  
-- Card 3: Statistical buffs to akimbos are the same, and the armor recovery bonus was converted into a temporary bonus (like Overkill skill) to keep this aspect of the original perk still present. Limiting trigger to specific weapon types makes it less powerful than if you had it passively at all times from any kill, since this bonus can be increased (in Card 7) and other bonuses were also added, so it would be a bit too good.  
+- Card 3: Statistical buffs to akimbos are the same (-16 in vanilla is an error, actual buff is just -8), and the armor recovery bonus was converted into a temporary bonus (like Overkill skill) to keep this aspect of the original perk still present. Limiting trigger to specific weapon types makes it less powerful than if you had it passively at all times from any kill, since this bonus can be increased (in Card 7) and other bonuses were also added, so it would be a bit too good.  
 - Card 5: Now provides 5 second of invulnerability with 20 second cooldown (similarly to armorer, effective cooldown is 20-5=15 seconds), if you manage to secure a specific combo. In my experience this combo is extremely difficult to achieve, especially at higher difficulties, which makes the reward that you get balanced, even if you consider the 7th card buff.  
 - Card 7: Having a bounty system on a perk deck that is named "Hitman" is just simply cool, this was good enough of a reason to add this. After killing your bounty you will now improve aspects of previous hitman specific perk cards, making the user of this deck more effective than it's vanilla counterpart, but only sometimes, and not for too long, which makes it balanced, while also allowing to keep playing it roughly how you would in vanilla (aka relying purely on recovery).
 
@@ -137,12 +137,12 @@ such and such
 
 # Crook (3/5):
 
-| Vanilla | Gilza |
+| Vanilla (9th card) | Gilza (9th card) |
 | -------- | -------- |
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crook_vanilla.png)  |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crook.png)   |
 
 ### Changes Summary
-Added 75% AP chance to allow for easier stacking of this statistic with Surefire, or Silencer AP skills. This perk was significantly improved via indirect buffs to the Ghost's artfull dodger sub-tree, allowing you to both gain dodge cheaper, and also gaining armor on dodge from the new tier 4 Revitalised skill.
+Added 75% AP chance to allow for easier stacking of this statistic with Surefire, or Silencer AP skills. This perk deck was significantly improved via indirect buffs to the Ghost's artfull dodger sub-tree, allowing you to both gain dodge cheaper, and also gaining armor on dodge from the new tier 4 Revitalised skill. Imrpoved trigger for the underdog skill also allows you to get 2 tap armor on DS with the standard Balistic Vest, granting you 5 more dodge than the usual HBV you would use on DS.
 
 ### Build(s) to try
 Barebone skills - https://pd2builder.netlify.app  
@@ -157,13 +157,13 @@ such and such
 
 # Burglar (3/5):
 
-|  |  |
+|  | Updated cards - 3, 5, 7 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Burglar_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Burglar.png)  |
 
 ### Changes Summary
-All passive stealth bonuses were buffed from 10-15% to 25%. Saving 2.5 seconds on a pager in stealth is still worse than having a Pocket ECM, but at least it doesnt feel nearly as useless anymore. Improvements to the 5th card of the deck allow you to go for the "Hybrid" stealth-loud playstyle much better now, since LBV will now have same exact dodge amount as the 2-Piece Suit, allowing you to gain a little more survivability, and not even losing out on concealment if you equip the Inner Pockets skill. Additionally using silenced weapons will now improve your concealment even more, allowing for much more flexibility when it comes down to weapon vareity.
+All passive stealth bonuses were buffed from 10-20% to 25%. Saving 2.5 seconds on a pager in stealth is still worse than having a Pocket ECM, but at least it doesnt feel nearly as useless anymore. Improvements to the 5th card of the deck allow you to go for the "Hybrid" stealth-loud playstyle much better now, since LBV will now have same exact dodge amount as the 2-Piece Suit, allowing you to gain a little more survivability, and not even losing out on concealment if you equip the Inner Pockets skill. Additionally using silenced weapons will now improve your concealment even more, allowing for much more flexibility when it comes down to weapon vareity.
 
 ### Additional info/tips
 This is not anything new, but your general playstyle for loud should be sniping most of the time, because enemies will target you less if you stand still, and also target you less if you are further away from enemies than your teammates are. And since enemies will always focus you for a few seconds after you damage them, it is recommended you run one-shotting weapons, and snipers fit this role the best.
@@ -181,7 +181,7 @@ such and such
 
 # Infiltrator (2/5):
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Infiltrator_vanilla.png)  |
 |  Gilza | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Infiltrator.png)  |
@@ -228,7 +228,7 @@ such and such
 
 # Gambler (5/5):
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Gambler_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Gambler.png)  |
@@ -276,7 +276,7 @@ such and such
 
 # Yakuza(3/5):
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza_vanilla.png)  |
 |  Gilza | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza.png)  |
@@ -304,7 +304,7 @@ such and such
 
 # Ex-president (5/5):
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Ex-president_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Ex-president.png)  |
@@ -330,7 +330,7 @@ such and such
 
 # Maniac (4/5):
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Maniac_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Maniac.png)  |
@@ -353,7 +353,7 @@ such and such
 
 # Anarchist (3/5):
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Anarchist_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Anarchist.png)  |
@@ -377,7 +377,7 @@ such and such
 
 # Biker (3/5):
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Biker.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Biker_vanilla.png)  |
@@ -412,10 +412,9 @@ such and such
 
 # Sicario (1/5):
 
-|  |  |
+| Vanilla | Gilza |
 | -------- | -------- |
-|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario_vanilla.png)  |
-|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario.png)  |
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario_vanilla.png) | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario.png) |
 
 ### Changes Summary
 Smokebomb cooldown was reduced from 60 to 45 seconds, since this perk deck is allright.
@@ -434,7 +433,7 @@ such and such
 
 # Stoic (2/5):
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Stoic_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Stoic.png)  |
@@ -457,7 +456,7 @@ such and such
 
 # Tag Team (3/5):
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Tag_Team_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Tag_Team.png)  |
@@ -477,7 +476,7 @@ such and such
 
 # Hacker (2/5):
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Hacker_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Hacker.png)  |
@@ -499,7 +498,7 @@ such and such
 
 # Leech (5/5):
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech.png)  |
@@ -593,7 +592,7 @@ such and such
 
 # COPYCAT:
 
-|  |  |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_first4_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_first4.png)  |
