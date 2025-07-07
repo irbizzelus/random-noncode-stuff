@@ -553,10 +553,10 @@ such and such
 
 ### Summary
 Speed is your life.  
-Moving provides you with points to a meter which provides bonuses to dodge, weapon swap speed, weapon reload speed and interaction speeds. Kills fill up this meter as well. Run and gun.
+Moving provides you with points to a meter which provides bonuses to dodge, weapon swap speed, weapon reload speed and interaction speeds. Kills fill up this meter as well, and also recover your stamina. You trade almost all of your health for armor, and you gain a little bit of armor when you dodge once a second. More damaged your armor is - more movement speed you get.
 
 ### Additional info/tips
-One of a few (if not the only) perk deck that actually gets use out of the Running from Death skill. Adrenaline spike is an RNG based temorary effect that gives you practical god mode and increased kill potential, but keep in mind that once it's over you are screwed if you are not in cover. This is the ultimate run and run perk deck, but it has a flaw - you can't really use text chat since you cant move and use chat, and not moving with this deck is a death sentence.
+One of a few (if not the only) perk deck that actually gets use out of the Running from Death skill. Adrenaline spike is an RNG based temporary effect that gives you practical god mode and increased kill potential, but keep in mind that once it's over you are screwed if you are not in cover. This is the ultimate run and run perk deck, but it has a flaw - you can't really use text chat since you cant move and use chat, and not moving with this deck is a death sentence.
 
 ### Build(s) to try
 Barebone skills - https://pd2builder.netlify.app  
@@ -574,10 +574,10 @@ such and such
 | -------- |
 
 ### Summary
-Stand still to create an area. While inside of your area you (mostly) take less damage and reover health really quickly. If you are outside of your are you take more damage and dont heal. Kills you get automatically pick up ammo boxes from killed enemies if you are inside of your area. However you have no armor and you are really slow. Sometimes you just can't have everything.
+Stand still to create an area. While inside of your area you (mostly) take less damage and quickly recover health. If you are outside of your area you take more damage and don't heal. Kills you get automatically pick up ammo boxes from killed enemies if you are inside of your area. However you have no armor and you are really slow. Sometimes you just can't have everything.
 
 ### Additional info/tips
-This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choise is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the richochet perk card.
+This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choise is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the richochet "Porcupine" perk card.
 
 ### Build(s) to try
 Barebone skills - https://pd2builder.netlify.app  
@@ -590,10 +590,12 @@ such and such
 
 # COPYCAT:
 
-|  | Updated cards - 1, 3, 5, 7, 9 |
+|  | Updated cards - 1, 3, 5, 7, 9 (every single copy) |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_first4_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_first4.png)  |
+
+Info on all the 9th card replacements (including 3 new ones from custom perks) are further bellow.
 
 ### Changes Summary
 Copycat overall is a really good deck, but amount of health you gain from it is simply too good. Gaining 2 tap health on DS with a 2 second invulerability by just having a joker is a bit too good, considering some options from the 9th perk card copies, so some of the neutral aspects (non-copy parts) of the deck were nerfed.  
@@ -603,10 +605,8 @@ Copycat overall is a really good deck, but amount of health you gain from it is 
 - Card 5: Identical
 - Card 7: Updated the invulnerability effect to activate how you would assume it would activate in vanilla. In vanilla this skill can activate even if your armor is full, wasting the cooldown. Additionally, in vanilla, you can take enough damage for this skill to activate, but you would still go down because your health reached 0 before the skill was activated. Now there is a safety net for this effect, limiting you to just 1 health in such scenarios. To compensate slighlty, this cooldown was increased from 15 to 20 seconds.
 
-Info on all the 9th card replacements (including 3 new ones from custom perks) are further bellow.
-
 ### Additional info/tips
-Focus on keeping your health above 50% threshold to be able to trigger the invulnerability effect. If you are running copies that don't provide you with additional healing, do not get yourself more health, unless you are using hostage taker, because 3rd card always recovers a flat amount of health, and it would be easier to get to 50% threshold from this healing if your max health is not increased.
+Focus on keeping your health above 50% threshold to be able to trigger the invulnerability effect. If you are running 9th copies that don't provide you with additional healing, do not get yourself more health, unless you are using Hostage Taker, because 3rd card always recovers a flat amount of health, and it would be easier to get to 50% threshold from this healing if your max health is not increased.
 
 ### Build(s) to try
 Barebone skills - https://pd2builder.netlify.app  
@@ -618,7 +618,8 @@ Weapons to use:
 such and such
 
 ### 9th card copies
-Replaced card names to always showcase mimicking perk deck name instead of showing the name of a skill from a perk deck. On top of the fact that this is confusing because you simply can't know all of their names, they are also not always correct, because sometimes a mimicking 9th card can combine bonuses of multiple cards of a perk deck with different names.
+Replaced mimicking card's name to always be the name of the copied perk deck, instead of showing the name of the card from the perk deck you are copyng. On top of the fact that this is confusing because you simply can't know all of their names, they are also not always correct, because sometimes a mimicking 9th card can combine bonuses of multiple cards of a perk deck with multiple different names.  
+In the same way, mini-icon from the perk deck you are copying will always be whatever the 9th card's icon of that perk is, instead of being based on whichever card of the perk deck you are copying, since this is the icon you normaly see in the invetory scren for selected perk deck.
 
 ### 9th copy - Crew Chief
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crew_Chief.png) |
