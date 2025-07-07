@@ -597,7 +597,7 @@ does this that and that
 Weapons to use:  
 such and such
 
-# COPYCAT:
+# COPYCAT (5/5):
 
 |  | Updated cards - 1, 3, 5, 7, 9 (every single copy) |
 | -------- | -------- |
