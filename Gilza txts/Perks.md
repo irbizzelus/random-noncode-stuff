@@ -569,7 +569,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Custom perk - Brawler:
+# CUSTOM PERK - Brawler:
 
 |  |
 | -------- |
@@ -592,7 +592,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Custom perk - Speed Junkie:
+# CUSTOM PERK - Speed Junkie:
 
 |  |
 | -------- |
@@ -617,7 +617,7 @@ Weapons:
 UPDATE
 
 
-# Custom perk - Guardian:
+# CUSTOM PERK - Guardian:
 
 |  |
 | -------- |
@@ -677,7 +677,7 @@ Replaced card names to always showcase mimicking perk deck name instead of showi
 ### 9th copy - Crew Chief
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crew_Chief.png) |
 | -------- |
-| Vanilla bonuses + 50% stamina + shouting range + 8% extra damage resistance. This card now provides highest DR of all 9th card copies while providing additonal minor buffs. |
+| This card now provides highest damage resistance of all 9th card copies while providing additonal minor buffs. |
 
 ### 9th copy - Muscle
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Muscle.png) |
@@ -697,7 +697,7 @@ Replaced card names to always showcase mimicking perk deck name instead of showi
 ### 9th copy - Hitman
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Hitman.png) |
 | -------- |
-|  Now copies first 2 cards from reworked hitman. New recovery is higher, but is now temporary instead of fully passive. |
+|  Now copies first 2 cards from reworked hitman. New recovery is higher, but is now temporary instead of fully passive. Stability penalty is identical, since vanilla's -16 is incorrect, and it's actualy -8. |
 
 ### 9th copy - Crook
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crook.png) |
@@ -707,94 +707,94 @@ Replaced card names to always showcase mimicking perk deck name instead of showi
 ### 9th copy - Burglar
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Burglar.png) |
 | -------- |
-| big wow |
+| Allows to run LBV with same dodge values as 2 Piece Suit, and allows to create low detection builds easier. Dodge removed, since this is not key bonus of Burglar. |
 
 ### 9th copy - Infiltrator
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Infiltrator.png) |
 | -------- |
-| big wow |
+| The only copy card that allows you to deal extra damage with melee weapons. Additional healing is on the stronger side compared to other healing copy cards, allowing for imrpoved sustain, at relatively low risk.  |
 
 ### 9th copy - Sociopath
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Sociopath.png) |
 | -------- |
-| big wow |
+| Identicall to vanilla. |
 
 ### 9th copy - Gambler
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Gambler.png) |
 | -------- |
-| big wow |
+| Copies first card of reworked gambler, while also providing the ammo share aspect of the perk, to make gambler actually have some supportive capabilities for the team. |
 
 ### 9th copy - Grinder
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Grinder.png) |
 | -------- |
-| big wow |
+| Strongest (potential) health regneration of all copy cards, so it was unchanged. Weapons with DOT affects recommended. |
 
 ### 9th copy - Yakuza
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Yakuza.png) |
 | -------- |
-| big wow |
+| All bonuses are now only active while bellow 50% health to imrpove survivability while bellow the invulnerability threshold, since this copy card does not provide any healing abilities to get to the 50% invulnerability requirement. |
 
 ### 9th copy - Ex-president
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Ex-president.png) |
 | -------- |
-| big wow |
+| Identicall to vanilla, doesnt provide any rework related bonuses. Allows for 2 tap health on DS. |
 
 ### 9th copy - Maniac
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Maniac.png) |
 | -------- |
-| big wow |
+| Similar to vanilla, since copies are for the same cards as vanilla - first and second. For explanation on why and how first card was reworked, go to maniac tab. Allows for 2 tap health on DS at ~40% stacks. |
 
 ### 9th copy - Anarchist
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Anarchist.png) |
 | -------- |
-| big wow |
+| Vanilla cooldown is incorrect and is actually 45 seconds, so techically the cooldown is buffed. Armor gating is better for heavier armors like stock anarchist. For more info go to anarchist tab. |
 
 ### 9th copy - Biker
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Biker.png) |
 | -------- |
-| big wow |
+| Copies only the first card, just like in vanilla. For details on first card updates go to the Biker tab. |
 
 ### 9th copy - Kingpin
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Kingpin.png) |
 | -------- |
-| big wow |
+| No changes - "1 second cooldown reduction per kill" added to descriptions, since that's how it already works in vanilla. |
 
 ### 9th copy - Sicario
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Sicario.png) |
 | -------- |
-| big wow |
+| Copies first card like vanilla, so only change is to the smoke bomb cooldown: 60 to 45 seconds. |
 
 ### 9th copy - Stoic
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Stoic.png) |
 | -------- |
-| big wow |
+| Copies the first card. First card in stoic was nerfed to make player take more damage, but with newley reworked invulderability it is still one of the stongest options of copycat. |
 
 ### 9th copy - Tag Team
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Tag_Team.png) |
 | -------- |
-| big wow |
+| Copies the first card. Same as vanilla with no LOS requirement and slighlty bigger effect duration increase per kill. |
 
 ### 9th copy - Hacker
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Hacker.png) |
 | -------- |
-| big wow |
+| Copies the first card. Cooldown nerfs are applied. |
 
 ### 9th copy - Leech
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Leech.png) |
 | -------- |
-| big wow |
+| Copies the first rewoked card, and also can reduce the cooldown by 15 seconds on teammate or self revive. Great for semi god mode for difficulties bellow DS, and on DS should be used to either heal up in a pinch, or to revive a teammate while under affect to heal after effect is done. Keep in mind that if your health reaches 0 during the effect you will die, unlike fully upgraded Leech. |
 
 ### 9th copy - Brawler
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Brawler.png) |
 | -------- |
-| big wow |
+| Best armor gating option if you use melee weapons, that does not provide any additional healing/sustain bonuses. If you don't use melee, having 1 stack of regeneration active is also decent, since it can armor gate much more often than anarchist, but it doesnt provide a damage invulnerability bonus. |
 
 ### 9th copy - Speed Junkie
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Speed_Junkie.png) |
 | -------- |
-| big wow |
+| Highest amound of bous dodge you can get from copy cards, which is near impossible to reach. |
 
 ### 9th copy - Guardian
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
-| big wow |
+| One of the strongest health healing options, but doesnt provide 2 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
