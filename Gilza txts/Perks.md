@@ -367,7 +367,7 @@ There are only 2 important changes:
 1) Armor gating is now achieved easier if you run high end armors instead of low end armors, since bigger armor has shortest time in-between regeneration
 2) Chosen armor affects amount and cooldown of the "armor regen on enemy hit" effect from the 9th perk card, and similarly to the first effect it has shorter cooldowns for higher armors
 
-Basically all armors are now flipped. This is a side grade to vanilla version of anarchist, since you can get more armor gating from ICTV than what vanilla anarchist suit allows, but at the same time you can not build crits+zerk set ups anymore, while also slowing you down (movement wise) since you would want to run heavier armor for best armor gating. ICTV is even more braindead on DS in terms of survivability sometimes than vanilla suit, but the fact that it will take you 3x more time to run to cover if you are caught out in the open compensates itself already.  
+Basically all armors are now flipped. This is a side grade to vanilla version of anarchist, since you can get more armor gating from ICTV than what vanilla anarchist suit allows, but at the same time you can not build crits+zerk set ups anymore, while also slowing you down (movement wise) since you would want to run heavier armor for best armor gating. ICTV is even more braindead on DS in terms of survivability sometimes than vanilla's suit, but the fact that it will take you 3x more time to run to cover if you are caught out in the open compensates itself already.  
 Since changes above are mostly focused at DS difficulty where armor gating is important, another small change was made for lower end armors, which favours lower difficulties. Your total amount of armor gain per minute is higher with lower end armors like the suit. This is true for both passive and on-damage effect. So if you prefered to run ICTV anarchist in vanilla on lower difficulties, you can now go for something like a HBV or a suit, to gain movement speed and about the same armor gain per minute.
 
 ### Build(s) to try
@@ -383,13 +383,13 @@ such and such
 
 |  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
-|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Biker.png)  |
-|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Biker_vanilla.png)  |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Biker_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Biker.png)  |
 
 ### Changes Summary
 Added a little bit of armor and health to improve passive survivability and allow for 2 tap armor by default on DS.  
-Functionality of the core of the deck is unchanged, "Stack of Regeneration" is a term that i invented for the healing effect you get and the newly re-written description describes how the perk actually works on the back-end, to give players who wish to optimize thier playstyle more information. On top of standard functionality, you will no longer be able to receive, aka waste, stacks of regeneration while af full armor and health. For the same reason "Overstack Prevention" cooldown was added. This effect, while active, will ignore incoming healing from kills, if you have any amount of armor left. This effect does not affect your total possible amount of healing per minute, since it also gets reduced by 5th and 9th cards, where standard stack of regeneration cooldown is noramly reduced. It's also completely ignored while you have no armor remaining.  
-Overall these changes were made to make this deck much more consistent, and do not require infoHUD's of any sort to survive, since you almost always will have stacks to gain regeneration from.
+Functionality of the core of the deck is unchanged, "Stack of Regeneration" is a term that i invented for the healing effect you get and the newly re-written description describes how the perk actually works on the back-end, to give players who wish to optimize thier playstyle more information. On top of standard functionality, you will no longer be able to receive, a.k.a. waste, stacks of regeneration while af full armor and health. For the same reason "Overstack Prevention" cooldown was added. While this extremely short cooldown is active, any incoming biker specific heals will be ignored, if you have any amount of armor left. This effect does not affect your total possible amount of healing per minute, since it also gets reduced by 5th and 9th cards, where standard stack of regeneration cooldown is noramly reduced. It's also completely ignored while you have no armor remaining, allowing for as much armor gating as possible. This was added, mostly, to avoid situations where a teammate of yours (or maybe even you) uses a grenade/rocket launcher or a sniper with graze gaining a big multikill on the other side of the map, activating 4 healing cooldowns for you for next ~4 seconds, practically disabling your perk deck untill your cooldowns are done.  
+Overall these changes were made to make this deck much more consistent, and it no longer requires infoHUD's of any sort to track your stacks to survive, since you almost always will have stack slots to gain regeneration from.
 
 ### Build(s) to try
 Barebone skills - https://pd2builder.netlify.app  
@@ -421,7 +421,7 @@ such and such
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario_vanilla.png) | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario.png) |
 
 ### Changes Summary
-Smokebomb cooldown was reduced from 60 to 45 seconds, since this perk deck is allright.
+Smokebomb cooldown was reduced from 60 to 45 seconds, since this perk deck is alright.
 
 ### Additional info/tips
 Do not equip new Revitalized skill from tier 4 artfull dodge subtree since it doesn't do anything when you have sicario.
@@ -445,8 +445,8 @@ such and such
 ### Changes Summary
 Most of the changes are numerical, for the most part reducing effectivness of this perk deck slighlty, specifically for the first card. (Main reason - COPYCAT, second reason - this deck is a bit too good)
 - Card 1: Changed direct and indirect damage split from 75% to 70% to increase incoming damage taken. Reduced DOT part of the damage split to 10 seconds from 11.2 (12 is vanilla's inaccuracy) to make DOT go down faster, dealing more damage.
-- Card 7: Cooldown gain while at low health reduced from 2 to 1.5 seconds to compensate new threshold of 45%. This skill should now activate much more often, improving survivability as compensation for the nerfs in the first perk card
-- Card 9: Similarly to card 7, this is a compensation for the first card, to make healing slighlty better, since you now take more direct damage, and DOT you have is drained faster.
+- Card 7: Cooldown gain while at low health reduced from 2 to 1.5 seconds to compensate new threshold of 45%. This skill should now activate much more often, improving survivability as compensation for the nerfs in the first perk card.
+- Card 9: Similarly to card 7, this is a compensation for the first card, to make healing slighlty better, since you now take more direct damage, and DOT damage you get is drained faster.
 
 Overall this deck should feel about the same, but you may wanna play it slighlty more carefuly, since you take a bit more damage now.
 
@@ -459,7 +459,7 @@ does this that and that
 Weapons to use:  
 such and such
 
-# Tag Team (3/5):
+# Tag Team (2/5):
 
 |  | Updated cards - 1, 5 |
 | -------- | -------- |
@@ -467,7 +467,7 @@ such and such
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Tag_Team.png)  |
 
 ### Changes Summary
-Removed LOS (line of sight) requirement to the target. Increased amount that the timer is increased by, to keep the effect going for longer easier. Increased max possible damage abosrption, and reduced required amount of kills to get it, to imrpove survivability.  
+Removed LOS (line of sight) requirement to the target. Increased amount that the timer is increased by per kill, to keep the effect going for longer easier. Increased max possible damage abosrption, and reduced required amount of kills to get it, to imrpove survivability.  
 This deck's main issue is how expensive it is to run well (skill points wise), even though it does work pretty well when it's set up, so not that many changes were needed.
 
 ### Build(s) to try
@@ -487,9 +487,9 @@ such and such
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Hacker.png)  |
 
 ### Changes Summary
-Nerfed cooldown of 1 ECM to 140 seconds, nerfing it for both stealth and loud.  
+Nerfed ECM cooldown to 140 seconds, nerfing it for both stealth and loud.  
 Cooldown gain per kill reduced from 6 to 4 seconds. ECM duration in loud increased to 12 seconds to compensate much longer breaks in between uses. Healing gained per kill was increased to compensate longer intervals in-between activations. Temporary dodge now requires 3 kills, and provides the same dodge bonus, but for longer to compensate breaks between uses.  
-This perk deck is simply too good, and the main reason for it is the ECM stun effect. Making ECMs activate less often allows for "spammibility" of this deck to go down, while keeping player survivability at the same level.
+This perk deck is simply too good, and the main reason for that is just the ECM stun effect. Making ECMs activate less often allows for stun spammibility of this deck to go down, while keeping player survivability at roughly the same level.
 
 ### Build(s) to try
 Barebone skills - https://pd2builder.netlify.app  
@@ -511,12 +511,12 @@ such and such
 ### Changes Summary
 Moved to Support category.  
 Probably the furthest from vanilla rework of any deck. Vanilla leech simply has too many things going for it. Is it supposed to be a kingpin replacment with activatable semi god mode? Is it supposed to be a support healing deck like gambler? Is it supposed to be a clutch deck that allows you to pick yourself up and carry your team to victory? This deck simply has too many aspects to make it make sense, while also being both overpowered and braindead easy to use if you combine it with mult-shot weapons like rocket launchers or graze sniper rifles.  
-This rework is my atttempt to make this perk deck into a more supportive role, while keeping most of the aspects of this deck, that will just work differently.
-- Card 1: Increased cooldown from 40 to 80 seconds. Reduced amount of divisible health segments from 5 to 4. Reduced threshold for damage that is required to deplete 2 segments from 200 to 150. Whenever you go down your cooldown will be forced to at least 25 seconds, to prevent you from immedieately reviving yourself to reduce potential clutch moments when deck is maxed at 9/9 cards and to also punish you for not using the cooldown (this actualy makes new buffed messiah really good with leech, allowing you to imrpove your cooldown while downed easier). Removed teammate heal on damage taken. Removed invulerability and heal after 2 kills. Replaced both previosuly mentioned removed mechanics with a new one which combines prevous two in a new way. After taking damage you lose 1-2 health segments and then get invulnerability for a short period. Securing a kill during this period can recover 1 health segement and recover health for your teammates. Added new supprotive feature: if you revive a teammate while the Amuple effect is active, when Ampule effect is over you will get healed automatically, to imrpove your survivability. The 25% team heal reduction you have with other Leech players on your team is a vanilla feature that is normaly not mentioned in the description.
+This rework is my atttempt to make this perk deck fulfill more of a supportive role, while keeping most aspects of this deck. But also changing them somewhat significantly.
+- Card 1: Increased cooldown from 40 to 80 seconds. Reduced amount of divisible health segments from 5 to 4. Reduced threshold for damage that is required to deplete 2 segments from 200 to 150. Whenever you go down your cooldown will be forced to at least 25 seconds, to prevent you from immedieately reviving yourself to reduce potential clutch moments when deck is maxed at 9/9 cards and to also punish you for not using the cooldown (this actualy makes new buffed Messiah really good with Leech, allowing you to imrpove your cooldown while downed easier). Removed teammate heal on damage taken. Removed invulerability and heal after 2 kills. Replaced both previosuly mentioned removed mechanics with a new one which combines prevous two in a new way. After taking damage you lose 1-2 health segments and then get invulnerability for a short period. Securing a kill during this period can recover 1 health segement and recover health for your teammates. Added new supprotive feature: if you revive a teammate while the Amuple effect is active, when Ampule effect is over you will get healed automatically, to imrpove your survivability. The 25% team heal reduction you have with other Leech players on your team is a vanilla feature that is normaly not mentioned in the description.
 - Card 3: Made the last stand mechanic more similar to the Swan Song effect, which does not allow you to heal or use FAK Uppers skill, since this threshold is much harder to get to now, so you need to be punished more if you ever get to it. If you revive a teammate you won't go down after Ampule effect ends even if you were at 0 health, to imrpove the new supportive nature of this deck.
 - Card 5: Increased cooldown gain per kill from 1 to 1.5 seconds to compensate longer cooldown. This doesnt fully compensate the cooldown since new cooldown is 2x the vanilla, and the reason for that is new cooldown reduction in card 7.
 - Card 7: Reviving teammates reduces Ampule cooldown by 15 seconds. Being revived does the same, to make effective cooldown punishment from going down only 10 seconds long.
-- Card 9: Removed 60% health bonus to remove 2 tap health on DS while Ampule effect is not active to reduce overall survivability. While ampule effect is active max possible amount of segments is now 5 (instead of 10), and amount of healing while getting kills in the invulnerable state is now doubled at 2 segments. This allows you to reliably heal yourself while effect is active on lower difficulties, since you will mostly be taking 1 segment worth of damage, while also allowing you to have a semi god mode on DS difficulty, since you mostly will be both losing and gaining 2 segments. This is still a semi god mode, because you only have a short time period (currently 1 second) to get a kill to recover your health. Heal amount on teammates is increased even more since you will trigger this healing effect less often than vanilla Leech can.
+- Card 9: Removed 60% health bonus to remove 2 tap health on DS while Ampule effect is not active, to reduce overall survivability. While ampule effect is active max possible amount of segments is now 5 (instead of 10), and amount of healing while getting kills in the invulnerable state is now doubled at 2 segments. This allows you to reliably heal yourself while effect is active on lower difficulties, since you will mostly be taking 1 segment worth of damage, while also allowing you to have a semi god mode on DS difficulty, since you mostly will be both losing and gaining 2 segments. This is still a semi god mode, because you only have a short time period (currently 1 second) to get a kill to recover your health. Heal amount on teammates is increased even more since you will trigger this healing effect less often than vanilla Leech can.
 
 ### Additional info/tips
 Please, please, please use Painkillers skill on higher difficulties. Bonuses that you get from teammate revives are not incredibly strong, while letting your teammates go down again because they are in a vulnerable position and you don't have this skill is both foolish and not nice. This is a general tip for using Inspire skill, but it applies to this new version of Leech the most.
