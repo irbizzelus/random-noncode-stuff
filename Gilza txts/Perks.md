@@ -4,7 +4,7 @@
 
 <p align="right"> Use this icon to select the perk you are interested in: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for DEV patch: 2.5
+Stats are updated for DEV patch: 2.5 (BUILDS SECTION IS NOT DONE)
 
 # General info:
 
