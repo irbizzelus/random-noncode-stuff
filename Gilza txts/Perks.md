@@ -13,6 +13,7 @@ Stats are updated for DEV patch: 2.5
 TODO:
 - add missing build recomendations
 - fix yakuza images and affected cards
+- fix some inconsistencies with copycat's 9th card image formats
 
 # General info:
 
@@ -667,7 +668,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Infiltrator
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Infiltrator.png) |
 | -------- |
-| The only copy card that allows you to deal extra damage with melee weapons. Additional healing is on the stronger side compared to other healing copy cards, allowing for imrpoved sustain, at relatively low risk.  |
+| The is the only copy card that allows you to deal extra damage with melee weapons. Additional healing is on the stronger side compared to other healing copy cards, allowing for imrpoved sustain, at relatively low risk.  |
 
 ### 9th copy - Sociopath
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Sociopath.png) |
@@ -682,7 +683,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Grinder
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Grinder.png) |
 | -------- |
-| Strongest (potential) health regneration of all copy cards, so it was unchanged. Weapons with DOT affects recommended. |
+| Strongest (potential) health regneration of all copy cards, so it was unchanged. Weapons with DOT effects recommended. |
 
 ### 9th copy - Yakuza
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Yakuza.png) |
@@ -747,7 +748,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Speed Junkie
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Speed_Junkie.png) |
 | -------- |
-| Highest amound of bous dodge you can get from copy cards, which is near impossible to reach. |
+| Highest amound of bous dodge you can get from copy cards, but it's near impossible to reach. |
 
 ### 9th copy - Guardian
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
