@@ -8,7 +8,11 @@
 
 <p align="right"> Use this icon to select the perk you are interested in: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for DEV patch: 2.5 (BUILDS SECTION IS NOT DONE)
+Stats are updated for DEV patch: 2.5
+
+TODO:
+- add missing build recomendations
+- fix yakuza images and affected cards
 
 # General info:
 
@@ -416,7 +420,7 @@ such and such
 
 # Sicario (1/5):
 
-| Vanilla | Gilza |
+| Vanilla (1st card) | Gilza (1st card) |
 | -------- | -------- |
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario_vanilla.png) | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario.png) |
 
@@ -560,7 +564,7 @@ Speed is your life.
 Moving provides you with points to a meter which provides bonuses to dodge, weapon swap speed, weapon reload speed and interaction speeds. Kills fill up this meter as well, and also recover your stamina. You trade almost all of your health for armor, and you gain a little bit of armor when you dodge once a second. More damaged your armor is - more movement speed you get.
 
 ### Additional info/tips
-One of a few (if not the only) perk deck that actually gets use out of the Running from Death skill. Adrenaline spike is an RNG based temporary effect that gives you practical god mode and increased kill potential, but keep in mind that once it's over you are screwed if you are not in cover. This is the ultimate run and run perk deck, but it has a flaw - you can't really use text chat since you cant move and use chat, and not moving with this deck is a death sentence.
+One of a few (if not the only) perk deck that actually gets use out of the Running from Death skill. Adrenaline spike is an RNG based temporary effect that gives you practical god mode and increased kill potential, but keep in mind that once it's over you are screwed if you are not in cover. This is the ultimate run and gun perk deck, but it has a flaw - you can't really use text chat since you cant move and use chat, and not moving with this deck is a death sentence.
 
 ### Build(s) to try
 Barebone skills - https://pd2builder.netlify.app  
@@ -602,7 +606,7 @@ such and such
 Info on all the 9th card replacements (including 3 new ones from custom perks) are further bellow.
 
 ### Changes Summary
-Copycat overall is a really good deck, but amount of health you gain from it is simply too good. Gaining 2 tap health on DS with a 2 second invulerability by just having a joker is a bit too good, considering some options from the 9th perk card copies, so some of the neutral aspects (non-copy parts) of the deck were nerfed.  
+Copycat overall is a really good deck, but amount of health you gain from it is simply too good. Gaining 2 tap health on DS with a 2 second invulerability by just having a joker is a bit too good, considering some options you can get from the 9th perk card copies, so some of the neutral aspects (non-copy parts) of the deck were nerfed.  
 - Choose a boost for cards 1,3,5,7: Health bonus is reduced from 20% to 15%, to make 2 tap health builds on DS harder to get. Armor and dodge bonuses unchanged. Crouch and bag movement speed bonus was unchanged, but this bonus now also allows to carry more total ammo. This is a niche upgrade, but can be sometimes usefull, when you just simply don't need other upgrades.
 - Card 1: Identical
 - Card 3: Identical, but the heal bonus is different when using Bullseye skill. This was done in such a way because both of these skills share a cooldown in the code. It is possible to split these timers, but if i did so, all infoHUD's out there will be broken and display incorrect information. This way infoHUD's wont be broken and overall amount per minute is the same, even though you could agrue that this will lead to slighlty less healing since you can't always activate this skill after it's cooldown is over, but thats a small price to pay considering other buffs this perk got.
