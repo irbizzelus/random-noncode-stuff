@@ -671,19 +671,32 @@ UPDATE
 Weapons:
 UPDATE
 
-### Copycat 9th card copy - Crew Chief, Muscle, Armorer, Rogue
-| Crew Chief |
+### 9th copy - Crew Chief
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crew_Chief.png) |
 | -------- |
-|  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crew_Chief.png) |
+| Vanilla bonuses + 50% stamina + 8% extra damage resistance. This card now provides highest DR of all 9th card copies while providing a stamina team boost. |
 
-| Muscle |
-| -------- |
+### 9th copy - Muscle
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Muscle.png) |
-
-| Armorer |
 | -------- |
-|![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Armorer.png) |
+| One of a few ways to get 2 tap health on DS for copycat. Passive health regeneration added for improved health upkeep, but total amount is lower than muscle itself. |
 
-| Rogue |
+### 9th copy - Armorer
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Armorer.png) |
 | -------- |
-| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Rogue.png)|
+|  Similarly to vanilla anarchist 9th card copy now provides a damage invlunerability window, at a longer cooldown than the original perk. |
+
+### 9th copy - Rogue
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Rogue.png) |
+| -------- |
+|  Dodge deck copy now provides dodge bonuses. Techically slighlty better than best in slot dodge in vanilla copycat. |
+
+### 9th copy - Hitman
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Hitman.png) |
+| -------- |
+|  Now copies first 2 cards from reworked hitman. New recovery is higher, but is now temporary instead of fully passive. |
+
+### 9th copy - Crook
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crook.png) |
+| -------- |
+|  Crook's effects were indirectly buffed by artful dodger sub tree in ghost, so no new effects are needed. This is the only 9th copy card that provides imrpoved AP bonus. |
