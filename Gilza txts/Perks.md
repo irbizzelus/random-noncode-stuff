@@ -18,7 +18,7 @@ Gilza's CUSTOM perk decks are located closer to the bottom of the page, right be
 Here are the most important aspects of Gilza's rebalance which you need to know before going through most of the perk updates bellow:
 1) Melee damage is now applied as a % of enemy's total health per hit, so a 35 damage melee kills an enemy in 3 hits. Some enemies, like Bulldozers and Bosses, have resistance to melee-%-damage and will take less damage (for example - Bulldozers take 10x less melee damage). This makes melee weapons overall much more effective, but most skills and perks affecting melee were nerfed to compensate.
 2) Damage resistance is now combined additively instead of multiplicatively. This affects all damage resistance skills in the game, effectively buffing this statistic, especially if you decide to stack multiple DR skills. Note that max possible damage resistance is only 85%, to avoid "god mode" situations. (Example: in vanilla having 25% DR, 10% DR, and 15% DR would reduce incoming damage by: 100% * 0.75 * 0.9 * 0.85 = 57.375% or about 43% total damage resistance. With Gilza you will instead get 50% damage resistance total with the same combo.)
-3) "Underdog" skill activation trigger is now different. In vanilla this skill is based on enemies that are currently hostile to you, but with Gilza this check was replaced with a LOS (line-of-sight) check between you and the enemy, making this skill more consistent for Online play. In addition, instead of activating for 7 seconds, then having a 1 (or more) second cooldown before activating the 7 second buff again, this skill will now endlessly re-activate itself as long as you have required amount of enemies withing your LOS, but the lingering duration was reduced to 5 to compensate. This skill's activation trigger is shared with, and affects some perk cards for: Crew Chief, Infiltrator and Sociopath perk decks.
+3) "Underdog" skill activation trigger is now different. In vanilla this skill is based on enemies that are currently hostile to you, but with Gilza this check was replaced with a LOS (line-of-sight) check between you and the enemy, making this skill more consistent for Online play. In addition, instead of activating for 7 seconds, then having a 1 (or more) second cooldown before activating the 7 second buff again, this skill will now endlessly re-activates itself as long as you have required amount of enemies withing your LOS, but the lingering duration was reduced to 5 seconds to compensate. This skill's activation trigger is shared with, and affects some perk cards for: Crew Chief, Infiltrator and Sociopath perk decks.
 
 | Some perk cards have received updates for their descriptions. How different they are depends on severity of misinformation/inaccuracy that vanilla perk description might have had. For the most part, changes are limited to clearing up potential confusion, but sometimes they can also give you more information on how certain aspects of skill actually function. For example, this is how 9th Crew Chief card was re-written. This card works exactly as it does in vanilla, but now it allows you to understand it's mechanics a little better. |
 | -------- |
@@ -30,7 +30,7 @@ Most perk decks noted bellow will follow this format:
 2) Image showcase of the changes - easiest way to go through all the changes.
 3) Summary of the changes - usually includes an answer for the question "why?" for most changes. This part may sometimes be split per perk deck card for ease of reading.
 4) Additional tips - if perk's rework was significant enough, this is a custom perk deck, or there is some other reason to share them - tips for the perk might appear under this section.
-5) Build(s) to try - includes a "barebones" set up with most important skills for each deck (yes, bullseye is almost always there), and at least 1 build to try, in case you don't feel like figuring out a new build, due to how many changes this mod has made. Most builds do not include an in-depth description of weapons and their attachments, because you should figure those out on your own, since Gilza allows for much more variety when it comes down to the weapon selection. Builds themselves are Death Sentence difficulty focused, which will most likely make them work well at lower difficulties as well. Some builds may be specified to be only viable for certain difficulties.
+5) Build(s) to try - includes a "barebones" set up with most important skills for each deck (yes, bullseye is almost always there), and at least 1 build to try, in case you don't feel like figuring out a new build, due to how many changes this mod has made. Most builds do not include an in-depth description of weapons and their attachments, because you should figure those out on your own, since Gilza allows for much more variety when it comes down to the weapon selection. Builds themselves are Death Sentence difficulty focused, which will most likely make them to work well at lower difficulties as well. Some builds may be specified to be only viable for certain difficulties.
 
 -----
 
@@ -91,14 +91,14 @@ such and such
 
 -----
 
-# Rogue (3/5):
+# Rogue (2/5):
 
 | Vanilla (9th card) | Gilza (9th card) |
 | -------- | -------- |
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Rogue_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Rogue.png)  |
 
 ### Changes Summary
-Copycat and Hacker are both just straight upgrades to this deck, so to compensate, this deck is now slighlty more effective in it's own playstyle. Dodge buffs might be extremely small, but do consider that new options in the arfull dodger skill sub-tree are also indirectly buffing this deck. Additionally, AP chance can now work well with both new Surefire and Silencer AP skills, instead of being a joke of a bonus.
+Copycat and Hacker are both just straight upgrades to this deck, so to compensate, this deck is now slighlty more effective in it's own playstyle. Dodge buffs might be extremely small, but do consider that new options in the arful dodger skill sub-tree are also indirectly buffing this deck. Additionally, AP chance can now work well with both new Surefire and Silencer AP skills, instead of being a joke of a bonus.
 
 ### Build(s) to try
 Barebone skills - https://pd2builder.netlify.app  
@@ -119,8 +119,8 @@ such and such
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Hitman.png)  |
 
 ### Changes Summary
-Probably the biggest rework of all vanilla perk decks, because vanilla version is just ass. Armor recovery is a stat that could've been important if default armor recovery timer was 5 or more seconds instead of 3, or if different armors actually altered this timer, but this is not the reality. This rework has only kept the final 9th card the same, because that affect is relatively powerfull, compared to the rest of this deck.  
-- Card 1: Now rewards you for landing "badass" kills, like with throwing knives or melee weapons, to somewhat fullfill the phantasy of John Wich movies, in which anything can be a powerfull weapon in your hands.  
+Probably the biggest rework of all vanilla perk decks, because vanilla version is just ass. Armor recovery is a stat that could've been important if default armor recovery timer was 5 or more seconds instead of 3, or if different armors actually altered this timer, but this is not the reality. This rework has only kept the final 9th card the same, because that effect is relatively powerfull, compared to the rest of this deck.  
+- Card 1: Now rewards you for landing "badass" kills with throwing knives or melee weapons, to somewhat fullfill the fantasy of John Wick movies, in which anything can be a powerfull weapon in your hands.  
 - Card 3: Statistical buffs to akimbos are the same (-16 in vanilla is an error, actual buff is just -8), and the armor recovery bonus was converted into a temporary bonus (like Overkill skill) to keep this aspect of the original perk still present. Limiting trigger to specific weapon types makes it less powerful than if you had it passively at all times from any kill, since this bonus can be increased (in Card 7) and other bonuses were also added, so it would be a bit too good.  
 - Card 5: Now provides 5 second of invulnerability with 20 second cooldown (similarly to armorer, effective cooldown is 20-5=15 seconds), if you manage to secure a specific combo. In my experience this combo is extremely difficult to achieve, especially at higher difficulties, which makes the reward that you get balanced, even if you consider the 7th card buff.  
 - Card 7: Having a bounty system on a perk deck that is named "Hitman" is just simply cool, this was good enough of a reason to add this. After killing your bounty you will now improve aspects of previous hitman specific perk cards, making the user of this deck more effective than it's vanilla counterpart, but only sometimes, and not for too long, which makes it balanced, while also allowing to keep playing it roughly how you would in vanilla (aka relying purely on recovery).
@@ -139,14 +139,14 @@ such and such
 
 -----
 
-# Crook (3/5):
+# Crook (2/5):
 
 | Vanilla (9th card) | Gilza (9th card) |
 | -------- | -------- |
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crook_vanilla.png)  |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crook.png)   |
 
 ### Changes Summary
-Added 75% AP chance to allow for easier stacking of this statistic with Surefire, or Silencer AP skills. This perk deck was significantly improved via indirect buffs to the Ghost's artfull dodger sub-tree, allowing you to both gain dodge cheaper, and also gaining armor on dodge from the new tier 4 Revitalised skill. Imrpoved trigger for the underdog skill also allows you to get 2 tap armor on DS with the standard Balistic Vest, granting you 5 more dodge than the usual HBV you would use on DS.
+Added 75% AP chance to allow for easier stacking of this statistic with Surefire, or Silencer AP skills. This perk deck was significantly improved via indirect buffs to the Ghost's artfull dodger sub-tree, allowing you to both gain dodge cheaper, and also gaining armor on dodge from the new tier 4 Revitalised skill. Imrpoved trigger for the Underdog skill also allows you to get 2 tap armor on DS with the standard Balistic Vest, granting you 5 more dodge than the usual HBV you would use on DS.
 
 ### Build(s) to try
 Barebone skills - https://pd2builder.netlify.app  
@@ -250,7 +250,7 @@ Self heal and dodge should be focused.
 
 Build 1 - Ultimate ammo guy. https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100  
 Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deplotyable and the Two-Piece Suit. Keep your total concealment under 25.    
+Use ammo bags deployable and the Two-Piece Suit. Keep your total concealment under 25.    
 Weapons to use:  
 125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
 95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
@@ -278,7 +278,7 @@ does this that and that
 Weapons to use:  
 such and such
 
-# Yakuza(3/5):
+# Yakuza(4/5):
 
 |  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
@@ -286,12 +286,12 @@ such and such
 |  Gilza | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza.png)  |
 
 ### Changes Summary
-Improved anti-healing part of the perk deck by nullifying any healing from any source, except for deployables. Heal on revive is now always set 10%, even on lower difficulties, to imrpove reliability of the deck. Added 3 new affects:
+Improved anti-healing part of the perk deck by nullifying any healing from any source, except for deployables. Heal on revive is now always set 10%, even on lower difficulties, to imrpove reliability of the deck. Added 3 new effects:
 1) Resistance to armor piercing shots (from snipers) - was added to make this deck less risky, since you have to run at low health to gain benefits.
 2) Resistance when getting shot from behind (180° behind you) - was added to make the "duck to cover" gameplay less frustrating. You are already required to amost instantly react to your armor being broken and seeking (or ducking in) cover on higher difficulties, being shot from behind when you get flanked makes your "shoot, duck in cover, shoot" gameplay even less powerful than it already is. This feature mostly will help you with running to cover, or avoiding being screwed by flanking enemies, without allowing you to fight back with imrpoved damage resistance.
 3) Resistance to armor suppression effect - for those who know what this is: it doesn't happen at all anymore, but total recovery will still be increased by 0.5 seconds when shot. For those who don't know:  
 Armor suppression is an effect that applies to you when you are getting shot at, even if you are not getting hit (always applies if you are hit by the shot). If you get supressed while your armor is recovering, the recovery timer is set to it's maximum duration, and then 1 extra second is added on top from suppression. Practically speaking, this effect is always applied to you, because usually when you play you are being shot at all the time, but there are a few instances when you can receive damage without this effect, like melee or fire damage. 1 extra second that is added to your armor recovery from this effect is always equal to 1, because it can not be affected by armor recovery skills. This is why having 25% armor recovery bonus will improve your armor recovery to ((3 * 0.75) + 1 = 3.15) seconds, insead of expected (4 * 0.75 = 3) seconds, when you get shot at. This means that even if your armor recovery bonus was something like 999999%, your armor recovery after being shot would still be 1.00001 seconds long.
-New resistance effect that you gain from Yakuza will now reduce this supression effect timer to always be a 0.5 instead of 1, and will remove armor recovery reset if you got shot at, but did not take any damage, making both swat turret vans and random nearby shots completely irrelevant for your armor recovery.
+New resistance effect that you gain from Yakuza will now reduce this supression effect timer to always be 0.5 seconds instead of 1 second, and will also remove armor recovery timer reset if you got shot at, but did not take any damage, making both swat turret vans and random nearby shots completely irrelevant for your armor recovery.
 
 
 ### Additional info/tips
@@ -306,7 +306,7 @@ does this that and that
 Weapons to use:  
 such and such
 
-# Ex-president (5/5):
+# Ex-president (4/5):
 
 |  | Updated cards - 5, 7, 9 |
 | -------- | -------- |
@@ -314,11 +314,11 @@ such and such
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Ex-president.png)  |
 
 ### Changes Summary
-- Card 5: Replaced 15 passive dodge chance (10 in vanilla is a typo, it's actually 15) with new "Static" dodge chance, which can not be adjusted by any skills or armors (yes, ICTV has 20 dodge). This dodge chance allows for all armors to gain extra survivability equally, since you will always trade amount of stored health, which is more important now, for armor. This does bring the 2 Piece suit down, since you cant get 30 passive 40 running dodge anymore, but this is a small price to pay, in my opinion, considering that this version makes literally every armor usable, depening on your build.  
+- Card 5: Replaced 15 passive dodge chance (10 in vanilla is a typo, it's actually 15) with new "Static" dodge chance, which can not be adjusted by any skills or armors (yes, ICTV has 20 dodge). This dodge chance allows for all armors to gain extra survivability equally, since you will always trade amount of stored health, which is more important now, for armor. This does bring the 2 Piece suit down, since you can't get 30 passive 40 running dodge anymore, but this is a small price to pay, in my opinion, considering that this version makes literally every other armor usable, depening on your build.  
 - Card 7: Added "shield" or "abosrption" mechanic for stored health to imrpove survivability by making stored health take damage first, before your actual health. This allows for low health situations to be less frustrating, since now after your armor is destroyed, even if you were to take damage to your health, stored health will be depleted first instead. Also while at full health you can also get benefits from stored health after your armor breaks.  
-- Card 9: To compensate 2 features mentioned above, which generally imrpove your survivability, 9th perk deck card was somewhat nerfed. Vanilla version increases your armor recovery timer's depletion rate by a certain %. So if your timer is at 4 seconds, depending on your armor, this timer may end up with 0.28-1 second long armor recovery after a kill. Despite how good this is, there is 1 issue however: this only applies if your armor is completely broken. New version of this skill is much more reliable since it now applies the bonus to armor recovery untill your armor fully recovers, and it's now affected by both your team's and your kills. The numbers themselves however are much less powerfull than vanilla. The biggest bonus per kill you can get now is -0.25 seconds, and the bonus will also only apply to the armor recovery part of the skill, without altering the armor suppresion 1 second delay, and also having a ceiling to it's bonus of lowest possible recovery timer at 0.8 seconds. But allowing this effect to also be imrpoved by other players' kills this makes the deck fit better with the other passive aspects of this perk.
+- Card 9: To compensate 2 features mentioned above, which generally imrpove your survivability, 9th perk deck card was somewhat nerfed. Vanilla version increases your armor recovery timer's depletion rate by a certain %. So if your timer is at 4 seconds, depending on your armor, this recovery timer may end up being 0.28-1 seconds long after a kill. Despite how good this is, there is 1 issue however: this only applies if your armor is completely broken. New version of this skill is much more reliable since it now applies the bonus to armor recovery untill your armor fully recovers, and it's now affected by both your team's and your kills. The numbers themselves however are much less powerfull than vanilla. The biggest bonus per kill you can get now is -0.25 seconds, and the bonus will also only apply to the armor recovery part of the skill, without altering the armor suppresion 1 second delay, and also having a ceiling to it's bonus of lowest possible recovery timer at 0.8 seconds. But allowing this effect to also be imrpoved by other players' kills this makes it fit better with the other passive aspects of this perk.
 
-This perk is mostly buffed, but still feels pretty balanced, while being much easier to run, since you don't have to run an explosive shotgun to break your armor to heal yourself anymore. Most armors also have new stored health amounts now, which are balanced around DS difficulty and how many damage instances you can take there while at maxed amount of stored health (based around 2 skills - 10% dmg resist from any source, and Partners in Crime's 30% health boost).
+This perk is mostly buffed, but still feels pretty balanced, while being much easier to run, since you don't have to run an explosive shotgun to break your armor to heal yourself anymore. Most armors also have new stored health amounts now, which are balanced around DS difficulty and how many 225 hits you can take there while at maxed amount of stored health (based around 2 skills - 10% dmg resist from any source, and Partners in Crime's 30% health boost).
 
 ### Additional info/tips
 Gameplay is about the same as in vanilla, and can be even more passive now, since you can get armor recovery bonuses from teammates. Damaging yourself with explosives to heal might still be a decent idea in some cases, but relying on it, in my opinion, is not needed at all anymore.
@@ -365,7 +365,7 @@ such and such
 ### Changes Summary
 There are only 2 important changes:
 1) Armor gating is now achieved easier if you run high end armors instead of low end armors, since bigger armor has shortest time in-between regeneration
-2) Chosen armor affects amount and cooldown of the "armor regen on enemy hit" effect, and similarly to the first effect it has shorter cooldowns for higher armors
+2) Chosen armor affects amount and cooldown of the "armor regen on enemy hit" effect from the 9th perk card, and similarly to the first effect it has shorter cooldowns for higher armors
 
 Basically all armors are now flipped. This is a side grade to vanilla version of anarchist, since you can get more armor gating from ICTV than what vanilla anarchist suit allows, but at the same time you can not build crits+zerk set ups anymore, while also slowing you down (movement wise) since you would want to run heavier armor for best armor gating. ICTV is even more braindead on DS in terms of survivability sometimes than vanilla suit, but the fact that it will take you 3x more time to run to cover if you are caught out in the open compensates itself already.  
 Since changes above are mostly focused at DS difficulty where armor gating is important, another small change was made for lower end armors, which favours lower difficulties. Your total amount of armor gain per minute is higher with lower end armors like the suit. This is true for both passive and on-damage effect. So if you prefered to run ICTV anarchist in vanilla on lower difficulties, you can now go for something like a HBV or a suit, to gain movement speed and about the same armor gain per minute.
