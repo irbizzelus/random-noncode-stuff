@@ -629,7 +629,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Muscle
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Muscle.png) |
 | -------- |
-| One of a few ways to get 2 tap health on DS for copycat. Passive health regeneration added for improved health upkeep, but total amount is lower than muscle itself. |
+| One of a few ways to easily get 2 tap health on DS for copycat. Passive health regeneration added for improved health upkeep, but total amount is lower than muscle itself. |
 
 ### 9th copy - Armorer
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Armorer.png) |
@@ -639,7 +639,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Rogue
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Rogue.png) |
 | -------- |
-|  Dodge deck copy now provides dodge bonuses. Techically slighlty better than best in slot dodge in vanilla copycat. |
+|  Dodge deck copy now provides dodge bonuses. Techically slighlty better than best in slot dodge in vanilla copycat, but it's fair since you can't get 2 tap health easily anymore. |
 
 ### 9th copy - Hitman
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Hitman.png) |
@@ -649,12 +649,12 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Crook
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crook.png) |
 | -------- |
-|  Crook's effects were indirectly buffed by artful dodger sub tree in ghost, so no new effects are needed. This is the only 9th copy card that provides imrpoved AP bonus. |
+|  Crook's effects were indirectly buffed by artful dodger sub tree in ghost, so no new survival effects are needed. This is the only 9th copy card that provides imrpoved AP bonus. |
 
 ### 9th copy - Burglar
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Burglar.png) |
 | -------- |
-| Allows to run LBV with same dodge values as 2 Piece Suit, and allows to create low detection builds easier. Dodge removed, since this is not key bonus of Burglar. |
+| Allows to run LBV with same dodge values as 2 Piece Suit, and allows to create low detection builds easier. Dodge removed, since this is not the key bonus of Burglar. |
 
 ### 9th copy - Infiltrator
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Infiltrator.png) |
@@ -669,7 +669,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Gambler
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Gambler.png) |
 | -------- |
-| Copies first card of reworked gambler, while also providing the ammo share aspect of the perk, to make gambler actually have some supportive capabilities for the team. |
+| Copies first card of reworked gambler, while also providing the ammo share aspect of the perk, to make copy-gambler actually have some supportive capabilities for the team. |
 
 ### 9th copy - Grinder
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Grinder.png) |
@@ -694,12 +694,12 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Anarchist
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Anarchist.png) |
 | -------- |
-| Vanilla cooldown is incorrect and is actually 45 seconds, so techically the cooldown is buffed. Armor gating is better for heavier armors like stock anarchist. For more info go to anarchist tab. |
+| Vanilla cooldown is incorrect and is actually 45 seconds, so techically the cooldown is buffed. Armor gating is better for heavier armors because of the anarchist rework. |
 
 ### 9th copy - Biker
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Biker.png) |
 | -------- |
-| Copies only the first card, just like in vanilla. For details on first card updates go to the Biker tab. |
+| Copies only the first card, just like in vanilla. For details on first card updates go to the Biker tab, but as TLDR: it has more reliable armor gating now. |
 
 ### 9th copy - Kingpin
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Kingpin.png) |
@@ -714,22 +714,22 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Stoic
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Stoic.png) |
 | -------- |
-| Copies the first card. First card in stoic was nerfed to make player take more damage, but with newley reworked invulderability it is still one of the stongest options of copycat. |
+| Copies the first card. First card in stoic was nerfed to make player take more damage, but with newley reworked invulnerability it is still one of the stongest options for copycat. |
 
 ### 9th copy - Tag Team
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Tag_Team.png) |
 | -------- |
-| Copies the first card. Same as vanilla with no LOS requirement and slighlty bigger effect duration increase per kill. |
+| Copies the first card. Same as vanilla with no LOS requirement and slighlty bigger effect duration increase per kill. One of the better healing options for copycat. |
 
 ### 9th copy - Hacker
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Hacker.png) |
 | -------- |
-| Copies the first card. Cooldown nerfs are applied. |
+| Copies the first card. Cooldown nerfs are applied. Stun effect is as powerfull as ever. |
 
 ### 9th copy - Leech
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Leech.png) |
 | -------- |
-| Copies the first rewoked card, and also can reduce the cooldown by 15 seconds on teammate or self revive. Great for semi god mode for difficulties bellow DS, and on DS should be used to either heal up in a pinch, or to revive a teammate while under affect to heal after effect is done. Keep in mind that if your health reaches 0 during the effect you will die, unlike fully upgraded Leech. |
+| Copies the first rewoked card fully + gets the cooldown reduction by 15 seconds on teammate or self revive. Overall great option for semi god mode for difficulties bellow DS, and on DS should be used to either heal up in a pinch, or to revive a teammate while under affect to heal after effect is done. Keep in mind that if your health reaches 0 during the effect you will die, unlike fully upgraded Leech. |
 
 ### 9th copy - Brawler
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Brawler.png) |
@@ -744,4 +744,4 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Guardian
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
-| One of the strongest health healing options, but doesnt provide 2 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+| One of the strongest health healing options which doesnt provide 2 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
