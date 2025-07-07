@@ -528,7 +528,7 @@ such and such
 
 # CUSTOM PERK - Brawler:
 
-| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png)  |
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Brawler.png)  |
 | -------- |
 
 ### Summary
@@ -548,7 +548,7 @@ such and such
 
 # CUSTOM PERK - Speed Junkie:
 
-| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png) |
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Speed_Junkie.png) |
 | -------- |
 
 ### Summary
@@ -570,7 +570,7 @@ such and such
 
 # CUSTOM PERK - Guardian:
 
-| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png) |
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Guardian.png) |
 | -------- |
 
 ### Summary
