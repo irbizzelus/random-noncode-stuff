@@ -333,10 +333,14 @@ UPDATE
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Ex-president.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+- Card 5: Replaced 15 passive dodge chance (10 in vanilla is a typo, it's actually 15) with new "Static" dodge chance, which can not be adjusted by any skills or armors (yes, ICTV has 20 dodge). This dodge chance allows for all armors to gain extra survivability equally, since you will always trade amount of stored health, which is more important now, for armor. This does bring the 2 Piece suit down, since you cant get 30 passive 40 running dodge anymore, but this is a small price to pay, in my opinion, considering that this version makes literally every armor usable, depening on your build.  
+- Card 7: Added "abosrption" or "shield" mechanic for stored health to imrpove survivability by making stored health take damage first, before your actual health. This allows for low health situations to be less frustrating, since now after your armor is destroyed, even if you were to take damage to your health, stored health will be depleted first instead. Also while at full health you can also get benefits from stored health after your armor breaks.  
+- Card 9: To compensate 2 features mentioned above, which generally imrpove your survivability, 9th perk deck card was somewhat nerfed. Vanilla version reduces your current armor recovery timer by a few seconds when you get a kill, so if your timer was at 1.8 seconds remaining, depending on your armor, this timer may after a kill instnatly go down to 0 seconds and recover your armor. There are 2 problems however: 1) this only applies if your armor is completely broken and 2) if your timer didnt get reduced to 0 seconds, you may get shot and reset this timer back to full 4 seconds again. New version of this skill is much more reliable since it now applies to armor recovery at all times, not just when your armor is broken, and it also doesnt get affected by being shot at, since you keep the bonus untill the armor recovers. The numbers themselves however are much less powerfull than vanilla, for example in vanilla while running a suit, you can cut your armor recovery by 10 seconds on kill, effectively instantly recovering armor on kill. The biggest bonus per kill you can get now is 0.25 seconds, and the bonus will also only apply to the armor recovery part of the skill, without altering the armor suppresion 1 second delay, and also having a ceiling to it's bonus of lowest possible recovery timer at 0.8 seconds. By allowing this effect to also be imrpoved by other players' kills this makes the deck fit better with the other aspects of this perk.
+
+This perk is mostly buffed, but still feels pretty balanced, while being much easier to run, since you don't have to run an explosive shotgun to break your armor to heal yourself anymore. Most armors also have new stored health amounts now which are balanced around DS difficulty and how many damage instances you can take there while at maxed amount of stored health (based around 2 skills - 10% dmg resist from any source, and Partners in Crime's 30% health boost).
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Gameplay is about the same as in vanilla, and can be even more passive now, since you can get armor recovery bonuses from teammates. Damaging yourself with explosives to heal might still be a decent idea for some cases, but relying on it, in my opinion, is not needed at all anymore.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -349,7 +353,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Maniac:
+# Maniac (3/5):
 
 |  |  |
 | -------- | -------- |
