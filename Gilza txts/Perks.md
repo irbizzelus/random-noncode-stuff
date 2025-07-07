@@ -546,10 +546,17 @@ UPDATE
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+Moved to Support category.  
+Probably the furthest from vanilla rework of any deck. Vanilla leech simply has too many things going for it. Is it supposed to be a kingpin replacment with activatable god mode? Is it supposed to be a support healing deck like gambler? Is it supposed to be a clutch deck that allows you to pick yourself up and carry your team to victory? This deck simply has too many aspects to make it make sense, while also being both overpowered and braindead easy to use if you combine it with mult-shot weapons like rocket launchers or graze sniper rifles.  
+This rework is my atttempt to make this perk deck into a more supportive role, while keeping most of the aspects of this deck, that will just work differently.
+- Card 1: Increased cooldown to 80 seconds. Reduced amount of divisible segments from 5 to 4. Reduced threshold for damage that is required to deplete 2 segments from 200 to 150. Whenever you go down your cooldown will be forced to at least 25 seconds, to prevent you from immedieately reviving yourself to reduce potential clutch moments when deck is maxed at 9/9 cards and to also punish you for not using the cooldown (this actualy makes new buffed messiah really good with leech, allowing you to imrpove your cooldown while downed easier). Removed teammate heal on damage taken. Removed invulerability and heal after 2 kills. Replaced both previosuly mentioned removed mechanics with a new one which combines prevous two in a new way. After taking damage you now get invulnerability for a short period. Securing a kill during this period can recover 1 health segement and recover health for your teammates. Added new supprotive feature: if you revive a teammate while the Amuple effect is active, when Ampule effect is over you will get healed automatically, to imrpove your survivability. The 25% team heal reduction you have with other Leech players on your team is a vanilla feature that is normaly not mentioned in the description.
+- Card 3: Made the last stand mechanic more similar to the Swan Song effect, which does not allow you to heal or use FAK Uppers skill, since this threshold is much harder to get to now, so you need to be punished more if you ever get to it. If you revive a teammate you won't go down after Ampule effect ends even if you were at 0 health, to imrpove the new supportive nature of this deck.
+- Card 5: Increased cooldown gain per kill from 1 to 1.5 seconds to compensate longer cooldown. This doesnt fully compensate the cooldown since new cooldown is 2x the vanilla, and the reason for that is new cooldown reduction in card 7.
+- Card 7: Reviving teammates reduces Ampule cooldown by 15 seconds. Being revived does the same, to make effective cooldown punishment from going down only 10 seconds long.
+- Card 9: Removed 60% health bonus to remove 2 tap health on DS, and to reduce overall survivability. While ampule effect is active max possible amount of segments is now 5 (instead of 10), and amount of healing while getting kills in the invulnerable state is now doubled at 2 segments. This allows you to reliably heal yourself while effect is active on lower difficulties, since you will mostly be taking 1 segment worth of damage, while also allowing you to have a semi god mode on DS difficulty, since you mostly will be both losing and gaining 2 segments. This is still a semi god mode, because you only have a short time period (currently 1 second) to get a kill to recover your health. Heal amount on teammates is increased even more since you will trigger this healing effect less often than vanilla Leech can.
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Please, please, please use Painkillers skill on higher difficulties. Bonuses that you get from teammate revives are not incredibly strong, while letting your teammates go down again because they are in a vulnerable position and you don't have this skill is both foolish and not nice. This is a general tip for using Inspire skill, but it applies to this new version of Leech the most.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -568,11 +575,11 @@ UPDATE
 | -------- |
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png)  |
 
-### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+### Summary
+A perk deck focused on melee weapons and team "protection". You are supposed to be your team's meat shield, taking all the damage that you can, while limitng yourself with your weapon choises.
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Focus on melee and survivability skills the most. Do not assume that you have god mode, even if you currently have maxed bonuses. Use a sniper or a similar weapons to deal with snipers/shileds, while running saw and melee as your primary weapons.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -591,11 +598,12 @@ UPDATE
 | -------- |
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png)  |
 
-### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+### Summary
+Speed is your life.  
+Moving provides you with points to a meter which provides bonuses to dodge, weapon swap speed, weapon reload speed and interaction speeds. Kills fill up this meter as well. Run and gun.
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+One of a few (if not the only) perk deck that actually gets use out of the Running from Death skill. Adrenaline spike is an RNG based temorary effect that gives you practical god mode and increased kill potential, but keep in mind that once it's over you are screwed if you are not in cover. This is the ultimate run and run perk deck, but it has a flaw - you can't really use text chat since you cant move and use chat, and not moving with this deck is a death sentence.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -615,11 +623,11 @@ UPDATE
 | -------- |
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Leech_vanilla.png)  |
 
-### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+### Summary
+Stand still to create an area. While inside of your area you (mostly) take less damage and reover health really quickly. If you are outside of your are you take more damage and dont heal. Kills you get automatically pick up ammo boxes from killed enemies if you are inside of your area. However you have no armor and you are really slow. Sometimes you just can't have everything.
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choise is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the richochet perk card.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -640,10 +648,17 @@ UPDATE
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_first4.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+Copycat overall is a really good deck, but amount of health you gain from it is simply too good. Gaining 2 tap health on DS with a 2 second invulerability by just having a joker is a bit too good, considering some options from the 9th perk card copies, so some of the neutral aspects (non-copy parts) of the deck were nerfed.  
+- Choose a boost for cards 1,3,5,7: Healing bonus is reduced from 20% to 15%, to make 2 tap health builds on DS harder to get. Armor and dodge bonuses unchanged. Crouch and bag movement speed bonus was unchanged, but this bonus now also allows to carry more total ammo. This is a niche upgrade, but can be sometimes usefull, when other upgrades you just simply don't need.
+- Card 1: Identical
+- Card 3: Identical, but the heal bonus is different when using Bullseye skill. This was done in such a way because both of these skills share a cooldown in the code. It is possible to split these timers, but if i did so, all infoHUD's out there will be broken and display incorrect information. This way infoHUD's wont be broken and overall amount per minute is the same, even though you could agrue that this will lead to slighlty less healing since you can't always activate this skill after it's cooldown is over, but thats a small price to pay considering other buffs this perk got.
+- Card 5: Identical
+- Card 7: Updated the invulnerability effect to activate how you would assume it would activate in vanilla. In vanilla this skill can activate even if your armor is full, wasting the cooldown. Additionally, in vanilla, you can take enough damage for this skill to activate, but you would still go down because your health reached 0 before the skill was activated. Now there is a safety net for this effect, limiting you to just 1 health in such scenarios. To compensate slighlty, this cooldown was increased from 15 to 20 seconds.
+
+Info on all the 9th card replacements (including 3 new ones from custom perks) are further bellow.
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Focus on keeping your health above 50% threshold to be able to trigger the invulnerability effect. If you are running copies that don't provide you with additional healing, do not get yourself more health, unless you are using hostage taker, because 3rd card always recovers a flat amount of health, it would be easier to get to 50% threshold from this healing if your max health is not increased.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -655,3 +670,20 @@ UPDATE
 
 Weapons:
 UPDATE
+
+### Copycat 9th card copy - Crew Chief, Muscle, Armorer, Rogue
+| Crew Chief |
+| -------- |
+|  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crew_Chief.png) |
+
+| Muscle |
+| -------- |
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Muscle.png) |
+
+| Armorer |
+| -------- |
+|![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Armorer.png) |
+
+| Rogue |
+| -------- |
+| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Rogue.png)|
