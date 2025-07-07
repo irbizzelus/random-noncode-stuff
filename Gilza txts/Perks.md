@@ -295,7 +295,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Yakuza:
+# Yakuza(3/5):
 
 |  |  |
 | -------- | -------- |
@@ -303,10 +303,16 @@ UPDATE
 |  Gilza | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+Improved anti-healing part of the perk deck by nullifying any healing from any source, except for deployables. Heal on revive is now always set 10%, even on lower difficulties, to imrpove reliability of the deck. Added 3 new affects:
+1) Resistance to armor piercing shots (from snipers) - was added to make this deck less risky, since you have to run at low health to gain benefits
+2) Resistance when getting shot from behind (180° behind) - was added to make the "duck to cover" gameplay less frustrating. You are already required to amost instantly react to your armor being broken and seeking (or ducking in) cover on higher difficulties, being shot from behind when you get flanked makes your "shoot, duck in cover, shoot" gameplay even less powerful than it already is. This feature mostly will help you with running to cover, or avoiding being screwed by flanking enemies, without allowing you to fight back with imrpoved damage resistance.
+3) Resistance to armor suppression effect - for those who know what this is: it doesn't happen at all anymore, but total recovery will still be increased by 0.5 seconds when shot. For those who don't know:  
+Armor suppression is an effect that applies to you when you are shot at, even if you are not hit (and always applies if you are hit by the shot). If you get supressed while your armor is recovering, the recovery timer is set to it's maximum duration, and then 1 extra second is added on top from suppression. Practically speaking, this effect is always applied to you, because usually when you play you are being shot at all the time, but there are a few instances when you can receive damage without this effect, like melee or fire damage. 1 extra second that is added to your armor recovery from this effect is always equal to 1, because it can not be affected by armor recovery skills. This is why having 25% armor recovery bonus will improve your armor recovery by ((3 * 0.75) + 1 = 3.15) seconds, insead of expected (4 * 0.75 = 3) seconds, when you get shot at. This means that even if your armor recovery bonus was something like 999999%, your armor recovery after being shot would still be 1.00001 seconds long.
+New resistance effect that you gain from Yakuza will now reduce this 1 second timer to always be a 0.5 instead of 1, and remove armor recovery reset if you got shot at, but did not take any damage, making both turret vans and random nearby shots completely irrelevant for your armor recovery.
+
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Gameplay overall is about the same - shoot, duck to cover to recover, shoot. Gained buffs will imrpove this aspect by allowing you to to this faster and more often, while damage resist from behind and additional movement speed will allow you to relocate easier. 
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -319,7 +325,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Ex-president:
+# Ex-president (4/5):
 
 |  |  |
 | -------- | -------- |
