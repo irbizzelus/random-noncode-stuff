@@ -325,7 +325,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Ex-president (4/5):
+# Ex-president (5/5):
 
 |  |  |
 | -------- | -------- |
@@ -353,7 +353,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Maniac (3/5):
+# Maniac (4/5):
 
 |  |  |
 | -------- | -------- |
@@ -361,10 +361,11 @@ UPDATE
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Maniac.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+Replaced vanilla's dual timer set up (from stacks on damage gain and stacks depletion) for a new, more "Maniac" style requirement to keep the damage up. Instead of depleting stacks passively (because you get bored or something?) you will now start to deplete your stacks if you havent seen any action for a while (aka did not deal damage in the last x seconds). Amount of dealt damage to keep the stacks from depleting is irrelevant, so DOT (damage over time) effects are favoured. This also makes upkeep of the max bonus easier, since you just need to shoot something once every few seconds, which shouldn't be too hard. This is balanced by making this timer short (at 3 seconds now). Depletion rate was also increased to compensate ease of upkeep (as in amount of stacks lost per minute compared to vanilla).  
+In addition to this change, while playing on DS you can now get 72 damage aborption total on yourself at max stacks. This allows for a much easier 3 tap armor, and even more if combined with Crew Chief or other damage resistance skills.
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Poison and other DOT effects are favoured heavily if you want to keep your stacks at max with ease. Do keep in mind that poison is really ammo hungry when making your builds.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -377,7 +378,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Anarchist:
+# Anarchist(3/5):
 
 |  |  |
 | -------- | -------- |
@@ -385,10 +386,12 @@ UPDATE
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Anarchist.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+There are only 2 important changes:
+1) Armor gating is now achieved easier if you run high end armors instead of low end armors, since bigger armor has shortest time in-between regeneration
+2) Chosen armor affects amount and cooldown of the "armor regen on enemy hit" effect, similarly to the first effect, having shorter cooldowns for higher armors
 
-### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Basically all armors are now flipped. This is a side grade to vanilla version of anarchist, since you can get more armor gating from ICTV than what vanilla anarchist suit allows, but at the same time you can not build crits+zerk set ups anymore, while also slowing you down (movement wise) since you would want to run heavier armor for best armor gating. ICTV is even more braindead on DS in terms of survivability sometimes than vanilla suit, but the fact that it will take you 3x more time to run to cover if you are caught out in the open compensates itself already.  
+Since changes above are mostly focused at DS difficulty where armor gating is important, another small change was made for lower end armors, which favours lower difficulties. Your total amount of armor gain per minute is higher with lower end armors like the suit. This is true for both passive and on-damage effect. So if you prefered to run ICTV anarchist in vanilla on lower difficulties, you can now go for something like a HBV or a suit, to gain movement speed and about the same armor gain per minute.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -401,13 +404,10 @@ UPDATE
 Weapons:
 UPDATE
 
-# Kingpin (unchanged):
+# Kingpin (0/5):
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
-
-### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Same as with armorer, this deck is here to let you know that it was not changes. Description were updated for card #1 and #9 to fix incorrect values and let you know that kills refill 1 second for the cooldown.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
@@ -420,7 +420,7 @@ UPDATE
 Weapons:
 UPDATE
 
-# Sicario:
+# Sicario (1/5):
 
 |  |  |
 | -------- | -------- |
@@ -428,10 +428,10 @@ UPDATE
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario.png)  |
 
 ### Changes Summary
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+Smokebomb cooldown was reduced from 60 to 45 seconds, since this perk deck is allright.
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Do not equip new Revitalized skill from tier 4 artfull dodge subtree since it doesn't do anything when you have sicario.
 
 ### Barebone build skills
 https://pd2builder.netlify.app
