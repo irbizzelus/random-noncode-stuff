@@ -525,13 +525,13 @@ This rework is my atttempt to make this perk deck fulfill more of a supportive r
 Please, please, please use Painkillers skill on higher difficulties. Bonuses that you get from teammate revives are not incredibly strong, while letting your teammates go down again because they are in a vulnerable position and you don't have this skill is both foolish and not nice. This is a general tip for using Inspire skill, but it applies to this new version of Leech the most.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - https://pd2builder.netlify.app/?s=0-8d0-90010-9  
+You can use FAK's without using hostage taker to heal, or use hostage taker with any other deployable for passive healing. Investing into armor is not recommended since your health bonuses provide big enough bonuses already. Go for mid tier armors. Messiah, at least basic, is favoured heavily since it's extremely effective at shortening cooldown while downed. Up you go aced helps with healing after you go down really well as well.
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Standard - shotgun focused. https://pd2builder.netlify.app/?s=1G0H00xkc10-9010-6H00  
+As always, focus on reviving your team to get your cooldown up. Heals from activation of the ampule and passive regen from hostage taker should be enough sustain. Use Messiah's basic feature of being able to never go down to get your cooldown back, or activate it if you need to clutch the situation you are currently in. Use HBV armor and Doctor bags.   
 Weapons to use:  
-such and such
+Pump action (450 dmg) primary, focused on dealing with multiple enemies, so Donald's Horizontal Leveller is recommended, along with default ammo, focus on stability overall. Semi auto (325 dmg) secondary, focusing on mostly accuracy and DPS (so bigger ROF ones), to deal with snipers and bulldozers. Use slugs if shields are a big problem for you, but i'd recommend using Flechette ammo. Use Ampule throwable and any melee you prefer. 
 
 # CUSTOM PERK - Brawler:
 
