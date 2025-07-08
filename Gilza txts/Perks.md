@@ -12,7 +12,6 @@ Stats are updated for DEV patch: 2.5
 
 TODO:
 - add missing build recomendations
-- fix yakuza images and affected cards
 - fix some inconsistencies with copycat's 9th card image formats
 
 # General info:
@@ -285,7 +284,7 @@ such and such
 
 # Yakuza(4/5):
 
-|  | Updated cards - 1, 3, 5, 7, 9 |
+|  | Updated cards - 1, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza_vanilla.png)  |
 |  Gilza | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza.png)  |
