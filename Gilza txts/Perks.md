@@ -12,7 +12,6 @@ Stats are updated for DEV patch: 2.5
 
 TODO:
 - add missing build recomendations
-- fix some inconsistencies with copycat's 9th card image formats
 
 # General info:
 
