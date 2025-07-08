@@ -132,13 +132,13 @@ Probably the biggest rework of all vanilla perk decks, because vanilla version i
 Use small arm firearms to constantly activate recovery for the passive bonus, use melee/throwables in a pinch for a little bit of armor gating, and if you see a group of enemies clumped up together try to activate the kill combo off of them. Or you can simply play it as you would in vanilla, with only one change to your gameplay - you should seek out your bounty to improve your recovery for a while.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - https://pd2builder.netlify.app/?s=0-8d0-90010-9  
+You should focus on getting skills for akimbos/smg's/pistols to activate hitman recovery bonus, maybe melee skills for the combo. Armor recommended to get the most out of armor recovery/regen bonuses.
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Somewhat standard. https://pd2builder.netlify.app/?s=xa0-64V0-9010128T0138&a=6  
+Pistols pistols pistols. Spam them as much as you can, since your ammo pick up should not be a problem. Use melee weapons to get to the invlunerability combo. Use ICTV armor and Doctor bags.  
 Weapons to use:  
-such and such
+Akimbo pistols with 78 damage, And a 125 secondary pistol modded for accuracy to deal with snipers or to kill your bounty target if it's far away. Use silencers on all weapons to gain 50% ap chance on bodyshots. Use throwable knives/axes/cards to activate combo and armor heal. Use a 75 dmg melee, because with basic berserk it will be a reliable oneshot, allowing for relatively easy combos. 
 
 -----
 
