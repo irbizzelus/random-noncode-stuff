@@ -10,9 +10,6 @@
 
 Information is up to date with DEV patch: 2.5
 
-TODO:
-- add health pool table
-
 Originally inspired by [IREnFIST](https://modworkshop.net/mod/28585) 
 
 # Welcome to Gilza  
