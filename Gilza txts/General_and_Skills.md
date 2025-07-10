@@ -2,6 +2,8 @@
 
 [Link to the latest Patch Notes.](https://github.com/irbizzelus/Gilza/releases)
 
+[Link to the Perks Info page.](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md)
+
 [Link to the Weapons Info page.](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md)
 
 <p align="right"> Use this icon to select the section you are looking for: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
@@ -13,7 +15,7 @@ TODO:
 
 Originally inspired by [IREnFIST](https://modworkshop.net/mod/28585) 
 
-# This is Gilza  
+# Welcome to Gilza  
 ("Gilza" is a Russian word for "Bullet casing")  
 A Payday 2 weapons/skills/perks rebalance/overhaul. All changes made by this mod are only available to the player who has it installed, without affcting gameplay for other people. It works in online lobbies regardless of if you are client or host. 
 
@@ -70,9 +72,28 @@ Also your perks can get reset. Perk reset DOES NOT remove how many perk points y
 
 #### Enemies:  
 All enemies will now have same amount of health on all difficulties.  
-New health values are really close to vanilla Death Wish difficulty (Bulldozers on DS still have 2x health).  
+New health values are really close to vanilla Death Wish difficulty, and can be found in the table bellow:  
 
-Headshots for most enemies will now only deal 2x damage. Exceptions: Cloakers (2.8x), Bulldozers(6x), Captain Winters and his shields(4x), and 'Crude Awakening' heist boss (1x). This is one of a few changes that make combat easier and more forgiving for players with bad aim.
+| Enemy type | Health |  Headshot multiplier |
+| -------- | -------- | -------- |
+|  Light Swat | 500 | 2 |
+|  Heavy Swat | 900 | 2 |
+|  Street cop/Sniper | 250 | 2 
+|  Shield | 500 | 2 |
+|  Medic/Tazer/Marshal sniper | 1250 | 2 |
+|  Marshal Shiled pre-brake | 900 | 2 |
+|  Marshal Shiled post-brake | 2500 | 2 |
+|  Cloaker | 1540 | 2.8 |
+|  Bulldozer | 12000 | 6 |
+|  Minigun Bulldozer | 24000 | 6 |
+|  Headless Bulldozer* | 24000 | 1 |
+|  Cpt. Winters | 4000 | 4 |
+
+\* - only takes half damage from bullets, to compensate new increased weapon damage. Health unchanged to avoid issues with explosive weapon damage sync.
+
+All Bulldozers on Death Sentence difficulty have 2x health.  
+Bosses have different levels of health, headshot multipliers and melee resistances, resembling their stats as close to vanilla as possible.  
+This is one of a few changes that make combat easier and more forgiving for players with bad aim, since bodyshots mostly deal more damage.
 
 #### Skills:
 #### Damage resistance.
