@@ -78,8 +78,8 @@ New health values are really close to vanilla Death Wish difficulty, and can be 
 |  Street cop/Sniper | 250 | 2 
 |  Shield | 500 | 2 |
 |  Medic/Tazer/Marshal sniper | 1250 | 2 |
-|  Marshal Shiled pre-brake | 900 | 2 |
-|  Marshal Shiled post-brake | 2500 | 2 |
+|  Marshal shield pre-brake | 900 | 2 |
+|  Marshal shield post-brake | 2500 | 2 |
 |  Cloaker | 1540 | 2.8 |
 |  Bulldozer | 12000 | 6 |
 |  Minigun Bulldozer | 24000 | 6 |
