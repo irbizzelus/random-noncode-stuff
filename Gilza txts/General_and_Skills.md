@@ -29,7 +29,7 @@ This rebalance is **not** easy. It was made by me - for me, and i consider mysel
 # General Reballance overview
 
 Detailed information on [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) and [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) changes can be found on pages dedicated to them. General updates and skills are written down bellow.  
-Right bellow this part you can find __ALL__ general and skill related changes this mod makes, including reasons for most of them. It's incredibly long, so if you are here for the first time i recommend checking parts that you are most interested, right after this overview.
+On this page you can find __ALL__ general and skill related changes this mod makes, including reasons for most of them. It's incredibly long, so if you are here for the first time i recommend checking parts that you are most interested, right after this overview.
 
 #### Enemy changes:
 All enemies now have same amount of health on all difficulties, with values being similar to vanilla Death Wish difficulty.  
@@ -39,57 +39,59 @@ Headshots now deal 2x damage, with exceptions for some special enemies.
 Melee weapons now deal % damage - if your melee has 35 damage, it will deal 35% of enemy's health in one hit. Some enemies are exceptions to this rule.
 
 #### Skills/Perks:
-You can check the "Skills Legend" picture on top of the skills tab bellow - it summarizes skills' information like if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
+You can check the "Skills Legend" picture on top of the skills section bellow, which summarizes skill rework information - if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
 
-Go over general/neutral perk deck cards on the [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) page, since they apply to all perks.  
+Most perks received minor updates to improve their design (mostly on DS difficulty), with only 3 perks gaining "major" updates. Go over general/neutral perk deck cards on the [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) page, since they apply to all perks.  
 Additionaly, 3 new custom perks were added - "Brawler", "Speed Junkie" and "Guardian".
 
 #### Weapon Changes:
-__Damage and ammo:__
+<ins>Damage and ammo:</ins>
 All guns are now categorized under a "damage class" - most weapons will have a strict base damage value without random fluctuations.
 Ammo pick up is now dependent only on weapon damage class, and it is __much much__ worse. You **HAVE** to use both of your weapons, and *even then* you can still run out, especially on lengthy heists. Using melee and throwable weapons is somewhat mandatory, to avoid running out of ammo quickly.
 
-__Recoil:__
+<ins>Recoil:</ins>
 Most guns have more recoil.
 Recoil camera compensation is almost completely removed.
 Weapon recoil now depends on your base stability: weapons with low base stability will have extremely high recoil, and vice versa.
 
-__Handling:__
+<ins>Handling:</ins>
 Weapon accuracy and stability are no longer affected if you: crouch, jump, walk or sprint. However, both accuracy and stability have a penalty if you are firing from the hip. Aiming down sights removes this penalty.
 All weapons have an accuracy penalty if used in full-auto fire mode. If you use the select fire keybind to switch weapon to single-fire mode, it will gain it's full accuracy.
 
 Check out the [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) page for more info.
 
-__**IMPORTANT**__: for your first try of the mod make a backup of your save files. If you dislike the mod and choose to remove it, it will __not__ have any issues, and it will __not__ corrupt your save files, BUT you might loose some weapons from your inventory, due to updates in their attachment data.
+<ins>__**IMPORTANT**__</ins>: for your first try of the mod make a backup of your save files. If you dislike the mod and choose to remove it, it will __not__ have any issues, and it will __not__ corrupt your save files, BUT you might loose some weapons from your inventory, due to updates in their attachment data.
 Also your perks can get reset. Perk reset DOES NOT remove how many perk points you have (points you use to unlock perks), but it might remove your progression, and leave you with all perks at 0/9, forcing you to go through all of them while holding the + button. (use R while on the perks screen to max out a perk quickly)
 
-__**EVEN MORE IMPORTANT**__: if you are going to give Gilza a try, check all mods that Gilza requires to function, under "Dependencies and Instructions" tab on the [MWS page](https://modworkshop.net/mod/39854). All mods that are tagged as "optional" are sorted in order of importance, from highest at the top to lowest at the bottom. I recommend getting everything before (but preferably also including) FrenchyAu's weapon attachment packs.
+<ins>__**EVEN MORE IMPORTANT**__</ins>: if you are going to give Gilza a try, check all mods that Gilza requires to function, under "Dependencies and Instructions" tab on the [MWS page](https://modworkshop.net/mod/39854). All mods that are tagged as "optional" are sorted in order of importance, from highest at the top to lowest at the bottom. I recommend getting everything before (but preferably also including) FrenchyAu's weapon attachment packs.
 
 
 # Global changes
 
-1) Enemies:  
+#### Enemies:  
 All enemies will now have same amount of health on all difficulties.  
 New health values are really close to vanilla Death Wish difficulty (Bulldozers on DS still have 2x health).  
 
 Headshots for most enemies will now only deal 2x damage. Exceptions: Cloakers (2.8x), Bulldozers(6x), Captain Winters and his shields(4x), and 'Crude Awakening' heist boss (1x). This is one of a few changes that make combat easier and more forgiving for players with bad aim.
 
-2) Skills:
+#### Skills:
 #### Damage resistance.
 Damage resistance skills are now additive instead of multiplicative.  
 In vanilla, if you have two 40% damage resistance skills, they would give you 100 * 0.6 * 0.6 = 36, so 64% damage resistance total. This approach especially hurts if you are trying to stack multiple damage resistance skills.
 
-With Gilza's system there's only 1 problem that needs to be solved: max resist going over 100%. In vanilla it's impossible due to endless multiplications, but with Gilza's approach it would be possible. So to compensate, maximum possible damage resistance value was added: 90%. 
+With Gilza's system there's only 1 problem that needs to be solved: max resist going over 100%. In vanilla it's impossible due to endless multiplications, but with Gilza's approach it would be possible. So to compensate, maximum possible damage resistance value was added: 80%. 
 
 This change also allows you to calculate damage resistances and breakpoints easier.
 #### Critical hits
 
-Critical hits will now always deal 2.5x damage, instead of multiplying your damage by enemy's headshot multiplier. This change effectively buffs them, since 80% of enemies you are dealing with have 2x headshot multipliers now. This does however nerf crits against bulldozers, which was the main reason for this change.
+Critical hits will now always deal 2.25x damage, instead of multiplying your damage by enemy's headshot multiplier. This change effectively buffs them, since 80% of enemies you are dealing with have 2x headshot multipliers now. This does however nerf crits against bulldozers, which was the main reason for this change.
 
-3) Other:
+#### Other:
 Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in game
 
-**__Important for section bellow:__** Right click on images to view them in full size by opening them in a new tab if you are having trouble reading them.
+-----
+
+<ins>**__Important for section bellow:__**</ins> Right click on images to view them in full size by opening them in a new tab if you are having trouble reading them.
 
 # Skills  
 *Some skills had their icons and names updated to match new functionality better.*
