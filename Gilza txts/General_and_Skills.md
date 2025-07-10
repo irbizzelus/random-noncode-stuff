@@ -1,77 +1,52 @@
-:::
+[Link to the ModWorkshop page.](https://modworkshop.net/mod/39854)
 
-### Originally inspired by [IREnFIST](https://modworkshop.net/mod/28585) 
+[Link to the latest Patch Notes.](https://github.com/irbizzelus/Gilza/releases)
 
-:::
+[Link to the Weapons Info page.](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md)
 
-Payday 2 is one of my favorite games, despite how poorly balanced it is. I have accumulated over 4.5k hours at this point, and this mod in particular i have started working on all the way back at ~3k hour mark.
+<p align="right"> Use this icon to select the section you are looking for: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-This ~~small~~ rebalance is what i have come up with, to make a game that i already enjoy, even more enjoyable. At least for me.
+Information is up to date with DEV patch: 2.5
 
------
+TODO:
+- add health pool table
 
-:::
-# Welcome to Gilza - yet another Payday 2 rebalance!
-:::
+Originally inspired by [IREnFIST](https://modworkshop.net/mod/28585) 
 
-(fyi - "Gilza" is a Russian word for "Bullet casing")
+# This is Gilza  
+("Gilza" is a Russian word for "Bullet casing")  
+A Payday 2 weapons/skills/perks rebalance/overhaul. All changes made by this mod are only available to the player who has it installed, without affcting gameplay for other people. It works in online lobbies regardless of if you are client or host. 
 
-### What is this mod about?
+### How difficult is this rebalance?
+This rebalance is **not** easy. It was made by me - for me, and i consider myself a pretty good FPS player. If you think of yourself as an average/casual player, you may find this mod's tweaks too difficult for you.
 
-As the title suggests - it changes most skills, perks and all weapons of Payday 2. These changes are available only to you, and work when playing both as client or host.
+### Main goals of this rebalance:
+* Make **__ALL__** weapons equally viable across all difficulties - this includes nerfing over-performing weapons.
+* Update damage increasing skills to make players rely on them less.
+* Provide players with more fun skill/perk combinations for improved build vareity.
+* Make every skill useful/less situational.
 
------
+# General Reballance overview
 
-### How difficult is this mod?
-As indicated by the attention grabbing color: this rebalance is {#eb4034}(not easy). It was made by me - for me, and i consider myself a pretty good FPS player. If you think of yourself as an average/casual player, you may find this mod's tweaks too difficult for you.
-
------
-
-### Main goals of this mod:
-* Make **__ALL__** weapons equally viable across all difficulties, this includes nerfing over-performing weapons
-* Update damage related skills to make players rely on them less
-* Provide players with more fun skill/perk choices
-* Make most available skills useful in more situations
-
-
------
-
-
-:::
-# {#00CCC1}(__Short Description__)
-:::
-
-Right bellow this part you will find almost __every single change__ made by this mod, including reasons/ideas for most of these changes. It's incredibly long, so much so, that i have to use a separate github page with everything related to weapon adustments, because MWS has a character limit for mod descriptions. This MWS description you are currently reading only has detailed information on skills and perks.
-
-I have tried to compress most important information about Gilza's rebalance in the summary bellow. If you would like to know additional details, you can scroll down to the full description for information on skills/perks, or go to [this page](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) for information on all weapon changes.
-
-:::
-#### Gilza re-balance summary
-:::
-
-
-!!!
+Detailed information on [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) and [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) changes can be found on pages dedicated to them. General updates and skills are written down bellow.  
+Right bellow this part you can find __ALL__ general and skill related changes this mod makes, including reasons for most of them. It's incredibly long, so if you are here for the first time i recommend checking parts that you are most interested, right after this overview.
 
 ##### Enemy changes:
-All enemies now have same amount of health on all difficulties, with values being similar to vanilla Death Wish difficulty.
-
+All enemies now have same amount of health on all difficulties, with values being similar to vanilla Death Wish difficulty.  
 Headshots now deal 2x damage, with exceptions for some special enemies.
 
-##### Melee rework (important for skills):
+##### Melee rework (important for some skills):
 Melee weapons now deal % damage - if your melee has 35 damage, it will deal 35% of enemy's health in one hit. Some enemies are exceptions to this rule.
 
 ##### Skills/Perks:
-It's impossible to make a summary, since this game has so many skills, but i can tell you one thing - most skills that are considered to be good were made to be a bit worse, while skills that are considered bad, for the most part are better... or just a bit more fun. This approach is true for most things in this mod.
+You can check the "Skills Legend" picture on top of the skills tab bellow - it summarizes skills' information like if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
 
-One of the most important balance changes is probably under the neutral (global) perk deck cards that every perk has, because you will (almost) always have them. So check them out.
-
-Otherwise, you can check the "Skills Legend" picture on top of the skills tab bellow - it summarizes skills' information like if a skill was updated or not, if it was buffed/nerfed and so on. Check out whatever you think might be interesting :)
-
-Also, 3 new custom perks were added - "Brawler", "Speed Junkie" and "Guardian".
+Go over general/neutral perk deck cards on the [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) page, since they apply to all perks.  
+Additionaly, 3 new custom perks were added - "Brawler", "Speed Junkie" and "Guardian".
 
 ##### Weapon Changes:
 __Damage and ammo:__
-All guns are now categorized under a "damage class" - most weapons will have a strict base damage value without random fluctuations from weapon to weapon like 66.4 vs 65.2.
+All guns are now categorized under a "damage class" - most weapons will have a strict base damage value without random fluctuations.
 Ammo pick up is now dependent only on weapon damage class, and it is __much much__ worse. You **HAVE** to use both of your weapons, and *even then* you can still run out, especially on lengthy heists. Using melee and throwable weapons is somewhat mandatory, to avoid running out of ammo quickly.
 
 __Recoil:__
@@ -83,32 +58,25 @@ __Handling:__
 Weapon accuracy and stability are no longer affected if you: crouch, jump, walk or sprint. However, both accuracy and stability have a penalty if you are firing from the hip. Aiming down sights removes this penalty.
 All weapons have an accuracy penalty if used in full-auto fire mode. If you use the select fire keybind to switch weapon to single-fire mode, it will gain it's full accuracy.
 
-!!!
+Check out the [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) page for more info.
 
-{#eb4034}(Important:) for your first try of the mod make a backup of your save files. If you dislike the mod and choose to remove it, it will __not__ have any issues, and it will __not__ corrupt your save files, BUT you might loose some weapons from your inventory, due to updates in their attachment data.
-Also your perks can get reset. Perk reset DOES NOT remove how many perk points you have (points you use to unlock perks), but it might remove your progression, and leave you with all perks at 0/9, forcing you to go through all of them while holding the + button.
+__**IMPORTANT**__: for your first try of the mod make a backup of your save files. If you dislike the mod and choose to remove it, it will __not__ have any issues, and it will __not__ corrupt your save files, BUT you might loose some weapons from your inventory, due to updates in their attachment data.
+Also your perks can get reset. Perk reset DOES NOT remove how many perk points you have (points you use to unlock perks), but it might remove your progression, and leave you with all perks at 0/9, forcing you to go through all of them while holding the + button. (use R while on the perks screen to max out a perk quickly)
 
-{#eb4034}(Even more important:) if you are going to give Gilza a try, check all mods that Gilza requires to function, under "Dependencies and Instructions" tab above. All mods that are tagged as "optional" are sorted in order of importance, from highest at the top to lowest at the bottom. I recommend getting everything before (but preferably also including) FrenchyAu's weapon attachment packs.
-
------
-
-:::
-# {#00CCC1}(__Main Section__)
-:::
+__**EVEN MORE IMPORTANT**__: if you are going to give Gilza a try, check all mods that Gilza requires to function, under "Dependencies and Instructions" tab on the [MWS page](https://modworkshop.net/mod/39854). All mods that are tagged as "optional" are sorted in order of importance, from highest at the top to lowest at the bottom. I recommend getting everything before (but preferably also including) FrenchyAu's weapon attachment packs.
 
 
-:::
-### {#f5b12a}(Global changes)
-:::
-### 1) Enemies:
-All enemies will now have same amount of health on all difficulties. 
-New health values are really close to vanilla Death Wish difficulty (Bulldozers on DS still have 2x health).
+# Global changes
+
+1) Enemies:  
+All enemies will now have same amount of health on all difficulties.  
+New health values are really close to vanilla Death Wish difficulty (Bulldozers on DS still have 2x health).  
 
 Headshots for most enemies will now only deal 2x damage. Exceptions: Cloakers (2.8x), Bulldozers(6x), Captain Winters and his shields(4x), and 'Crude Awakening' heist boss (1x). This is one of a few changes that make combat easier and more forgiving for players with bad aim.
 
-### 2) Skills:
+2) Skills:
 #### Damage resistance.
-Damage resistance skills are now additive instead of multiplicative.
+Damage resistance skills are now additive instead of multiplicative.  
 In vanilla, if you have two 40% damage resistance skills, they would give you 100 * 0.6 * 0.6 = 36, so 64% damage resistance total. This approach especially hurts if you are trying to stack multiple damage resistance skills.
 
 With Gilza's system there's only 1 problem that needs to be solved: max resist going over 100%. In vanilla it's impossible due to endless multiplications, but with Gilza's approach it would be possible. So to compensate, maximum possible damage resistance value was added: 90%. 
@@ -118,141 +86,13 @@ This change also allows you to calculate damage resistances and breakpoints easi
 
 Critical hits will now always deal 2.5x damage, instead of multiplying your damage by enemy's headshot multiplier. This change effectively buffs them, since 80% of enemies you are dealing with have 2x headshot multipliers now. This does however nerf crits against bulldozers, which was the main reason for this change.
 
-### 3) Other:
+3) Other:
 Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in game
 
------
+**__Important for section bellow:__** Right click on images to view them in full size by opening them in a new tab if you are having trouble reading them.
 
-:::
-**__Important for sections bellow:__** Right click on images to view them in full size by opening them in a new tab.
-:::
-
-:::
-### {#f5b12a}(Perks)
-:::
-
-
-
-### Global/neutral perk deck cards
-
-!!!
-
-
-**Common card #2** - Skill from common card #8 was moved here, headshot bonus was weird.
-
-**Common card #6** - You can now pick up throwables from ammo boxes without investing into "Fully Loaded" skill. This should increase variety in weapon and perk choices. To compensate, throwable pick ups now depend on your chosen throwable.
-
-**Common card #8** - Swapped random 5% dmg bonus for movement from Ghost's basic parkour and bag throwing bonus from Enforcer's basic transporter. Those skills were adjusted accordingly.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/General%20perk%20cards.png)
-
-!!!
-
-### Vanilla Perks
-
-!!!
-
-**ROGUE**
-Introduction of COPYCAT perk deck, made rogue obsolete, because health regen, invulnerability and dodge ricochet are better then extra 5% dodge. Rogue now gets slightly more dodge, mobility and a more consistent AP chance to balance things out.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Rogue%209.png)
-
------
-
-**HITMAN**
-Updated the way armor recovery works with this perk to make it more unique, and slightly better.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Hitman%201.png)
-
------
-
-**SOCIOPATH/INFILTRATOR**
-Damage increase was changed due to melee rework. Hidden infiltrator duration buff was reworked, so now both decks have an increased window for follow up hits of 4 seconds.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Socio%20Infil%201st.png)
-
------
-
-**GAMBLER**
-To avoid inconsistencies, caused by your teammates running berserker builds, this perk now provides extra health if at least 1 teammate has more heath. Your max possible burst healing is reduced to compensate. Ammo pick up range can stack with same skill from Ammo Specialist sub-tree.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Gambler%201.png)
-
------
-
-**YAKUZA**
-Added armor buffs to make running at low health slightly less dangerous.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Yakuza%209.png)
-
------
-
-**SICARIO**
-Smoke bomb cooldown was reduced from 60 to 45 seconds. That's it.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Sicario_top.png)
-
------
-
-**TAG TEAM**
-Line of sight requirement was removed to make this perk easier to use, and the effect timer increase you get per kill was buffed, to make the effect last longer easier.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Tag%20Team.png)
-
------
-
-**HACKER**
-These changes were made to Hacker to make it less spammy and annoying, and a bit harder to use, while keeping it's power at roughly the same level.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Hacker.png)
-
------
-
-**COPYCAT**
-Adjusted how this skill behaves with armor, to be more in line with what vanilla description implies. This made this skill too good and reliable, so cooldown was nerfed to compensate.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Copycat_7.png)
-
-!!!
-
-### New Custom Perk Decks
-
-!!!
-
-Note: you can reset your perk progression in Gilza's mod options to re-acquire perk decks, allowing you to try new custom perk decks without grinding XP to unlock them.
-
-**BRAWLER**
-Deck with a hard focus on melee weapons' usage. Your job is to take as much damage for your team as you can, to make their life easier. 
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Brawler.png)
-
------
-
-**SPEED JUNKIE**
-Faster you move, more bonuses you gain. This perk should feel really nice for those who like to move quickly, but beware of potential downsides if you overindulge in such high adrenaline activities.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Speed%20junkie.png)
-
------
-
-**GUARDIAN**
-A new defensive perk with powerful camping capabilities, that will cost you a lot of mobility and utility, and also survivability if you are not careful.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Guardian.png)
-
-
-!!!
-
-
------
-
-:::
-### {#f5b12a}(Skills)
-:::
-
-:::
+# Skills  
 *Some skills had their icons and names updated to match new functionality better.*
-:::
 
 ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skills%20legend.jpg)
 
