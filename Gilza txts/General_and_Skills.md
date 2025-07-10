@@ -31,20 +31,20 @@ This rebalance is **not** easy. It was made by me - for me, and i consider mysel
 Detailed information on [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) and [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) changes can be found on pages dedicated to them. General updates and skills are written down bellow.  
 Right bellow this part you can find __ALL__ general and skill related changes this mod makes, including reasons for most of them. It's incredibly long, so if you are here for the first time i recommend checking parts that you are most interested, right after this overview.
 
-##### Enemy changes:
+#### Enemy changes:
 All enemies now have same amount of health on all difficulties, with values being similar to vanilla Death Wish difficulty.  
 Headshots now deal 2x damage, with exceptions for some special enemies.
 
-##### Melee rework (important for some skills):
+#### Melee rework (important for some skills):
 Melee weapons now deal % damage - if your melee has 35 damage, it will deal 35% of enemy's health in one hit. Some enemies are exceptions to this rule.
 
-##### Skills/Perks:
+#### Skills/Perks:
 You can check the "Skills Legend" picture on top of the skills tab bellow - it summarizes skills' information like if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
 
 Go over general/neutral perk deck cards on the [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) page, since they apply to all perks.  
 Additionaly, 3 new custom perks were added - "Brawler", "Speed Junkie" and "Guardian".
 
-##### Weapon Changes:
+#### Weapon Changes:
 __Damage and ammo:__
 All guns are now categorized under a "damage class" - most weapons will have a strict base damage value without random fluctuations.
 Ammo pick up is now dependent only on weapon damage class, and it is __much much__ worse. You **HAVE** to use both of your weapons, and *even then* you can still run out, especially on lengthy heists. Using melee and throwable weapons is somewhat mandatory, to avoid running out of ammo quickly.
