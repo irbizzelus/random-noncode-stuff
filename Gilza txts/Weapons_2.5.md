@@ -69,6 +69,8 @@ Some enemies take less melee damage:
 * Most bosses receive _20x_ less melee damage.
 * Winters and his shields receive _2x_ less melee damage.
 
+Bulldozers' melee resistance is increased by extra 2x when playing on Death Sentence difficulty, since their health is doubled on this difficulty.
+
 Melee knockdown now depends on weapon's range. More range your melee has, less knockdown it has. It might not always make sense when you look at some melees, but suppress your instincts in the honor of better balance!
 
 Grey swats can now be knocked down by melee weapons.
