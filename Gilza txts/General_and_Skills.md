@@ -109,6 +109,33 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 
 -----
 
+### Custom Weapons Support
+
+This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes. Beware: some custom weapons may have attachments that change damage/ammo pick up or other stats in such a way that it will not match Gilza's values well, making them either too good, or bad. I can't do anything about it, other then __manually__ adding support for __every gun individually__, and that is just tedious.
+
+Currently supported attachment mods:  
+All of FrenchyAU's tacticool attachments packs (250+ attachments). Check Gilza's dependencies & Instructions tab for links.
+
+Custom "special" weapons are not supported.
+
+### Additional QOL features
+
+* While charging your melee weapons new melee UI will appear showing your charge amount and damage in %. This can be tweaked or disabled in Gilza's mod options.
+* You can spoof Gilza's custom perks, to avoid being kicked in public lobbies. Can be disabled in Gilza's mod options.
+* You can reset your perk progression to re-acquire perk decks, allowing you to try new custom perk decks without grinding XP to unlock them. This option does not reset amount of perk points you have already earned.
+
+#### Known issue:
+You can crash when entering a heist, while using Jackal SMG or one of the Chimano pistols, with certain attachment combos. This can only happen with weapons that you have modified attachments on before installing Gilza. Remove any gadgets from these weapons, or simply re-purchase them to avoid this issue.
+
+#### Supported languages (depends on your SuperBLT's language):
+- English
+- Russian - а именно все навыки, перки, описания оружий и элементы меню. Всё остальное может быть на английском.
+
+Enjoy figuring out your new META and please provide feedback if something feels way too powerful.
+Good luck, have fun! :D
+
+-----
+
 <ins>**__Important for section bellow:__**</ins> Right click on images to view them in full size by opening them in a new tab if you are having trouble reading them.
 
 # Skills  
@@ -225,172 +252,32 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 
 ### Fugitive - Gunslinger
 
-!!!
-
-#### Tier 4
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Bottomless%20Pockets.png)
-
-Now provides increased ammo capacity for small-caliber weapons, and can help both sides of the tree.
-
------
-
-#### Tier 3
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Trigger%20happy.png)
-
-Now combines effects of conditional "on-hit" pistol skills into one skill, to make left side of this tree focused on pistols. Effectiveness is slightly reduced.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Double%20trouble.png)
-
-Now provides new bonuses to akimbo weapons, to make right side of this tree focused on akimbo weapons.
-
------
-
-#### Tier 2
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Gun%20nut.png)
-
-Magazine capacity was removed, to avoid confusion when using revolvers. Rate of fire effect is smaller, compensating for pistol ROF adjustments. Reload speed moved from skill previously known as "Desperado" to here.
-
------
-
-#### Tier 1
-
---
-
-!!!
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 4 | Bottomless Pockets | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Bottomless_Pockets.png)  |  Now provides increased ammo capacity for small-caliber weapons, and can help both sides of the tree. |
+| Tier 3 |  Trigger Happy | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Trigger_Happy.png) | Now combines effects of conditional "on-hit" pistol skills into one skill, to make left side of this tree focused on pistols. Effectiveness is slightly reduced. |
+| Tier 3  | Double Trouble | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Double_Trouble.png) | Now provides new bonuses to akimbo weapons, to make right side of this tree focused on akimbo weapons. |
+| Tier 2   | Gun Nut | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Gun_Nut.png) | Magazine capacity was removed, to avoid confusion when using revolvers. Rate of fire effect is smaller, compensating for pistol ROF adjustments. Reload speed moved from skill previously known as "Desperado" to here.  |
+| Tier 1  | Equilibrium | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Equilibrium.png)  | new yay. |
 
 ### Fugitive - Revenant
 
-!!!
-
-#### Tier 4
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Messiah.png)
-
-This is more of a QOL update to make using this skill easier.
-
------
-
-#### Tier 3
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Swan%20song.png)
-
-Reduced this skill's combat effectiveness by removing infinite ammo, which harms Gilza's ammo economy quite a bit. Improved perk's supportive capabilities with new movement speed penalty avoidance and increased overall duration.
-
------
-
-#### Tier 2
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Running%20from%20Death.png)
-
-Increased duration to improve it's worth.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Up%20you%20go.png)
-
-In vanilla, "Up You Go" aced provides you 40% more health when revived. However, this bonus is applied to the health bonus that is set per difficulty, so to the 10% health you get on mayhem and above. Because of that, you would only receive 14% health when revived with this skill instead of the expected 50%. New version provides a flat % amount of your max health. 7 skill points for 4% extra health is dumb, thus the change.
-
------
-
-#### Tier 1
-
---
-
-!!!
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 4 | Messiah | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Messiah.png)  | This is more of a QOL update to make using this skill easier. |
+| Tier 3 |  Swan Song | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Swan_Song.png) | Reduced this skill's combat effectiveness by removing infinite ammo, which harms Gilza's ammo economy quite a bit. Improved perk's supportive capabilities with new movement speed penalty avoidance and increased overall duration. |
+| Tier 2  | Running From Death | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Running_From_Death.png) | Increased duration to improve it's worth. |
+| Tier 2   | Up You Go | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Up_You_Go.png) | In vanilla, "Up You Go" aced provides you 40% more health when revived. However, this bonus is applied to the health bonus that is set per difficulty, so to the 10% health you get on mayhem and above. Because of that, you would only receive 14% health when revived with this skill instead of the expected 50%. New version provides a flat % amount of your max health. 7 skill points for 4% extra health is dumb, thus the change. |
 
 ### Fugitive - Brawler
 
-!!!
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 3 |  Counterstrike | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Counterstrike.png) | Added damage to improve this skill's worth, especially with melee builds. |
+| Tier 3  | Berserker* | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Berserker.png) | This is an overall nerf that makes this skill not as reliable. But, as an upside, you can now use healing skills to keep your health at 30% with frenzy or more without it, to avoid being killed by snipers. |
+| Tier 2   | Bloodthirst | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Bloodthirst.png) | Numbers updated to match new melee damage.  |
+| Tier 2   | Martial Arts | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Martial_Arts.png) | New skill to make your melee's feel better.  |
+| Tier 1  | Tough Guy | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Tough_Guy.png)  | This skill now reduced camera shake from melee attacks to make melee playstyles more comfortable. |
 
-#### Tier 4
-
---
-
------
-
-#### Tier 3
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Counterstrike.png)
-
-Added damage to improve this skill's worth, especially with melee builds.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Berserker.png)
-
-This is an overall nerf that makes this skill not as reliable. But, as an upside, you can now use healing skills to keep your health at 30% with frenzy or more without it, to avoid being killed by snipers.
-
-Berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.) [Preview link without downloading.](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/new_zerk.gif)
-![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/new_zerk.gif?raw=true)
-
------
-
-#### Tier 2
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Bloodthirst.png)
-
-Numbers updated to match new melee damage.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Martial%20arts.png)
-
-New skill to make your melee's feel better.
-
------
-
-#### Tier 1
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Tough%20guy.png)
-
-This skill now reduced camera shake from melee attacks to make melee playstyles more comfortable.
-
-!!!
-
------
-
-:::
-### {#f5b12a}(Weapon changes)
-:::
-
-### Due to Modworkshop's charachter limit for mod descriptions, i can't fit all the changes on this page. Gilza's weapon changes can be accessed over [here.](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md)
-
------
-
-:::
-### {#f5b12a}(Custom Weapons Support)
-:::
-
-!!!
-
-This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes. Beware: some custom weapons may have attachments that change damage/ammo pick up or other stats in such a way that it will not match Gilza's values well, making them either too good, or bad. I can't do anything about it, other then __manually__ adding support for __every gun individually__, and that is just tedious.
-
-Currently supported attachment mods:
-All of FrenchyAU's tacticool attachments packs (250+ attachments). Check Gilza's dependencies & Instructions tab for links.
-
-Custom "special" weapons are not supported.
-
-!!!
-
------
-
-:::
-### {#f5b12a}(Additional QOL features)
-:::
-
-!!!
-
-* While charging your melee weapons new melee UI will appear showing your charge amount and damage in %. This can be tweaked or disabled in Gilza's mod options.
-* You can spoof Gilza's custom perks, to avoid being kicked in public lobbies. Can be disabled in Gilza's mod options.
-* You can reset your perk progression to re-acquire perk decks, allowing you to try new custom perk decks without grinding XP to unlock them. This option does not reset amount of perk points you have already earned.
-
-!!!
-
------
-
-#### Known issue:
-You can crash when entering a heist, while using Jackal SMG or one of the Chimano pistols, with certain attachment combos. This can only happen with weapons that you have modified attachments on before installing Gilza. Remove any gadgets from these weapons, or simply re-purchase them to avoid this issue.
-
-#### Supported languages (depends on your SuperBLT's language):
-- English
-- Russian - а именно все навыки, перки, описания оружий и элементы меню. Всё остальное может быть на английском.
-
-Enjoy figuring out your new META and please provide feedback if something feels way too powerful.
-Good luck, have fun! :D
+\* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.) [Preview link without downloading.](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif)
+![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
