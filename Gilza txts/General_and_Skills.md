@@ -134,7 +134,6 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 
 ### Mastermind - Sharpshooter
 
-
 | Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
 | Tier 4 | Graze | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Graze.png)  |  Damage calculations were updated to remove the need for headshots, and to make this skill's damage more consistent. Minimal trigger distance was added to incentivize sniping. |
@@ -145,113 +144,30 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 
 ### Enforcer - Shotgunner
 
-!!!
-
-#### Tier 4
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Overkill.png)
-
-This skill is not required anymore to effectively use shotguns, so it gained a reload speed bonus. Damage was updated for new weapon breakpoints. Increased duration should make aced version of the skill better.
-
------
-
-#### Tier 3
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Blast%20Away.png)
-
-Magazine increasing skill from vanilla skill "Close By", was reworked into this one, to let any shotgun get benefits from it, though bonus itself is lower.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Fearmonger.png)
-
-Aced version now provides a similar effect to "Saw Massacre" while using Shotguns. Boost for killing a panicking enemy can be received with any weapon. Note that not every panicking enemy will trigger the boost, but only a specific "full panic" animation. I recommend using the pop up notification to figure out how it looks, you can disable it after.
-
------
-
-#### Tier 2
-
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Shotgun%20CQB.png)
-
-ADS speed bonus was moved to "Shotgun Expert"
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Shotgun%20Expert.png)
-
-Increased damage is no longer needed. Now provides extra stability and ADS bonuses.
-
------
-
-#### Tier 1
-
---
-
-!!!
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 4 | Overkill | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Overkill.png)  |  This skill is not required anymore to effectively use shotguns, so it gained a reload speed bonus. Damage was updated for new weapon breakpoints. Increased duration should make aced version of the skill better. |
+| Tier 3 |  Blast Away | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Blast_Away.png) | Magazine increasing skill from vanilla skill "Close By", was reworked into this one, to let any shotgun get benefits from it, though bonus itself is lower. |
+| Tier 3  | Fearmonger | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Fearmonger.png) | Aced version now provides a similar effect to "Saw Massacre" while using Shotguns. Boost for killing a panicking enemy can be received with any weapon. Note that not every panicking enemy will trigger the boost, but only a specific "full panic" animation. I recommend using the pop up notification to figure out how it looks, you can disable it after. |
+| Tier 2   | Shotgun CQB | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Shotgun_CQB.png) | ADS speed bonus was moved to "Shotgun Expert"  |
+| Tier 2   | Shotgun Expert | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Shotgun_Expert.png) | Increased damage is no longer needed. Now provides extra stability and ADS bonuses.  |
+| Tier 1  | Underdog | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Underdog.png)  | New underdog |
 
 ### Enforcer - Tank
 
-!!!
-
-#### Tier 4
-
---
-
------
-
-#### Tier 3
-
---
-
------
-
-#### Tier 2
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Transporter.png)
-
-Compensation for the new global perk card.
-
------
-
-#### Tier 1
-
---
-
-!!!
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 3  | Bullseye | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Bullseye.png) | New Bullseye |
+| Tier 2   | Die Hard | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Die_Hard.png) | New Die Hard  |
+| Tier 2   | Transporter | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Transporter.png) | Compensation for the new global perk card.  |
 
 ### Enforcer - Ammo specialist
 
-!!!
-
-#### Tier 4
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Fully%20loaded.png)
-
-Since you now can pick up grenades without this skill, nade pick up was increased compared to vanilla.
-
------
-
-#### Tier 3
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Extra%20lead.png)
-
-Bonuses swapped since aced provided much less value then basic.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Saw%20massacare.png)
-
-Aced version now provides ammo pick up for the saw, making it more viable.
-
-
------
-
-#### Tier 2
-
---
-
------
-
-#### Tier 1
-
---
-
-!!!
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 4 | Fully Loaded | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Fully_Loaded.png)  |  Since you now can pick up grenades without this skill, nade pick up was increased compared to vanilla. |
+| Tier 3 |  Extra Lead | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Extra_Lead.png) | Bonuses swapped since aced provided much less value then basic. |
+| Tier 3  | Saw Massacare | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Saw_Massacare.png) | Aced version now provides ammo pick up for the saw, making it more viable. |
 
 ### Technician - Engineer
 
