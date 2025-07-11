@@ -30,20 +30,20 @@ This rebalance is **not** easy. It was made by me - for me, and i consider mysel
 Detailed information on [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) and [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) changes can be found on pages dedicated to them. General updates and skill updates are written down bellow.  
 On this page you can find __ALL__ general and skill related changes this mod makes, including reasons for most of them. It's incredibly long, so if you are here for the first time i recommend checking parts that you are most interested, right after this overview.
 
-#### Enemy changes:
+### Enemy changes
 All enemies now have same amount of health on all difficulties, with values being similar to vanilla Death Wish difficulty.  
 Headshots now deal 2x damage, with exceptions for some special enemies.
 
-#### Melee rework (important for some skills):
+### Melee rework (important for some skills)
 Melee weapons now deal % damage - if your melee has 35 damage, it will deal 35% of enemy's health in one hit. Some enemies are exceptions to this rule.
 
-#### Skills/Perks:
+### Skills/Perks
 You can check the "Skills Legend" picture on top of the skills section bellow, which summarizes skill rework information - if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
 
 Most perks received minor updates to improve their design (mostly on DS difficulty), with only 3 perks gaining "major" updates. Go over general/neutral perk deck cards on the [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) page, since they apply to all perks.  
 Additionaly, 3 new custom perks were added - "Brawler", "Speed Junkie" and "Guardian".
 
-#### Weapon Changes:
+### Weapon Changes
 <ins>Damage and ammo:</ins>
 All guns are now categorized under a "damage class" - most weapons will have a strict base damage value without random fluctuations.
 Ammo pick up is now dependent only on weapon damage class, and it is __much much__ worse. You **HAVE** to use both of your weapons, and *even then* you can still run out, especially on lengthy heists. Using melee and throwable weapons is somewhat mandatory, to avoid running out of ammo quickly.
@@ -67,7 +67,7 @@ Also your perks can get reset. Perk reset DOES NOT remove how many perk points y
 
 # Global changes
 
-#### Enemies:  
+### Enemies
 All enemies will now have same amount of health on all difficulties.  
 New health values are really close to vanilla Death Wish difficulty, and can be found in the table bellow:  
 
@@ -92,24 +92,22 @@ All Bulldozers on Death Sentence difficulty have 2x health.
 Bosses have different levels of health, headshot multipliers and melee resistances, resembling their stats as close to vanilla as possible.  
 This is one of a few changes that make combat easier and more forgiving for players with bad aim, since bodyshots mostly deal more damage.
 
-#### Skills:
-#### Damage resistance.
+### Skills
+<ins>Damage resistance</ins>
 Damage resistance skills are now additive instead of multiplicative.  
 In vanilla, if you have two 40% damage resistance skills, they would give you 100 * 0.6 * 0.6 = 36, so 64% damage resistance total. This approach especially hurts if you are trying to stack multiple damage resistance skills.
 
 With Gilza's system there's only 1 problem that needs to be solved: max resist going over 100%. In vanilla it's impossible due to endless multiplications, but with Gilza's approach it would be possible. So to compensate, maximum possible damage resistance value was added: 80%. 
 
 This change also allows you to calculate damage resistances and breakpoints easier.
-#### Critical hits
+<ins>Critical hits</ins>
 
 Critical hits will now always deal 2.25x damage, instead of multiplying your damage by enemy's headshot multiplier. This change effectively buffs them, since 80% of enemies you are dealing with have 2x headshot multipliers now. This does however nerf crits against bulldozers, which was the main reason for this change.
 
-#### Other:
+<ins>Other</ins>
 Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in game
 
------
-
-### Custom Weapons Support
+# Custom Weapons Support
 
 This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes. Beware: some custom weapons may have attachments that change damage/ammo pick up or other stats in such a way that it will not match Gilza's values well, making them either too good, or bad. I can't do anything about it, other then __manually__ adding support for __every gun individually__, and that is just tedious.
 
@@ -118,16 +116,16 @@ All of FrenchyAU's tacticool attachments packs (250+ attachments). Check Gilza's
 
 Custom "special" weapons are not supported.
 
-### Additional QOL features
+# Additional QOL features
 
 * While charging your melee weapons new melee UI will appear showing your charge amount and damage in %. This can be tweaked or disabled in Gilza's mod options.
 * You can spoof Gilza's custom perks, to avoid being kicked in public lobbies. Can be disabled in Gilza's mod options.
 * You can reset your perk progression to re-acquire perk decks, allowing you to try new custom perk decks without grinding XP to unlock them. This option does not reset amount of perk points you have already earned.
 
-#### Known issue:
+# Known issue:
 You can crash when entering a heist, while using Jackal SMG or one of the Chimano pistols, with certain attachment combos. This can only happen with weapons that you have modified attachments on before installing Gilza. Remove any gadgets from these weapons, or simply re-purchase them to avoid this issue.
 
-#### Supported languages (depends on your SuperBLT's language):
+# Supported languages (depends on your SuperBLT's language):
 - English
 - Russian - а именно все навыки, перки, описания оружий и элементы меню. Всё остальное может быть на английском.
 
