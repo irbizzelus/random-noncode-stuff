@@ -120,6 +120,7 @@ Custom "special" weapons are not supported.
 * While charging your melee weapons new melee UI will appear showing your charge amount and damage in %. This can be tweaked or disabled in Gilza's mod options.
 * You can spoof Gilza's custom perks, to avoid being kicked in public lobbies. Can be disabled in Gilza's mod options.
 * You can reset your perk progression to re-acquire perk decks, allowing you to try new custom perk decks without grinding XP to unlock them. This option does not reset amount of perk points you have already earned.
+* VanillaHud Plus's buff list (infoHUD) is supported for all major skill updates that Gilza makes.
 
 # Known issue:
 You can crash when entering a heist, while using Jackal SMG or one of the Chimano pistols, with certain attachment combos. This can only happen with weapons that you have modified attachments on before installing Gilza. Remove any gadgets from these weapons, or simply re-purchase them to avoid this issue.
@@ -136,6 +137,8 @@ Good luck, have fun! :D
 # Skills  
 *Some skills had their icons and names updated to match new functionality better.*  
 <ins>**__Important for section bellow:__**</ins> Right click on images to view them in full size by opening them in a new tab if you are having trouble reading them.
+
+[VanillaHud Plus](https://modworkshop.net/mod/25629) is supported for all major skill updates that Gilza makes. To tweak VHUD+'s buff list for new skills, go to Gilza's mod options.
 
 ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Skills%20legend.jpg)
 
