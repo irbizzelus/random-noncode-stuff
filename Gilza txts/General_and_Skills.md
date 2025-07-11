@@ -171,221 +171,57 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 
 ### Technician - Engineer
 
-!!!
-
-#### Tier 4
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Tower%20defense.png)
-
-Running 4 sentries is now cheaper to compensate new ammo economy. Aced version is a decent alternative sentry playstyle, especially for DS.
-
------
-
-#### Tier 3
-
---
-
------
-
-#### Tier 2
-
---
-
------
-
-#### Tier 1
-
---
-
-!!!
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 4 | Tower Defense | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Tower_Defense.png)  |  Running 4 sentries is now cheaper to compensate new ammo economy. Aced version is a decent alternative sentry playstyle, especially for DS. |
+| Tier 2   | Little Helper | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Little_Helper.png) | Moved around  |
+| Tier 2   | Gun Oil | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Gun_Oil.png) | New skill  |
+| Tier 1  | Third Law | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Third_Law.png)  | Moved around |
 
 ### Technician - Breacher
 
-!!!
-
-#### Tier 4
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Fire%20Trap.png)
-
-Maximum total duration of firetraps is now 140 seconds longer for one full heist day. Increased range also makes them a more effective area denial tool.
-
------
-
-#### Tier 3
-
---
-
------
-
-#### Tier 2
-
---
-
------
-
-#### Tier 1
-
---
-
-!!!
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 4 | Fire Trap | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Fire_Trap.png)  | Maximum total duration of firetraps is now 140 seconds longer for one full heist day. Increased range also makes them a more effective area denial tool. |
+| Tier 3 |  Kickstarter | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Kickstarter.png) | New yay |
+| Tier 1  | Hardware Expert | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Hardware_Expert.png)  | New yay |
 
 ### Technician - Oppressor
 
 | Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
-| Tier 4 | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png)  |  Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
-| Tier 3 |  INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png) | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
-| Tier 3  | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png) | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
-| Tier 2   | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png) | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often.  |
-| Tier 2   | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png) | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often.  |
-| Tier 1  | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png)  | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
-
-!!!
-
-#### Tier 4
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Body%20expertise.png)
-
-Basic version now provides armor piercing at a reduced damage rate, like "Surefire", but allows you to play with lazy aim. Aced version is a new DPS skill, but has only a few specific breakpoints that can actually work well. Also feels a bit weird, because bodyshots are more effective.
-
------
-
-#### Tier 3
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Lock%20n%20Load.png)
-
-In vanilla you get more reload speed on a smaller magazine weapon, even though they already have faster reload speeds. This backwards logic never made sense to me.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Surefire.png)
-
-Aced version now has a 50% damage penalty when dealing damage through body armor. This is a compensation for new weapon effectiveness with bodyshots. Can stack with new "Body Expertise" basic.
-
------
-
-#### Tier 2
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Heavy%20impact.png)
-
-Max chances tripled, but new threat requirement was added to make this skill more synergetic with 'loud' weapons.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Fire%20control.png)
-
-This skill was previously improving your hip-fire weapon handling, for some weapons, and compensating penalties for others. Now it only removes penalties that Gilza's weapon handling has.
-
------
-
-#### Tier 1
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Steady%20grip.png)
-
-Simplified.
-
-!!!
+| Tier 4 | Body Expertise | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Body_Expertise.png)  |  Basic version now provides armor piercing at a reduced damage rate, like "Surefire", but allows you to play with lazy aim. Aced version is a new DPS skill, but has only a few specific breakpoints that can actually work well. Also feels a bit weird, because bodyshots are more effective. |
+| Tier 3 |  Lock N Load | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Lock_N_Load.png) | In vanilla you get more reload speed on a smaller magazine weapon, even though they already have faster reload speeds. This backwards logic never made sense to me. |
+| Tier 3  | Surefire | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Surefire.png) | Aced version now has a 50% damage penalty when dealing damage through body armor. This is a compensation for new weapon effectiveness with bodyshots. Can stack with new "Body Expertise" basic. |
+| Tier 2   | Heavy Impact | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Heavy_Impact.png) | Max chances tripled, but new threat requirement was added to make this skill more synergetic with 'loud' weapons.  |
+| Tier 2   | Fire Control | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Fire_Control.png) | This skill was previously improving your hip-fire weapon handling, for some weapons, and compensating penalties for others. Now it only removes penalties that Gilza's weapon handling has.  |
+| Tier 1  | Steady Grip | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Steady_Grip.png)  | Simplified. |
 
 ### Ghost - Shinobi
 
-!!!
-
-#### Tier 4
-
---
-
------
-
-#### Tier 3
-
---
-
------
-
-#### Tier 2
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Cleaner.png)
-
-Bodybag asset and civilian cleaner costs were moved here to make it more "logical".
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Awareness.png)
-
-Spotter and spycam assets were moved here to make it more "logical".
-
-
------
-
-#### Tier 1
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inside%20man.png)
-
-Insider assets like keycards and better getaway driver are viable for loud, not just stealth, so if you want to run it for loud builds, it's now super cheap at just 1 skill point instead of 7. This skill is the only one in this tree that is viable in loud now.
-
-!!!
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 2   | Cleaner | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Ghost/Cleaner.png) | Bodybag asset and civilian cleaner costs were moved here to make it more "logical".  |
+| Tier 2   | Awareness | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Ghost/Awareness.png) | Spotter and spycam assets were moved here to make it more "logical".  |
+| Tier 1  | Inside Man | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Ghost/Inside_Man.png)  | Insider assets like keycards and better getaway driver are viable for loud, not just stealth, so if you want to run it for loud builds, it's now super cheap at just 1 skill point instead of 7. This skill is the only one in this tree that is viable in loud now. |
 
 ### Ghost - Artful dodger
 
-!!!
-
-#### Tier 4
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Revitalized.png)
-
-New dodge focused skill that will help most dodge builds by providing extra safety, for moments when your armor is broken.
-
------
-
-#### Tier 3
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Sneaky%20bastard.png)
-
-This is exactly the same skill from vanilla, but it's now cheaper at tier 3 instead of tier 4. "Dire need" functionality was moved to "Backfire".
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Backfire.png)
-
-Aced version is "Shockproof" aced combined with new electric bullets upgrade. You can now roleplay as the tazer.
-
------
-
-#### Tier 2
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Parkour.png)
-
-Basic version's 10% movement speed was moved to general perk cards, so new functionality was added to compensate.
-
------
-
-#### Tier 1
-
---
-
-!!!
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 4 | Revitalized | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Ghost/Revitalized.png)  |  New dodge focused skill that will help most dodge builds by providing extra safety, for moments when your armor is broken. |
+| Tier 3 |  Sneaky_Bastard | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Ghost/Sneaky_Bastard.png) | This is exactly the same skill from vanilla, but it's now cheaper at tier 3 instead of tier 4. "Dire need" functionality was moved to "Backfire". |
+| Tier 3  | Backfire | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Ghost/Backfire.png) | Aced version is "Shockproof" aced combined with new electric bullets upgrade. You can now roleplay as the tazer. |
+| Tier 2   | Parkour | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Ghost/Parkour.png) | Basic version's 10% movement speed was moved to general perk cards, so new functionality was added to compensate.  |
 
 ### Ghost - Silent killer
 
-!!!
 
-#### Tier 4
-
-Same as Low Blow at Tier 3.
-
------
-
-#### Tier 3
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Low%20Blow.png)
-
-Effectiveness was improved thanks to new critical hit damage multiplier.
-
------
-
-#### Tier 2
-
---
-
------
-
-#### Tier 1
-
---
-
-!!!
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 4 | Unseen Strike | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Ghost/Unseen_Strike.png)  |  new yay |
+| Tier 3  | Low Blow | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Ghost/Low_Blow.png) | Effectiveness was improved thanks to new critical hit damage multiplier. |
+| Tier 2   | The Professional | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Ghost/The_Professional.png) | new yay  |
 
 ### Fugitive - Gunslinger
 
