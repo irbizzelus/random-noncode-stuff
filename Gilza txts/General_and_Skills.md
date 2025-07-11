@@ -14,10 +14,10 @@ Originally inspired by [IREnFIST](https://modworkshop.net/mod/28585)
 
 # Welcome to Gilza  
 ("Gilza" is a Russian word for "Bullet casing")  
-A Payday 2 weapons/skills/perks rebalance/overhaul. All changes made by this mod are only available to the player who has it installed, without affcting gameplay for other people. It works in online lobbies regardless of if you are client or host. 
+A Payday 2 weapons/skills/perks rebalance/overhaul. All changes made by this mod are only available to the player who has it installed, without affcting gameplay for other players. It works in online lobbies regardless of if you are client or host. 
 
 ### How difficult is this rebalance?
-This rebalance is **not** easy. It was made by me - for me, and i consider myself a pretty good FPS player. If you think of yourself as an average/casual player, you may find this mod's tweaks too difficult for you.
+This rebalance is **not** easy. It was made by me - for me, and i consider myself a pretty good FPS player. If you think of yourself as an average/casual player, you may find some of the tweaks too difficult for you.
 
 ### Main goals of this rebalance:
 * Make **__ALL__** weapons equally viable across all difficulties - this includes nerfing over-performing weapons.
@@ -27,7 +27,7 @@ This rebalance is **not** easy. It was made by me - for me, and i consider mysel
 
 # General Reballance overview
 
-Detailed information on [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) and [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) changes can be found on pages dedicated to them. General updates and skills are written down bellow.  
+Detailed information on [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) and [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) changes can be found on pages dedicated to them. General updates and skill updates are written down bellow.  
 On this page you can find __ALL__ general and skill related changes this mod makes, including reasons for most of them. It's incredibly long, so if you are here for the first time i recommend checking parts that you are most interested, right after this overview.
 
 #### Enemy changes:
@@ -59,7 +59,7 @@ All weapons have an accuracy penalty if used in full-auto fire mode. If you use 
 
 Check out the [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) page for more info.
 
-<ins>__**IMPORTANT**__</ins>: for your first try of the mod make a backup of your save files. If you dislike the mod and choose to remove it, it will __not__ have any issues, and it will __not__ corrupt your save files, BUT you might loose some weapons from your inventory, due to updates in their attachment data.
+<ins>__**IMPORTANT**__</ins>: for your first try of the mod make a backup of your save files. If you dislike the mod and choose to remove it, it will __not__ have any issues, and it will __not__ corrupt your save files, BUT you might lose some weapons from your inventory, due to updates in their attachment data.
 Also your perks can get reset. Perk reset DOES NOT remove how many perk points you have (points you use to unlock perks), but it might remove your progression, and leave you with all perks at 0/9, forcing you to go through all of them while holding the + button. (use R while on the perks screen to max out a perk quickly)
 
 <ins>__**EVEN MORE IMPORTANT**__</ins>: if you are going to give Gilza a try, check all mods that Gilza requires to function, under "Dependencies and Instructions" tab on the [MWS page](https://modworkshop.net/mod/39854). All mods that are tagged as "optional" are sorted in order of importance, from highest at the top to lowest at the bottom. I recommend getting everything before (but preferably also including) FrenchyAu's weapon attachment packs.
@@ -114,14 +114,14 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 # Skills  
 *Some skills had their icons and names updated to match new functionality better.*
 
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skills%20legend.jpg)
+![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Skills%20legend.jpg)
 
 ### Mastermind - Medic
 
 | Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
-| Tier 4 | Inspire | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png)  |  Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
-| Tier 1  | Combat Medic | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Combat%20Medic.png)  | This change keeps up with "Combat medic" idea while not hurting berserker players. |
+| Tier 4 | Inspire | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Inspire.png)  |  Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
+| Tier 1  | Combat Medic | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Combat_Medic.png)  | This change keeps up with "Combat medic" idea while not hurting berserker players. |
 
 ### Mastermind - Controller
 
