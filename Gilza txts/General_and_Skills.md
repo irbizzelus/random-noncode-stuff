@@ -82,8 +82,8 @@ New health values are really close to vanilla Death Wish difficulty, and can be 
 |  Marshal shield post-brake | 2500 | 2 |
 |  Cloaker | 1540 | 2.8 |
 |  Bulldozer | 12000 | 6 |
+|  Headless Bulldozer* | 12000 | 1 |
 |  Minigun Bulldozer | 24000 | 6 |
-|  Headless Bulldozer* | 24000 | 1 |
 |  Cpt. Winters | 4000 | 4 |
 
 \* - only takes half damage from bullets, to compensate new increased weapon damage. Health unchanged to avoid issues with explosive weapon damage sync.
@@ -127,48 +127,10 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 
 | Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
-| Tier 4 | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png)  |  Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
-| Tier 3 |  INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png) | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
-| Tier 3  | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png) | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
-| Tier 2   | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png) | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often.  |
-| Tier 2   | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png) | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often.  |
-| Tier 1  | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png)  | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
-
-!!!
-
-#### Tier 4
-
---
-
------
-
-#### Tier 3
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Stockholm%20Syndrome.png)
-
-A decent upside with an obvious downside. This skill was added to make other adjustments within Controller sub-tree flow better.
-
------
-
-#### Tier 2
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Confident.png)
-
-Now focused more on civilian control.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Joker.png)
-
-Split confident skill to make sides of this tree make a bit more sense. Also, the 35% damage penalty is how it works in vanilla - description was updated to make it more clear.
-
------
-
-#### Tier 1
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Forced%20friendship.png)
-
-Aced version was always extremely bad for it's cost, so now it's cheap. Converted enemies are now slightly more expensive, since they are pretty good.
-
-!!!
+| Tier 3 |  Stockholm Syndrome | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Stockholm%20Syndrome.png) | A decent upside with an obvious downside. This skill was added to make other adjustments within Controller sub-tree flow better. |
+| Tier 2   | Confident | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Confident.png) | Now focused more on civilian control.  |
+| Tier 2   | Joker | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Joker.png) | Split confident skill to make sides of this tree make a bit more sense. Also, the 35% damage penalty is how it works in vanilla - description was updated to make it more clear.  |
+| Tier 1  | Forced Friendship | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Forced%20friendship.png) | Aced version was always extremely bad for it's cost, so now it's cheap. Converted enemies are now slightly more expensive, since they are pretty good. |
 
 ### Mastermind - Sharpshooter
 
@@ -380,6 +342,15 @@ Maximum total duration of firetraps is now 140 seconds longer for one full heist
 !!!
 
 ### Technician - Oppressor
+
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 4 | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png)  |  Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
+| Tier 3 |  INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png) | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
+| Tier 3  | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png) | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
+| Tier 2   | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png) | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often.  |
+| Tier 2   | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png) | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often.  |
+| Tier 1  | INSPIRE | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Inspire.png)  | Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
 
 !!!
 
