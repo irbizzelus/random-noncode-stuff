@@ -4,7 +4,7 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are (not yet) updated for DEV patch: 2.5
+Stats are updated for DEV patch: 2.5
 
 # General weapon handling updates:
 ## Recoil: general changes
@@ -40,7 +40,7 @@ This penalty is not applied while bipoded.
 ## Burst-Fire
 A new burst fire mode was added to some weapons, and is available on them by default. Every weapon with burst fire functionality will have a description with information oh the burst fire mode, like burst bullet count, or if the burst itself may have a different rate of fire during the burst.  
 Burst fire mode has a 16 accuracy penalty, similarly to full-auto fire mode, and has lower DPS than full auto fire mode (roughly 25% less).  
-To select burst fire mode, use your fire mode keybind. Order of fire mode cycling is as follows: single->burst->full auto.
+To select burst fire mode, use your fire mode keybind. Order of fire mode cycling is as follows: single->burst->full auto.  
 If a skill has a limit to what fire mode it can work with, burst fire is counted as a seperate fire mode - so if such skill does not specify support for burst fire mode, it does not work with it.
 
 ## Single fire input buffering
