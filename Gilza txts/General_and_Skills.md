@@ -64,7 +64,6 @@ Also your perks can get reset. Perk reset DOES NOT remove how many perk points y
 
 <ins>__**EVEN MORE IMPORTANT**__</ins>: if you are going to give Gilza a try, check all mods that Gilza requires to function, under "Dependencies and Instructions" tab on the [MWS page](https://modworkshop.net/mod/39854). All mods that are tagged as "optional" are sorted in order of importance, from highest at the top to lowest at the bottom. I recommend getting everything before (but preferably also including) FrenchyAu's weapon attachment packs.
 
-
 # Global changes
 
 ### Enemies
@@ -93,20 +92,19 @@ Bosses have different levels of health, headshot multipliers and melee resistanc
 This is one of a few changes that make combat easier and more forgiving for players with bad aim, since bodyshots mostly deal more damage.
 
 ### Skills
-<ins>Damage resistance</ins>
+<ins>Damage resistance</ins>  
 Damage resistance skills are now additive instead of multiplicative.  
 In vanilla, if you have two 40% damage resistance skills, they would give you 100 * 0.6 * 0.6 = 36, so 64% damage resistance total. This approach especially hurts if you are trying to stack multiple damage resistance skills.
 
 With Gilza's system there's only 1 problem that needs to be solved: max resist going over 100%. In vanilla it's impossible due to endless multiplications, but with Gilza's approach it would be possible. So to compensate, maximum possible damage resistance value was added: 80%. 
 
 This change also allows you to calculate damage resistances and breakpoints easier.
-<ins>Critical hits</ins>
 
+<ins>Critical hits</ins>  
 Critical hits will now always deal 2.25x damage, instead of multiplying your damage by enemy's headshot multiplier. This change effectively buffs them, since 80% of enemies you are dealing with have 2x headshot multipliers now. This does however nerf crits against bulldozers, which was the main reason for this change.
 
-<ins>Other</ins>
+<ins>Other</ins>  
 Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in game
-
 
 # Custom Weapons Support
 
