@@ -107,6 +107,7 @@ Critical hits will now always deal 2.25x damage, instead of multiplying your dam
 <ins>Other</ins>
 Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in game
 
+
 # Custom Weapons Support
 
 This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes. Beware: some custom weapons may have attachments that change damage/ammo pick up or other stats in such a way that it will not match Gilza's values well, making them either too good, or bad. I can't do anything about it, other then __manually__ adding support for __every gun individually__, and that is just tedious.
