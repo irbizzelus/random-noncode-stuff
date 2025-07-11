@@ -133,10 +133,9 @@ Good luck, have fun! :D
 
 -----
 
-<ins>**__Important for section bellow:__**</ins> Right click on images to view them in full size by opening them in a new tab if you are having trouble reading them.
-
 # Skills  
 *Some skills had their icons and names updated to match new functionality better.*
+<ins>**__Important for section bellow:__**</ins> Right click on images to view them in full size by opening them in a new tab if you are having trouble reading them.
 
 ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Skills%20legend.jpg)
 
