@@ -21,9 +21,9 @@ Whenever you hold the trigger your weapon's recoil forces your camera to climb u
 Compensation still exists for weapons with extremely low recoil however, for the first couple of shots. So, if you are using your weapon in single-fire or firing in short bursts, it will feel better to use for longer ranges.
 
 **Compensation visuals** (GIF's make take some time to load)
-| Gilza (compensation disabled) | Vanilla PD2 (compensation enabled) |
+| Vanilla PD2 (compensation enabled) | Gilza (compensation disabled) |
 | -------- | -------- |
-|  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Compensation_off.gif)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Compensation_on.gif)  |
+|  ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Weapon_Images/Recoil_With_Compensation.gif)  | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Weapon_Images/Recoil_Without_Compensation.gif)  |
 
 -----
 
