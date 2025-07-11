@@ -127,49 +127,21 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 
 | Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
-| Tier 3 |  Stockholm Syndrome | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Stockholm%20Syndrome.png) | A decent upside with an obvious downside. This skill was added to make other adjustments within Controller sub-tree flow better. |
-| Tier 2   | Confident | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Confident.png) | Now focused more on civilian control.  |
-| Tier 2   | Joker | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Joker.png) | Split confident skill to make sides of this tree make a bit more sense. Also, the 35% damage penalty is how it works in vanilla - description was updated to make it more clear.  |
-| Tier 1  | Forced Friendship | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Forced%20friendship.png) | Aced version was always extremely bad for it's cost, so now it's cheap. Converted enemies are now slightly more expensive, since they are pretty good. |
+| Tier 3 |  Stockholm Syndrome | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Stockholm_Syndrome.png) | A decent upside with an obvious downside. This skill was added to make other adjustments within Controller sub-tree flow better. |
+| Tier 2   | Confident | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Confident.png) | Now focused more on civilian control.  |
+| Tier 2   | Joker | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Joker.png) | Split confident skill to make sides of this tree make a bit more sense. Also, the 35% damage penalty is how it works in vanilla - description was updated to make it more clear.  |
+| Tier 1  | Forced Friendship | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Forced_Friendship.png) | Aced version was always extremely bad for it's cost, so now it's cheap. Converted enemies are now slightly more expensive, since they are pretty good. |
 
 ### Mastermind - Sharpshooter
 
-!!!
-#### Tier 4
 
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Graze.png)
-
-Damage calculations were updated to remove the need for headshots, and to make this skill's damage more consistent. Minimal trigger distance was added to incentivize sniping.
-
------
-
-#### Tier 3
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Aggressive%20reload.png)
-
-This skill does not need any changes, but it's cost was never justifiable to me. With new numbers it's a bit better.
-
------
-
-#### Tier 2
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Designated%20marksman.png) 
-
-Now has a new affect that interacts with Gilza's new weapon recoil, otherwise almost untouched.
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Slow%20and%20Steady.png)
-
-Buffs slower playstyle, especially with bipod'able weapons.
-
------
-
-#### Tier 1
-
-![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/Stable%20shot.png)
-
-Simplified.
-
-!!!
+| Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
+| -------- | -------- | -------- | -------- |
+| Tier 4 | Graze | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Graze.png)  |  Damage calculations were updated to remove the need for headshots, and to make this skill's damage more consistent. Minimal trigger distance was added to incentivize sniping. |
+| Tier 3 |  Body Economy | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Body_Economy.png) | This skill does not need any changes, but it's cost was never justifiable to me. With new numbers it's a bit better. |
+| Tier 2   | Designated Marksman | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Designated_Marksman.png) | Now has a new affect that interacts with Gilza's new weapon recoil, otherwise almost untouched.  |
+| Tier 2   | Slow and Steady | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Slow_And_Steady.png) | Buffs slower playstyle, especially with bipod'able weapons.  |
+| Tier 1  | Stable Shot | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Stable_Shot.png)  | Simplified. |
 
 ### Enforcer - Shotgunner
 
