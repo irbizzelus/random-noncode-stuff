@@ -31,11 +31,21 @@ Compensation still exists for weapons with extremely low recoil however, for the
 Hip-fire now has a 36 stability point penalty, to incentivize aiming down sights. Technician's "Fire control" skill can remove this penalty.
 
 ## Accuracy: Hip-fire
-Hip-fire now has a 28 accuracy point penalty, to incentivize aiming down sights. Technician's "Fire control" skill can remove this penalty.
+Hip-fire now has a 24 accuracy point penalty, to incentivize aiming down sights. Technician's "Fire control" skill can remove this penalty.
 
 ## Accuracy: Full-auto
-Full-auto fire mode now has a 28 accuracy point penalty. This penalty is applied only when your weapon is switched to full-auto fire mode - switching your weapon's fire mode during the heist, will negate this penalty, for as long as your weapon's fire mode is set to single-fire.
+Full-auto fire mode now has a 24 accuracy point penalty. This penalty is applied only when your weapon is switched to full-auto fire mode - switching your weapon's fire mode during the heist, will negate this penalty, for as long as your weapon's fire mode is set to single-fire.
 This penalty is not applied while bipoded.
+
+## Burst-Fire
+A new burst fire mode was added to some weapons, and is available on them by default. Every weapon with burst fire functionality will have a description with information oh the burst fire mode, like burst bullet count, or if the burst itself may have a different rate of fire during the burst.  
+Burst fire mode has a 16 accuracy penalty, similarly to full-auto fire mode, and has lower DPS than full auto fire mode (roughly 25% less).  
+To select burst fire mode, use your fire mode keybind. Order of fire mode cycling is as follows: single->burst->full auto.
+If a skill has a limit to what fire mode it can work with, burst fire is counted as a seperate fire mode - so if such skill does not specify support for burst fire mode, it does not work with it.
+
+## Single fire input buffering
+If you spam your "Fire Weapon" keybind, your inputs will be buffered, and your weapon may automatically fire even if you clicked the button again too soon. This feature is supported for weapons with 150 or more rounds per minute rate of fire.  
+In short - while shooting single fire weapons you will be able to fire them as quickly as possible, without getting the feeling that your mouse inputs do not register.
 
 # General weapon tweaks:
 * Weapons' accuracy and stability are no longer affected if you: crouch, jump, walk or sprint
