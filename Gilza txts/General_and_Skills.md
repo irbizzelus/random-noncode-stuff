@@ -55,7 +55,7 @@ Weapon recoil now depends on your base stability: weapons with low base stabilit
 
 <ins>Handling:</ins>
 Weapon accuracy and stability are no longer affected if you: crouch, jump, walk or sprint. However, both accuracy and stability have a penalty if you are firing from the hip. Aiming down sights removes this penalty.
-All weapons have an accuracy penalty if used in full-auto fire mode. If you use the select fire keybind to switch weapon to single-fire mode, it will gain it's full accuracy.
+All weapons have an accuracy penalty if used in full-auto and burst fire modes. If you use the select fire keybind to switch weapon to single-fire mode, you weapon will gain it's full accuracy.
 
 Check out the [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) page for more info.
 
@@ -142,6 +142,7 @@ Good luck, have fun! :D
 
 [VanillaHud Plus](https://modworkshop.net/mod/25629) is supported for all major skill updates that Gilza makes. To tweak VHUD+'s buff list for new skills, go to Gilza's mod options.
 
+### Skills Legend
 ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Skills%20legend.jpg)
 
 ### Mastermind - Medic
