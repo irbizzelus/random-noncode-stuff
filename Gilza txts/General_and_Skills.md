@@ -14,10 +14,10 @@ Originally inspired by [IREnFIST](https://modworkshop.net/mod/28585)
 
 # Welcome to Gilza  
 ("Gilza" is a Russian word for "Bullet casing")  
-A Payday 2 weapons/skills/perks rebalance/overhaul. All changes made by this mod are only available to the player who has it installed, without affcting gameplay for other players. It works in online lobbies regardless of if you are client or host. 
+A Payday 2 weapons/skills/perks rebalance/overhaul. All changes made by this mod are only available to the player who has it installed, without affecting gameplay for other players. It works in online lobbies regardless of if you are client or host. 
 
 ### How difficult is this rebalance?
-This rebalance is **not** easy. It was made by me - for me, and i consider myself a pretty good FPS player. If you think of yourself as an average/casual player, you may find some of the tweaks too difficult for you.
+This rebalance is **not** easy. It was made by me and for me, and i consider myself a pretty good FPS player. If you think of yourself as an average/casual player, you may find some of the tweaks too difficult for you.
 
 ### Main goals of this rebalance:
 * Make **__ALL__** weapons equally viable across all difficulties - this includes nerfing over-performing weapons.
@@ -38,7 +38,7 @@ Headshots now deal 2x damage, with exceptions for some special enemies.
 Melee weapons now deal % damage - if your melee has 35 damage, it will deal 35% of enemy's health in one hit. Some enemies are exceptions to this rule.
 
 ### Skills/Perks
-You can check the "Skills Legend" picture on top of the skills section bellow, which summarizes skill rework information - if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
+Since amount of changes is too vast to sum up, you should check the "Skills Legend" picture on top of the skills section bellow, which summarizes skill rework information - if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
 
 Most perks received minor updates to improve their design (mostly on DS difficulty), with only 3 perks gaining "major" updates. Go over general/neutral perk deck cards on the [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) page, since they apply to all perks.  
 Additionaly, 3 new custom perks were added - "Brawler", "Speed Junkie" and "Guardian".
@@ -104,11 +104,13 @@ This change also allows you to calculate damage resistances and breakpoints easi
 Critical hits will now always deal 2.25x damage, instead of multiplying your damage by enemy's headshot multiplier. This change effectively buffs them, since 80% of enemies you are dealing with have 2x headshot multipliers now. This does however nerf crits against bulldozers, which was the main reason for this change.
 
 <ins>Other</ins>  
-Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in game
+Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in game.
 
 # Custom Weapons Support
 
 This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes. Beware: some custom weapons may have attachments that change damage/ammo pick up or other stats in such a way that it will not match Gilza's values well, making them either too good, or bad. I can't do anything about it, other then __manually__ adding support for __every gun individually__, and that is just tedious.
+
+Most likely Gilza patches after 2.5 will mostly be focused on adding individual support for custom weapons, since 2.5 has almost perfect level of balance in my eyes.
 
 Currently supported attachment mods:  
 All of FrenchyAU's tacticool attachments packs (250+ attachments). Check Gilza's dependencies & Instructions tab for links.
@@ -147,25 +149,25 @@ Good luck, have fun! :D
 | Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
 | Tier 4 | Inspire | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Inspire.png)  |  Basic version of inspire is barely used, unless you either enjoy shouting at other people to move the fuck up, or a teammate is carrying a heavy objective bag. With this change you should be incentivized to use it more often. |
-| Tier 1  | Combat Medic | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Combat_Medic.png)  | This change keeps up with "Combat medic" idea while not hurting berserker players. |
+| Tier 1  | Combat Medic | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Combat_Medic.png)  | This change keeps up with "Combat medic" idea while not hurting vanilla berserker players. Additional healing this skill provides in vanilla also has a similar issue to Up You Go, where bonus healing is based on healing amount, instead of player health, leaving players with just 3% bonus health if played on Mayhem difficulty and above. |
 
 ### Mastermind - Controller
 
 | Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
 | Tier 3 |  Stockholm Syndrome | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Stockholm_Syndrome.png) | A decent upside with an obvious downside. This skill was added to make other adjustments within Controller sub-tree flow better. |
-| Tier 2   | Confident | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Confident.png) | Now focused more on civilian control.  |
-| Tier 2   | Joker | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Joker.png) | Split confident skill to make sides of this tree make a bit more sense. Also, the 35% damage penalty is how it works in vanilla - description was updated to make it more clear.  |
-| Tier 1  | Forced Friendship | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Forced_Friendship.png) | Aced version was always extremely bad for it's cost, so now it's cheap. Converted enemies are now slightly more expensive, since they are pretty good. |
+| Tier 2   | Confident | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Confident.png) | Now focused more on civilian control. Pro version was moved to the Joker skill on the right side of the sub-tree to make this tree make a little bit more sense, and to make minimalistic convert set up slighlty more expensive. |
+| Tier 2   | Joker | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Joker.png) | Split confident skill to make sides of this sub-tree make a bit more sense. The 35% damage penalty is just a better description, since that's how it works in vanilla.  |
+| Tier 1  | Forced Friendship | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Forced_Friendship.png) | Aced version was always extremely bad for it's cost, so now it's cheap. Converted enemies are now slightly more expensive to build minimally for, since they provide good benefits. |
 
 ### Mastermind - Sharpshooter
 
 | Tier level | Skill | Descrption |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
-| Tier 4 | Graze | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Graze.png)  |  Damage calculations were updated to remove the need for headshots, and to make this skill's damage more consistent. Minimal trigger distance was added to incentivize sniping. |
-| Tier 3 |  Body Economy | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Body_Economy.png) | This skill does not need any changes, but it's cost was never justifiable to me. With new numbers it's a bit better. |
-| Tier 2   | Designated Marksman | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Designated_Marksman.png) | Now has a new affect that interacts with Gilza's new weapon recoil, otherwise almost untouched.  |
-| Tier 2   | Slow and Steady | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Slow_And_Steady.png) | Buffs slower playstyle, especially with bipod'able weapons.  |
+| Tier 4 | Graze | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Graze.png)  |  Damage calculations were updated to remove the need for headshots, and to make this skill's damage more consistent. Minimal trigger distance was added to incentivize sniping. Semi automatic AR's and SMG's were allowed to make this sub-tree make a bit more sense, since majority of other skills bellow are focused on single fire mode. |
+| Tier 3 |  Body Economy | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Body_Economy.png) | Similarly to vanilla this skill will now provide reload bonuses, but they are now harder to achieve. Ability to reload your other weapon after a headshot was kept, since reload bonus only dissapears after a kill, after a reload. Ammo bonuses for bodyshots were added to make this skill an alternative for Ammo Efficiency skill which is focused on headshots, and to allow for Graze kills to give you some extra ammo. |
+| Tier 2   | Designated Marksman | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Designated_Marksman.png) | Now has a new effect that is based on Gilza's new weapon recoil, other upgrades were mostly untouched. Ability to tweak zoom amount was added since having more zoom is not always needed, so you can now customize it however you like. |
+| Tier 2   | Slow and Steady | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Slow_And_Steady.png) | Buffs for a slower playstyle, especially with bipod'able weapons.  |
 | Tier 1  | Stable Shot | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Stable_Shot.png)  | Simplified. |
 
 ### Enforcer - Shotgunner
