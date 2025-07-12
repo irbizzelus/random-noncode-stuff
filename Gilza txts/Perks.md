@@ -752,7 +752,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Leech
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Leech.png) |
 | -------- |
-| Copies the first rewoked card fully + gets the cooldown reduction by 15 seconds on teammate or self revive. Overall great option for semi god mode for difficulties bellow DS, and on DS should be used to either heal up in a pinch, or to revive a teammate while under affect to heal after effect is done. Keep in mind that if your health reaches 0 during the effect you will die, unlike fully upgraded Leech. |
+| Copies the first rewoked card fully + gets the cooldown reduction of 15 seconds on teammate or self revive. Overall great option for semi god mode for difficulties bellow DS, and on DS should be used to either heal up in a pinch, or to revive a teammate while under affect to heal after effect is done. Keep in mind that if your health reaches 0 during the effect you will die, unlike fully upgraded Leech. |
 
 ### 9th copy - Brawler
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Brawler.png) |
