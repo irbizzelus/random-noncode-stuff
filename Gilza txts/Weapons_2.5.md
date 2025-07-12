@@ -2,6 +2,10 @@
 
 [Link to the latest Patch Notes.](https://github.com/irbizzelus/Gilza/releases)
 
+[Link to the General/Skill Info page.](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/General_and_Skills.md)
+
+[Link to the Perks Info page.](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md)
+
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
 Stats are updated for DEV patch: 2.5
