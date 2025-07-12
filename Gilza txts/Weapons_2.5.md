@@ -42,7 +42,7 @@ Full-auto fire mode now has a 24 accuracy point penalty. This penalty is applied
 This penalty is not applied while bipoded.
 
 ## Burst-Fire
-A new burst fire mode was added to some weapons, and is available on them by default. Every weapon with burst fire functionality will have a description with information oh the burst fire mode, like burst bullet count, or if the burst itself may have a different rate of fire during the burst.  
+A new burst fire mode was added to some weapons, and is available on them by default. Every weapon with burst fire functionality will have a description with information on the burst fire mode, like burst bullet count, or if the burst itself may have a different rate of fire during the burst.  
 Burst fire mode has a 16 accuracy penalty, similarly to full-auto fire mode, and has lower DPS than full auto fire mode (roughly 25% less).  
 To select burst fire mode, use your fire mode keybind. Order of fire mode cycling is as follows: single->burst->full auto.  
 If a skill has a limit to what fire mode it can work with, burst fire is counted as a seperate fire mode - so if such skill does not specify support for burst fire mode, it does not work with it.
@@ -75,7 +75,7 @@ Some enemies take less melee damage:
 
 Bulldozers' melee resistance is increased by extra 2x when playing on Death Sentence difficulty, since their health is doubled on this difficulty.
 
-Melee knockdown now depends on weapon's range. More range your melee has, less knockdown it has. It might not always make sense when you look at some melees, but suppress your instincts in the honor of better balance!
+Melee knockdown now depends on weapon's range. More range your melee has, less knockdown it has. It might not always make sense when you look at some melees. Too bad.
 
 Grey swats can now be knocked down by melee weapons.
 
@@ -102,7 +102,7 @@ Almost all melee charge sounds were removed, due to charge time mismatch. To add
 |Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
 |--------|--------|--------|--------|
 |125 dmg|3|4|Best for crits|
-|155 dmg|2|3|Average rifles, should feel the most similar to vanilla PD2 AR's|
+|155 dmg|2|3|Average rifles, should feel the most similar to vanilla PD2 AR's. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduce your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendy" option of sorts.|
 |200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of 15% ammo pick up. Benefits from "Overkill" aced the best, due to damage class upgrade|
 |250 dmg|1|2|Most stable and comfortable TTK, but poor ammo economy if not accurate.|
 |450 dmg|1|1|Usually highest recoil and worst ammo economy. Best combined with body expertise/ammo related skills.|
@@ -140,7 +140,7 @@ Shotgun multiplier is different per shotgun class - double barrels for example a
 |Double barrel|900 dmg|1|1|1|Can one-shot-bodyshot light and heavy swats. One-shot everyone else in the head.|
 |Pump-action|450 dmg|1|1|0.8|Slowest of them all. The only type to have new "Breaching" rounds.|
 |Semi-auto no mag|325 dmg|1|2|0.67|The in-betweeners. Become 1-1 shots to kill type with overkill skill.|
-|Some semi-auto's and full-auto's with mags|155 dmg|2|3|0.5|Spammm.|
+|Some semi-auto's and full-auto's with mags|155 dmg|2|3|0.5|Spammm. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduce your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendy" option of sorts.|
 
 ### Shotgun ammo.
 Additional stats, like DOT damage and ammo pick up changes, are included in game in ammo descriptions.
@@ -217,7 +217,7 @@ With all of the changes above, pistols should now be a really comfortable altern
 |88 dmg|3|6|Bernetti auto|
 |95 dmg|3|5|Most Full auto's|
 |125 dmg|3|4|Mostly for crits and stealth|
-|155 dmg|2|3|Average, perfect for loud|
+|155 dmg|2|3|Average, perfect for loud. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduced your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendy" option of sorts.|
 |250 dmg|1|2|Heavies like Deagle|
 |450 dmg|1|1|Revolvers|
 
@@ -242,7 +242,7 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 |--------|--------|--------|--------|
 |95 dmg|3|5 |Crits/Stealth. Have high ROF|
 |125 dmg|3|4 |Crits/Stealth. Most have high ROF|
-|155 dmg|2|3|Average|
+|155 dmg|2|3|Average. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduced your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendy" option of sorts.|
 |200 dmg|2|3|Average, but with less restrictive modding. 15% less pick up compared to 155 class. Combines well with "Overkill" aced due to new damage breakpoints|
 |250 dmg|1|2 |Heavy hitters|
 
