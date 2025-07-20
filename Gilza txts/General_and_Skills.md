@@ -38,7 +38,9 @@ Headshots now deal 2x damage, with exceptions for some special enemies.
 Melee weapons now deal % damage - if your melee has 35 damage, it will deal 35% of enemy's health in one hit. Some enemies are exceptions to this rule.
 
 ### Skills/Perks
-Since amount of changes is too vast to sum up, you should check the "Skills Legend" picture on top of the skills section bellow, which summarizes skill rework information - if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
+<ins>Damage resistance</ins>  
+Damage resistance skills are now additive instead of multiplicative. For more info scroll down to [Global changes - skills](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md).  
+Otherwise, amount of changes for both skills and perks is too vast to sum up, so you should check the "Skills Legend" picture on top of the skills section bellow, which summarizes skill rework information - if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
 
 Most perks received minor updates to improve their design (mostly on DS difficulty), with only 3 perks gaining "major" updates. Go over general/neutral perk deck cards on the [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) page, since they apply to all perks.  
 Additionaly, 3 new custom perks were added - "Brawler", "Speed Junkie" and "Guardian".
