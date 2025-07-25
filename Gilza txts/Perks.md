@@ -25,6 +25,7 @@ TODO - make builds which utilize:
 * add a note for AP kits to some builds, that can use them well
 * breaching shotgun rounds(currently option in 1 build, should be an option in more builds)
 * missing shotgun ammo: tombsotne slugs, buckshot 000, HE, dragons breath(?)
+* guardian LMG build
 
 # General info:
 
