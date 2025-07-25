@@ -443,16 +443,15 @@ Primary focused on accuracy, secondary focused on DPS or shield AP. Kobus 90 wit
 Smokebomb cooldown was reduced from 60 to 45 seconds, since this perk deck is alright.
 
 ### Additional info/tips
-Do not equip new Revitalized skill from tier 4 artfull dodge subtree since it doesn't do anything when you have sicario.
+Do not equip new revitalized skill from tier 4 artfull dodge subtree since it doesn't do anything when you have sicario.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - Since sicario's dodge has extra RNG involved, you should try to rely on your health a bit more, so hostage taker and/or First Aid Kits are solid options. Use bullseye for armor gating as always, and never equip revitalized, because this skill effectively does nothing for sicario.
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Supportive Smokey Sniper https://pd2builder.netlify.app/?s=5O5g0V008110-7102h14000h00&p=h&a=0&t=e&d=5  
+Use your smoke to help with revives, objectives, or if you feel like situation is threatening enough. Insider assets is a great supportive skill, even if it's not viable on every heist. Aced swan song allows for both clutch moments and great damage bursts. Stockholm syndrome will elavate your survivability if your team did not bring enough doctor bags, and will allow for some additional crowd control if your stacks are high enough.   
 Weapons to use:  
-such and such
+Any sniper rifles you prefer, 1600 are perfect for graze due to their breakpoints, but 950 lever actions have one of the best total damage outputs if you only reload them while empty, while using body economy skill. Secondary should be a sniper as well, preferably the North Star, as it allows for best DPS bursts against bulldozers.
 
 # Stoic (2/5):
 
