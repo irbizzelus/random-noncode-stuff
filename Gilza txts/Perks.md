@@ -283,13 +283,13 @@ Slighlty improved AP chance (5% big wow) to allow for this stat to work better w
 For DS specifically - run this deck when you have Crew Chief on your team for the 2 tap health breakpoint with fastest self-healing of all decks in the gamae. Otherwise this deck is still sorta mid tier for DS.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
+Barebone skills - Bullseye for armor gating, partners in crime for extra health. LBV armor with die hard aced is recomended, since 70 armor helps quite a bit.  
 Need this that and that
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Crits with AP https://pd2builder.netlify.app/?s=wb0914009k00120-6121S000300&p=a&a=1&t=1&d=3  
+If silenced weapons are used you will have 85% chance to pierce enemy body armor total, allowing you to play with lazy aim. Keep your regen stacks up as much as you can, to maintain regen immediately after armor break, but don't rely on your health too much while playing on DS difficulty, since you can't get 3 tap health. If you feel confident enough, you can replace up you go with melee skills to help with bulldozers, tho SMG with crits should be more than enough to deal with them.  
 Weapons to use:  
-such and such
+<=155 damage class assault rifle modded for accuracy and concealment, recoil may be partially ignored since you get a decent boost to it from designated marksman skill, but don't completely ignore it, since gun oil will increase your rate of fire, affecting your recoil. Weapons with high rate of fire recomended. Use any <=155 damage class SMG as secondary for close quaters combat and to deal with bulldozers. Any high concealment melee of your choice. Keep total detection <25.
 
 # Yakuza(4/5):
 
