@@ -311,13 +311,12 @@ New resistance effect that you gain from Yakuza will now reduce this supression 
 Gameplay overall is about the same - shoot, duck to cover to recover, shoot. Gained buffs will imrpove this aspect by allowing you to to this faster and more often, while damage resist from behind and additional movement speed will allow you to relocate easier. 
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - ICTV armor, frenzy aced for improved damage resistance, especialy from behind, armor recovery skills, and bullseye for armor gating.  
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Duck and Sniper https://pd2builder.netlify.app/?s=09002V00cP10-91010-411I&p=b&a=6&t=6&d=3  
+Pay close attention to your armor status and duck from and into cover depending on your current armor status. Since your armor regeneration time is extremely quick you can have extremely high out of cover uptime. Also don't be afraid of running away, since your damage resistance to enemies behind you is extremely high. Use molotovs to bring your health as close to 0 as possible to speed up your armor recovery, after you have interacted with a Doctor Bag. Use melee against bulldozers.   
 Weapons to use:  
-such and such
+450 or 250 damage class assault rifle. You can use an AP kit on those rifles, allowing you to avoid getting shock and awe, and getting extra 6 skill points, that you probably should invest in melee or survivability skills. Use a 250 secondary SMG in single fire to gain benefits from sharpshooter sub tree skills, you may also sometimes switch to full auto fire mode to deal with bulldozers, but melee should be prefered against them at all times. Use molotovs to bring your health down, and use a 75 damage class melee for bulldozers.
 
 # Ex-president (4/5):
 
@@ -337,13 +336,18 @@ This perk is mostly buffed, but still feels pretty balanced, while being much ea
 Gameplay is about the same as in vanilla, and can be even more passive now, since you can get armor recovery bonuses from teammates. Damaging yourself with explosives to heal might still be a decent idea in some cases, but relying on it, in my opinion, is not needed at all anymore.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - Bullseye is the only mandatory skill, as this deck has one of the highest variety options, just keep in mind that you can't play agresively with this perk unless your stored health is high/maxed out, since you are vulnerable if you don't have any of it. High dps builds can help you gain this stored health, while high survivability builds can rely on teammates' kills for survival, while providing them with support options like breaching charges, drill skills, ammo etc.
 
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Crit Sniper https://pd2builder.netlify.app/?s=1GgFgF00940-9030l0-41d0&p=c&a=1&t=4&d=3  
 This build has 7 spare points which you can use to either improve your converted cops with more skills, give yourself minor melee/stability/ammo pick up range buffs, or you can use them to ace low blow and allow yourself to build weapons for a total goal of <25 total detection. Otherwise, keep total detection <5.  
 Weapons to use:  
 1600 damage class sniper rifle, and any secondary of your choice. Flashbangs or zapper grenades, depending on heist length. Any melee of your choice, but if you mainly use it against Bulldozers, use the 75 damage class.
+
+Build 2 - Crittin' slinger https://pd2builder.netlify.app/?s=09090-4o50-90301S0R0300&p=c&a=1&t=2&d=3  
+Silenced pistols that practically have infinite ammo and solid dps. Need i say more?  
+Weapons to use:  
+Silenced akimbo semi automatic pistols, preferably <=78 damage class. Focus on accuracy and concealment, since pistol recoil overall is decently easy to control. Use a secondary full auto pistol to deal with bulldozers, since this is your best DPS option. Use any throwable you prefer, but default greanades fit the best, to deal with huge squads, especially shield squads. Any concealed melee of your choice. Keep total detection <25.
+
 
 # Maniac (4/5):
 
