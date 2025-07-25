@@ -217,13 +217,12 @@ This perk deck is affected by all the important mod updates mentioned in [Genera
 For DS builds - 3 tap is achieved much easier now and even 4 tap is possible. 5+ is possible with maniac/crew cheifs on your team, making this deck absolutely busted in coordinated teams. As long as you have the temporary DR bonus that is.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - ICTV armor, underdog and frenzy aced for stackable damage resistance. Bullseye for armor gating.
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - DMG resist overload https://pd2builder.netlify.app/?s=010912018N1Q120-610-71I&p=7&a=6&t=j&d=0  
+Use bipodable LMG's to gain damage resist while bipoded, and stack a huge amount of damage resistance. You can swap shock and awe aced for bullseye aced if you want to upkeep your position for longer (not recomended for DS difficutly). You can also swap all skills in techician that provide your LMG's a DPS increase for nince lives aced and 3 points on top, if you feel like your survivability is not high enough, and you would like to get an extra down instead of additional DPS. Partners in crime allows you to gain 2 tap health for DS difficulty, so if you play at lower difficulties you can replace convert skills with anything else.   
 Weapons to use:  
-such and such
+Bipodable LMG of your choice, and a secondary SMG for close quaters combat, since LMG's deal reduced damage point blank. Bipodable LMG's tend to have good enough accuracy to deal with snipers, so the only other option you can go for is a secondary to deal with shields, if you decided to go for aced bullseye instead of aced shock and awe. Use Viper grenades to make teammate revives easier, and try avoid thrwoing them too often. Use any melee of your choice, but 35+ damage classes are recomended.
 
 -----
 
