@@ -66,7 +66,7 @@ Adjusted the 3rd card to provide "shouting" bonus to both basic and aced version
 ### Build(s) to try
 Barebone skills: ICTV armor is heavily favoured. Hostage taker or First Aid Kits are recommended for health upkeep. Inspire is handy to have if you have points to spare. Bullseye is always needed. Your general buffs are oriented mostly at your teammates, while you just gain passive buffs, which leads to an overall passive playstyle.  
 
-Build 1 (By Razer125) - Basic Sniper https://pd2builder.netlify.app/?s=xa0HgF00kF0-9010-61d0&p=0&a=6&t=4&d=3  
+Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Basic Sniper https://pd2builder.netlify.app/?s=xa0HgF00kF0-9010-61d0&p=0&a=6&t=4&d=3  
 This is meant to be something that is close to home for the Sniper Crewchief build in vanilla, though with Gilza's gameplay loop you will be relying on your secondary and melee a lot more. But hey, atleast sniping is a lot easier as you only need to aim for the body.  
 This build is using all barebone skills - ICTV armor, hostage taker, and inspire. Sniping is favoured due to the passive nature of this perk deck, but you can try to rely on any weapons of your choice, with appropriate skill adjustments to this build.
 Weapons to use:  
@@ -86,7 +86,7 @@ Added increased self-healing while playing on DS difficulty. This change was don
 ### Build(s) to try
 Barebone skills: Hostage taker for health regen, which stacks with muscle's natural health regen. Partners in crime for improved total health. Bullseye for armor gating. Up you go aced to get more health after being revived. Depending on how agressive you are, you could opt in for first aid kits, to easier maintain your max health.
 
-Build 1 (By Razer125) - Crit Muscle https://pd2builder.netlify.app/?s=xkgF0100dg0-6gF00105g0001f0&p=1&a=0&t=4&d=5  
+Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Crit Muscle https://pd2builder.netlify.app/?s=xkgF0100dg0-6gF00105g0001f0&p=1&a=0&t=4&d=5  
 Stay below 25 total detection. A run and gun version of muscle. Focusing armor skills with muscle in general is not a great idea, since most of your survivability comes from your health, which should be imrpoved first.  
 Weapons to use:  
 Prefered combo: Vulcan Minigun and Bronco revolver with <25 total detection. Alterantively, you can rely on any other fast firing primary weapon with low damage class. Secondary Bronco is recomended due to it's ability to gain high concealment, but any reliable secondary that can deal with targets beyond 10 meters will do as well.
@@ -347,7 +347,7 @@ Gameplay is about the same as in vanilla, and can be even more passive now, sinc
 Barebone skills - https://pd2builder.netlify.app  
 Need this that and that
 
-Build 1 (By Razer125) - Crit Sniper https://pd2builder.netlify.app/?s=1GgFgF00940-9030l0-41d0&p=c&a=1&t=4&d=3  
+Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Crit Sniper https://pd2builder.netlify.app/?s=1GgFgF00940-9030l0-41d0&p=c&a=1&t=4&d=3  
 This build has 7 spare points which you can use to either improve your converted cops with more skills, give yourself minor melee/stability/ammo pick up range buffs, or you can use them to ace low blow and allow yourself to build weapons for a total goal of <25 total detection. Otherwise, keep total detection <5.  
 Weapons to use:  
 1600 damage class sniper rifle, and any secondary of your choice. Flashbangs or zapper grenades, depending on heist length. Any melee of your choice, but if you mainly use it against Bulldozers, use the 75 damage class.
