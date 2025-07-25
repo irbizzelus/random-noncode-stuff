@@ -68,9 +68,9 @@ Barebone skills: ICTV armor is heavily favoured. Hostage taker or First Aid Kits
 
 Build 1 (By Razer125) - Basic Sniper https://pd2builder.netlify.app/?s=xa0HgF00kF0-9010-61d0&p=0&a=6&t=4&d=3  
 This is meant to be something that is close to home for the Sniper Crewchief build in vanilla, though with Gilza's gameplay loop you will be relying on your secondary and melee a lot more. But hey, atleast sniping is a lot easier as you only need to aim for the body.  
-This build is using all barebone skills - ICTV armor, hostage taker, and inspire. Sniping is favoured due to the passive nature of this perk deck, but you can try to rely on any weapons of your choise, with appropriate skill adjustments to this build.
+This build is using all barebone skills - ICTV armor, hostage taker, and inspire. Sniping is favoured due to the passive nature of this perk deck, but you can try to rely on any weapons of your choice, with appropriate skill adjustments to this build.
 Weapons to use:  
-1600 damage class sniper rifle with any secondary of your choise. Flashbangs or zapper grenades, depending on heist length. Any melee of your choise, but if you decide to use melee mostly for dozers, 75 damage melee's are the best. 
+1600 damage class sniper rifle with any secondary of your choice. Flashbangs or zapper grenades, depending on heist length. Any melee of your choice, but if you decide to use melee mostly for dozers, 75 damage melee's are the best. 
 
 -----
 
@@ -99,13 +99,12 @@ Prefered combo: Vulcan Minigun and Bronco revolver with <25 total detection. Alt
 This perk is perfectly fine and does not require any changes, the only reason it's even mentioned here was to avoid questions like "why no armorer here?"
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - If you play on Death Sentence difficulty, either run ICTV, or run CTV with frenzy aced to gain 2 tap armor. For difficulties bellow, use any armor you prefer, tho higher armors are favoured, and never forget bullseye (either basic or aced) for armor gating.
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Jack of all trades https://pd2builder.netlify.app/?s=090-4xkkFg1380-6580-5h58&p=2&a=6&t=6&d=30  
+Ultimate powerhouse able to achieve any task. Spare 1 point you can use however you wish, but getting extra accuracy from stable shot will most likely be best value.   
 Weapons to use:  
-such and such
+Use a primary shotgun of your choice, but 155 damage class is recomended due to combination of berserker and overkill, allowing you to gain a massive damage increase. Secondary can be a shotgun to gain benefits from overkill, a SMG to deal with Bulldozers, a high accuracy weapon for long range, or any weapon with shield AP capabilities. 
 
 -----
 
@@ -273,7 +272,7 @@ Weapons to use:
 125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
 95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
 Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choise.
+Any 32 concealment melee of your choice.
 
 # Grinder (1/5):
 
@@ -348,7 +347,7 @@ Need this that and that
 Build 1 (By Razer125) - Crit Sniper https://pd2builder.netlify.app/?s=1GgFgF00940-9030l0-41d0&p=c&a=1&t=4&d=3  
 This build has 7 spare points which you can use to either improve your converted cops with more skills, give yourself minor melee/stability/ammo pick up range buffs, or you can use them to ace low blow and allow yourself to build weapons for a total goal of <25 total detection. Otherwise, keep total detection <5.  
 Weapons to use:  
-1600 damage class sniper rifle, and any secondary of your choise. Flashbangs or zapper grenades, depending on heist length. Any melee of your choise, but if you mainly use it against Bulldozers, use the 75 damage class.
+1600 damage class sniper rifle, and any secondary of your choice. Flashbangs or zapper grenades, depending on heist length. Any melee of your choice, but if you mainly use it against Bulldozers, use the 75 damage class.
 
 # Maniac (4/5):
 
@@ -554,7 +553,7 @@ Pump action (450 dmg) primary, focused on dealing with multiple enemies, so Dona
 | -------- |
 
 ### Summary
-A perk deck focused on melee weapons and team "protection". You are supposed to be your team's meat shield, taking all the damage that you can, while being extremely limited with your weapon choises/usage, and being most efficient with melee weapons both in terms of damage and survivability bonuses.
+A perk deck focused on melee weapons and team "protection". You are supposed to be your team's meat shield, taking all the damage that you can, while being extremely limited with your weapon choices/usage, and being most efficient with melee weapons both in terms of damage and survivability bonuses.
 
 ### Additional info/tips
 Focus on melee and survivability skills the most. Do not assume that you have god mode, even if you currently have maxed bonuses. Use a sniper or a similar weapons to deal with snipers/shileds, while running saw and melee as your primary weapons.
@@ -599,7 +598,7 @@ such and such
 Stand still to create an area. While inside of your area you (mostly) take less damage and quickly recover health. If you are outside of your area you take more damage and don't heal. Kills you get automatically pick up ammo boxes from killed enemies if you are inside of your area. However you have no armor and you are really slow. Sometimes you just can't have everything.
 
 ### Additional info/tips
-This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choise is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the richochet "Porcupine" perk card.
+This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choice is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the richochet "Porcupine" perk card.
 
 ### Build(s) to try
 Barebone skills - https://pd2builder.netlify.app  
