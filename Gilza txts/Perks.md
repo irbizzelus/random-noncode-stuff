@@ -413,13 +413,12 @@ Functionality of the core of the deck is unchanged, "Stack of Regeneration" is a
 Overall these changes were made to make this deck much more consistent, and it no longer requires infoHUD's of any sort to track your stacks to survive, since you almost always will have stack slots to gain regeneration from.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - ICTV armor is favoured and allows for 2 tap on DS, bullseye for armor gating, and not much else.  
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Jack of All Trades https://pd2builder.netlify.app/?s=wb4b50004H1k1a0-610-5g100&p=f&a=6&t=h&d=03  
+The ultimate "i don't want to think" or "Generalist" build, which will work in any situation on almost any heist. Avoid maps with big open spaces like Heat Street and Bomb:Forest, but most other maps are fine. Your survivability is relying on your teammates' kills as well as your own, allowing you to armor gate from this perk even when there are no enemies within your view, and also having decent health regen. Using double deployables allows you to be prepared for any team setup and any heist, while fully loaded allows you to use any weapon you want. Swan song can be replaced with bloodthirst to help against bulldozers, but as long as you are using 250 or 450 damage class weapons, bulldozers won't be a huge threat for you, allowing you to mostly use melee against standard units.   
 Weapons to use:  
-such and such
+Any weapons you want. 450/250 Assault rifle as a primary is most likely going to fit best due to their DPS and versatility. Akimbo weapons not recommended due to low total ammo amount, which leads to bad ammo bag efficiency. Any melee you want, i myself prefer 35 damage class. Pick your grenades depending on your team's setup, you may need help with crowd control, revives, area denial or just standard explosives for damage. Do not use throwable axes/knives/cards because fully loaded aced allows for effective ammo pick up for explosive throwables.
 
 # Kingpin (0/5):
 
@@ -427,13 +426,12 @@ such and such
 Same as with armorer, this deck is here to let you know that it has no changes. Descriptions were updated for card #1 and #9 to fix incorrect values and let you know that kills refill 1 second for the cooldown.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - Bullseye for armor gating and to bring yourself over the 50% threshold easier. Passive healing from hostage taker could be helpful for lower difficulties, since self healing from damage taken is lower due to lowered damage, compared to DS difficulty.  
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Survivalist https://pd2builder.netlify.app/?s=xk0p1000ch0-90101G000pf0&p=g&a=3&t=g&d=5  
+Fairly standard kingping gameplay, with unseen strike being your main DPS skill. Since you can force enemies to damage you, while being semi-invulnerable you can activate the damage activation part of the skill, then go to cover for 6 seconds, activate crit boosts, and go on a kill spree to recover your injector. Repeat this cycle endlessly.  
 Weapons to use:  
-such and such
+Primary focused on accuracy, secondary focused on DPS or shield AP. Kobus 90 with AP bullets is a solid option. Any 75 melee to deal with bulldozers, or a 35 melee if either of your weapons has AP, to compensate lower ammo pick ups with more melee kills.
 
 # Sicario (1/5):
 
