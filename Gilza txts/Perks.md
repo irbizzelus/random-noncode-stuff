@@ -392,13 +392,13 @@ Basically all armors are now flipped. This is a side grade to vanilla version of
 Since changes above are mostly focused at DS difficulty where armor gating is important, another small change was made for lower end armors, which favours lower difficulties. Your total amount of armor gain per minute is higher with lower end armors like the suit. This is true for both passive and on-damage effect. So if you prefered to run ICTV anarchist in vanilla on lower difficulties, you can now go for something like a HBV or a suit, to gain movement speed and about the same armor gain per minute.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
+Barebone skills - Bullseye, and even that one is a maybe, since you don't HAVE to have it to gain armor gating.   
 Need this that and that
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Heavy weapons guy https://pd2builder.netlify.app/?s=010012006F1Q0-41Y0010-778&p=e&a=6&t=6&d=0  
+While bipoded and hitting headshots you can maintain your armor up for a long time, since your damage taken to armor recovered is so heavily tilted in your favour. Aim at around chest are of enemies to deal increased damage from body exertise on bodyshots, and to regain armor on headshots. Since LMG accuracy, even while bipoded, is not grea, you will be able to gain benefits from both skills reliably, on top of having the best passive armor gating from new ICTV anarchist.  
 Weapons to use:  
-such and such
+Any bipod'able LMG as primary, and a secondary grenade launcher, preferably with area denial grenades like fire or gas, but default can also work. Use any throwable you want, molotovs are best option to activate berserker on yourself, or to bring your health down to the 50% threshold. If you use molotovs, using gas nades in your secondary launcher is a great idea to help with teammate revives.
 
 # Biker (3/5):
 
