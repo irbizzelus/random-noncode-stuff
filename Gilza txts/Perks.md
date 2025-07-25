@@ -523,9 +523,9 @@ This perk deck is simply too good, and the main reason for that is just the ECM 
 Barebone skills - get additional dodge and bulseye for armor gating, rest is up to you.
 
 Build 1 - Default https://pd2builder.netlify.app/?s=1G091400d010-9qBhI000100&p=k&a=0&t=d&d=3  
-Keep total detection <5. Use PECM whenever you are either low on health, your temporary dodge is no longer acitve, or when you feel like you are in danger, but don't activate it too frequentyl as you would in vanilla, since cooldown is longer.  
+Keep total detection <5. Use PECM whenever you are either low on health, your temporary dodge is no longer acitve, or when you feel like you are in danger, but don't activate it as frequenty as you would in vanilla, since cooldown is longer.  
 Weapons to use:  
-Any weapons that benefit from crits and can get you to bellow 5 total detection, like bows, work great. If you plan on using bows, don't forget to bring additional weapon to deal with snipers. You can also utilize grenade launchers with default explosives, for ease of activation of temporary dodge and healing during the PECM effect. You will most likely struggle getting <5 detection with grenade launchers, but 1-2% sacrifice of dodge may be worth the multi-kill potential of GL's.
+Any weapons that benefit from crits (a.k.a. guns with low damage with high rate of fire) and can get you to bellow 5 total detection work great. You can also use bows or crossbows, since they all have useful new breakpoints with crits. If you plan on using bows/crossbows, don't forget to bring additional weapon to deal with snipers. You can also utilize grenade launchers with default explosives, for ease of activation of temporary dodge and healing during the PECM effect. You will most likely struggle getting <5 detection with grenade launchers, but 1-2% sacrifice of dodge may be worth the multi-kill potential of GL's.
 
 
 # Leech (5/5):
@@ -552,9 +552,9 @@ Please, please, please use Painkillers skill on higher difficulties. Bonuses tha
 Barebone skills - You can use FAK's without using hostage taker to heal, or use hostage taker with any other deployable for passive healing. Investing into armor is not recommended since your health bonuses provide big enough bonuses already. Go for mid tier armors, aiming for 70 armor on DS difficutly. Messiah, at least basic, is favoured heavily since it's extremely effective at shortening cooldown while downed. Up you go aced also helps with healing after you go down really well.
 
 Build 1 - Standard - shotgun focused. https://pd2builder.netlify.app/?s=1G0H00xkc10-9010-6H00&p=l&a=3&t=i&d=3  
-As always, focus on reviving your team to get your cooldown up. Heals from activation of the ampule and passive regen from hostage taker should be enough sustain. Use Messiah's basic feature of being able to never go down to get your cooldown back, or activate it if you need to clutch the situation you are currently in. Use HBV armor and Doctor bags.   
+As always, focus on reviving your team to get your cooldown up. Heals from activation of the ampule and passive regen from hostage taker should be enough sustain. Use Messiah's basic feature of being able to never fully go down to get your cooldown back, or activate it if you need to clutch the situation you are currently in.   
 Weapons to use:  
-450 or 325 damage class primary, focused on dealing with multiple enemies, so Donald's Horizontal Leveller is recommended, along with default ammo, focused on stability. 325 damage class secondary, focusing on mostly accuracy and DPS (so bigger ROF ones), to deal with snipers and bulldozers. Use slugs if shields are a big problem for you, but i'd recommend using Flechette ammo. Use any melee you prefer. 
+450 or 325 damage class primary shotgun, focused on dealing with multiple enemies, so Donald's Horizontal Leveller is recommended, along with default ammo, focused on stability. 325 damage class secondary shotgun, focusing on mostly accuracy and DPS (so bigger ROF ones), to deal with snipers and bulldozers. Use slugs if shields are a big problem for you, but i'd recommend using Flechette ammo. Use any melee you prefer. 
 
 # CUSTOM PERK - Brawler:
 
