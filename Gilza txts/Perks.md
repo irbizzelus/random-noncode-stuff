@@ -11,7 +11,20 @@
 Stats are updated for DEV patch: 2.5
 
 TODO:
-- add missing build recomendations
+make builds which utilize:
+* bipodless lmg's
+* 1300/950 snipers?
+* akimbo shotguns?
+* bows
+* crossbows
+* miniguns (non-crit)
+* rocket launchers?
+* poision shotgun ammo and/or poision melee
+* a build that relies on standard HE throwable grenades as a counter for shields and dozer plates. make it part of other builds maybe?
+* 1-3 stealth builds?
+* saw sociopath
+* c4/firetrap build (maybe 2?)
+* add a note for AP kits to some builds, that can use them well
 
 # General info:
 
