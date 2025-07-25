@@ -364,13 +364,17 @@ In addition to this change, while playing on DS you can now get 72 damage aborpt
 Poison and other DOT effects are favoured heavily if you want to keep your stacks at max with ease. Do keep in mind that poison is really ammo hungry when making your builds.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - ICTV armor and frenzy aced. With this set up you can maintain 3 tap armor on DS difficulty at max Hysteria stacks. If you play bellow DS difficulty frenzy is not required.
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Gas Overload https://pd2builder.netlify.app/?s=10-4h00oB1Q380-610-61sz&p=d&a=6&t=j&d=03  
+Gas spam. You will cycle your Viper grenades, underbbarrel gas, and secondary grenade launcher with gas. This is the ultimate war crime build, and it wasn't even specifically made because it's funny, but because gas grenades have extremely low ammo pick up, so even with this set up, it could still be a challege to keep at least 1 gas cloud afloat. And you want to keep it up, to maintain maxed maniac stacks indefinetely. Use primary AR to land kills on stunned enemies with easy headshots.  
 Weapons to use:  
-such and such
+Specifically little friend 7.62 assault rifle with gas grenades for the underbarrel. Can be replaced by Groza AR with gas underbarrel, but it's a worse option. Use any secondary grenade launcher with gas grenades. Use viper grenade throwable. Cycle those 3. Use 75 melee against bulldozers.
+
+Build 2 - Engineer is engi-here. https://pd2builder.netlify.app/?s=010010006Fh40Z0-610-5g11I&p=d&a=6&t=b&d=70   
+Keep your little friend near chokes for free and constant damage, helping you upkeep your Hysteria stacks. Rely on your sentries to shut down shields, and don't forget to refill/repair them. Use melee against any enemy, but do focus on bulldozers.  
+Weapons to use:  
+Akimbo SMG's or Pistols with lowest total ammo and highest ammo pick up ratio. Secondary pistol with high accuracy and same ratio of total ammo to pick up ratio. The reason you would want to use such weapons, is the fact that sentry guns cost a certain % amount of your total ammo whenever they are deployed. If you use a weapon with low total ammo and high ammo pick up, you would be able to refill one sentry gun equivalent of ammo from much less dropped ammo boxes. Weapons that i prefer: Akimbo bernetti auto pistols and the HOLD 9mm pistol. Any 35+ damage class melee of your choice.
 
 # Anarchist (3/5):
 
