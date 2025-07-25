@@ -559,10 +559,15 @@ Focus on melee and survivability skills the most. Do not assume that you have go
 ### Build(s) to try
 Barebone skills - ICTV or CTV armor, bullseye is not recommended at all, since passive armor gating you get from melee kills should be enough. Frenzy aced is favoured heavily due to low health bonuses of the deck. Melee skills are heavily favoured. Counterstrike is effective to deal with bulldozers, allowing you to stun them just with the basic version. Backfire aced is somewhat required since tazers can screw you over badly. Saw is favoured as well, since it maintains it's ammo pick up, ignoring the ammo pick up debuff that brawler comes with.  
 
-Build 1 - Default https://pd2builder.netlify.app/?s=09090-4sz1a0-8580-421aN&a=6&t=b&d=3  
+Build 1 - Default https://pd2builder.netlify.app/?s=09090001sz380-8580-421aN&a=6&t=b&d=3  
 Relatively close to perfect build with this deck. Take agro from your enemies, deal massive melee damage, use converted cop as an addtional ancor for your defensive bonuses, use counterstrike against cloakers and to stun bulldozers, or even use it as a bonus damage option, if you run melees with less then 50 damage.  
 Weapons to use:  
 Any 100 accuracy primary that can deal with snields and snipers. So a sniper rifle most likely. Thanatos is probably the best option, to help you shutdown bulldozers, after their face shield plate is gone. Secondary saw is your primary weapon, since it has identicall stats to primary saw. If range is not a problem (on heists like No mercy) you can try double saw setup. Use throwable knifes/axes/cards for close-mid range kills, mostly to proc first regeneration effect. Use 50 or 75 damage class melee weapons for reliable one-shots, or a chainsaw type weapon. You can also use lower damage class melees if you don't mind holding the charge button a bit, or if you want to rely on counterstrike's bonus damage.
+
+Build 2 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Cursed Sentry build https://pd2builder.netlify.app/?s=100b0001cN000R0-610-616F&a=6&t=4&d=6
+This build is only cursed in a sense that sentry guns will alway try to pick a % of your weapon's total ammo capacity, which brawler already reduces, leading to a situation where literally every weapon now qualifies for the "low total ammo capacity" requirement that sentry builds usualy require. Now you just need to pick weapons with best ammo pick up rates, and you are good to go. Sentries don't really help you that much, ouside of pierceing shields, but they are a solid additional distraction, which helps the theme of the perk of being a meat shield and/or a distractor. Use remaining 1 skill point as you see fit.  
+Weapons to use:  
+Lowest damage class akimbo pistols for primary and shotgun secondary with dragon's breath ammo for shields. Chainsaw type melee.
 
 # CUSTOM PERK - Speed Junkie:
 
