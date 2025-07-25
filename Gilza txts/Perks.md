@@ -25,6 +25,8 @@ make builds which utilize:
 * saw sociopath
 * c4/firetrap build (maybe 2?)
 * add a note for AP kits to some builds, that can use them well
+* breaching rounds(currently option in 1 build, should be an option in more builds)
+* missing shotgun ammo: tombsotne slugs, buckshot 000, HE, dragons breath(?)
 
 # General info:
 
