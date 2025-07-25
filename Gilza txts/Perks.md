@@ -167,10 +167,15 @@ Added 75% AP chance to allow for easier stacking of this statistic with Surefire
 Barebone skills - https://pd2builder.netlify.app  
 Need this that and that
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Default (DS specific) https://pd2builder.netlify.app/?s=xa004100xc0-90wj1k00g11I&p=5&a=3&t=b&d=3  
+2 tap armor and 35 dodge, same as vanilla. Unlike vanilla, this one is cheaper to build, and has additional passive armor gating from basic revitalized. Keep total detection <25.  
 Weapons to use:  
-such and such
+Any assault rifle of your choise (lower damage classes prefered) with a silencer, focusing on concelment and accuracy. Secondary flamethrower for shields and decent DPS, or any other low damage class weapon with shield AP. Use melee against bulldozers, and throwables axes/knives/cards to save on ammo.
+
+Build 2 - Bodyshot maniac https://pd2builder.netlify.app/?s=xa000100xc0-6Na000P5g00g150&p=5&a=1&t=b&d=3  
+Run and gun sort of build, with 100% ap chance against body armor. Keep total detection <25.   
+Weapons to use:  
+Any assault rifle of your choise (lower damage classes prefered), focusing on concelment and accuracy. Secondary flamethrower for shields and decent DPS. Use melee against bulldozers, and throwables axes/knives/cards to save on ammo.
 
 -----
 
