@@ -469,13 +469,13 @@ Most of the changes are numerical, for the most part reducing effectivness of th
 Overall this deck should feel about the same, but you may wanna play it slighlty more carefuly, since you take a bit more damage now.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
+Barebone skills - First aid kits fit this perk deck the best, so you should almsot always run them. Hostage taker and partners in crime also benefit this deck extremely well.  
 Need this that and that
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Meta Slave https://pd2builder.netlify.app/?s=0R0H00xk1400380-6305g000100&p=i&a=3&t=c&d=53  
+Gilza's revision of classic stoic izhma build.  
 Weapons to use:  
-such and such
+155 primary shotgun and a 325 secondary shotgun. Use flechette on the secondary shotgun to deal with snipers. Use tazer or a 35 damage class melee. Secondary deployable can be switched out to anything current heist/lobby requires most.
 
 # Tag Team (2/5):
 
