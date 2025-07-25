@@ -14,8 +14,7 @@ TODO - make builds which utilize:
 * bipodless lmg's
 * 1300/950 snipers?
 * akimbo shotguns?
-* bows
-* crossbows
+* bows/crossbows
 * miniguns (non-crit)
 * rocket launchers?
 * poision shotgun ammo and/or poision melee
