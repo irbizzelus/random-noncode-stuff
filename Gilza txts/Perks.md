@@ -239,13 +239,12 @@ This perk deck is affected by all the important mod updates mentioned in [Genera
 Tip for both vanilla and Gilza - this is not a melee deck, despite how many buffs it gives to melee.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - ICTV armor and melee skills. High burst damage weapons like shotguns and snipers are prefered.  
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Shotgunzz. https://pd2builder.netlify.app/?s=010010wt4Xxk0-81010-41c3&p=8&a=6&t=9&d=0  
+Use highly damaging shotguns to gain kills reliably every 1 second or so, maintaining high armor level. Use melee to refill your health whenever you need to, and don't be afraid to get up close and personal with enemies.  
 Weapons to use:  
-such and such
+900 or 450 damage class primary shotgun, modded for accuracy, with default or flechette ammuntion. Use high DPS secondary shotgun with default ammo as secondary to deal, or help dealing with, bulldozers, if your bloodthirst stacks are low. Try to rely on melee or your throwable javeln when dealing with bulldozers.
 
 -----
 
@@ -264,17 +263,12 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app/?s=0-8d010-9g10-41200  
-Self heal and dodge should be focused.
+Barebone skills - Bullseye for armor gating, and additional dodge and healing skills are highly recomended. Up you go is almost mandatory to avoid instant deaths after revives.
 
-Build 1 - Ultimate ammo guy. https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100  
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you.
-Use ammo bags deployable and the Two-Piece Suit. Keep your total concealment under 25.    
+Build 1 - Ultimate ammo guy. https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100&p=9&a=0&t=j&d=0  
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you. Keep your total detection <25.    
 Weapons to use:  
-125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil.
-95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges.
-Viper/concussion grenades to help with revives, since you can pick them up decently often.
-Any 32 concealment melee of your choice.
+125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil. 95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges. Use viper/concussion grenades to help with revives. Any high concealment melee of your choice.
 
 # Grinder (1/5):
 
