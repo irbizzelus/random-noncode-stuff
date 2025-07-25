@@ -118,13 +118,12 @@ Use a primary shotgun of your choice, but 155 damage class is recomended due to 
 Copycat and Hacker are both just straight upgrades to this deck, so to compensate, this deck is now slighlty more effective in it's own playstyle. Dodge buffs might be extremely small, but do consider that new options in the arful dodger skill sub-tree are also indirectly buffing this deck. Additionally, AP chance can now work well with both new Surefire and Silencer AP skills, instead of being a joke of a bonus.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - Use bullseye to armor gate whenever your armor breaks. You can use First Aid Kits if you want to rely on your health as well, but rogue is not exactly build for health. Additional dodge skills are welcome.
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Run and Gun https://pd2builder.netlify.app/?s=09001000810-6j0-4R5O1G0100&p=3&a=0&t=b&d=3  
+Ultimate speed build. 90% of the time you will be running, to gain extra 10% dodge, and hip firing with your akimbo smg's to deal damage and armor gate with bullseye. Use slienced weapons to gain 90% total body armor AP chance, since hipfiring akimbos are not exactly known for their accuracy. Botomless pockets and crits will allow you to gain enough damage to avoid running out of ammo, even if your headshot accuracy overall is low. You can also move some skills around to replace unseen strike for body expertise, for more reliable bodyshot damage, but this is up to you.
 Weapons to use:  
-such and such
+Use any akimbo SMG's of your choice, and a high accuracy secondary of your choice. You can use a secondary with shield AP along with accuracy, but due to your high mobility, you should not have any troubles while flanking shields. Use any melee of your choice, 20-25 damage class will most likely fit the best. You can replace your throwable for Ace of Spades as well, since they deal solid damage with crits.
 
 -----
 
@@ -146,11 +145,10 @@ Probably the biggest rework of all vanilla perk decks, because vanilla version i
 Use small arm firearms to constantly activate recovery for the passive bonus, use melee/throwables in a pinch for a little bit of armor gating, and if you see a group of enemies clumped up together try to activate the kill combo off of them. Or you can simply play it as you would in vanilla, with only one change to your gameplay - you should seek out your bounty to improve your recovery for a while.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app/?s=0-8d0-90010-9  
-You should focus on getting skills for akimbos/smg's/pistols to activate hitman recovery bonus, maybe melee skills for the combo. Bigger armor recommended to get the most out of armor recovery/regen bonuses.
+Barebone skills - focus on getting skills for akimbos/smg's/pistols to activate hitman recovery bonus, and preferably melee skills for the combo. Bigger armor is recommended to get the most out of armor recovery/regen bonuses.
 
-Build 1 - Somewhat standard. https://pd2builder.netlify.app/?s=xa0-64V0-9010128T0138&a=6  
-Pistols pistols pistols. Spam them as much as you can, since your ammo pick up should not be a problem. Use melee weapons to get to the invlunerability combo. Use ICTV armor and Doctor bags.  
+Build 1 - Somewhat standard. https://pd2builder.netlify.app/?s=xa0-64V0-9010128T0138&p=4&a=6&t=b&d=3  
+Pistols pistols pistols. Spam them as much as you can, since your ammo pick up should not be a problem. Use melee weapons to get to the invlunerability combo.  
 Weapons to use:  
 Akimbo pistols with 78 damage, And a 125 secondary pistol modded for accuracy to deal with snipers or to kill your bounty target if it's far away. Use silencers on all weapons to gain 50% ap chance on bodyshots. Use throwable knives/axes/cards to activate combo and armor heal. Use a 75 dmg melee, because with basic berserk it will be a reliable oneshot, allowing for relatively easy combos. 
 
