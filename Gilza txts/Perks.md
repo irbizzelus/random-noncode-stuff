@@ -83,7 +83,7 @@ Barebone skills: ICTV armor is heavily favoured. Hostage taker or First Aid Kits
 
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Basic Sniper https://pd2builder.netlify.app/?s=xa0HgF00kF0-9010-61d0&p=0&a=6&t=4&d=3  
 This is meant to be something that is close to home for the Sniper Crewchief build in vanilla, though with Gilza's gameplay loop you will be relying on your secondary and melee a lot more. But hey, atleast sniping is a lot easier as you only need to aim for the body.  
-This build is using all barebone skills - ICTV armor, hostage taker, and inspire. Sniping is favoured due to the passive nature of this perk deck, but you can try to rely on any weapons of your choice, with appropriate skill adjustments to this build.
+This build is using all barebone skills - ICTV armor, hostage taker, and inspire. Sniping is favoured due to the passive nature of this perk deck, but you can try to rely on any weapons of your choice, with appropriate skill adjustments to this build.  
 Weapons to use:  
 1600 damage class sniper rifle with any secondary of your choice. Flashbangs or zapper grenades, depending on heist length. Any melee of your choice, but if you decide to use melee mostly for dozers, 75 damage melee's are the best. 
 
