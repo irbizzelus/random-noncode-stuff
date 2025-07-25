@@ -196,10 +196,10 @@ This is not anything new, but your general playstyle for loud should be sniping 
 Barebone skills - https://pd2builder.netlify.app  
 Need this that and that
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Backline Sniper https://pd2builder.netlify.app/?s=5O000h009410380-68N9k00g100&p=6&a=1&t=b&d=53  
+Stay behind your team and snipe enemies before they get a chance to even shoot at you. Don't forget to stay crouched to gain burglar's benefits. You may replace basic swan song with blodthirst basic if you want an additional option for dealing with bulldozers. You can use any secondary deployable that would fit your current game the best, decide which based on your teammates' loadouts. You can also bring a grenade case if u want to use grenades yourself, instead of throwable axes/knives/cards.  
 Weapons to use:  
-such and such
+650 damage class sniper rifle and a 250 damage class secondary SMG in single fire mode, to gain benefits from ammo efficiency. Do not use select fire mode attachments on your SMG, to allow yourself to use full auto against bulldozers. Both weapons should be silenced and your total detection should be <25. Use any high concealment melee of your choice.
 
 -----
 
