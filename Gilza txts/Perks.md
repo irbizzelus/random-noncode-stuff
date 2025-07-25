@@ -509,13 +509,12 @@ Cooldown gain per kill reduced from 6 to 4 seconds. ECM duration in loud increas
 This perk deck is simply too good, and the main reason for that is just the ECM stun effect. Making ECMs activate less often allows for stun spammibility of this deck to go down, while keeping player survivability at roughly the same level.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - get additional dodge and bulseye for armor gating, rest is up to you.
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Default https://pd2builder.netlify.app/?s=1G091400d010-9qBhI000100&p=k&a=0&t=d&d=3  
+Keep total detection <5. Use PECM whenever you are either low on health, your temporary dodge is no longer acitve, or when you feel like you are in danger, but don't activate it too frequentyl as you would in vanilla, since cooldown is longer.  
 Weapons to use:  
-such and such
+Any weapons that benefit from crits and can get you to bellow 5 total detection, like bows, work great. If you plan on using bows, don't forget to bring additional weapon to deal with snipers. You can also utilize grenade launchers with default explosives, for ease of activation of temporary dodge and healing during the PECM effect. You will most likely struggle getting <5 detection with grenade launchers, but 1-2% sacrifice of dodge may be worth the multi-kill potential of GL's.
 
 
 # Leech (5/5):
@@ -539,8 +538,7 @@ This rework is my atttempt to make this perk deck fulfill more of a supportive r
 Please, please, please use Painkillers skill on higher difficulties. Bonuses that you get from teammate revives are not incredibly strong, while letting your teammates go down again because they are in a vulnerable position and you don't have this skill is both foolish and not nice. This is a general tip for using Inspire skill, but it applies to this new version of Leech the most.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app/?s=0-8d0-90010-9  
-You can use FAK's without using hostage taker to heal, or use hostage taker with any other deployable for passive healing. Investing into armor is not recommended since your health bonuses provide big enough bonuses already. Go for mid tier armors. Messiah, at least basic, is favoured heavily since it's extremely effective at shortening cooldown while downed. Up you go aced helps with healing after you go down really well as well.
+Barebone skills - You can use FAK's without using hostage taker to heal, or use hostage taker with any other deployable for passive healing. Investing into armor is not recommended since your health bonuses provide big enough bonuses already. Go for mid tier armors, aiming for 70 armor on DS difficutly. Messiah, at least basic, is favoured heavily since it's extremely effective at shortening cooldown while downed. Up you go aced also helps with healing after you go down really well.
 
 Build 1 - Standard - shotgun focused. https://pd2builder.netlify.app/?s=1G0H00xkc10-9010-6H00  
 As always, focus on reviving your team to get your cooldown up. Heals from activation of the ampule and passive regen from hostage taker should be enough sustain. Use Messiah's basic feature of being able to never go down to get your cooldown back, or activate it if you need to clutch the situation you are currently in. Use HBV armor and Doctor bags.   
@@ -559,13 +557,12 @@ A perk deck focused on melee weapons and team "protection". You are supposed to 
 Focus on melee and survivability skills the most. Do not assume that you have god mode, even if you currently have maxed bonuses. Use a sniper or a similar weapons to deal with snipers/shileds, while running saw and melee as your primary weapons.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - ICTV or CTV armor, bullseye is not recomended at all, since passive armor gating you get from melee kills should be enough. Frenzy aced is favoured heavily due to low health bonuses of the deck. Melee skills are heavily favoured. Counterstrike is effective to deal with bulldozers, allowing you to stun them just with the basic version. Backfire aced is somewhat required since tazers can screw you over badly. Saw is favoured as well, since it maintains it's ammo pick up, ignoring the ammo pick up debuff that brawler comes with.  
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Default https://pd2builder.netlify.app/?s=09090-4sz1a0-8580-421aN&a=6&t=b&d=3  
+Relatively close to perfect build with this deck. Take agro from your enemies, deal massive melee damage, use converted cop as an addtional ancor for your defensive bonuses, use counterstrike against cloakers and to stun bulldozers, or even use it as a bonus damage option, if you run melees with less then 50 damage.  
 Weapons to use:  
-such and such
+Any 100 accuracy primary that can deal with snields and snipers. So a sniper rifle most likely. Thanatos is probably the best option, to help you shutdown bulldozers, after their face shield plate is gone. Secondary saw is your primary weapon, since it has identicall stats to primary saw. If range is not a problem (on heists like No mercy) you can try double saw setup. Use throwable knifes/axes/cards for close-mid range kills, mostly to proc first regeneration effect. Use 50 or 75 damage class melee weapons for reliable one-shots, or a chainsaw type weapon. You can also use lower damage class melees if you don't mind holding the charge button a bit, or if you want to rely on counterstrike's bonus damage.
 
 # CUSTOM PERK - Speed Junkie:
 
@@ -580,14 +577,13 @@ Moving provides you with points to a meter which provides bonuses to dodge, weap
 One of a few (if not the only) perk deck that actually gets use out of the Running from Death skill. Adrenaline spike is an RNG based temporary effect that gives you practical god mode and increased kill potential, but keep in mind that once it's over you are screwed if you are not in cover. This is the ultimate run and gun perk deck, but it has a flaw - you can't really use text chat since you cant move and use chat, and not moving with this deck is a death sentence.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
+Barebone skills - Bullseye for armor gating and dodge skills.  
 Need this that and that
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Default (DS difficutly specific) https://pd2builder.netlify.app/?s=xa0-6d0-7h2002l1u0005zc&a=0&t=4&d=3  
+Run and gun. Use grenades mostly for revives. Mark special units before melting them. Weapons with silencers can gain AP to make run and gun playstyle's natural inaccuracy from movement more forgiving. Keep total detection <25.   
 Weapons to use:  
-such and such
-
+Any <=250 damage class fully automatic weapons with silencers. Primary should be focused on stability, and secondary on accuracy. Using shield AP is not recomended, since you can flank shields relatively easily. Use melee exclusively against bulldozers or in a pinch. Any melee that can fit the total detection requirement of <25 works. You can use either throwables like knifes/axes/cards to coserve ammo, or use flashbangs/zapper/insideairy nades for crowd control and to help with revives.
 
 # CUSTOM PERK - Guardian:
 
