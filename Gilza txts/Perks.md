@@ -89,7 +89,7 @@ Barebone skills: Hostage taker for health regen, which stacks with muscle's natu
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Crit Muscle https://pd2builder.netlify.app/?s=xkgF0100dg0-6gF00105g0001f0&p=1&a=0&t=4&d=5  
 Stay below 25 total detection. A run and gun version of muscle. Focusing armor skills with muscle in general is not a great idea, since most of your survivability comes from your health, which should be imrpoved first.  
 Weapons to use:  
-Prefered combo: Vulcan Minigun and Bronco revolver with <25 total detection. Alterantively, you can rely on any other fast firing primary weapon with low damage class. Secondary Bronco is recomended due to it's ability to gain high concealment, but any reliable secondary that can deal with targets beyond 10 meters will do as well.
+Prefered combo: Vulcan Minigun and Bronco revolver with <25 total detection. Alterantively, you can rely on any other fast firing primary weapon with low damage class. Secondary Bronco is recommended due to it's ability to gain high concealment, but any reliable secondary that can deal with targets beyond 10 meters will do as well.
 
 -----
 
@@ -104,7 +104,7 @@ Barebone skills - If you play on Death Sentence difficulty, either run ICTV, or 
 Build 1 - Jack of all trades https://pd2builder.netlify.app/?s=090-4xkkFg1380-6580-5h58&p=2&a=6&t=6&d=30  
 Ultimate powerhouse able to achieve any task. Spare 1 point you can use however you wish, but getting extra accuracy from stable shot will most likely be best value.   
 Weapons to use:  
-Use a primary shotgun of your choice, but 155 damage class is recomended due to combination of berserker and overkill, allowing you to gain a massive damage increase. Secondary can be a shotgun to gain benefits from overkill, a SMG to deal with Bulldozers, a high accuracy weapon for long range, or any weapon with shield AP capabilities. 
+Use a primary shotgun of your choice, but 155 damage class is recommended due to combination of berserker and overkill, allowing you to gain a massive damage increase. Secondary can be a shotgun to gain benefits from overkill, a SMG to deal with Bulldozers, a high accuracy weapon for long range, or any weapon with shield AP capabilities. 
 
 -----
 
@@ -220,9 +220,9 @@ For DS builds - 3 tap is achieved much easier now and even 4 tap is possible. 5+
 Barebone skills - ICTV armor, underdog and frenzy aced for stackable damage resistance. Bullseye for armor gating.
 
 Build 1 - DMG resist overload https://pd2builder.netlify.app/?s=010912018N1Q120-610-71I&p=7&a=6&t=j&d=0  
-Use bipodable LMG's to gain damage resist while bipoded, and stack a huge amount of damage resistance. You can swap shock and awe aced for bullseye aced if you want to upkeep your position for longer (not recomended for DS difficutly). You can also swap all skills in techician that provide your LMG's a DPS increase for nince lives aced and 3 points on top, if you feel like your survivability is not high enough, and you would like to get an extra down instead of additional DPS. Partners in crime allows you to gain 2 tap health for DS difficulty, so if you play at lower difficulties you can replace convert skills with anything else.   
+Use bipodable LMG's to gain damage resist while bipoded, and stack a huge amount of damage resistance. You can swap shock and awe aced for bullseye aced if you want to upkeep your position for longer (not recommended for DS difficutly). You can also swap all skills in techician that provide your LMG's a DPS increase for nince lives aced and 3 points on top, if you feel like your survivability is not high enough, and you would like to get an extra down instead of additional DPS. Partners in crime allows you to gain 2 tap health for DS difficulty, so if you play at lower difficulties you can replace convert skills with anything else.   
 Weapons to use:  
-Bipodable LMG of your choice, and a secondary SMG for close quaters combat, since LMG's deal reduced damage point blank. Bipodable LMG's tend to have good enough accuracy to deal with snipers, so the only other option you can go for is a secondary to deal with shields, if you decided to go for aced bullseye instead of aced shock and awe. Use Viper grenades to make teammate revives easier, and try avoid thrwoing them too often. Use any melee of your choice, but 35+ damage classes are recomended.
+Bipodable LMG of your choice, and a secondary SMG for close quaters combat, since LMG's deal reduced damage point blank. Bipodable LMG's tend to have good enough accuracy to deal with snipers, so the only other option you can go for is a secondary to deal with shields, if you decided to go for aced bullseye instead of aced shock and awe. Use Viper grenades to make teammate revives easier, and try avoid thrwoing them too often. Use any melee of your choice, but 35+ damage classes are recommended.
 
 -----
 
@@ -263,7 +263,7 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
 ### Build(s) to try
-Barebone skills - Bullseye for armor gating, and additional dodge and healing skills are highly recomended. Up you go is almost mandatory to avoid instant deaths after revives.
+Barebone skills - Bullseye for armor gating, and additional dodge and healing skills are highly recommended. Up you go is almost mandatory to avoid instant deaths after revives.
 
 Build 1 - Ultimate ammo guy. https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100&p=9&a=0&t=j&d=0  
 Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you. Keep your total detection <25.    
@@ -283,13 +283,13 @@ Slighlty improved AP chance (5% big wow) to allow for this stat to work better w
 For DS specifically - run this deck when you have Crew Chief on your team for the 2 tap health breakpoint with fastest self-healing of all decks in the gamae. Otherwise this deck is still sorta mid tier for DS.
 
 ### Build(s) to try
-Barebone skills - Bullseye for armor gating, partners in crime for extra health. LBV armor with die hard aced is recomended, since 70 armor helps quite a bit.  
+Barebone skills - Bullseye for armor gating, partners in crime for extra health. LBV armor with die hard aced is recommended, since 70 armor helps quite a bit.  
 Need this that and that
 
 Build 1 - Crits with AP https://pd2builder.netlify.app/?s=wb0914009k00120-6121S000300&p=a&a=1&t=1&d=3  
 If silenced weapons are used you will have 85% chance to pierce enemy body armor total, allowing you to play with lazy aim. Keep your regen stacks up as much as you can, to maintain regen immediately after armor break, but don't rely on your health too much while playing on DS difficulty, since you can't get 3 tap health. If you feel confident enough, you can replace up you go with melee skills to help with bulldozers, tho SMG with crits should be more than enough to deal with them.  
 Weapons to use:  
-<=155 damage class assault rifle modded for accuracy and concealment, recoil may be partially ignored since you get a decent boost to it from designated marksman skill, but don't completely ignore it, since gun oil will increase your rate of fire, affecting your recoil. Weapons with high rate of fire recomended. Use any <=155 damage class SMG as secondary for close quaters combat and to deal with bulldozers. Any high concealment melee of your choice. Keep total detection <25.
+<=155 damage class assault rifle modded for accuracy and concealment, recoil may be partially ignored since you get a decent boost to it from designated marksman skill, but don't completely ignore it, since gun oil will increase your rate of fire, affecting your recoil. Weapons with high rate of fire recommended. Use any <=155 damage class SMG as secondary for close quaters combat and to deal with bulldozers. Any high concealment melee of your choice. Keep total detection <25.
 
 # Yakuza(4/5):
 
@@ -557,7 +557,7 @@ A perk deck focused on melee weapons and team "protection". You are supposed to 
 Focus on melee and survivability skills the most. Do not assume that you have god mode, even if you currently have maxed bonuses. Use a sniper or a similar weapons to deal with snipers/shileds, while running saw and melee as your primary weapons.
 
 ### Build(s) to try
-Barebone skills - ICTV or CTV armor, bullseye is not recomended at all, since passive armor gating you get from melee kills should be enough. Frenzy aced is favoured heavily due to low health bonuses of the deck. Melee skills are heavily favoured. Counterstrike is effective to deal with bulldozers, allowing you to stun them just with the basic version. Backfire aced is somewhat required since tazers can screw you over badly. Saw is favoured as well, since it maintains it's ammo pick up, ignoring the ammo pick up debuff that brawler comes with.  
+Barebone skills - ICTV or CTV armor, bullseye is not recommended at all, since passive armor gating you get from melee kills should be enough. Frenzy aced is favoured heavily due to low health bonuses of the deck. Melee skills are heavily favoured. Counterstrike is effective to deal with bulldozers, allowing you to stun them just with the basic version. Backfire aced is somewhat required since tazers can screw you over badly. Saw is favoured as well, since it maintains it's ammo pick up, ignoring the ammo pick up debuff that brawler comes with.  
 
 Build 1 - Default https://pd2builder.netlify.app/?s=09090-4sz1a0-8580-421aN&a=6&t=b&d=3  
 Relatively close to perfect build with this deck. Take agro from your enemies, deal massive melee damage, use converted cop as an addtional ancor for your defensive bonuses, use counterstrike against cloakers and to stun bulldozers, or even use it as a bonus damage option, if you run melees with less then 50 damage.  
@@ -583,7 +583,12 @@ Need this that and that
 Build 1 - Default (DS difficutly specific) https://pd2builder.netlify.app/?s=xa0-6d0-7h2002l1u0005zc&a=0&t=4&d=3  
 Run and gun. Use grenades mostly for revives. Mark special units before melting them. Weapons with silencers can gain AP to make run and gun playstyle's natural inaccuracy from movement more forgiving. Keep total detection <25.   
 Weapons to use:  
-Any <=250 damage class fully automatic weapons with silencers. Primary should be focused on stability, and secondary on accuracy. Using shield AP is not recomended, since you can flank shields relatively easily. Use melee exclusively against bulldozers or in a pinch. Any melee that can fit the total detection requirement of <25 works. You can use either throwables like knifes/axes/cards to coserve ammo, or use flashbangs/zapper/insideairy nades for crowd control and to help with revives.
+Any <=250 damage class fully automatic weapons with silencers. Primary should be focused on stability, and secondary on accuracy. Using shield AP is not recommended, since you can flank shields relatively easily. Use melee exclusively against bulldozers or in a pinch. Any melee that can fit the total detection requirement of <25 works. You can use either throwables like knifes/axes/cards to coserve ammo, or use flashbangs/zapper/insideairy nades for crowd control and to help with revives.
+
+Build 2 - Default (Death Wish and bellow difficutlies) https://pd2builder.netlify.app/?s=xa0010009410-5j0003Q1m0005xc&a=1&t=b&d=3  
+Run and gun. Use grenades mostly for revives. Weapons with silencers can gain AP to make run and gun playstyle's natural inaccuracy from movement more forgiving. Keep total detection <25. Similar to the build above, but since damage output on DW and below difficulties is not as drastic, you can sacrifice a little bit of DPS and 10% dodge, to get much more reliable armor and armor regen.   
+Weapons to use:  
+Any <=250 damage class fully automatic weapons with silencers. Primary should be focused on stability, and secondary on accuracy. Using shield AP is not recommended, since you can flank shields relatively easily. Use melee exclusively against bulldozers or in a pinch. Any melee that can fit the total detection requirement of <25 works. You can use either throwables like knifes/axes/cards to coserve ammo, or use flashbangs/zapper/insideairy nades for crowd control and to help with revives.
 
 # CUSTOM PERK - Guardian:
 
@@ -597,13 +602,12 @@ Stand still to create an area. While inside of your area you (mostly) take less 
 This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choice is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the richochet "Porcupine" perk card.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - Partners in crime for bonus health is required. Hostage taker could help with armor regen, especially if you are not inside of your defensive area.
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Sniper https://pd2builder.netlify.app/?s=094X2V00410-9010-6p00&a=1&t=b&d=3  
+Perfect for utilizing the Vantage point purchasable asset. Choose your armor depending on the map size - smaller the map, heavier the armor. Armor does not affect your survivability, but it does provide with some free damage every now and then. Never use the suit, since it's always worse than the Light Balistic Vest for this perk deck.  
 Weapons to use:  
-such and such
+Thanatos or any 1600 damage class sniper for graze as primary. Any secondary sniper you prefer. If you don't have thanatos, north star sniper would be helpful against bulldozers. Use throwable axes/knives/cards against enemies who got close to you. Use any melee you prefer, but electricity stun ones would work best.
 
 # COPYCAT (4/5):
 
@@ -626,13 +630,12 @@ Copycat overall is a really good deck, but amount of health you gain from it is 
 Focus on keeping your health above 50% threshold to be able to trigger the invulnerability effect. If you are running 9th copies that don't provide you with additional healing, do not get yourself more health, unless you are using Hostage Taker, because 3rd card always recovers a flat amount of health, and it would be easier to get to 50% threshold from this healing if your max health is not increased.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - Always run bullseye for armor gating, rest is up to you.  
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Brawler copy https://pd2builder.netlify.app/?s=1G000100811Q380-62h1i00g150&p=m&c=3-41&a=0&t=h&d=03  
+A unique version of copycat that is not available in vanilla. Use Brawler's 9th copy (23/25), and stack all neutral "pick a boost" cards for dodge (3/4). You can use either Doctor bags or Ammo bags as your primary deployable since both are maxed out, but ammo is prefered, since this build doesnt't provide high damage bonuses. Brawler copy card will provide you with the best armor gating in the game, but you need to perfectly time a kill once every 6 seconds to gain this benefit. This benefit + dodge + health invulerability provides a relatively easy to play, but not the most powerfull playstyle.   
 Weapons to use:  
-such and such
+200 damage class silenced Assault Rifle primary focused on accuracy and concealment, and a 200 damage class silenced SMG secondary focused on stability. Weapons with burst fire mode recommended. Any 20-35 damage class melee.
 
 ### 9th card copies
 Replaced mimicking card's name to always be the name of the copied perk deck, instead of showing the name of the card from the perk deck you are copyng. On top of the fact that this is confusing because you simply can't know all of their names, they are also not always correct, because sometimes a mimicking 9th card can combine bonuses of multiple cards of a perk deck with multiple different names.  
