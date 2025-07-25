@@ -489,13 +489,12 @@ Removed LOS (line of sight) requirement to the target. Increased amount that the
 This deck's main issue is how expensive it is to run well (skill points wise), even though it does work pretty well when it's set up, so not that many changes were needed.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - Bullseye for armor gating, ICTV armor to gain benefits from damage absorption, health buffs from partners in crime, and preferably hostage taker for additional passive regen, if your team doesn't have great DPS.
 
-Build 1 - balls. https://pd2builder.netlify.app  
-does this that and that  
+Build 1 - Shotgun Survivalist https://pd2builder.netlify.app/?s=1G1W00xk6F10-910-6100&p=j&a=6&t=f&d=3  
+Fairly simple build, take converts to gain health improvements, and then tag your teammates (preferably human players) to improve your survivability with abosrption and constant health regen.  
 Weapons to use:  
-such and such
+Use any shotgun you want as primary, preferably with AP slugs, and if you feel like being supportive you can use breaching rounds with pump action (450 dmg class) shotguns, which allow for shield AP as well. Secondary shotguns focused on DPS are prefered. Use any melee of your choice, zapper would probably work best, if you are confident in your team's abilities of dealing with bulldozers.
 
 # Hacker (2/5):
 
