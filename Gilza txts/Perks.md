@@ -10,8 +10,7 @@
 
 Stats are updated for DEV patch: 2.5
 
-TODO:
-make builds which utilize:
+TODO - make builds which utilize:
 * bipodless lmg's
 * 1300/950 snipers?
 * akimbo shotguns?
@@ -25,7 +24,7 @@ make builds which utilize:
 * saw sociopath
 * c4/firetrap build (maybe 2?)
 * add a note for AP kits to some builds, that can use them well
-* breaching rounds(currently option in 1 build, should be an option in more builds)
+* breaching shotgun rounds(currently option in 1 build, should be an option in more builds)
 * missing shotgun ammo: tombsotne slugs, buckshot 000, HE, dragons breath(?)
 
 # General info:
@@ -443,7 +442,7 @@ Barebone skills - Bullseye for armor gating and to bring yourself over the 50% t
 Build 1 - Survivalist https://pd2builder.netlify.app/?s=xk0p1000ch0-90101G000pf0&p=g&a=3&t=g&d=5  
 Fairly standard kingping gameplay, with unseen strike being your main DPS skill. Since you can force enemies to damage you, while being semi-invulnerable you can activate the damage activation part of the skill, then go to cover for 6 seconds, activate crit boosts, and go on a kill spree to recover your injector. Repeat this cycle endlessly.  
 Weapons to use:  
-Primary focused on accuracy, secondary focused on DPS or shield AP. Kobus 90 with AP bullets is a solid option. Any 75 melee to deal with bulldozers, or a 35 melee if either of your weapons has AP, to compensate lower ammo pick ups with more melee kills.
+Primary focused on accuracy, secondary focused on DPS or shield AP. Kobus 90 with AP ammunition attachment is a solid option. Any 75 melee to deal with bulldozers, or a 35 melee if either of your weapons has shield AP, to compensate lower ammo pick ups with more melee kills.
 
 # Sicario (1/5):
 
@@ -487,7 +486,7 @@ Need this that and that
 Build 1 - Meta Slave https://pd2builder.netlify.app/?s=0R0H00xk1400380-6305g000100&p=i&a=3&t=c&d=53  
 Gilza's revision of classic stoic izhma build.  
 Weapons to use:  
-155 primary shotgun and a 325 secondary shotgun. Use flechette on the secondary shotgun to deal with snipers. Use tazer or a 35 damage class melee. Secondary deployable can be switched out to anything current heist/lobby requires most.
+155 primary shotgun and a 325 secondary shotgun. Use flechette on the secondary shotgun to deal with snipers. Use tazer or a 35 damage class melee. Secondary deployable can be switched out to anything current heist/lobby requires most. Keep your total detection <25.
 
 # Tag Team (2/5):
 
