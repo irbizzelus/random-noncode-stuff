@@ -136,7 +136,7 @@ Copycat and Hacker are both just straight upgrades to this deck, so to compensat
 Barebone skills - Use bullseye to armor gate whenever your armor breaks. You can use First Aid Kits if you want to rely on your health as well, but rogue is not exactly build for health. Additional dodge skills are welcome.
 
 Build 1 - Run and Gun https://pd2builder.netlify.app/?s=09001000810-6j0-4R5O1G0100&p=3&a=0&t=b&d=3  
-Ultimate speed build. 90% of the time you will be running, to gain extra 10% dodge, and hip firing with your akimbo smg's to deal damage and armor gate with bullseye. Use slienced weapons to gain 90% total body armor AP chance, since hipfiring akimbos are not exactly known for their accuracy. Botomless pockets and crits will allow you to gain enough damage to avoid running out of ammo, even if your headshot accuracy overall is low. You can also move some skills around to replace unseen strike for body expertise, for more reliable bodyshot damage, but this is up to you.
+Ultimate speed build. 90% of the time you will be running, to gain extra 10% dodge, and hip firing with your akimbo smg's to deal damage and armor gate with bullseye. Use silenced weapons to gain 90% total body armor AP chance, since hipfiring akimbos are not exactly known for their accuracy. Botomless pockets and crits will allow you to gain enough damage to avoid running out of ammo, even if your headshot accuracy overall is low. You can also move some skills around to replace unseen strike for body expertise, for more reliable bodyshot damage, but this is up to you.  
 Weapons to use:  
 Use any akimbo SMG's of your choice, and a high accuracy secondary of your choice. You can use a secondary with shield AP along with accuracy, but due to your high mobility, you should not have any troubles while flanking shields. Use any melee of your choice, 20-25 damage class will most likely fit the best. You can replace your throwable for Ace of Spades as well, since they deal solid damage with crits.
 
@@ -179,8 +179,7 @@ Akimbo pistols with 78 damage, And a 125 secondary pistol modded for accuracy to
 Added 75% AP chance to allow for easier stacking of this statistic with Surefire, or Silencer AP skills. This perk deck was significantly improved via indirect buffs to the Ghost's artful dodger sub-tree, allowing you to both gain dodge cheaper, and also gaining armor on dodge from the new tier 4 Revitalised skill. Imrpoved trigger for the Underdog skill also allows you to get 2 tap armor on DS with the standard Balistic Vest, granting you 5 more dodge than the usual HBV you would use on DS.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - Since this deck focuses on dodge and armor you should prioritize similar skills. Bullseye for armor gating is always needed. Surefire aced allows you to gain 100% total ap chance against body armor, so it's a solid option to consider.
 
 Build 1 - Default (DS specific) https://pd2builder.netlify.app/?s=xa004100xc0-90wj1k00g11I&p=5&a=3&t=b&d=3  
 2 tap armor and 35 dodge, same as vanilla. Unlike vanilla, this one is cheaper to build, and has additional passive armor gating from basic revitalized. Keep total detection <25.  
@@ -208,8 +207,7 @@ All passive stealth bonuses were buffed from 10-20% to 25%. Saving 2.5 seconds o
 This is not anything new, but your general playstyle for loud should be sniping most of the time, because enemies will target you less if you stand still, and also target you less if you are further away from enemies than your teammates are. And since enemies will always focus you for a few seconds after you damage them, it is recommended you run one-shotting weapons, and snipers fit this role the best.
 
 ### Build(s) to try
-Barebone skills - https://pd2builder.netlify.app  
-Need this that and that
+Barebone skills - Dodge and/or stealth skills should be prioritized, depending on your playstyle. Bullseye is always required for loud. Skills that imrpove balistic vests are extremely beneficial, since this perk now favours the Light Balistic Vest.  
 
 Build 1 - Backline Sniper https://pd2builder.netlify.app/?s=5O000h009410380-68N9k00g100&p=6&a=1&t=b&d=53  
 Stay behind your team and snipe enemies before they get a chance to even shoot at you. Don't forget to stay crouched to gain burglar's benefits. You may replace basic swan song with blodthirst basic if you want an additional option for dealing with bulldozers. You can use any secondary deployable that would fit your current game the best, decide which based on your teammates' loadouts. You can also bring a grenade case if u want to use grenades yourself, instead of throwable axes/knives/cards.  
