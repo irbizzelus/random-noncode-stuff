@@ -648,7 +648,7 @@ Focus on keeping your health above 50% threshold to be able to trigger the invul
 Barebone skills - Always run bullseye for armor gating, rest is up to you.  
 
 Build 1 - Brawler copy https://pd2builder.netlify.app/?s=1G000100811Q380-62h1i00g150&p=m&c=3-41&a=0&t=h&d=03  
-A unique version of copycat that is not available in vanilla. Use Brawler's 9th copy (23/25), and stack all neutral "pick a boost" cards for dodge (3/4). You can use either Doctor bags or Ammo bags as your primary deployable since both are maxed out, but ammo is prefered, since this build doesnt't provide high damage bonuses. Brawler copy card will provide you with the best armor gating in the game, but you need to perfectly time a kill once every 6 seconds to gain this benefit. This benefit + dodge + health invulerability provides a relatively easy to play, but not the most powerfull playstyle.   
+A unique version of copycat that is not available in vanilla. Use Brawler's 9th copy (23/25), and stack all neutral "pick a boost" cards for dodge (3/4). You can use either Doctor bags or Ammo bags as your primary deployable since both are maxed out, but ammo is prefered, since this build doesnt't provide high damage bonuses. Brawler copy card will provide you with the best armor gating in the game, but you need to perfectly time a kill once every 6 seconds to gain this benefit, if you don't actively use melee. This benefit + dodge + health invulerability provides a relatively easy to play, but not the most powerfull playstyle.   
 Weapons to use:  
 200 damage class silenced Assault Rifle primary focused on accuracy and concealment, and a 200 damage class silenced SMG secondary focused on stability. Weapons with burst fire mode recommended. Any 20-35 damage class melee.
 
