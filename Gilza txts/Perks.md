@@ -17,7 +17,7 @@ TODO - make builds which utilize:
 * bows/crossbows
 * miniguns (non-crit)
 * rocket launchers?
-* poision shotgun ammo and/or poision melee
+* poison shotgun ammo and/or poison melee
 * a build that relies on standard HE throwable grenades as a counter for shields and dozer plates. make it part of other builds maybe?
 * 1-3 stealth builds?
 * saw sociopath
