@@ -568,15 +568,15 @@ A perk deck focused on melee weapons and team "protection". You are supposed to 
 Focus on melee and survivability skills the most. Do not assume that you have god mode, even if you currently have maxed bonuses. Use a sniper or a similar weapons to deal with snipers/shileds, while running saw and melee as your primary weapons.
 
 ### Build(s) to try
-Barebone skills - ICTV or CTV armor, bullseye is not recommended at all, since passive armor gating you get from melee kills should be enough. Frenzy aced is favoured heavily due to low health bonuses of the deck. Melee skills are heavily favoured. Counterstrike is effective to deal with bulldozers, allowing you to stun them just with the basic version. Backfire aced is somewhat required since tazers can screw you over badly. Saw is favoured as well, since it maintains it's ammo pick up, ignoring the ammo pick up debuff that brawler comes with.  
+Barebone skills - ICTV armor, bullseye is not recommended at all, since passive armor gating you get from melee kills should be enough, but you might have to get it just to unlock ICTV. Frenzy aced is favoured heavily due to low health bonuses of the deck. Melee skills are heavily favoured. Counterstrike is effective to deal with bulldozers, allowing you to stun them just with the basic version. Backfire aced is somewhat required since tazers can screw you over badly. Saw is favoured as well, since it maintains it's ammo pick up, ignoring the ammo pick up debuff that brawler comes with.  
 
 Build 1 - Default https://pd2builder.netlify.app/?s=09090001sz380-8580-421aN&a=6&t=b&d=3  
 Relatively close to perfect build with this deck. Take agro from your enemies, deal massive melee damage, use converted cop as an addtional ancor for your defensive bonuses, use counterstrike against cloakers and to stun bulldozers, or even use it as a bonus damage option, if you run melees with less then 50 damage.  
 Weapons to use:  
 Any 100 accuracy primary that can deal with snields and snipers. So a sniper rifle most likely. Thanatos is probably the best option, to help you shutdown bulldozers, after their face shield plate is gone. Secondary saw is your primary weapon, since it has identicall stats to primary saw. If range is not a problem (on heists like No mercy) you can try double saw setup. Use throwable knifes/axes/cards for close-mid range kills, mostly to proc first regeneration effect. Use 50 or 75 damage class melee weapons for reliable one-shots, or a chainsaw type weapon. You can also use lower damage class melees if you don't mind holding the charge button a bit, or if you want to rely on counterstrike's bonus damage.
 
-Build 2 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Cursed Sentry build https://pd2builder.netlify.app/?s=100b0001cN000R0-610-616F&a=6&t=4&d=6
-This build is only cursed in a sense that sentry guns will alway try to pick a % of your weapon's total ammo capacity, which brawler already reduces, leading to a situation where literally every weapon now qualifies for the "low total ammo capacity" requirement that sentry builds usualy require. Now you just need to pick weapons with best ammo pick up rates, and you are good to go. Sentries don't really help you that much, ouside of pierceing shields, but they are a solid additional distraction, which helps the theme of the perk of being a meat shield and/or a distractor. Use remaining 1 skill point as you see fit.  
+Build 2 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Cursed Sentry build https://pd2builder.netlify.app/?s=100b0001cN000R0-610-616F&a=6&t=4&d=6  
+This build is only cursed in a sense that sentry guns will always take a % of your weapons' total ammo capacity, which brawler already reduces, leading to a situation where literally every weapon now qualifies for the "low total ammo capacity" requirement that sentry builds usualy require. Now you just need to pick weapons with best ammo pick up rates, and you are good to go. Sentries don't really help you that much, ouside of pierceing shields, but they are a solid additional distraction, which helps the theme of the perk of being a meat shield and/or a distractor. Use remaining 1 skill point as you see fit.  
 Weapons to use:  
 Lowest damage class akimbo pistols for primary and shotgun secondary with dragon's breath ammo for shields. Chainsaw type melee.
 
@@ -594,7 +594,6 @@ One of a few (if not the only) perk deck that actually gets use out of the Runni
 
 ### Build(s) to try
 Barebone skills - Bullseye for armor gating and dodge skills.  
-Need this that and that
 
 Build 1 - Default (DS difficutly specific) https://pd2builder.netlify.app/?s=xa0-6d0-7h2002l1u0005zc&a=0&t=4&d=3  
 Run and gun. Use grenades mostly for revives. Mark special units before melting them. Weapons with silencers can gain AP to make run and gun playstyle's natural inaccuracy from movement more forgiving. Keep total detection <25.   
@@ -615,15 +614,15 @@ Any <=250 damage class fully automatic weapons with silencers. Primary should be
 Stand still to create an area. While inside of your area you (mostly) take less damage and quickly recover health. If you are outside of your area you take more damage and don't heal. Kills you get automatically pick up ammo boxes from killed enemies if you are inside of your area. However you have no armor and you are really slow. Sometimes you just can't have everything.
 
 ### Additional info/tips
-This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choice is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the richochet "Porcupine" perk card.
+This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choice is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the richochet "Porcupine" perk card. Never use the suit, since it's always worse than the Light Balistic Vest for this perk deck.
 
 ### Build(s) to try
 Barebone skills - Partners in crime for bonus health is required. Hostage taker could help with armor regen, especially if you are not inside of your defensive area.
 
 Build 1 - Sniper https://pd2builder.netlify.app/?s=094X2V00410-9010-6p00&a=1&t=b&d=3  
-Perfect for utilizing the Vantage point purchasable asset. Choose your armor depending on the map size - smaller the map, heavier the armor. Armor does not affect your survivability, but it does provide with some free damage every now and then. Never use the suit, since it's always worse than the Light Balistic Vest for this perk deck.  
+Perfect for utilizing the Vantage point purchasable asset.  
 Weapons to use:  
-Thanatos or any 1600 damage class sniper for graze as primary. Any secondary sniper you prefer. If you don't have thanatos, north star sniper would be helpful against bulldozers. Use throwable axes/knives/cards against enemies who got close to you. Use any melee you prefer, but electricity stun ones would work best.
+Thanatos or any 1600 damage class sniper for graze as primary. Any secondary sniper you prefer. If you don't have thanatos, north star secondary sniper would be most helpful against bulldozers. Use throwable axes/knives/cards against enemies who got close to you. Use any melee you prefer, but tazer ones would work best.
 
 # COPYCAT (4/5):
 
