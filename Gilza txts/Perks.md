@@ -289,7 +289,12 @@ Barebone skills - Bullseye for armor gating, partners in crime for extra health.
 Build 1 - Crits with AP https://pd2builder.netlify.app/?s=wb0914009k00120-6121S000300&p=a&a=1&t=1&d=3  
 If silenced weapons are used you will have 85% chance to pierce enemy body armor total, allowing you to play with lazy aim. Keep your regen stacks up as much as you can, to maintain regen immediately after armor break, but don't rely on your health too much while playing on DS difficulty, since you can't get 3 tap health. If you feel confident enough, you can replace up you go with melee skills to help with bulldozers, tho SMG with crits should be more than enough to deal with them.  
 Weapons to use:  
-<=155 damage class assault rifle modded for accuracy and concealment, recoil may be partially ignored since you get a decent boost to it from designated marksman skill, but don't completely ignore it, since gun oil will increase your rate of fire, affecting your recoil. Weapons with high rate of fire recommended. Use any <=155 damage class SMG as secondary for close quaters combat and to deal with bulldozers. Any high concealment melee of your choice. Keep total detection <25.
+<=155 damage class assault rifle modded for accuracy and concealment, recoil may be partially ignored since you get a decent boost to it from designated marksman skill, but don't completely ignore it, since gun oil will increase your rate of fire, affecting your recoil. Weapons with high rate of fire recommended. Use any <=155 damage class SMG as secondary for close quaters combat and to deal with bulldozers. Any high concealment melee of your choice. Keep total detection <25.  
+
+Build 2 - Breacher https://pd2builder.netlify.app/?s=010-694iF1a1W0-410-6j50&p=a&a=1&t=j&d=80  
+Ultimate objective build, with a lower focus on survivability and DPS.  
+Weapons to use:  
+Any primary weapon of your choice. Saw as secondary on heist where saw can be useful, use it in combat as well, since it has very decent ammo pick up now. If you don't think that saw will help on the upcoming heist, swap to any secondary which can help you deal with shields, or any weapon with Damage Over Time effect, to help you upkeep your ginder heals. Use any melee you prefer to deal with bulldozers.
 
 # Yakuza(4/5):
 
