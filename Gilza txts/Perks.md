@@ -11,20 +11,9 @@
 Stats are updated for DEV patch: 2.5
 
 TODO - make builds which utilize:
-* bipodless lmg's
-* 1300/950 snipers?
-* akimbo shotguns?
 * bows/crossbows
 * miniguns (non-crit)
-* rocket launchers?
-* poison shotgun ammo and/or poison melee
-* a build that relies on standard HE throwable grenades as a counter for shields and dozer plates. make it part of other builds maybe?
-* 1-3 stealth builds?
-* saw sociopath
-* c4/firetrap build (maybe 2?)
-* add a note for AP kits to some builds, that can use them well
-* breaching shotgun rounds(currently option in 1 build, should be an option in more builds)
-* missing shotgun ammo: tombsotne slugs, buckshot 000, HE, dragons breath(?)
+* c4/firetrap build
 * guardian LMG build
 
 # General info:
@@ -103,7 +92,7 @@ Barebone skills: Hostage taker for health regen, which stacks with muscle's natu
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Crit Muscle https://pd2builder.netlify.app/?s=xkgF0100dg0-6gF00105g0001f0&p=1&a=0&t=4&d=5  
 Stay below 25 total detection. A run and gun version of muscle. Focusing armor skills with muscle in general is not a great idea, since most of your survivability comes from your health, which should be imrpoved first.  
 Weapons to use:  
-Prefered combo: Vulcan Minigun and Bronco revolver with <25 total detection. Alterantively, you can rely on any other fast firing primary weapon with low damage class. Secondary Bronco is recommended due to it's ability to gain high concealment, but any reliable secondary that can deal with targets beyond 10 meters will do as well.
+Prefered combo: Vulcan Minigun and Bronco revolver with <25 total detection. Alterantively, you can rely on any other fast firing primary weapon with low damage class, bipod-less lmg's are prefered. Secondary Bronco is recommended due to it's ability to gain high concealment, but any reliable secondary that can deal with targets beyond 10 meters will do as well.
 
 -----
 
@@ -409,7 +398,7 @@ Need this that and that
 Build 1 - Heavy weapons guy https://pd2builder.netlify.app/?s=010012006F1Q0-41Y0010-778&p=e&a=6&t=6&d=0  
 While bipoded and hitting headshots you can maintain your armor up for a long time, since your damage taken to armor recovered is so heavily tilted in your favour. Aim at around chest are of enemies to deal increased damage from body exertise on bodyshots, and to regain armor on headshots. Since LMG accuracy, even while bipoded, is not grea, you will be able to gain benefits from both skills reliably, on top of having the best passive armor gating from new ICTV anarchist.  
 Weapons to use:  
-Any bipod'able LMG as primary, and a secondary grenade launcher, preferably with area denial grenades like fire or gas, but default can also work. Use any throwable you want, molotovs are best option to activate berserker on yourself, or to bring your health down to the 50% threshold. If you use molotovs, using gas nades in your secondary launcher is a great idea to help with teammate revives.
+Any bipod'able LMG as primary, and a secondary grenade launcher, preferably with area denial grenades like fire or gas, but default can also work. Rocket launcher secondaries also work. Use any throwable you want, molotovs are best option to activate berserker on yourself, or to bring your health down to the 50% threshold. If you use molotovs, using gas nades in your secondary launcher is a great idea to help with teammate revives.
 
 # Biker (3/5):
 
@@ -554,7 +543,7 @@ Barebone skills - You can use FAK's without using hostage taker to heal, or use 
 Build 1 - Standard - shotgun focused. https://pd2builder.netlify.app/?s=1G0H00xkc10-9010-6H00&p=l&a=3&t=i&d=3  
 As always, focus on reviving your team to get your cooldown up. Heals from activation of the ampule and passive regen from hostage taker should be enough sustain. Use Messiah's basic feature of being able to never fully go down to get your cooldown back, or activate it if you need to clutch the situation you are currently in.   
 Weapons to use:  
-450 or 325 damage class primary shotgun, focused on dealing with multiple enemies, so Donald's Horizontal Leveller is recommended, along with default ammo, focused on stability. 325 damage class secondary shotgun, focusing on mostly accuracy and DPS (so bigger ROF ones), to deal with snipers and bulldozers. Use slugs if shields are a big problem for you, but i'd recommend using Flechette ammo. Use any melee you prefer. 
+450 or 325 damage class primary shotgun, focused on dealing with multiple enemies, so Donald's Horizontal Leveller is recommended, along with default ammo, focused on stability. Using 450 damage class priamry with breacing rounds can also be considered on some heists. 325 damage class secondary shotgun, focusing on mostly accuracy and DPS (so bigger ROF ones), to deal with snipers and bulldozers. Use slugs if shields are a big problem for you, but i'd recommend using Flechette ammo. Use any melee you prefer. 
 
 # CUSTOM PERK - Brawler:
 
