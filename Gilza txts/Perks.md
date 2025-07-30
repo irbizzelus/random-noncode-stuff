@@ -10,10 +10,6 @@
 
 Stats are updated for DEV patch: 2.5
 
-TODO - make builds which utilize:
-* bows/crossbows
-* miniguns (non-crit)
-
 # General info:
 
 Gilza's CUSTOM perk decks are located closer to the bottom of the page, right before Copycat, since Copycat now has new cards from Gilza's custom perk decks.
