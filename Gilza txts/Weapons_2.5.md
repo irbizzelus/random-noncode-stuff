@@ -73,6 +73,8 @@ Some enemies take less melee damage:
 * Most bosses receive _20x_ less melee damage.
 * Winters and his shields receive _2x_ less melee damage.
 
+Weapon Butt melee now has 31 concealment by default making it the best concealment option. Considering it's mediocre at best damage, this should be a nice option to consider for low detection builds.
+
 Bulldozers' melee resistance is increased by extra 2x when playing on Death Sentence difficulty, since their health is doubled on this difficulty.
 
 Melee knockdown now depends on weapon's range. More range your melee has, less knockdown it has. It might not always make sense when you look at some melees. Too bad.
