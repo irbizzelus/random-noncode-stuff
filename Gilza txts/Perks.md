@@ -13,7 +13,6 @@ Stats are updated for DEV patch: 2.5
 TODO - make builds which utilize:
 * bows/crossbows
 * miniguns (non-crit)
-* c4/firetrap build
 * guardian LMG build
 
 # General info:
