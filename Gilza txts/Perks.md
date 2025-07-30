@@ -13,7 +13,6 @@ Stats are updated for DEV patch: 2.5
 TODO - make builds which utilize:
 * bows/crossbows
 * miniguns (non-crit)
-* guardian LMG build
 
 # General info:
 
@@ -616,6 +615,11 @@ Build 1 - Sniper https://pd2builder.netlify.app/?s=094X2V00410-9010-6p00&a=1&t=b
 Perfect for utilizing the Vantage point purchasable asset.  
 Weapons to use:  
 Thanatos or any 1600 damage class sniper for graze as primary. Any secondary sniper you prefer. If you don't have thanatos, north star secondary sniper would be most helpful against bulldozers. Use throwable axes/knives/cards against enemies who got close to you. Use any melee you prefer, but tazer ones would work best.
+
+Build 2 - LMG https://pd2builder.netlify.app/?s=0R0912005g0-61Y001000410350&a=1&t=2&d=5  
+A less precise, suppressive fire alternative playstyle. Aim for the body to get the most amount of damage, and try to be as far away from enemies as possible, to gain the most from LMG's damage fall off changes, which make all LMG's deal more damage at further ranges. Use first aid kits to either heal up when your health drops too low while moving around, or just deploy one while already inside of your area for even eaiser health upkeep. Do take into account that FAK's now only heal you for 50% health.  
+Weapons to use:  
+Any LMG priamry of your choice. Any pistol as secondary, since you can sawp to and from them quickly, while having a reliable mid range weapon. Any decently high damage melee can be used against bulldozers in close quaters situations.
 
 # COPYCAT (4/5):
 
