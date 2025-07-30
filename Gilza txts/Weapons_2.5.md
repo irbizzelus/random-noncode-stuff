@@ -228,8 +228,8 @@ Note: the Peacemaker .45 revolver has a damage class of 650, which allows it to 
 ### New damage drop off introduced
 
 * 120% damage for the first 1.5 meters
-* 100% damage for 5.5 meters after
-* Progressive decrease in damage for the next 7 meters
+* 100% damage for 6.5 meters after
+* Progressive decrease in damage for the next 8 meters
 * 50% damage at and after max range
 
 These changes make SMG's a more distinct CQB category. While being extremely effective at closer ranges, they will loose their fire power really quickly at longer distances. If you want to have more firepower at range use pistols or snipers.
@@ -249,13 +249,13 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 # Specials:
 ### Bows/crossbows:
 * Fixed stats for some bows that displayed incorrect information.
-* Added body armor peircing to all arrows.
-* Updates a few stats, so bows and crossbows would feel slightly more different from each other.
+* Added body armor peircing to all bows and crossbows by default.
+* Updates damage/accuracy/stability stats, so bows and crossbows would feel slightly more different one from another.
+* Both bows and crossbows can now gain benefit from "Body Expertise" skill, alowing you to rely only on bodyshots if you have it.
 
 ### OVE9000 Saw:
 * Allows for reloads at any time.
-* Can now penetrate body armor regardless of skills/attachments.
-* All enemies receive 10x damage in-game compared to saw's stat when viewed in the inventory. This was done in such a way due to damage calculations around saw's atachments and unlockable surfaces like metal doors.
+* Can now always penetrate enemy body armor regardless of skills/attachments.
 * No longer deals extra damage with headshots to all enemies, except for Bulldozers
 * Can now also pick up ammo with Saw Massacre (ACED) skill.
 
@@ -275,7 +275,7 @@ Secondary flamethrower has less damage per tick and worse ammo economy.
 * TTK and breakpoints are identical for headshots, but better for bodyshots due to Gilza's health pool updates
 * Ammo capacity stats changed from 750(mag)/750(total) to 600(mag)/900(total)
 * Reload sped up by 20%
-* Ammo pick up reduced, and is now different between the two miniguns we have, since one does more damage per bullet then another.
+* Ammo pick up altered, and is now different between the two miniguns we have, since one does more damage per bullet then another.
 * Hailstorm now has 210/630 ammo, better accuracy/stability stats and no damage drop-off penalties. Ammo pick up for it is slightly better then in vanilla as well.
 
 ### Grenade and rocket launchers (Underbarrels included):
