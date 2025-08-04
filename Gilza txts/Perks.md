@@ -86,7 +86,7 @@ Barebone skills: Hostage taker for health regen, which stacks with muscle's natu
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Crit Muscle https://pd2builder.netlify.app/?s=xkgF0100dg0-6gF00105g0001f0&p=1&a=0&t=4&d=5  
 Stay below 25 total detection. A run and gun version of muscle. Focusing armor skills with muscle in general is not a great idea, since most of your survivability comes from your health, which should be improved first.  
 Weapons to use:  
-preferred combo: Vulcan Minigun and Bronco revolver with <25 total detection. Alternatively, you can rely on any other fast firing primary weapon with low damage class, bipod-less lmg's are preferred. Secondary Bronco is recommended due to it's ability to gain high concealment, but any reliable secondary that can deal with targets beyond 10 meters will do as well.
+preferred combo: Vulcan Minigun and Bronco revolver with <25 total detection. Alternatively, you can rely on any other fast firing primary weapon with low damage class, bipod-less LMG's are preferred. Secondary Bronco is recommended due to it's ability to gain high concealment, but any reliable secondary that can deal with targets beyond 10 meters will do as well.
 
 -----
 
@@ -147,7 +147,7 @@ Barebone skills - focus on getting skills for akimbos/smg's/pistols to activate 
 Build 1 - Somewhat standard. https://pd2builder.netlify.app/?s=xa0-64V0-9010128T0138&p=4&a=6&t=b&d=3  
 Pistols pistols pistols. Spam them as much as you can, since your ammo pick up should not be a problem. Use melee weapons to get to the invulnerability combo.  
 Weapons to use:  
-Akimbo pistols with 78 damage, And a 125 secondary pistol modded for accuracy to deal with snipers or to kill your bounty target if it's far away. Use silencers on all weapons to gain 50% AP chance on bodyshots. Use throwable knives/axes/cards to activate combo and armor heal. Use a 75 dmg melee, because with basic berserk it will be a reliable oneshot, allowing for relatively easy combos. 
+Akimbo pistols with 78 damage, And a 125 secondary pistol modded for accuracy to deal with snipers or to kill your bounty target if it's far away. Use silencers on all weapons to gain 50% AP chance on bodyshots. Use throwable knives/axes/cards to activate combo and armor heal. Use a 75 damage melee, because with basic berserk it will be a reliable oneshot, allowing for relatively easy combos. 
 
 -----
 
@@ -189,7 +189,7 @@ All passive stealth bonuses were buffed from 10-20% to 25%. Saving 2.5 seconds o
 This is not anything new, but your general playstyle for loud should be sniping most of the time, because enemies will target you less if you stand still, and also target you less if you are further away from enemies than your teammates are. And since enemies will always focus you for a few seconds after you damage them, it is recommended you run one-shoting weapons, and snipers fit this role the best.
 
 ### Build(s) to try
-Barebone skills - Dodge and/or stealth skills should be prioritized, depending on your playstyle. Bullseye is always required for loud. Skills that imrpove balistic vests are extremely beneficial, since this perk now favours the Light Ballistic Vest.  
+Barebone skills - Dodge and/or stealth skills should be prioritized, depending on your playstyle. Bullseye is always required for loud. Skills that improve balistic vests are extremely beneficial, since this perk now favours the Light Ballistic Vest.  
 
 Build 1 - Backline Sniper https://pd2builder.netlify.app/?s=5O000h009410380-68N9k00g100&p=6&a=1&t=b&d=53  
 Stay behind your team and snipe enemies before they get a chance to even shoot at you. Don't forget to stay crouched to gain burglar's benefits. You may replace basic swan song with blodthirst basic if you want an additional option for dealing with bulldozers. You can use any secondary deployable that would fit your current game the best, decide which based on your teammates' loadouts. You can also bring a grenade case if u want to use grenades yourself, instead of throwable axes/knives/cards.  
@@ -239,7 +239,7 @@ Barebone skills - ICTV armor and melee skills. High burst damage weapons like sh
 Build 1 - Shotgunzz. https://pd2builder.netlify.app/?s=010010wt4Xxk0-81010-41c3&p=8&a=6&t=9&d=0  
 Use highly damaging shotguns to gain kills reliably every 1 second or so, maintaining high armor level. Use melee to refill your health whenever you need to, and don't be afraid to get up close and personal with enemies.  
 Weapons to use:  
-900 or 450 damage class primary shotgun, modded for accuracy, with default or flechette ammunition. Use high DPS secondary shotgun with default ammo as secondary to deal, or help dealing with, bulldozers, if your bloodthirst stacks are low. Try to rely on melee or your throwable javeln when dealing with bulldozers.
+900 or 450 damage class primary shotgun, modded for accuracy, with default or flechette ammunition. Use high DPS secondary shotgun with default ammo as secondary to deal, or help dealing with, bulldozers, if your bloodthirst stacks are low. Try to rely on melee or your throwable javelin when dealing with bulldozers.
 
 -----
 
@@ -298,7 +298,7 @@ Any primary weapon of your choice. Saw as secondary on heist where saw can be us
 |  Gilza | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Yakuza.png)  |
 
 ### Changes Summary
-Improved anti-healing part of the perk deck by nullifying any healing from any source, except for deployables. Heal on revive is now always set 10%, even on lower difficulties, to imrpove reliability of the deck. Added 3 new effects:
+Improved anti-healing part of the perk deck by nullifying any healing from any source, except for deployables. Heal on revive is now always set 10%, even on lower difficulties, to improve reliability of the deck. Added 3 new effects:
 1) Resistance to armor piercing shots (from snipers) - was added to make this deck less risky, since you have to run at low health to gain benefits.
 2) Resistance when getting shot from behind (180° behind you) - was added to make the "duck to cover" gameplay less frustrating. You are already required to almost instantly react to your armor being broken and seeking (or ducking in) cover on higher difficulties, being shot from behind when you get flanked makes your "shoot, duck in cover, shoot" gameplay even less powerful than it already is. This feature mostly will help you with running to cover, or avoiding being screwed by flanking enemies, without allowing you to fight back with improved damage resistance.
 3) Resistance to armor suppression effect - for those who know what this is: it doesn't happen at all anymore, but total recovery will still be increased by 0.5 seconds when shot. For those who don't know:  
@@ -307,7 +307,7 @@ New resistance effect that you gain from Yakuza will now reduce this supression 
 
 
 ### Additional info/tips
-Gameplay overall is about the same - shoot, duck to cover to recover, shoot. Gained buffs will imrpove this aspect by allowing you to do this faster and more often, while damage resist from behind and additional movement speed will allow you to relocate easier. 
+Gameplay overall is about the same - shoot, duck to cover to recover, shoot. Gained buffs will improve this aspect by allowing you to do this faster and more often, while damage resist from behind and additional movement speed will allow you to relocate easier. 
 
 ### Build(s) to try
 Barebone skills - ICTV armor, frenzy aced for improved damage resistance, especially from behind, armor recovery skills, and bullseye for armor gating.  
@@ -326,8 +326,8 @@ Weapons to use:
 
 ### Changes Summary
 - Card 5: Replaced 15 passive dodge chance (10 in vanilla is a typo, it's actually 15) with new "Static" dodge chance, which can not be adjusted by any skills or armors (yes, ICTV has 20 dodge). This dodge chance allows for all armors to gain extra survivability equally, since you will always trade amount of stored health, which is more important now, for armor. This does bring the 2 Piece suit down, since you can't get 30 passive 40 running dodge anymore, but this is a small price to pay, in my opinion, considering that this version makes literally every other armor usable, depening on your build.  
-- Card 7: Added "shield" or "absorption" mechanic for stored health to imrpove survivability by making stored health take damage first, before your actual health. This allows for low health situations to be less frustrating, since now after your armor is destroyed, even if you were to take damage to your health, stored health will be depleted first instead. Also while at full health you can also get benefits from stored health after your armor breaks.  
-- Card 9: To compensate 2 features mentioned above, which generally imrpove your survivability, 9th perk deck card was somewhat nerfed. Vanilla version increases your armor recovery timer's depletion rate by a certain %. So if your timer is at 4 seconds, depending on your armor, this recovery timer may end up being 0.28-1 seconds long after a kill. Despite how good this is, there is 1 issue however: this only applies if your armor is completely broken. New version of this skill is much more reliable since it now applies the bonus to armor recovery until your armor fully recovers, and it's now affected by both your teammates' and your kills. The numbers themselves however are much less powerful than vanilla. The biggest bonus per kill you can get now is -0.25 seconds, and the bonus will also only apply to the armor recovery part of the skill, without altering the armor suppresion 1 second delay, and also having a ceiling to it's bonus of lowest possible recovery timer at 0.8 seconds. But allowing this effect to also be improved by other players' kills this makes it fit better with the other passive aspects of this perk.
+- Card 7: Added "shield" or "absorption" mechanic for stored health to improve survivability by making stored health take damage first, before your actual health. This allows for low health situations to be less frustrating, since now after your armor is destroyed, even if you were to take damage to your health, stored health will be depleted first instead. Also while at full health you can also get benefits from stored health after your armor breaks.  
+- Card 9: To compensate 2 features mentioned above, which generally improve your survivability, 9th perk deck card was somewhat nerfed. Vanilla version increases your armor recovery timer's depletion rate by a certain %. So if your timer is at 4 seconds, depending on your armor, this recovery timer may end up being 0.28-1 seconds long after a kill. Despite how good this is, there is 1 issue however: this only applies if your armor is completely broken. New version of this skill is much more reliable since it now applies the bonus to armor recovery until your armor fully recovers, and it's now affected by both your teammates' and your kills. The numbers themselves however are much less powerful than vanilla. The biggest bonus per kill you can get now is -0.25 seconds, and the bonus will also only apply to the armor recovery part of the skill, without altering the armor suppresion 1 second delay, and also having a ceiling to it's bonus of lowest possible recovery timer at 0.8 seconds. But allowing this effect to also be improved by other players' kills this makes it fit better with the other passive aspects of this perk.
 
 This perk is mostly buffed, but still feels pretty balanced, while being much easier to run, since you don't have to run an explosive shotgun to break your armor to heal yourself anymore. Most armors also have new stored health amounts now, which are balanced around DS difficulty and how many 225 hits you can take there while at maxed amount of stored health (based around 2 skills - 10% damage resistance from any source, and Partners in Crime's 30% health boost).
 
@@ -335,7 +335,7 @@ This perk is mostly buffed, but still feels pretty balanced, while being much ea
 Gameplay is about the same as in vanilla, and can be even more passive now, since you can get armor recovery bonuses from teammates. Damaging yourself with explosives to heal might still be a decent idea in some cases, but relying on it, in my opinion, is not needed at all anymore.
 
 ### Build(s) to try
-Barebone skills - Bullseye is the only mandatory skill, as this deck has one of the highest variety options, just keep in mind that you can't play agresively with this perk unless your stored health is high/maxed out, since you are vulnerable if you don't have any of it. High dps builds can help you gain this stored health, while high survivability builds can rely on teammates' kills for survival, while providing them with support options like breaching charges, drill skills, ammo etc.
+Barebone skills - Bullseye is the only mandatory skill, as this deck has one of the highest variety options, just keep in mind that you can't play aggressively with this perk unless your stored health is high/maxed out, since you are vulnerable if you don't have any of it. High dps builds can help you gain this stored health, while high survivability builds can rely on teammates' kills for survival, while providing them with support options like breaching charges, drill skills, ammo etc.
 
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Crit Sniper https://pd2builder.netlify.app/?s=1GgFgF00940-9030l0-41d0&p=c&a=1&t=4&d=3  
 This build has 7 spare points which you can use to either improve your converted cops with more skills, give yourself minor melee/stability/ammo pick up range buffs, or you can use them to ace low blow and allow yourself to build weapons with a total goal of <25 total detection. Otherwise, keep total detection <5.  
@@ -368,7 +368,7 @@ Barebone skills - ICTV armor and frenzy aced. With this set up you can maintain 
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Gas Overload https://pd2builder.netlify.app/?s=10-4h00oB1Q380-610-61sz&p=d&a=6&t=j&d=03  
 Gas spam. You will cycle your Viper grenades, underbarrel gas, and secondary grenade launcher with gas. This is the ultimate war crime build, and it wasn't even specifically made because it's funny, but because gas grenades have extremely low ammo pick up, so even with this set up, it could still be a challenge to keep at least 1 gas cloud afloat. And you want to keep it up, to maintain maxed maniac stacks indefinitely. Use primary AR to land kills on stunned enemies with easy headshots.  
 Weapons to use:  
-Specifically little friend 7.62 assault rifle with gas grenades for the underbarrel. Can be replaced by Groza AR with gas underbarrel, but it's a worse option. Use any secondary grenade launcher with gas grenades. Use viper grenade throwable. Cycle those 3. Use 75 melee against bulldozers.
+Specifically little friend 7.62 assault rifle with gas grenades for the underbarrel. Can be replaced by KETCHNOV Byk-1 AR with gas underbarrel, but it's a worse option. Use any secondary grenade launcher with gas grenades. Use viper grenade throwable. Cycle those 3. Use 75 melee against bulldozers.
 
 Build 2 - Engineer is engi-here. https://pd2builder.netlify.app/?s=010010006Fh40Z0-610-5g11I&p=d&a=6&t=b&d=70   
 Keep your little friends near chokes for free and constant damage, helping you upkeep your Hysteria stacks. Rely on your sentries to shut down shields, and don't forget to refill/repair them. Use melee against any enemy, but do focus on bulldozers.  
@@ -407,7 +407,7 @@ Any bipod'able LMG as primary, and a secondary grenade launcher, preferably with
 
 ### Changes Summary
 Added a little bit of armor and health to improve passive survivability and allow for 2 tap armor by default on DS.  
-Functionality of the core of the deck is unchanged, "Stack of Regeneration" is a term that i invented for the healing effect you get and the newly re-written description describes how the perk actually works on the back-end, to give players who wish to optimize their playstyle more information. On top of standard functionality, you will no longer be able to receive, a.k.a. waste, stacks of regeneration while at full armor and health. For the same reason "Overstack Prevention" cooldown was added. While this extremely short cooldown is active, any incoming biker specific heals will be ignored, if you have any amount of armor left. This effect does not affect your total possible amount of healing per minute, since it also gets reduced by 5th and 9th cards, where standard stack of regeneration cooldown is normaly reduced. It's also completely ignored while you have no armor remaining, allowing for as much armor gating as possible. This was added, mostly, to avoid situations where a teammate of yours (or maybe even you) uses a grenade/rocket launcher or a sniper with graze gaining a big multikill on the other side of the map, activating 4 healing cooldowns for you for next ~4 seconds, practically disabling your perk deck until your cooldowns are done.  
+Functionality of the core of the deck is unchanged, "Stack of Regeneration" is a term that i invented for the healing effect you get and the newly re-written description describes how the perk actually works on the back-end, to give players who wish to optimize their playstyle more information. On top of standard functionality, you will no longer be able to receive, a.k.a. waste, stacks of regeneration while at full armor and health. For the same reason "Overstack Prevention" cooldown was added. While this extremely short cooldown is active, any incoming biker specific heals will be ignored, if you have any amount of armor left. This effect does not affect your total possible amount of healing per minute, since it also gets reduced by 5th and 9th cards, where standard stack of regeneration cooldown is normally reduced. It's also completely ignored while you have no armor remaining, allowing for as much armor gating as possible. This was added, mostly, to avoid situations where a teammate of yours (or maybe even you) uses a grenade/rocket launcher or a sniper with graze gaining a big multikill on the other side of the map, activating 4 healing cooldowns for you for next ~4 seconds, practically disabling your perk deck until your cooldowns are done.  
 Overall these changes were made to make this deck much more consistent, and it no longer requires infoHUD's of any sort to track your stacks to survive, since you almost always will have stack slots to gain regeneration from.
 
 ### Build(s) to try
@@ -464,7 +464,7 @@ Most of the changes are numerical, for the most part reducing effectiveness of t
 - Card 7: Cooldown gain while at low health reduced from 2 to 1.5 seconds to compensate new threshold of 45%. This skill should now activate much more often, improving survivability as compensation for the nerfs in the first perk card.
 - Card 9: Similarly to card 7, this is a compensation for the first card, to make healing slightly better, since you now take more direct damage, and DOT damage you get is drained faster.
 
-Overall this deck should feel about the same, but you may wanna play it slightly more carefuly, since you take a bit more damage now.
+Overall this deck should feel about the same, but you may wanna play it slightly more carefully, since you take a bit more damage now.
 
 ### Build(s) to try
 Barebone skills - First aid kits fit this perk deck the best, so you should almost always run them. Hostage taker and partners in crime also benefit this deck extremely well.  
@@ -482,7 +482,7 @@ Weapons to use:
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Tag_Team.png)  |
 
 ### Changes Summary
-Removed LOS (line of sight) requirement to the target. Increased amount that the timer is increased by per kill, to keep the effect going for longer easier. Increased max possible damage absorption, and reduced required amount of kills to get it, to imrpove survivability.  
+Removed LOS (line of sight) requirement to the target. Increased amount that the timer is increased by per kill, to keep the effect going for longer easier. Increased max possible damage absorption, and reduced required amount of kills to get it, to improve survivability.  
 This deck's main issue is how expensive it is to run well (skill points wise), even though it does work pretty well when it's set up, so not that many changes were needed.
 
 ### Build(s) to try
@@ -525,8 +525,8 @@ Any weapons that benefit from crits (a.k.a. guns with low damage with high rate 
 Moved to Support category.  
 Probably the furthest from vanilla rework of any deck. Vanilla leech simply has too many things going for it. Is it supposed to be a kingpin replacement with activatable semi god mode? Is it supposed to be a support healing deck like gambler? Is it supposed to be a clutch deck that allows you to pick yourself up and carry your team to victory? This deck simply has too many aspects to make it make sense, while also being both overpowered and braindead easy to use if you combine it with mult-kill weapons like rocket launchers or graze sniper rifles.  
 This rework is my attempt to make this perk deck fulfill more of a supportive role, while keeping most aspects of this deck. But also changing them somewhat significantly.
-- Card 1: Increased cooldown from 40 to 80 seconds. Reduced amount of divisible health segments from 5 to 4. Reduced threshold for damage that is required to deplete 2 segments from 200 to 150. Whenever you go down your cooldown will be forced to at least 25 seconds, to prevent you from immediately reviving yourself to reduce potential clutch moments when deck is maxed at 9/9 cards and to also punish you for not using the cooldown (this actualy makes new buffed Messiah really good with Leech, allowing you to imrpove your cooldown while downed easier). Removed teammate heal on damage taken. Removed invulnerability and heal after 2 kills. Replaced both previously mentioned removed mechanics with a new one which combines previous two in a new way. After taking damage you lose 1-2 health segments and then get invulnerability for a short period. Securing a kill during this period can recover 1 health segment and recover health for your teammates. Added new supportive feature: if you revive a teammate while the Amuple effect is active, when Ampule effect is over you will get healed automatically, to imrpove your survivability. The 25% team heal reduction you have with other Leech players on your team is a vanilla feature that is normally not mentioned in the description.
-- Card 3: Made the last stand mechanic more similar to the Swan Song effect, which does not allow you to heal or use FAK Uppers skill, since this threshold is much harder to get to now, so you need to be punished more if you ever get to it. If you revive a teammate you won't go down after Ampule effect ends even if you were at 0 health, to imrpove the new supportive nature of this deck.
+- Card 1: Increased cooldown from 40 to 80 seconds. Reduced amount of divisible health segments from 5 to 4. Reduced threshold for damage that is required to deplete 2 segments from 200 to 150. Whenever you go down your cooldown will be forced to at least 25 seconds, to prevent you from immediately reviving yourself to reduce potential clutch moments when deck is maxed at 9/9 cards and to also punish you for not using the cooldown (this actualy makes new buffed Messiah really good with Leech, allowing you to improve your cooldown while downed easier). Removed teammate heal on damage taken. Removed invulnerability and heal after 2 kills. Replaced both previously mentioned removed mechanics with a new one which combines previous two in a new way. After taking damage you lose 1-2 health segments and then get invulnerability for a short period. Securing a kill during this period can recover 1 health segment and recover health for your teammates. Added new supportive feature: if you revive a teammate while the Amuple effect is active, when Ampule effect is over you will get healed automatically, to improve your survivability. The 25% team heal reduction you have with other Leech players on your team is a vanilla feature that is normally not mentioned in the description.
+- Card 3: Made the last stand mechanic more similar to the Swan Song effect, which does not allow you to heal or use FAK Uppers skill, since this threshold is much harder to get to now, so you need to be punished more if you ever get to it. If you revive a teammate you won't go down after Ampule effect ends even if you were at 0 health, to improve the new supportive nature of this deck.
 - Card 5: Increased cooldown gain per kill from 1 to 1.5 seconds to compensate longer cooldown. This doesn't fully compensate the cooldown since new cooldown is 2x the vanilla, and the reason for that is new cooldown reduction in card 7.
 - Card 7: Reviving teammates reduces Ampule cooldown by 15 seconds. Being revived does the same, to make effective cooldown punishment from going down only 10 seconds long.
 - Card 9: Removed 60% health bonus to remove 2 tap health on DS while Ampule effect is not active, to reduce overall survivability. While ampule effect is active max possible amount of segments is now 5 (instead of 10), and amount of healing while getting kills in the invulnerable state is now doubled at 2 segments. This allows you to reliably heal yourself while effect is active on lower difficulties, since you will mostly be taking 1 segment worth of damage, while also allowing you to have a semi god mode on DS difficulty, since you mostly will be both losing and gaining 2 segments. This is still a semi god mode, because you only have a short time period (currently 1 second) to get a kill to recover your health. Heal amount on teammates is increased even more since you will trigger this healing effect less often than vanilla Leech can.
@@ -557,7 +557,7 @@ Focus on melee and survivability skills the most. Do not assume that you have go
 Barebone skills - ICTV armor, bullseye is not recommended at all, since passive armor gating you get from melee kills should be enough, but you might have to get it just to unlock ICTV. Frenzy aced is favoured heavily due to low health bonuses of the deck. Melee skills are heavily favoured. Counterstrike is effective to deal with bulldozers, allowing you to stun them just with the basic version. Backfire aced is somewhat required since tazers can screw you over badly. Saw is favoured as well, since it maintains it's ammo pick up, ignoring the ammo pick up debuff that brawler comes with.  
 
 Build 1 - Default https://pd2builder.netlify.app/?s=09090001sz380-8580-421aN&a=6&t=b&d=3  
-Relatively close to perfect build with this deck. Take agro from your enemies, deal massive melee damage, use converted cop as an additional ancor for your defensive bonuses, use counterstrike against cloakers and to stun bulldozers, or even use it as a bonus damage option, if you run melees with less then 50 damage.  
+Relatively close to perfect build with this deck. Take agro from your enemies, deal massive melee damage, use converted cop as an additional anchor for your defensive bonuses, use counterstrike against cloakers and to stun bulldozers, or even use it as a bonus damage option, if you run melees with less then 50 damage.  
 Weapons to use:  
 Any 100 accuracy primary that can deal with shields and snipers. So a sniper rifle most likely. Thanatos is probably the best option, to help you shutdown bulldozers, after their face shield plate is gone. Secondary saw is your primary weapon, since it has identical stats to primary saw. If range is not a problem (on heists like No mercy) you can try double saw setup. Use throwable knifes/axes/cards for close-mid range kills, mostly to proc first regeneration effect. Use 50 or 75 damage class melee weapons for reliable one-shots, or a chainsaw type weapon. You can also use lower damage class melees if you don't mind holding the charge button a bit, or if you want to rely on counterstrike's bonus damage.
 
@@ -581,15 +581,15 @@ One of a few (if not the only) perk deck that actually gets use out of the Runni
 ### Build(s) to try
 Barebone skills - Bullseye for armor gating and dodge skills.  
 
-Build 1 - Default (DS difficutly specific) https://pd2builder.netlify.app/?s=xa0-6d0-7h2002l1u0005zc&a=0&t=4&d=3  
+Build 1 - Default (DS difficulty specific) https://pd2builder.netlify.app/?s=xa0-6d0-7h2002l1u0005zc&a=0&t=4&d=3  
 Run and gun. Use grenades mostly for revives. Mark special units before melting them. Weapons with silencers can gain AP to make run and gun playstyle's natural inaccuracy from movement more forgiving. Keep total detection <25.   
 Weapons to use:  
-Any <=250 damage class fully automatic weapons with silencers. Primary should be focused on stability, and secondary on accuracy. Using shield AP is not recommended, since you can flank shields relatively easily. Use melee exclusively against bulldozers or in a pinch. Any melee that can fit the total detection requirement of <25 works. You can use either throwables like knifes/axes/cards to coserve ammo, or use flashbangs/zapper/incendiary grenades for crowd control and to help with revives.
+Any <=250 damage class fully automatic weapons with silencers. Primary should be focused on stability, and secondary on accuracy. Using shield AP is not recommended, since you can flank shields relatively easily. Use melee exclusively against bulldozers or in a pinch. Any melee that can fit the total detection requirement of <25 works. You can use either throwables like knifes/axes/cards to conserve ammo, or use flashbangs/zapper/incendiary grenades for crowd control and to help with revives.
 
 Build 2 - Default (Death Wish and bellow difficutlies) https://pd2builder.netlify.app/?s=xa0010009410-5j0003Q1m0005xc&a=1&t=b&d=3  
 Run and gun. Use grenades mostly for revives. Weapons with silencers can gain AP to make run and gun playstyle's natural inaccuracy from movement more forgiving. Keep total detection <25. Similar to the build above, but since damage output on DW and below difficulties is not as drastic, you can sacrifice a little bit of DPS and 10% dodge, to get much more reliable armor and armor regen.   
 Weapons to use:  
-Any <=250 damage class fully automatic weapons with silencers. Primary should be focused on stability, and secondary on accuracy. Using shield AP is not recommended, since you can flank shields relatively easily. Use melee exclusively against bulldozers or in a pinch. Any melee that can fit the total detection requirement of <25 works. You can use either throwables like knifes/axes/cards to coserve ammo, or use flashbangs/zapper/incendiary nades for crowd control and to help with revives.
+Any <=250 damage class fully automatic weapons with silencers. Primary should be focused on stability, and secondary on accuracy. Using shield AP is not recommended, since you can flank shields relatively easily. Use melee exclusively against bulldozers or in a pinch. Any melee that can fit the total detection requirement of <25 works. You can use either throwables like knifes/axes/cards to conserve ammo, or use flashbangs/zapper/incendiary nades for crowd control and to help with revives.
 
 # CUSTOM PERK - Guardian:
 
@@ -613,7 +613,7 @@ Thanatos or any 1600 damage class sniper for graze as primary. Any secondary sni
 Build 2 - LMG https://pd2builder.netlify.app/?s=0R0912005g0-61Y001000410350&a=1&t=2&d=5  
 A less precise, suppressive fire alternative playstyle. Aim for the body to get the most amount of damage, and try to be as far away from enemies as possible, to gain the most from LMG's damage fall off changes, which make all LMG's deal more damage at further ranges. Use first aid kits to either heal up when your health drops too low while moving around, or just deploy one while already inside of your area for even easier health upkeep. Do take into account that FAK's now only heal you for 50% health.  
 Weapons to use:  
-Any LMG priamry of your choice. Any pistol as secondary, since you can swap to and from them quickly, while having a reliable mid range weapon. Any decently high damage melee can be used against bulldozers in close quarters situations.
+Any LMG primary of your choice. Any pistol as secondary, since you can swap to and from them quickly, while having a reliable mid range weapon. Any decently high damage melee can be used against bulldozers in close quarters situations.
 
 # COPYCAT (4/5):
 
@@ -705,7 +705,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Yakuza
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Yakuza.png) |
 | -------- |
-| All bonuses are now only active while bellow 50% health to imrpove survivability while bellow the invulnerability threshold, since this copy card does not provide any healing abilities to get to the 50% invulnerability requirement. |
+| All bonuses are now only active while bellow 50% health to improve survivability while bellow the invulnerability threshold, since this copy card does not provide any healing abilities to get to the 50% invulnerability requirement. |
 
 ### 9th copy - Ex-president
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Ex-president.png) |
@@ -771,5 +771,6 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 2 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
