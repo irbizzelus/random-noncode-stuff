@@ -17,7 +17,7 @@ Originally inspired by [IREnFIST](https://modworkshop.net/mod/28585)
 A Payday 2 weapons/skills/perks rebalance/overhaul. All changes made by this mod are only available to the player who has it installed, without affecting gameplay for other players. It works in online lobbies regardless of if you are client or host. 
 
 ### How difficult is this rebalance?
-This rebalance is **not** easy. It was made by me and for me, and i consider myself a pretty good FPS player. If you think of yourself as an average/casual player, you may find some of the tweaks too difficult for you.
+This rebalance is <ins>**not**</ins> making the game easy. It was made by me and for me, and i consider myself a pretty decent FPS player. If you think of yourself as an average/casual player, you may find some of the tweaks too difficult for you.
 
 ### Main goals of this rebalance:
 * Make **__ALL__** weapons equally viable across all difficulties - this includes nerfing over-performing weapons.
@@ -27,7 +27,7 @@ This rebalance is **not** easy. It was made by me and for me, and i consider mys
 
 # General Rebalance overview
 
-Detailed information on [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) and [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) changes can be found on pages dedicated to them. General updates and skill updates are written down bellow.  
+Detailed information on [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) and [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) changes can be found on pages dedicated to them.   
 On this page you can find __ALL__ general and skill related changes this mod makes, including reasons for most of them. It's incredibly long, so if you are here for the first time i recommend checking parts that you are most interested, right after this overview.
 
 ### Enemy changes
@@ -41,14 +41,14 @@ Melee weapons now deal % damage - if your melee has 35 damage, it will deal 35% 
 <ins>Damage resistance</ins>  
 All damage resistance upgrades are now additive instead of multiplicative. For more info scroll down to [Global changes - skills](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/General_and_Skills.md#skills).
 
-Extent of changes is too vast to sum up, so you should check the "Skills Legend" picture on top of the skills section bellow, which summarizes skill rework information - if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
+Extent of skill changes is too vast to sum up, so you should check the "Skills Legend" picture on top of the skills section bellow, which summarizes skill rework information - if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
 
-Most perks received minor updates to improve their design (mostly on DS difficulty), with only 3 perks gaining "major" updates. Go over general/neutral perk deck cards on the [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) page, since they apply to all perks.  
+Most perks received minor updates to improve their design (mostly for DS difficulty), with only 3 perks gaining "major" reworks. Don't forget to go over general (or "neutral") perk deck cards on the [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) page, since they apply to all perks, and by extension to all builds.  
 Additionaly, 3 new custom perks were added - "Brawler", "Speed Junkie" and "Guardian".
 
 ### Weapon Changes
 <ins>Damage and ammo:</ins>
-All guns are now categorized under a "damage class" - most weapons will have a strict base damage value without random fluctuations.
+All guns are now categorized under a "damage class" - most weapons will have a strict base damage value without random fluctuations, and are all based around specific breakpoints (aka amount of bullets to kill certain enemy types). This makes both balancing and gun building easier to manage.  
 Ammo pick up is now dependent only on weapon damage class, and it is __much much__ worse. You **HAVE** to use both of your weapons, and *even then* you can still run out, especially on lengthy heists. Using melee and throwable weapons is somewhat mandatory, to avoid running out of ammo quickly.
 
 <ins>Recoil:</ins>
@@ -62,8 +62,9 @@ All weapons have an accuracy penalty if used in full-auto and burst fire modes. 
 
 Check out the [weapon](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md) page for more info.
 
-<ins>__**IMPORTANT**__</ins>: for your first try of the mod make a backup of your save files. If you dislike the mod and choose to remove it, it will __not__ have any issues, and it will __not__ corrupt your save files, BUT you might lose some weapons from your inventory, due to updates in their attachment data.
-Also your perks can get reset. Perk reset DOES NOT remove how many perk points you have (points you use to unlock perks), but it might remove your progression, and leave you with all perks at 0/9, forcing you to go through all of them while holding the + button. (use R while on the perks screen to max out a perk quickly)
+<ins>__**IMPORTANT**__</ins>: for your first try of the mod make a backup of your save files.  
+If you dislike the mod and choose to remove it, it will __not__ have any issues, and it will __not__ corrupt your save files, BUT you might lose some weapons from your inventory, due to updates in their attachment data.
+Also your perks can get reset. Perk reset DOES NOT remove how many perk points you have (points you use to unlock perks), but it might remove your progression, and leave you with all perks at 0/9, forcing you to go through all of them while holding the + button. (use R (default keybind) while on the perks screen to max out a perk quickly).
 
 <ins>__**EVEN MORE IMPORTANT**__</ins>: if you are going to give Gilza a try, check all mods that Gilza requires to function, under "Dependencies and Instructions" tab on the [MWS page](https://modworkshop.net/mod/39854). All mods that are tagged as "optional" are sorted in order of importance, from highest at the top to lowest at the bottom. I recommend getting everything before (but preferably also including) FrenchyAu's weapon attachment packs.
 
@@ -97,11 +98,11 @@ This is one of a few changes that make combat easier and more forgiving for play
 ### Skills
 <ins>Damage resistance</ins>  
 Damage resistance skills are now additive instead of multiplicative.  
-In vanilla, if you have two 40% damage resistance skills, they would give you 100 * 0.6 * 0.6 = 36, so 64% damage resistance total. This approach especially hurts if you are trying to stack multiple damage resistance skills.
+In vanilla, if you have two 30% damage resistance skills, they would give you 100% * 0.7 * 0.7 = 49%, so 51% total damage resistance, while Gilza would allow for full 60% total damage resistance in this case. Vanilla approach especially hurts if you are trying to stack multiple damage resistance skills.
 
-With Gilza's system there's only 1 problem that needs to be solved: max resist going over 100%. In vanilla it's impossible due to endless multiplications, but with Gilza's approach it would be possible. So to compensate, maximum possible damage resistance value was added: 80%. 
+With Gilza's system there's only 1 problem that needs to be solved: max resist going close to and over 100%. In vanilla it's impossible due to endless multiplications, but with Gilza's approach it would be possible. So to compensate, maximum possible damage resistance value was added: 80%. 
 
-This change also allows you to calculate damage resistances and breakpoints easier.
+This change also allows you to calculate damage resistances and breakpoints (mostly for Death Sentence difficulty) easier.
 
 <ins>Critical hits</ins>  
 Critical hits will now always deal 2.25x damage, instead of multiplying your damage by enemy's headshot multiplier. This change effectively buffs them, since 80% of enemies you are dealing with have 2x headshot multipliers now. This does however nerf crits against bulldozers, which was the main reason for this change.
@@ -111,19 +112,17 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 
 # Custom Weapons Support
 
-This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes. Beware: some custom weapons may have attachments that change damage/ammo pick up or other stats in such a way that it will not match Gilza's values well, making them either too good, or bad. I can't do anything about it, other then __manually__ adding support for __every gun individually__, and that is just tedious.
-
-Most likely Gilza patches after 2.5 will mostly be focused on adding individual support for custom weapons, since 2.5 has almost perfect level of balance in my eyes.
+This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes. Beware: some custom weapons may have attachments that change damage/ammo pick up/total max ammo, or other stats in such a way that it will not match Gilza's values well, making them either too good, or bad. I can't do anything about it, other then __manually__ adding support for __every gun individually__, and that is tedious, but this is planned for future patches.
 
 Currently supported attachment mods:  
-All of FrenchyAU's tacticool attachments packs (250+ attachments). Check Gilza's dependencies & Instructions tab for links.
+All of FrenchyAU's tacticool attachments packs (250+ attachments). Check Gilza's dependencies & Instructions tab on the [MWS page](https://modworkshop.net/mod/39854) for links.
 
-Custom "special" weapons are not supported.
+Custom "special" category weapons are not supported.
 
 # Additional QOL features
 
 * While charging your melee weapons new melee UI will appear showing your charge amount and damage in %. This can be tweaked or disabled in Gilza's mod options.
-* You can spoof Gilza's custom perks, to avoid being kicked in public lobbies. Can be disabled in Gilza's mod options.
+* You can spoof Gilza's custom perks, to avoid getting auto kicked in higher difficulty public lobbies, since some players are purists and can not comprehend any rebalance mods. This option can be disabled in Gilza's mod options.
 * You can reset your perk progression to re-acquire perk decks, allowing you to try new custom perk decks without grinding XP to unlock them. This option does not reset amount of perk points you have already earned.
 * VanillaHud Plus's buff list (infoHUD) is supported for all major skill updates that Gilza makes.
 
@@ -132,7 +131,7 @@ You can crash when entering a heist, while using Jackal SMG or one of the Chiman
 
 # Supported languages (depends on your SuperBLT's language):
 - English
-- Russian - а именно все навыки, перки, описания оружий и элементы меню. Всё остальное может быть на английском.
+- Russian - а именно описания всех навыков, перков, оружий, элементы HUD'а и меню. Некоторые элементы могут быть на английском - если найдете что-нибудь не переведенное, пишите в комменты.
 
 Enjoy figuring out your new META and please provide feedback if something feels way too powerful.
 Good luck, have fun! :D
@@ -286,4 +285,5 @@ Good luck, have fun! :D
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
+
 
