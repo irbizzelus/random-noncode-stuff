@@ -209,7 +209,7 @@ Weapons to use:
 This perk deck is affected by all the important mod updates mentioned in [General info - Gilza rebalance changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes) above. Since temporary damage resistance is much easier to both activate and keep, and damage resistance can be stacked much more effectively with other skills, total amount of DR gained from the perk was slightly reduced. Specific amount is important for a health-based breakpoint on DS, but overall survivability of this perk deck is MUCH better than in vanilla, since your max potential damage resistance is easier to activate, and your total DR is also much higher.
 
 ### Additional info/tips
-For DS builds - 3 tap is achieved much easier now and even 4 tap is possible. 5+ is possible with maniac/crew chiefs on your team, making this deck absolutely busted in coordinated teams. As long as you have the temporary DR bonus that is.
+For DS builds - 3 tap armor is achieved much easier now and even 4 tap is possible. 5+ is possible with maniac/crew chiefs on your team, making this deck absolutely busted in coordinated teams. As long as you have the temporary DR bonus that is.
 
 ### Build(s) to try
 Barebone skills - ICTV armor, underdog and frenzy aced for stackable damage resistance. Bullseye for armor gating.
@@ -217,7 +217,7 @@ Barebone skills - ICTV armor, underdog and frenzy aced for stackable damage resi
 Build 1 - DMG resist overload https://pd2builder.netlify.app/?s=010912018N1Q120-610-71I&p=7&a=6&t=j&d=0  
 Use bipodable LMG's to gain damage resist while bipoded, and stack a huge amount of damage resistance. You can swap shock and awe aced for bullseye aced if you want to upkeep your position for longer (not recommended for DS difficulty). You can also swap all skills in technician that provide your LMG's a DPS increase for nine lives aced and get 3 points on top, if you feel like your survivability is not high enough, and you would like to get an extra down instead of additional DPS. Partners in crime allows you to gain 2 tap health for DS difficulty, so if you play at lower difficulties you can replace convert skills with anything else.   
 Weapons to use:  
-Bipodable LMG of your choice, and a secondary SMG for close quarters combat, since LMG's deal reduced damage at point blank. Bipodable LMG's tend to have good enough accuracy to deal with snipers, so the only other option you can go for is a secondary to deal with shields, if you decided to go for aced bullseye instead of aced shock and awe. Use Viper grenades to make teammate revives easier, and try avoid throwing them too often. Use any melee of your choice, but 35+ damage classes are recommended.
+Bipodable LMG of your choice, and a secondary SMG for close quarters combat, since LMG's deal reduced damage at point blank. Bipodable LMG's tend to have good enough accuracy to deal with snipers, so the only other option you can go for is a secondary to deal with shields, if you decided to go for aced bullseye instead of aced shock and awe. Use Viper grenades to make teammate revives easier, and avoid throwing them too often. Use any melee of your choice, but 35+ damage classes are recommended.
 
 -----
 
@@ -231,7 +231,7 @@ Bipodable LMG of your choice, and a secondary SMG for close quarters combat, sin
 This perk deck is affected by all the important mod updates mentioned in [General info - Gilza rebalance changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes) above. Except for melee and Underdog trigger, other parts of the deck were untouched, since it's already good enough.
 
 ### Additional info/tips
-Tip for both vanilla and Gilza - this is not a melee deck, despite how many buffs it gives to melee.
+Tip for both vanilla and Gilza - this is not a melee deck, despite how many buffs it gives to melee. This deck provides powerful armor regen/gating for mid ranges, as long as you are using one-shoting weapons, so you should focus on that.
 
 ### Build(s) to try
 Barebone skills - ICTV armor and melee skills. High burst damage weapons like shotguns and snipers are preferred.  
@@ -239,7 +239,7 @@ Barebone skills - ICTV armor and melee skills. High burst damage weapons like sh
 Build 1 - Shotgunzz. https://pd2builder.netlify.app/?s=010010wt4Xxk0-81010-41c3&p=8&a=6&t=9&d=0  
 Use highly damaging shotguns to gain kills reliably every 1 second or so, maintaining high armor level. Use melee to refill your health whenever you need to, and don't be afraid to get up close and personal with enemies.  
 Weapons to use:  
-900 or 450 damage class primary shotgun, modded for accuracy, with default or flechette ammunition. Use high DPS secondary shotgun with default ammo as secondary to deal, or help dealing with, bulldozers, if your bloodthirst stacks are low. Try to rely on melee or your throwable javelin when dealing with bulldozers.
+900 or 450 damage class primary shotgun, modded for accuracy, with default or flechette ammunition. Use high DPS secondary shotgun with default ammo as secondary to deal, or help dealing with, bulldozers, if your bloodthirst stacks are low. Try to rely on melee or your throwable javelin when dealing with bulldozers. Use any melee of your choice, but 35+ damage classes are recommended.
 
 -----
 
@@ -272,23 +272,23 @@ Weapons to use:
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Grinder_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Grinder.png)  |
 
 ### Changes Summary
-slightly improved AP chance (5% big wow) to allow for this stat to work better with other AP skills like Surefire and Silencers AP skills.
+Slightly improved AP chance (5% big wow) to allow for this stat to work better with other AP skills like Surefire and Silencers AP skills.
 
 ### Additional info/tips
-For DS specifically - run this deck when you have Crew Chief on your team for the 2 tap health breakpoint with fastest self-healing of all decks in the game. Otherwise this deck is still sorta mid tier for DS.
+For DS specifically - run this deck when you have Crew Chief on your team for the 3 tap health breakpoint with fastest self-healing of all decks in the game. Otherwise this deck is still sorta mid tier for DS.
 
 ### Build(s) to try
 Barebone skills - Bullseye for armor gating, partners in crime for extra health. LBV armor with die hard aced is recommended, since 70 armor helps quite a bit.  
 
 Build 1 - Crits with AP https://pd2builder.netlify.app/?s=wb0914009k00120-6121S000300&p=a&a=1&t=1&d=3  
-If silenced weapons are used you will have 85% chance to pierce enemy body armor total, allowing you to play with lazy aim. Keep your regen stacks up as much as you can, to maintain regen immediately after armor break, but don't rely on your health too much while playing on DS difficulty, since you can't get 3 tap health. If you feel confident enough, you can replace up you go with melee skills to help with bulldozers, though SMG with crits should be more than enough to deal with them.  
+If silenced weapons are used you will have 85% chance to pierce enemy body armor total, allowing you to play with lazy aim. Keep your regen stacks up as much as you can, to maintain regen immediately after armor break, but don't rely on your health too much while playing on DS difficulty, since you can't get 3 tap health on your own. If you feel confident enough, you can replace up you go with melee skills to help with bulldozers, though SMG with crits should be more than enough to deal with them.  
 Weapons to use:  
 <=155 damage class assault rifle modded for accuracy and concealment, recoil may be partially ignored since you get a decent boost to it from designated marksman skill, but don't completely ignore it, since gun oil will increase your rate of fire, affecting your recoil. Weapons with high rate of fire recommended. Use any <=155 damage class SMG as secondary for close quarters combat and to deal with bulldozers. Any high concealment melee of your choice. Keep total detection <25.  
 
 Build 2 - Breacher https://pd2builder.netlify.app/?s=010-694iF1a1W0-410-6j50&p=a&a=1&t=j&d=80  
 Ultimate objective build, with a lower focus on survivability and DPS.  
 Weapons to use:  
-Any primary weapon of your choice. Saw as secondary on heist where saw can be useful, use it in combat as well, since it has very decent ammo pick up now. If you don't think that saw will help on the upcoming heist, swap to any secondary which can help you deal with shields, or any weapon with Damage Over Time effect, to help you upkeep your grinder heals. Use any melee you prefer to deal with bulldozers.
+Any primary weapon of your choice. Saw as secondary on heists where saw can be useful, use it in combat as well, since it has very decent ammo pick up now. If you don't think that saw will help on the upcoming heist, swap to any secondary which can help you deal with shields, or any weapon with Damage Over Time effect, to help you upkeep your grinder heals. Use any melee you prefer to deal with bulldozers.
 
 # Yakuza(4/5):
 
@@ -301,13 +301,14 @@ Any primary weapon of your choice. Saw as secondary on heist where saw can be us
 Improved anti-healing part of the perk deck by nullifying any healing from any source, except for deployables. Heal on revive is now always set 10%, even on lower difficulties, to improve reliability of the deck. Added 3 new effects:
 1) Resistance to armor piercing shots (from snipers) - was added to make this deck less risky, since you have to run at low health to gain benefits.
 2) Resistance when getting shot from behind (180° behind you) - was added to make the "duck to cover" gameplay less frustrating. You are already required to almost instantly react to your armor being broken and seeking (or ducking in) cover on higher difficulties, being shot from behind when you get flanked makes your "shoot, duck in cover, shoot" gameplay even less powerful than it already is. This feature mostly will help you with running to cover, or avoiding being screwed by flanking enemies, without allowing you to fight back with improved damage resistance.
-3) Resistance to armor suppression effect - for those who know what this is: it doesn't happen at all anymore, but total recovery will still be increased by 0.5 seconds when shot. For those who don't know:  
-Armor suppression is an effect that applies to you when you are getting shot at, even if you are not getting hit (always applies if you are hit by the shot). If you get supressed while your armor is recovering, the recovery timer is set to it's maximum duration, and then 1 extra second is added on top from suppression. Practically speaking, this effect is always applied to you, because usually when you play you are being shot at all the time, but there are a few instances when you can receive damage without this effect, like melee or fire damage. 1 extra second that is added to your armor recovery from this effect is always equal to 1, because it can not be affected by armor recovery skills. This is why having 25% armor recovery bonus will improve your armor recovery to ((3 * 0.75) + 1 = 3.15) seconds, insead of expected (4 * 0.75 = 3) seconds, when you get shot at. This means that even if your armor recovery bonus was something like 999999%, your armor recovery after being shot would still be 1.00001 seconds long.
+3) Resistance to armor suppression effect - for those who know what this is: it doesn't happen at all anymore, but total recovery will still be increased by 0.5 seconds when shot.  
+For those who don't know:  
+Armor suppression is an effect that applies to you when you are getting shot at, even if you are not getting hit (and always applies if you are hit by the shot). If you get supressed while your armor is recovering, the recovery timer is set to it's maximum duration, and then 1 extra second is added on top from suppression. Practically speaking, this effect is always applied to you, because usually when you play you are being shot at all the time, but there are a few instances when you can receive damage without this effect, like melee or fire damage. 1 extra second that is added to your armor recovery from this effect is always equal to 1, because it can not be affected by armor recovery skills. This is why having 25% armor recovery bonus will improve your armor recovery to ((3 * 0.75) + 1 = 3.15) seconds, insead of expected (4 * 0.75 = 3) seconds, when you get shot at. This means that even if your armor recovery bonus was something like 999999%, your armor recovery after being shot would still be 1.00001 seconds long.
 New resistance effect that you gain from Yakuza will now reduce this supression effect timer to always be 0.5 seconds instead of 1 second, and will also remove armor recovery timer reset if you got shot at, but did not take any damage, making both swat turret vans and random nearby shots completely irrelevant for your armor recovery.
 
 
 ### Additional info/tips
-Gameplay overall is about the same - shoot, duck to cover to recover, shoot. Gained buffs will improve this aspect by allowing you to do this faster and more often, while damage resist from behind and additional movement speed will allow you to relocate easier. 
+Gameplay overall is about the same - shoot, duck to cover to recover, shoot. Gained buffs will improve this aspect by allowing you to do this faster and more often, while damage resist from behind and low health movement speed bonus will allow you to relocate easier. 
 
 ### Build(s) to try
 Barebone skills - ICTV armor, frenzy aced for improved damage resistance, especially from behind, armor recovery skills, and bullseye for armor gating.  
@@ -326,7 +327,7 @@ Weapons to use:
 
 ### Changes Summary
 - Card 5: Replaced 15 passive dodge chance (10 in vanilla is a typo, it's actually 15) with new "Static" dodge chance, which can not be adjusted by any skills or armors (yes, ICTV has 20 dodge). This dodge chance allows for all armors to gain extra survivability equally, since you will always trade amount of stored health, which is more important now, for armor. This does bring the 2 Piece suit down, since you can't get 30 passive 40 running dodge anymore, but this is a small price to pay, in my opinion, considering that this version makes literally every other armor usable, depening on your build.  
-- Card 7: Added "shield" or "absorption" mechanic for stored health to improve survivability by making stored health take damage first, before your actual health. This allows for low health situations to be less frustrating, since now after your armor is destroyed, even if you were to take damage to your health, stored health will be depleted first instead. Also while at full health you can also get benefits from stored health after your armor breaks.  
+- Card 7: Added "shield" or "absorption" mechanic for stored health to improve survivability by making stored health take damage first, before your actual health. This allows for low health situations to be less frustrating, since now after your armor is destroyed, even if you were to take damage to your health, stored health will be depleted first instead. Also while at full health you can also get better benefits from stored health after your armor breaks.  
 - Card 9: To compensate 2 features mentioned above, which generally improve your survivability, 9th perk deck card was somewhat nerfed. Vanilla version increases your armor recovery timer's depletion rate by a certain %. So if your timer is at 4 seconds, depending on your armor, this recovery timer may end up being 0.28-1 seconds long after a kill. Despite how good this is, there is 1 issue however: this only applies if your armor is completely broken. New version of this skill is much more reliable since it now applies the bonus to armor recovery until your armor fully recovers, and it's now affected by both your teammates' and your kills. The numbers themselves however are much less powerful than vanilla. The biggest bonus per kill you can get now is -0.25 seconds, and the bonus will also only apply to the armor recovery part of the skill, without altering the armor suppresion 1 second delay, and also having a ceiling to it's bonus of lowest possible recovery timer at 0.8 seconds. But allowing this effect to also be improved by other players' kills this makes it fit better with the other passive aspects of this perk.
 
 This perk is mostly buffed, but still feels pretty balanced, while being much easier to run, since you don't have to run an explosive shotgun to break your armor to heal yourself anymore. Most armors also have new stored health amounts now, which are balanced around DS difficulty and how many 225 hits you can take there while at maxed amount of stored health (based around 2 skills - 10% damage resistance from any source, and Partners in Crime's 30% health boost).
@@ -357,7 +358,7 @@ Silenced akimbo semi automatic pistols, preferably <=78 damage class. Focus on a
 
 ### Changes Summary
 Replaced vanilla's dual timer set up (one from "stacks on damage gain" and another from "stacks depletion") for a new, more "Maniac" style requirement to keep the damage up. Instead of depleting stacks passively (because you get bored or something?) you will now start to deplete your stacks if you haven't seen any action for a while (aka did not deal damage in the last x seconds). Amount of dealt damage to keep the stacks from depleting is irrelevant, so DOT (damage over time) effects are favoured. This also makes upkeep of the max bonus easier, since you just need to shoot something once every few seconds, which shouldn't be too hard. This is balanced by making this timer short (at 3 seconds now). Depletion rate was also increased to compensate ease of upkeep (as in amount of stacks lost per minute compared to vanilla).  
-In addition to this change, while playing on DS you can now get 72 damage absorption total on yourself at max stacks. This allows for a much easier 3 tap armor, and even more if combined with Crew Chief or other damage resistance skills.
+In addition to this change, while playing on DS you can now get 72 damage absorption total on yourself at max stacks. This allows for a much easier 3 tap armor, and even more if combined with Crew Chief and other damage resistance skills.
 
 ### Additional info/tips
 Poison and other DOT effects are favoured heavily if you want to keep your stacks at max with ease. Do keep in mind that poison is really ammo hungry when making your builds.
@@ -384,7 +385,7 @@ Akimbo SMG's or Pistols with lowest total ammo and highest ammo pick up ratio. S
 
 ### Changes Summary
 There are only 2 important changes:
-1) Armor gating is now achieved easier if you run high end armors instead of low end armors, since bigger armor has shortest time in-between regeneration
+1) Armor gating is now achieved easier if you run high end armors instead of low end armors, since bigger armors have shortest time in-between regeneration
 2) Chosen armor affects amount and cooldown of the "armor regen on enemy hit" effect from the 9th perk card, and similarly to the first effect it has shorter cooldowns for higher armors
 
 Basically all armors are now flipped. This is a side grade to vanilla version of anarchist, since you can get more armor gating from ICTV than what vanilla anarchist suit allows, but at the same time you can not build crits+zerk set ups anymore, while also slowing you down (movement wise) since you would want to run heavier armor for best armor gating. ICTV is even more braindead on DS in terms of survivability sometimes than vanilla's suit, but the fact that it will take you 3x more time to run to cover if you are caught out in the open compensates itself already.  
@@ -394,9 +395,9 @@ Since changes above are mostly focused at DS difficulty where armor gating is im
 Barebone skills - Bullseye, and even that one is a maybe, since you don't HAVE to have it to gain armor gating.   
 
 Build 1 - Heavy weapons guy https://pd2builder.netlify.app/?s=010012006F1Q0-41Y0010-778&p=e&a=6&t=6&d=0  
-While bipoded and hitting headshots you can maintain your armor up for a long time, since your damage taken to armor recovered is so heavily tilted in your favour. Aim at around chest are of enemies to deal increased damage from body expertise on bodyshots, and to regain armor on headshots. Since LMG accuracy even while bipoded is not perfect, you will be able to gain benefits from both skills reliably, on top of having the best passive armor gating from new ICTV anarchist.  
+While bipoded and hitting headshots you can maintain your armor up for a long time, since your damage taken to armor recovered is so heavily tilted in your favour. Aim at around chest area of enemies to deal increased damage from body expertise on bodyshots, and to regain armor on headshots. Since LMG accuracy even while bipoded is not perfect, you will be able to gain benefits from both skills reliably, on top of having the best passive armor gating from new ICTV anarchist.  
 Weapons to use:  
-Any bipod'able LMG as primary, and a secondary grenade launcher, preferably with area denial grenades like fire or gas, but default can also work. Rocket launcher secondaries also work. Use any throwable you want, molotovs are best option to activate berserker on yourself, or to bring your health down to the 50% threshold. If you use molotovs, using gas nades in your secondary launcher is a great idea to help with teammate revives.
+Any bipod'able LMG as primary, and a secondary grenade launcher, preferably with area denial grenades like fire or gas, but default can also work. Rocket launcher secondaries also work. Use any throwable you want, molotovs are best option to activate berserker on yourself, or to bring your health down to the 50% threshold. If you use molotovs, using gas nades in your secondary launcher is a great idea to help with teammate revives. Use any melee of your choice, but 35+ damage classes are recommended.
 
 # Biker (3/5):
 
@@ -771,6 +772,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 2 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
 
