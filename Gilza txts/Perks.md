@@ -120,7 +120,7 @@ Barebone skills - Use bullseye to armor gate whenever your armor breaks. You can
 Build 1 - Run and Gun https://pd2builder.netlify.app/?s=09001000810-6j0-4R5O1G0100&p=3&a=0&t=b&d=3  
 Ultimate speed build. 90% of the time you will be running, to gain extra 10% dodge, and hip firing with your akimbo smg's to deal damage and armor gate with bullseye. Use silenced weapons to gain 90% total body armor AP chance, since hipfiring akimbos are not exactly known for their accuracy. Botomless pockets and crits will allow you to gain enough damage to avoid running out of ammo, even if your headshot accuracy overall is low. You can also move some skills around to replace unseen strike for body expertise, for more reliable bodyshot damage, but this is up to you.  
 Weapons to use:  
-Use any akimbo SMG's of your choice, and a high accuracy secondary of your choice. You can use a secondary with shield AP along with accuracy, but due to your high mobility, you should not have any troubles while flanking shields. Use any melee of your choice, 20-25 damage class will most likely fit the best. You can replace your throwable for Ace of Spades as well, since they deal solid damage with crits.
+Use any akimbo SMG's of your choice, and a high accuracy secondary of your choice. You can use a secondary with shield AP along with accuracy, but due to your high mobility, you should not have any troubles while flanking shields. Use any melee of your choice, 20-25 damage class will most likely fit the best. You can replace your throwable for Ace of Spades as well, since they deal solid damage with crits. Keep total detection <25.
 
 -----
 
@@ -430,7 +430,7 @@ Barebone skills - Bullseye for armor gating and to bring yourself over the 50% t
 Build 1 - Survivalist https://pd2builder.netlify.app/?s=xk0p1000ch0-90101G000pf0&p=g&a=3&t=g&d=5  
 Fairly standard kingping gameplay, with unseen strike being your main DPS skill. Since you can force enemies to damage you, while being semi-invulnerable you can activate the damage activation part of the skill, then go to cover for 6 seconds, activate crit boosts, and go on a kill spree to recover your injector. Repeat this cycle endlessly.  
 Weapons to use:  
-Primary focused on accuracy, secondary focused on DPS or shield AP. Kobus 90 with AP ammunition attachment is a solid option. Any 75 melee to deal with bulldozers, or a 35 melee if either of your weapons has shield AP, to compensate lower ammo pick ups with more melee kills.
+Primary focused on accuracy, secondary focused on DPS or shield AP. Kobus 90 with AP ammunition attachment is a solid option. Any 75 damage class melee to deal with bulldozers, or a 35 damage class melee if either of your weapons has shield AP, to compensate lower ammo pick ups with more melee kills.
 
 # Sicario (1/5):
 
@@ -450,7 +450,7 @@ Barebone skills - Since sicario's dodge has extra RNG involved, you should try t
 Build 1 - Supportive Smokey Sniper https://pd2builder.netlify.app/?s=5O5g0V008110-7102h14000h00&p=h&a=0&t=e&d=5  
 Use your smoke to help with revives, objectives, or if you feel like situation is threatening enough. Insider assets is a great supportive skill, even if it's not viable on every heist. Aced swan song allows for both clutch moments and great damage bursts. Stockholm syndrome will elevate your survivability if your team did not bring enough doctor bags, and will allow for some additional crowd control if your stacks are high enough.   
 Weapons to use:  
-Any sniper rifles you prefer, 1600 are perfect for graze due to their breakpoints, but 950 lever actions have one of the best total damage outputs if you only reload them while empty, while using body economy skill. Secondary should be a sniper as well, preferably the North Star, as it allows for best DPS bursts against bulldozers.
+Any sniper rifles you prefer, 1600 are perfect for graze due to their breakpoints, but 950 lever actions have one of the best total damage outputs if you only reload them while empty, while using body economy skill. Secondary should be a sniper as well, preferably the North Star, as it allows for best DPS bursts against bulldozers. Use either tazer or a poison melee weapon for utility, or run weapon butt for highest concealment bonus, which is helpful for building conceled snipers. Keep total detection <25.
 
 # Stoic (2/5):
 
@@ -460,20 +460,20 @@ Any sniper rifles you prefer, 1600 are perfect for graze due to their breakpoint
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Stoic.png)  |
 
 ### Changes Summary
-Most of the changes are numerical, for the most part reducing effectiveness of this perk deck slightly, specifically for the first card. (Main reason - COPYCAT, second reason - this deck is a bit too good)
-- Card 1: Changed direct and indirect damage split from 75% to 70% to increase incoming damage taken. Reduced DOT part of the damage split to 10 seconds from 11.2 (12 is vanilla's inaccuracy) to make DOT go down faster, dealing more damage.
+All the changes are numerical, for the most part reducing effectiveness of this perk deck, mainly by nerfing it's ability to consistently heal.
+- Card 1: Changed direct to indirect damage split from 75% to 70% to increase incoming damage taken. Reduced damage-over-time part of the damage split to 10 seconds from 11.2 (12 is vanilla's inaccuracy) to make DOT go down faster, dealing more damage.
 - Card 7: Cooldown gain while at low health reduced from 2 to 1.5 seconds to compensate new threshold of 45%. This skill should now activate much more often, improving survivability as compensation for the nerfs in the first perk card.
 - Card 9: Similarly to card 7, this is a compensation for the first card, to make healing slightly better, since you now take more direct damage, and DOT damage you get is drained faster.
 
-Overall this deck should feel about the same, but you may wanna play it slightly more carefully, since you take a bit more damage now.
+Overall this deck should feel about the same, but you should play it more carefully, since you take more damage faster, leading to worse damage taken to healed ratio. Self healing skills are practically mandatory now.
 
 ### Build(s) to try
 Barebone skills - First aid kits fit this perk deck the best, so you should almost always run them. Hostage taker and partners in crime also benefit this deck extremely well.  
 
 Build 1 - Meta Slave https://pd2builder.netlify.app/?s=0R0H00xk1400380-6305g000100&p=i&a=3&t=c&d=53  
-Gilza's revision of classic stoic izhma build.  
+Gilza's revision of classic stoic izhma build. But you can run other guns than izhma now. You can replace die hard for up you go skill if you want to conserve your first aid kit usage after being revived, at the cost of slighlty lowered total health. 
 Weapons to use:  
-155 primary shotgun and a 325 secondary shotgun. Use flechette on the secondary shotgun to deal with snipers. Use tazer or a 35 damage class melee. Secondary deployable can be switched out to anything current heist/lobby requires most. Keep your total detection <25.
+155 primary shotgun and a 325 secondary shotgun. Use flechette on the secondary shotgun to deal with snipers. Use tazer or a 35 damage class melee. Secondary deployable can be switched out to anything current heist/lobby requires most. Use either tazer or a poison melee weapon for utility, or run weapon butt for highest concealment bonus. Keep total detection <25.
 
 # Tag Team (2/5):
 
@@ -492,7 +492,7 @@ Barebone skills - Bullseye for armor gating, ICTV armor to gain benefits from da
 Build 1 - Shotgun Survivalist https://pd2builder.netlify.app/?s=1G1W00xk6F10-910-6100&p=j&a=6&t=f&d=3  
 Fairly simple build, take converts to gain health improvements, and then tag your teammates (preferably human players) to improve your survivability with absorption and constant health regen.  
 Weapons to use:  
-Use any shotgun you want as primary, preferably with AP slugs, and if you feel like being supportive you can use breaching rounds with pump action (450 damage class) shotguns, which allow for shield AP as well. Secondary shotguns focused on DPS are preferred. Use any melee of your choice, zapper would probably work best, if you are confident in your team's abilities of dealing with bulldozers.
+Use any shotgun you want as primary, preferably with AP slugs, and if you feel like being supportive you can use breaching rounds with pump action (450 damage class) shotguns, which allow for shield AP as well. Secondary shotguns focused on DPS are preferred. Use any melee of your choice, tazer would probably work best, if you are confident in your team's abilities of dealing with bulldozers.
 
 # Hacker (2/5):
 
@@ -504,7 +504,7 @@ Use any shotgun you want as primary, preferably with AP slugs, and if you feel l
 ### Changes Summary
 Nerfed ECM cooldown to 140 seconds, nerfing it for both stealth and loud.  
 Cooldown gain per kill reduced from 6 to 4 seconds. ECM duration in loud increased to 12 seconds to compensate much longer breaks in between uses. Healing gained per kill was increased to compensate longer intervals in-between activations. Temporary dodge now requires 3 kills, and provides the same dodge bonus, but for longer to compensate breaks between uses.  
-This perk deck is simply too good, and the main reason for that is just the ECM stun effect. Making ECMs activate less often allows for stun spammibility of this deck to go down, while keeping player survivability at roughly the same level.
+This perk deck is simply too good, and the main reason for that is just the ECM stun effect. Making ECMs activate less often allows for stun spammibility of this deck to go down, while other buffs keep player survivability at roughly the same level.
 
 ### Build(s) to try
 Barebone skills - get additional dodge and bullseye for armor gating, rest is up to you.
@@ -512,7 +512,7 @@ Barebone skills - get additional dodge and bullseye for armor gating, rest is up
 Build 1 - Default https://pd2builder.netlify.app/?s=1G091400d010-9qBhI000100&p=k&a=0&t=d&d=3  
 Keep total detection <5. Use PECM whenever you are either low on health, your temporary dodge is no longer active, or when you feel like you are in danger, but don't activate it as frequently as you would in vanilla, since cooldown is longer.  
 Weapons to use:  
-Any weapons that benefit from crits (a.k.a. guns with low damage with high rate of fire) and can get you to bellow 5 total detection work great. You can also use bows or crossbows, since they all have useful new breakpoints with crits. If you plan on using bows/crossbows, don't forget to bring additional weapon to deal with snipers. You can also utilize grenade launchers with default explosives, for ease of activation of temporary dodge and healing during the PECM effect. You will most likely struggle getting <5 detection with grenade launchers, but 1-2% sacrifice of dodge may be worth the multi-kill potential of GL's.
+Any weapons that benefit from crits (a.k.a. guns with low damage with high rate of fire) and can get you to bellow 5 total detection work great. You can also use bows or crossbows, since they all have useful new breakpoints with crits. If you plan on using bows/crossbows, don't forget to bring additional weapon to deal with snipers. You can also utilize grenade launchers with default explosives, for ease of activation of temporary dodge and healing during the PECM effect. You will most likely struggle getting <5 detection with grenade launchers, but 1-2% sacrifice of dodge may be worth the multi-kill potential of GL's. Use any high concealment melee of your choice.
 
 
 # Leech (5/5):
@@ -526,11 +526,11 @@ Any weapons that benefit from crits (a.k.a. guns with low damage with high rate 
 Moved to Support category.  
 Probably the furthest from vanilla rework of any deck. Vanilla leech simply has too many things going for it. Is it supposed to be a kingpin replacement with activatable semi god mode? Is it supposed to be a support healing deck like gambler? Is it supposed to be a clutch deck that allows you to pick yourself up and carry your team to victory? This deck simply has too many aspects to make it make sense, while also being both overpowered and braindead easy to use if you combine it with mult-kill weapons like rocket launchers or graze sniper rifles.  
 This rework is my attempt to make this perk deck fulfill more of a supportive role, while keeping most aspects of this deck. But also changing them somewhat significantly.
-- Card 1: Increased cooldown from 40 to 80 seconds. Reduced amount of divisible health segments from 5 to 4. Reduced threshold for damage that is required to deplete 2 segments from 200 to 150. Whenever you go down your cooldown will be forced to at least 25 seconds, to prevent you from immediately reviving yourself to reduce potential clutch moments when deck is maxed at 9/9 cards and to also punish you for not using the cooldown (this actualy makes new buffed Messiah really good with Leech, allowing you to improve your cooldown while downed easier). Removed teammate heal on damage taken. Removed invulnerability and heal after 2 kills. Replaced both previously mentioned removed mechanics with a new one which combines previous two in a new way. After taking damage you lose 1-2 health segments and then get invulnerability for a short period. Securing a kill during this period can recover 1 health segment and recover health for your teammates. Added new supportive feature: if you revive a teammate while the Amuple effect is active, when Ampule effect is over you will get healed automatically, to improve your survivability. The 25% team heal reduction you have with other Leech players on your team is a vanilla feature that is normally not mentioned in the description.
+- Card 1: Increased cooldown from 40 to 60 seconds. Reduced amount of divisible health segments from 5 to 4. Reduced threshold for damage that is required to deplete 2 segments from 200 to 150. Whenever you go down your cooldown will be forced to at least 20 seconds, to prevent you from immediately reviving yourself to reduce potential clutch moments when deck is maxed at 9/9 cards and to also punish you for not using the cooldown (this actualy makes new buffed Messiah really good with Leech, allowing you to improve your cooldown while downed easier). Removed teammate heal on damage taken. Removed invulnerability and heal after 2 kills. Replaced both previously mentioned removed mechanics with a new one which combines previous two in a new way. After taking damage you lose 1-2 health segments and then get invulnerability for a short period. Securing a kill during this period can recover 1 health segment and recover health for your teammates. Added new supportive feature: if you revive a teammate while the Amuple effect is active, when Ampule effect is over you will get healed automatically, to improve your survivability. The 25% team heal reduction you have with other Leech players on your team is a vanilla feature that is normally not mentioned in the description.
 - Card 3: Made the last stand mechanic more similar to the Swan Song effect, which does not allow you to heal or use FAK Uppers skill, since this threshold is much harder to get to now, so you need to be punished more if you ever get to it. If you revive a teammate you won't go down after Ampule effect ends even if you were at 0 health, to improve the new supportive nature of this deck.
-- Card 5: Increased cooldown gain per kill from 1 to 1.5 seconds to compensate longer cooldown. This doesn't fully compensate the cooldown since new cooldown is 2x the vanilla, and the reason for that is new cooldown reduction in card 7.
-- Card 7: Reviving teammates reduces Ampule cooldown by 15 seconds. Being revived does the same, to make effective cooldown punishment from going down only 10 seconds long.
-- Card 9: Removed 60% health bonus to remove 2 tap health on DS while Ampule effect is not active, to reduce overall survivability. While ampule effect is active max possible amount of segments is now 5 (instead of 10), and amount of healing while getting kills in the invulnerable state is now doubled at 2 segments. This allows you to reliably heal yourself while effect is active on lower difficulties, since you will mostly be taking 1 segment worth of damage, while also allowing you to have a semi god mode on DS difficulty, since you mostly will be both losing and gaining 2 segments. This is still a semi god mode, because you only have a short time period (currently 1 second) to get a kill to recover your health. Heal amount on teammates is increased even more since you will trigger this healing effect less often than vanilla Leech can.
+- Card 5: Updated description to signify teammate healing effect change, which is now triggered during the invulnerability state.
+- Card 7: Moved total health bonus here, total health with Leech is still 414 health. Reviving teammates reduces Ampule cooldown by 10 seconds. Being revived does the same, to make effective cooldown punishment from going down only 10 seconds long. Reviving a teammate during the Ampule effect now provides additional 10 seconds bonus to the cooldown, after the effect is over. This practically doubles your cooldown gain per revive during the Ampule effect, but only for 1 revive per Ampule effect activation.
+- Card 9: While ampule effect is active max possible amount of segments is now 5 (instead of 10), and amount of healing while getting kills in the invulnerable state is now doubled at 2 segments. This allows you to reliably heal yourself while effect is active on lower difficulties, since you will mostly be taking 1 segment worth of damage, while also allowing you to have a semi god mode on DS difficulty, since you mostly will be both losing and gaining 2 segments. This is still a semi god mode, because you only have a short time period (currently 1 second) to get a kill to recover your health. Heal amount on teammates is increased even more since you will trigger this healing effect less often than vanilla Leech can.
 
 ### Additional info/tips
 Please, please, please use Painkillers skill on higher difficulties. Bonuses that you get from teammate revives are not incredibly strong, while letting your teammates go down again because they are in a vulnerable position and you don't have this skill is both foolish and not nice. This is a general tip for using Inspire skill, but it applies to this new version of Leech the most.
@@ -588,7 +588,7 @@ Weapons to use:
 Any <=250 damage class fully automatic weapons with silencers. Primary should be focused on stability, and secondary on accuracy. Using shield AP is not recommended, since you can flank shields relatively easily. Use melee exclusively against bulldozers or in a pinch. Any melee that can fit the total detection requirement of <25 works. You can use either throwables like knifes/axes/cards to conserve ammo, or use flashbangs/zapper/incendiary grenades for crowd control and to help with revives.
 
 Build 2 - Default (Death Wish and bellow difficutlies) https://pd2builder.netlify.app/?s=xa0010009410-5j0003Q1m0005xc&a=1&t=b&d=3  
-Run and gun. Use grenades mostly for revives. Weapons with silencers can gain AP to make run and gun playstyle's natural inaccuracy from movement more forgiving. Keep total detection <25. Similar to the build above, but since damage output on DW and below difficulties is not as drastic, you can sacrifice a little bit of DPS and 10% dodge, to get much more reliable armor and armor regen.   
+Run and gun. Weapons with silencers can gain AP to make run and gun playstyle's natural inaccuracy from movement more forgiving. Keep total detection <25. Similar to the build above, but since damage output on DW and below difficulties is not as drastic, you can sacrifice a little bit of DPS and 10% dodge, to get much more reliable armor and armor regen.   
 Weapons to use:  
 Any <=250 damage class fully automatic weapons with silencers. Primary should be focused on stability, and secondary on accuracy. Using shield AP is not recommended, since you can flank shields relatively easily. Use melee exclusively against bulldozers or in a pinch. Any melee that can fit the total detection requirement of <25 works. You can use either throwables like knifes/axes/cards to conserve ammo, or use flashbangs/zapper/incendiary nades for crowd control and to help with revives.
 
@@ -601,7 +601,7 @@ Any <=250 damage class fully automatic weapons with silencers. Primary should be
 Stand still to create an area. While inside of your area you (mostly) take less damage and quickly recover health. If you are outside of your area you take more damage and don't heal. Kills you get automatically pick up ammo boxes from killed enemies if you are inside of your area. However you have no armor and you are really slow. Sometimes you just can't have everything.
 
 ### Additional info/tips
-This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choice is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the ricochet "Porcupine" perk card. Never use the suit, since it's always worse than the Light Ballistic Vest for this perk deck.
+This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choice is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the ricochet "Porcupine" perk card. Never use the suit, since it's always worse than the Light Ballistic Vest for this perk, because of the Porcupine perk card.
 
 ### Build(s) to try
 Barebone skills - Partners in crime for bonus health is required. Hostage taker could help with armor regen, especially if you are not inside of your defensive area.
@@ -772,6 +772,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 2 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
 
