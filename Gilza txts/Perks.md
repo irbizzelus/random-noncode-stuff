@@ -626,9 +626,9 @@ Info on all the 9th card replacements (including 3 new ones from custom perks) a
 
 ### Changes Summary
 Copycat overall is a really good deck, but amount of health you gain from it is simply too good. Gaining 2 tap health on DS with a 2 second invulnerability by just having a joker is a bit too good, considering some options you can get from the 9th perk card copies, so some of the neutral aspects (non-copy parts) of the deck were nerfed.  
-- Choose a boost for cards 1,3,5,7: Health bonus is reduced from 20% to 15%, to make 2 tap health builds on DS harder to get. Armor and dodge bonuses unchanged. Crouch and bag movement speed bonus was unchanged, but this bonus now also allows to carry more total ammo. This is a niche upgrade, but can be sometimes usefull, when you just simply don't need other upgrades.
+- Choose a boost for cards 1,3,5,7: Health bonus is reduced from 20% to 15%, to make 2 tap health builds on DS harder to get. Armor and dodge bonuses unchanged. Crouch and bag movement speed bonus was unchanged, but this bonus now also allows to carry more total ammo. This is a niche upgrade, but can be sometimes useful, when you just simply don't need other upgrades.
 - Card 1: Identical
-- Card 3: Identical, but the heal bonus is different when using Bullseye skill. This was done in such a way because both of these skills share a cooldown in the code. It is possible to split these timers, but if i did so, all infoHUD's out there will be broken and display incorrect information. This way infoHUD's wont be broken and overall amount per minute is the same, even though you could agrue that this will lead to slightly less healing since you can't always activate this skill after it's cooldown is over, but thats a small price to pay considering other buffs this perk got.
+- Card 3: Identical, but the heal bonus is different when using Bullseye skill. This was done in such a way because both of these skills share a cooldown in the code. It is possible to split these timers, but if i did so, all infoHUD's out there will be broken and display incorrect information. This way infoHUD's wont be broken and overall amount per minute is the same, even though you could argue that this will lead to slightly less healing since you can't always activate this skill after it's cooldown is over, but that's a small price to pay considering other buffs this perk got.
 - Card 5: Identical
 - Card 7: Updated the invulnerability effect to activate how you would assume it would activate in vanilla. In vanilla this skill can activate even if your armor is full, wasting the cooldown. Additionally, in vanilla, you can take enough damage for this skill to activate, but you would still go down because your health reached 0 before the skill was activated. Now there is a safety net for this effect, limiting you to just 1 health in such scenarios. To compensate slightly, this cooldown was increased from 15 to 20 seconds.
 
@@ -639,18 +639,18 @@ Focus on keeping your health above 50% threshold to be able to trigger the invul
 Barebone skills - Always run bullseye for armor gating, rest is up to you.  
 
 Build 1 - Brawler copy https://pd2builder.netlify.app/?s=1G000100811Q380-62h1i00g150&p=m&c=3-41&a=0&t=h&d=03  
-A unique version of copycat that is not available in vanilla. Use Brawler's 9th copy (23/25), and stack all neutral "pick a boost" cards for dodge (3/4). You can use either Doctor bags or Ammo bags as your primary deployable since both are maxed out, but ammo is preferred, since this build doesnt't provide high damage bonuses. Brawler copy card will provide you with the best armor gating in the game, but you need to perfectly time a kill once every 6 seconds to gain this benefit, if you don't actively use melee. This benefit + dodge + health invulnerability provides a relatively easy to play, but not the most powerful playstyle.   
+A unique version of copycat that is not available in vanilla. Use Brawler's 9th copy (23/25), and stack all neutral "pick a boost" cards for dodge (3/4). You can use either Doctor bags or Ammo bags as your primary deployable since both are maxed out, but ammo is preferred, since this build doesn't provide high damage bonuses. Brawler copy card will provide you with the best armor gating in the game, but you need to perfectly time a kill once every 6 seconds to gain this benefit, if you don't actively use melee. This benefit + dodge + health invulnerability provides a relatively easy to play, but not the most powerful playstyle.   
 Weapons to use:  
 200 damage class silenced Assault Rifle primary focused on accuracy and concealment, and a 200 damage class silenced SMG secondary focused on stability. Weapons with burst fire mode recommended. Any 20-35 damage class melee.
 
 ### 9th card copies
 Replaced mimicking card's name to always be the name of the copied perk deck, instead of showing the name of the card from the perk deck you are copyng. On top of the fact that this is confusing because you simply can't know all of their names, they are also not always correct, because sometimes a mimicking 9th card can combine bonuses of multiple cards of a perk deck with multiple different names.  
-In the same way, mini-icon from the perk deck you are copying will always be whatever the 9th card's icon of that perk is, instead of being based on whichever card of the perk deck you are copying, since this is the icon you normaly see in the invetory scren for selected perk deck.
+In the same way, mini-icon from the perk deck you are copying will always be whatever the 9th card's icon of that perk is, instead of being based on whichever card of the perk deck you are copying, since this is the icon you normally see in the inventory screen for selected perk deck.
 
 ### 9th copy - Crew Chief
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crew_Chief.png) |
 | -------- |
-| This card now provides highest damage resistance of all 9th card copies while providing additonal minor buffs. |
+| This card now provides highest damage resistance of all 9th card copies while providing additional minor buffs. |
 
 ### 9th copy - Muscle
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Muscle.png) |
@@ -665,12 +665,12 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Rogue
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Rogue.png) |
 | -------- |
-|  Dodge deck copy now provides dodge bonuses. Techically slightly better than best in slot dodge in vanilla copycat, but it's fair since you can't get 2 tap health easily anymore. |
+|  Dodge deck copy now provides dodge bonuses. Technically slightly better than best in slot dodge in vanilla copycat, but it's fair since you can't get 2 tap health easily anymore. |
 
 ### 9th copy - Hitman
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Hitman.png) |
 | -------- |
-|  Now copies first 2 cards from reworked hitman. New recovery is higher, but is now temporary instead of fully passive. Stability penalty is identical, since vanilla's -16 is incorrect, and it's actualy -8. |
+|  Now copies first 2 cards from reworked hitman. New recovery is higher, but is now temporary instead of fully passive. Stability penalty is identical, since vanilla's -16 is incorrect, and it's actually -8. |
 
 ### 9th copy - Crook
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crook.png) |
@@ -690,7 +690,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Sociopath
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Sociopath.png) |
 | -------- |
-| Identicall to vanilla. |
+| Identical to vanilla. |
 
 ### 9th copy - Gambler
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Gambler.png) |
@@ -700,7 +700,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Grinder
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Grinder.png) |
 | -------- |
-| Strongest (potential) health regneration of all copy cards, so regen itself was unchanged. Health bonus removed to remove 2 tap health on DS. Weapons with DOT effects recommended. |
+| Strongest (potential) health regeneration of all copy cards, so regen itself was unchanged. Health bonus removed to remove 2 tap health on DS. Weapons with DOT effects recommended. |
 
 ### 9th copy - Yakuza
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Yakuza.png) |
@@ -710,7 +710,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Ex-president
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Ex-president.png) |
 | -------- |
-| Identicall to vanilla, doesnt provide any rework related bonuses. Allows for 2 tap health on DS. |
+| Identical to vanilla, doesn't provide any rework related bonuses. Allows for 2 tap health on DS. |
 
 ### 9th copy - Maniac
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Maniac.png) |
@@ -720,7 +720,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Anarchist
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Anarchist.png) |
 | -------- |
-| Vanilla cooldown is incorrect and is actually 45 seconds, so techically the cooldown is buffed. Armor gating is better for heavier armors because of the anarchist rework. |
+| Vanilla cooldown is incorrect and is actually 45 seconds, so technically the cooldown is buffed. Armor gating is better for heavier armors because of the anarchist rework. |
 
 ### 9th copy - Biker
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Biker.png) |
@@ -740,7 +740,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Stoic
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Stoic.png) |
 | -------- |
-| Copies the first card. First card in stoic was nerfed to make player take more damage, but with newley reworked invulnerability it is still one of the stongest options for copycat. |
+| Copies the first card. First card in stoic was nerfed to make player take more damage, but with newly reworked invulnerability it is still one of the strongest options for copycat. |
 
 ### 9th copy - Tag Team
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Tag_Team.png) |
@@ -755,20 +755,21 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Leech
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Leech.png) |
 | -------- |
-| Copies the first rewoked card fully + gets the cooldown reduction of 15 seconds on teammate or self revive. Overall great option for semi god mode for difficulties bellow DS, and on DS should be used to either heal up in a pinch, or to revive a teammate while under affect to heal after effect is done. Keep in mind that if your health reaches 0 during the effect you will die, unlike fully upgraded Leech. |
+| Copies the first reworked card fully + gets the cooldown reduction of 15 seconds on teammate or self revive. Overall great option for semi god mode for difficulties bellow DS, and on DS should be used to either heal up in a pinch, or to revive a teammate while under affect to heal after effect is done. Keep in mind that if your health reaches 0 during the effect you will die, unlike fully upgraded Leech. |
 
 ### 9th copy - Brawler
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Brawler.png) |
 | -------- |
-| Best armor gating option if you use melee weapons, that does not provide any additional healing/sustain bonuses. If you don't use melee, having 1 stack of regeneration active is also decent, since it can armor gate much more often than anarchist, but it doesnt provide a damage invulnerability bonus. |
+| Best armor gating option if you use melee weapons, that does not provide any additional healing/sustain bonuses. If you don't use melee, having 1 stack of regeneration active is also decent, since it can armor gate much more often than anarchist, but it doesn't provide a damage invulnerability bonus. |
 
 ### 9th copy - Speed Junkie
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Speed_Junkie.png) |
 | -------- |
-| Highest amound of bous dodge you can get from copy cards, but it's near impossible to reach. |
+| Highest amount of bonus dodge you can get from copy cards, but it's near impossible to reach. |
 
 ### 9th copy - Guardian
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
-| One of the strongest health healing options which doesnt provide 2 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+| One of the strongest health healing options which doesn't provide 2 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
