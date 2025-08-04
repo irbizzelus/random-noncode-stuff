@@ -626,8 +626,8 @@ Any LMG primary of your choice. Any pistol as secondary, since you can swap to a
 Info on all the 9th card replacements (including 3 new ones from custom perks) are further bellow.
 
 ### Changes Summary
-Copycat overall is a really good deck, but amount of health you gain from it is simply too good. Gaining 2 tap health on DS with a 2 second invulnerability by just having a joker is a bit too good, considering some options you can get from the 9th perk card copies, so some of the neutral aspects (non-copy parts) of the deck were nerfed.  
-- Choose a boost for cards 1,3,5,7: Health bonus is reduced from 20% to 15%, to make 2 tap health builds on DS harder to get. Armor and dodge bonuses unchanged. Crouch and bag movement speed bonus was unchanged, but this bonus now also allows to carry more total ammo. This is a niche upgrade, but can be sometimes useful, when you just simply don't need other upgrades.
+Copycat overall is a really good deck, but amount of health you gain from it is simply too good. Gaining 3 tap health on DS with a 2 second invulnerability by just having a joker is a bit too good, considering some options you can get from the 9th perk card copies, so some of the neutral aspects (non-copy parts) of the deck were nerfed.  
+- Choose a boost for cards 1,3,5,7: Health bonus is reduced from 20% to 15%, to make 3 tap health builds on DS harder to get. Armor and dodge bonuses unchanged. Crouch and bag movement speed bonus was unchanged, but this bonus now also allows to carry more total ammo. This is a niche upgrade, but can be sometimes useful, when you just simply don't need other upgrades.
 - Card 1: Identical
 - Card 3: Identical, but the heal bonus is different when using Bullseye skill. This was done in such a way because both of these skills share a cooldown in the code. It is possible to split these timers, but if i did so, all infoHUD's out there will be broken and display incorrect information. This way infoHUD's wont be broken and overall amount per minute is the same, even though you could argue that this will lead to slightly less healing since you can't always activate this skill after it's cooldown is over, but that's a small price to pay considering other buffs this perk got.
 - Card 5: Identical
@@ -656,7 +656,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Muscle
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Muscle.png) |
 | -------- |
-| One of a few ways to easily get 2 tap health on DS for copycat. Passive health regeneration added for improved health upkeep, but total amount is lower than muscle itself. |
+| One of a few ways to get 3 tap health on DS for copycat, if combined with Partners in Crime skill. Passive health regeneration added for improved health upkeep, but total amount is lower than muscle itself. |
 
 ### 9th copy - Armorer
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Armorer.png) |
@@ -666,7 +666,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Rogue
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Rogue.png) |
 | -------- |
-|  Dodge deck copy now provides dodge bonuses. Technically slightly better than best in slot dodge in vanilla copycat, but it's fair since you can't get 2 tap health easily anymore. |
+|  Dodge deck copy now provides dodge bonuses. Technically slightly worse than best in slot dodge in vanilla copycat, but improved invulnerability trigger compensates this change. |
 
 ### 9th copy - Hitman
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Hitman.png) |
@@ -701,7 +701,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Grinder
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Grinder.png) |
 | -------- |
-| Strongest (potential) health regeneration of all copy cards, so regen itself was unchanged. Health bonus removed to remove 2 tap health on DS. Weapons with DOT effects recommended. |
+| Strongest (potential) health regeneration of all copy cards, so regen itself was unchanged. Health bonus removed to remove 3 tap health on DS. Weapons with DOT effects recommended. |
 
 ### 9th copy - Yakuza
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Yakuza.png) |
@@ -711,12 +711,12 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Ex-president
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Ex-president.png) |
 | -------- |
-| Identical to vanilla, doesn't provide any rework related bonuses. Allows for 2 tap health on DS. |
+| Identical to vanilla, doesn't provide any rework related bonuses. Allows for 3 tap health on DS if combined with Partners in Crime skill. |
 
 ### 9th copy - Maniac
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Maniac.png) |
 | -------- |
-| Similar to vanilla, since copies are for the same cards as vanilla - first and second. For explanation on why and how first card was reworked, go to maniac tab. Allows for 2 tap health on DS at ~40% stacks. |
+| Similar to vanilla, since copies are for the same cards as vanilla - first and second. For explanation on why and how first card was reworked, go to maniac tab. Allows for 3 tap health on DS at ~40% stacks. |
 
 ### 9th copy - Anarchist
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Anarchist.png) |
@@ -741,7 +741,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Stoic
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Stoic.png) |
 | -------- |
-| Copies the first card. First card in stoic was nerfed to make player take more damage, but with newly reworked invulnerability it is still one of the strongest options for copycat. |
+| Copies the first card, but with an even further reduced damage split. With newly reworked invulnerability it is still one of the strongest options for copycat. |
 
 ### 9th copy - Tag Team
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Tag_Team.png) |
@@ -756,7 +756,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Leech
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Leech.png) |
 | -------- |
-| Copies the first reworked card fully + gets the cooldown reduction of 15 seconds on teammate or self revive. Overall great option for semi god mode for difficulties bellow DS, and on DS should be used to either heal up in a pinch, or to revive a teammate while under affect to heal after effect is done. Keep in mind that if your health reaches 0 during the effect you will die, unlike fully upgraded Leech. |
+| Copies the first reworked card fully + gets the cooldown reduction of 10 seconds on teammate revive, self revive, and after the Ampule effect is over if a teammate was revived during the effect. Overall great option for semi god mode for difficulties bellow DS, and on DS should be used to either heal up in a pinch, or to revive a teammate while under affect to heal after effect is done. Keep in mind that if your health reaches 0 during the effect you will die, unlike fully upgraded Leech. |
 
 ### 9th copy - Brawler
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Brawler.png) |
@@ -771,10 +771,4 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Guardian
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
-| One of the strongest health healing options which doesn't provide 2 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
-
-
-
-
-
-
+| One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
