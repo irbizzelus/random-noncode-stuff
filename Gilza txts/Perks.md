@@ -26,11 +26,11 @@ Here are the most important aspects of Gilza's rebalance which you need to know 
 
 ### General perk information structure
 Most perk decks noted bellow will follow this format:
-1) Perk name (adjustment amount) - adjustment amount is a scale from 0 to 5 (0-none, 1-least, 5-most) for changes that were done to the perk deck. Keep in mind that all perk decks, even those at 5/5, were updated while trying to keep their theme/bonuses relatively similar to original idea/purpose of the perk deck, at the very least in my personal opinion.
+1) Perk name (adjustment amount) - adjustment amount is a scale from 0 to 5 (0-none, 1-least, 5-most) for changes that were done to the perk deck. Keep in mind that all perk decks, even those at 5/5, were updated while trying to keep their theme/bonuses relatively similar to original idea/purpose/theme of the perk deck, at the very least in my personal opinion.
 2) Image showcase of the changes - easiest way to go through all the changes.
 3) Summary of the changes - usually includes an answer for the question "why?" for most changes. This part may sometimes be split per perk deck card for ease of reading.
 4) Additional tips - if perk's rework was significant enough, this is a custom perk deck, or there is some other reason to share them - tips for the perk might appear under this section.
-5) Build(s) to try - includes a "barebones" set up with most important skills for each deck (yes, bullseye is almost always there), and at least 1 build to try, in case you don't feel like figuring out a new build, due to how many changes this mod has made. Most builds do not include an in-depth description of weapons and their attachments, because you should figure those out on your own, since Gilza allows for much more variety when it comes down to the weapon selection. Builds themselves are Death Sentence difficulty focused, which will most likely make them work well at lower difficulties as well. Some builds may be specified to be only viable for certain difficulties.
+5) Build(s) to try - includes a "barebones" set up with most important skills for each deck (yes, bullseye is almost always there), and at least 1 build to try, in case you don't feel like figuring out a new build, due to how many changes this mod has made. Most builds do not include an in-depth description of weapons and their attachments, because you should figure those out on your own, since Gilza allows for much more variety when it comes down to the weapon selection. Builds themselves are Death Sentence difficulty focused, but not completely optimized for it, because all DS difficulty builds are extremely similar to each other. Some builds may be specified to be only viable for certain difficulties. Link to the build includes skills, armor, deployable and throwable recommendations.
 
 # Neutral/Global cards (4/5):
 
@@ -43,9 +43,9 @@ Cards that every perk deck has.
 
 ### Changes Summary
 Added grenade pick ups, bag throwing distance bonus, and a small speed boost compared to vanilla, but also removed damage related skills.  
-- Card 2: Removed increased headshot damage to make overall balancing easier and more fair for non-maxed out builds. Replaced with passive bonuses from cards 4 (armor movement penalty in vanilla is a typo) and 8.  
+- Card 2: Removed increased headshot damage to make overall balancing easier and more fair for non-maxed out perks. Replaced with passive bonuses from cards 4 (armor movement penalty in vanilla is a typo) and 8.  
 - Card 4: Moved armor speed bonus to 2nd neutral card.  
-- Card 6: Removed 35% ammo pick up bonus to make overall balancing easier and more fair for non-maxed out builds. Added ability to pick up throwables without investing into fully loaded skill tree, since throwables are not extremely effective. This pick up chance is still extremely low, and is now also balanced by having individual pick up rates for every throwable separately, which can be found in each throwable's description.  
+- Card 6: Removed 35% ammo pick up bonus to make overall balancing easier and more fair for non-maxed out perks. Added ability to pick up throwables without investing into fully loaded skill tree, since throwables are not extremely effective. This pick up chance is still extremely low, and is now also balanced by having individual pick up rates for every throwable separately, which can be found in each throwable's description.  
 - Card 8: Removed random 5% damage increase for better balancing. Moved doctor bag bonus to card #2. Added better movement speed and loot bag handling from Transporter and Parkour skills. Those skills were adjusted to compensate.
 
 -----
@@ -86,7 +86,7 @@ Barebone skills: Hostage taker for health regen, which stacks with muscle's natu
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Crit Muscle https://pd2builder.netlify.app/?s=xkgF0100dg0-6gF00105g0001f0&p=1&a=0&t=4&d=5  
 Stay below 25 total detection. A run and gun version of muscle. Focusing armor skills with muscle in general is not a great idea, since most of your survivability comes from your health, which should be improved first.  
 Weapons to use:  
-preferred combo: Vulcan Minigun and Bronco revolver with <25 total detection. Alternatively, you can rely on any other fast firing primary weapon with low damage class, bipod-less LMG's are preferred. Secondary Bronco is recommended due to it's ability to gain high concealment, but any reliable secondary that can deal with targets beyond 10 meters will do as well.
+Preferred combo: Vulcan Minigun and Bronco revolver with <25 total detection. Alternatively, you can rely on any other fast firing primary weapon with low damage class, bipod-less LMG's are preferred. Secondary Bronco is recommended due to it's ability to gain high concealment, but any reliable secondary that can deal with targets beyond 10 meters will do as well. Any 35+ damage class melee, viable for <25 total detection.
 
 -----
 
@@ -101,7 +101,7 @@ Barebone skills - If you play on Death Sentence difficulty, either run ICTV, or 
 Build 1 - Jack of all trades https://pd2builder.netlify.app/?s=090-4xkkFg1380-6580-5h58&p=2&a=6&t=6&d=30  
 Ultimate powerhouse able to achieve any task. Spare 1 point you can use however you wish, but getting extra accuracy from stable shot will most likely be best value.   
 Weapons to use:  
-Use a primary shotgun of your choice, but 155 damage class is recommended due to combination of berserker and overkill, allowing you to gain a massive damage increase. Secondary can be a shotgun to gain benefits from overkill, a SMG to deal with Bulldozers, a high accuracy weapon for long range, or any weapon with shield AP capabilities. 
+Use a primary shotgun of your choice, but 155 damage class is recommended due to combination of berserker and overkill, allowing you to gain a massive damage increase. Secondary can be a shotgun to gain benefits from overkill, a SMG to deal with Bulldozers, a high accuracy weapon for long range, or any weapon with shield AP capabilities. Any 35+ damage class melee. 
 
 -----
 
@@ -112,7 +112,7 @@ Use a primary shotgun of your choice, but 155 damage class is recommended due to
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Rogue_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Rogue.png)  |
 
 ### Changes Summary
-Copycat and Hacker are both just straight upgrades to this deck, so to compensate, this deck is now slightly more effective in it's own playstyle. Dodge buffs might be extremely small, but do consider that new options in the artful dodger skill sub-tree are also indirectly buffing this deck. Additionally, AP chance can now work well with both new Surefire and Silencer AP skills, instead of being a joke of a bonus.
+Copycat and Hacker in vanilla are both just straight upgrades to this deck, so to compensate, this deck is now slightly more effective in it's own playstyle. Dodge buffs might be extremely small, but do consider that new options in the artful dodger skill sub-tree are also indirectly buffing this deck. Additionally, AP chance can now work well with both new Surefire and Silencer AP skills, instead of being a joke of a bonus.
 
 ### Build(s) to try
 Barebone skills - Use bullseye to armor gate whenever your armor breaks. You can use First Aid Kits if you want to rely on your health as well, but rogue is not exactly build for health. Additional dodge skills are welcome.
@@ -134,15 +134,15 @@ Use any akimbo SMG's of your choice, and a high accuracy secondary of your choic
 ### Changes Summary
 Probably the biggest rework of all vanilla perk decks, because vanilla version is just ass. Armor recovery is a stat that could've been important if default armor recovery timer was 5 or more seconds instead of 3, or if different armors actually altered this timer, but this is not the reality. This rework has only kept the final 9th card the same, because that effect is relatively powerful, compared to the rest of this deck.  
 - Card 1: Now rewards you for landing "badass" kills with throwing knives or melee weapons, to somewhat fulfill the fantasy of John Wick movies, in which anything can be a powerful weapon in your hands.  
-- Card 3: Statistical buffs to akimbos are the same (-16 in vanilla is an error, actual buff is just -8), and the armor recovery bonus was converted into a temporary bonus (like Overkill skill) to keep this aspect of the original perk still present. Limiting trigger to specific weapon types makes it less powerful than if you had it passively at all times from any kill, since this bonus can be increased (in Card 7) and other bonuses were also added, so it would be a bit too good.  
-- Card 5: Now provides 5 second of invulnerability with 20 second cooldown (similarly to armorer, effective cooldown is 20-5=15 seconds), if you manage to secure a specific combo. In my experience this combo is extremely difficult to achieve, especially at higher difficulties, which makes the reward that you get balanced, even if you consider the 7th card buff.  
-- Card 7: Having a bounty system on a perk deck that is named "Hitman" is just simply cool, this was good enough of a reason to add this. After killing your bounty you will now improve aspects of previous hitman specific perk cards, making the user of this deck more effective than it's vanilla counterpart, but only sometimes, and not for too long, which makes it balanced, while also allowing to keep playing it roughly how you would in vanilla (aka relying purely on recovery).
+- Card 3: Statistical buffs to akimbos are the same (-16 in vanilla is an error, actual buff is just -8), and the armor recovery bonus was converted into a temporary bonus (like Overkill skill) to keep this aspect of the original perk still present. Limiting trigger to specific weapon types makes it less powerful than if you had it passively at all times from any kill, but since this bonus can be increased (in Card 7) and other bonuses were also added, it would be a bit too good otherwise.  
+- Card 5: Now provides 10 second of invulnerability with 30 second cooldown (similarly to armorer, effective cooldown is 30-10=20 seconds), if you manage to secure a specific combo. In my experience this combo is extremely difficult to achieve, especially at higher difficulties, which makes the reward that you get balanced, even if you consider the 7th card buff.  
+- Card 7: Having a bounty system on a perk deck that is named "Hitman" is just simply cool, this was good enough of a reason to add this. After killing your bounty you will now improve aspects of previous hitman specific perk cards, making the user of this deck more effective than it's vanilla counterpart, but only sometimes, and not for too long, which makes it balanced, while also allowing you to play it roughly how you would in vanilla (aka relying purely on recovery).
 
 ### Additional info/tips
 Use small arm firearms to constantly activate recovery for the passive bonus, use melee/throwables in a pinch for a little bit of armor gating, and if you see a group of enemies clumped up together try to activate the kill combo off of them. Or you can simply play it as you would in vanilla, with only one change to your gameplay - you should seek out your bounty to improve your recovery for a while.
 
 ### Build(s) to try
-Barebone skills - focus on getting skills for akimbos/smg's/pistols to activate hitman recovery bonus, and preferably melee skills for the combo. Bigger armor is recommended to get the most out of armor recovery/regen bonuses.
+Barebone skills - focus on getting skills for akimbos/smg's/pistols which activate armor recovery bonus, and get melee skills for the combo. ICTV armor is recommended to get the most out of armor recovery/regen bonuses.
 
 Build 1 - Somewhat standard. https://pd2builder.netlify.app/?s=xa0-64V0-9010128T0138&p=4&a=6&t=b&d=3  
 Pistols pistols pistols. Spam them as much as you can, since your ammo pick up should not be a problem. Use melee weapons to get to the invulnerability combo.  
@@ -158,7 +158,7 @@ Akimbo pistols with 78 damage, And a 125 secondary pistol modded for accuracy to
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crook_vanilla.png)  |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crook.png)   |
 
 ### Changes Summary
-Added 75% AP chance to allow for easier stacking of this statistic with Surefire, or Silencer AP skills. This perk deck was significantly improved via indirect buffs to the Ghost's artful dodger sub-tree, allowing you to both gain dodge cheaper, and also gaining armor on dodge from the new tier 4 Revitalised skill. improved trigger for the Underdog skill also allows you to get 2 tap armor on DS with the standard Ballistic Vest, granting you 5 more dodge than the usual HBV you would use on DS.
+Added 75% AP chance to allow for easier stacking of this statistic with Surefire, or Silencer AP skills. This perk deck was significantly improved via indirect buffs to the Ghost's artful dodger sub-tree, allowing you to both gain dodge cheaper, and also gaining armor on dodge from the new tier 4 Revitalised skill. Improved trigger for the Underdog skill also allows you to get 2 tap armor on DS with the standard Ballistic Vest, granting you 5 more dodge than the usual HBV you would use on DS.
 
 ### Build(s) to try
 Barebone skills - Since this deck focuses on dodge and armor you should prioritize similar skills. Bullseye for armor gating is always needed. Surefire aced allows you to gain 100% total AP chance against body armor, so it's a solid option to consider.
@@ -166,12 +166,12 @@ Barebone skills - Since this deck focuses on dodge and armor you should prioriti
 Build 1 - Default (DS specific) https://pd2builder.netlify.app/?s=xa004100xc0-90wj1k00g11I&p=5&a=3&t=b&d=3  
 2 tap armor and 35 dodge, same as vanilla. Unlike vanilla, this one is cheaper to build, and has additional passive armor gating from basic revitalized. Keep total detection <25.  
 Weapons to use:  
-Any assault rifle of your choice (lower damage classes preferred) with a silencer, focusing on concealment and accuracy. Secondary flamethrower for shields and decent DPS, or any other low damage class weapon with shield AP. Use melee against bulldozers, and throwables axes/knives/cards to save on ammo.
+Any assault rifle of your choice (lower damage classes preferred) with a silencer, focusing on concealment and accuracy. Secondary flamethrower for shields and decent DPS, or any other low damage class weapon with shield AP. Use 35+ damage class melee with high concealment against bulldozers, and throwables axes/knives/cards to save on ammo.
 
 Build 2 - Bodyshot maniac https://pd2builder.netlify.app/?s=xa000100xc0-6Na000P5g00g150&p=5&a=1&t=b&d=3  
 Run and gun sort of build, with 100% AP chance against body armor. Keep total detection <25.   
 Weapons to use:  
-Any assault rifle of your choice (lower damage classes preferred), focusing on concealment and accuracy. Secondary flamethrower for shields and decent DPS. Use melee against bulldozers, and throwables axes/knives/cards to save on ammo.
+Any assault rifle of your choice (lower damage classes preferred), focusing on concealment and accuracy. Secondary flamethrower for shields and decent DPS. Use 35+ damage class melee with high concealment against bulldozers, and throwables axes/knives/cards to save on ammo.
 
 -----
 
@@ -771,6 +771,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 2 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
 
