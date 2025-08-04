@@ -260,9 +260,9 @@ Good luck, have fun! :D
 | -------- | -------- | -------- | -------- |
 | Tier 4 | Bottomless Pockets | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Bottomless_Pockets.png)  |  Now provides increased ammo capacity for small-caliber weapons, improved ammo pick up, especially for secondaries, and can now help both sides of this sub-tree. |
 | Tier 3 |  Trigger Happy | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Trigger_Happy.png) | Now combines effects of conditional "on-hit" pistol skills Desperado and Trigger Happy into one skill, to make left side of this tree focused on pistols. Overall effectiveness of those bonuses reduced to compensate. Aced bonus allows you to use single fire mode pistols in practically full auto mode. Since this is a single fire mode which your character automatically handles for you, this is still considered single fire, so the full auto fire mode penalties to accuracy do not apply. |
-| Tier 3  | Double Trouble | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Double_Trouble.png) | Now provides new bonuses to akimbo weapons, to make right side of this sub-tree focused on akimbo weapons. |
-| Tier 2   | Gun Nut | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Gun_Nut.png) | Magazine capacity was removed, to avoid confusion when using revolvers. Rate of fire effect is smaller, compensating for pistol ROF adjustments, and other buffs. slightly nerfed reload speed bonus moved from skill previously known as Desperado to here.  |
-| Tier 1  | Equilibrium | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Equilibrium.png)  | slightly improved aced version, since Mastermind's Stable Shot skill would just be a straight up better alternative otherwise. |
+| Tier 3  | Double Trouble | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Double_Trouble.png) | Now provides new bonuses for akimbo weapons, to make right side of this sub-tree focused on akimbo weapons. |
+| Tier 2   | Gun Nut | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Gun_Nut.png) | Magazine capacity was removed, to avoid confusion when using revolvers. Rate of fire effect is smaller, compensating for pistol ROF adjustments, and other buffs. Slightly nerfed reload speed bonus which was moved here from skill previously known as Desperado.  |
+| Tier 1  | Equilibrium | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Equilibrium.png)  | Slightly improved aced version, since Mastermind's Stable Shot skill would just be a straight up better alternative otherwise. |
 
 ### Fugitive - Revenant
 
@@ -277,14 +277,15 @@ Good luck, have fun! :D
 
 | Tier level | Skill | Description |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
-| Tier 3 |  Counterstrike | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Counterstrike.png) | Added damage to improve this skill's worth, especially with melee builds. Instant swap can also help you finish the enemy off with your firearm. |
+| Tier 3 |  Counterstrike | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Counterstrike.png) | Added damage to improve this skill's worth, especially with melee builds. Instant swap can also help you finish the enemy off with your firearm. This skill is not recommended for use with chainsaw type melee weapons. |
 | Tier 3  | Berserker* | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Berserker.png) | This is an overall nerf that makes this skill not as reliable. But, as an upside, you can now use healing skills to keep your health at 30% with frenzy or more without it, to avoid being killed by snipers. |
 | Tier 2   | Bloodthirst | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Bloodthirst.png) | Max stack amount was updated to match new melee damage.  |
-| Tier 2   | Martial Arts | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Martial_Arts.png) | New skill to make your melee weapons feel better to use.  |
+| Tier 2   | Martial Arts | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Martial_Arts.png) | New skill to make your melee weapons feel much more fluid and overall better to use.  |
 | Tier 1  | Tough Guy | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Tough_Guy.png)  | This skill now reduces camera shake from melee attacks to make melee playstyles more comfortable, other bonuses are the same. |
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
+
 
 
 
