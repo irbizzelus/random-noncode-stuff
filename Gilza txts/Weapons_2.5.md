@@ -31,59 +31,55 @@ Compensation still exists for weapons with extremely low recoil however, for the
 
 -----
 
-## Recoil: Hip-fire
-Hip-fire now has a 36 stability point penalty, to incentivize aiming down sights. Technician's "Fire control" skill can remove this penalty.
-
-## Accuracy: Hip-fire
-Hip-fire now has a 20 accuracy point penalty, to incentivize aiming down sights. Technician's "Fire control" skill can remove this penalty.
-
-## Accuracy: Full-auto
-Full-auto fire mode now has a 20 accuracy point penalty. This penalty is applied only when your weapon is switched to full-auto fire mode - switching your weapon's fire mode during the heist, will negate this penalty, for as long as your weapon's fire mode is set to single-fire.
-This penalty is not applied while bipoded.
+## Hip-fire adjustments:
+Recoil during hip-fire now has a 36 stability point penalty, and accuracy during hip-fire now has a 20 accuracy point penalty. Both changes were done to incentivize aiming down sights at mid ranges.  
+Technician's "Fire Control" skill can remove both of these penalties.  
 
 ## Burst-Fire
-A new burst fire mode was added to some weapons, and is available on them by default. Every weapon with burst fire functionality will have a description with information on the burst fire mode, like burst bullet count, or if the burst itself may have a different rate of fire during the burst.  
-Burst fire mode has a 12 accuracy penalty, similarly to full-auto fire mode, and has lower DPS than full auto fire mode (roughly 25% less DPS).  
-To select burst fire mode, use your fire mode keybind. Order of fire mode cycling is as follows: single->burst->full auto.  
-If a skill has a limit to what fire mode it can work with, burst fire is counted as a seperate fire mode - so if such skill does not specify support for burst fire mode, it does not work with it.
+A new burst-fire mode was added to some weapons, and is available on them by default. Every weapon with burst-fire functionality will have a description with information on the burst-fire mode, like burst bullet count, or if the burst itself may have a different rate of fire during the burst.  
+To select burst-fire mode, use your fire mode keybind. Order of fire mode cycling is as follows: single->burst->full auto.  
+Burst-Fire has lower overall DPS than full auto fire mode (roughly 25% less DPS), due to slighlty increased delays in-between bursts.  
+If a skill has a limit to what fire mode it can work with, burst-fire is counted as a separate fire mode - so if such skill does not specify support for burst-fire mode, it does not work with it.
 
-## Single fire input buffering
+## Fire mode penalties:  
+Diffierent fire modes have different accuracy penalties, but single-fire has no penalties at all. These penalties are applied only when your weapon is switched to a specific fire mode - switching your weapon's fire mode during the heist, will negate this penalty, for as long as your weapon's fire mode is set to single-fire. This was done to make fire mode toggling mid match an actualy usefull mechanic, since you are now incentivized to switch to single-fire for long range (most likely sniper) takedowns. Fire mode penalties are not applied while bipoded.  
+
+Full-auto fire mode has a 20 accuracy point penalty.   
+Burst-fire mode has a 12 point accuracy penalty.
+
+## Single-fire input buffering
 Toggleable option in settings. If you spam your "Fire Weapon" keybind, your inputs will be buffered, and your weapon may automatically fire even if you clicked the button again too soon. This feature is supported for weapons with 150 or more rounds per minute rate of fire.  
-In short - while shooting single fire weapons you will be able to fire them as quickly as possible, without getting the feeling that your mouse inputs do not register.
+In short - while shooting single-fire weapons you will be able to fire them as quickly as possible, without getting the feeling that your mouse inputs do not register.
 
 # General weapon tweaks:
-* Weapons' accuracy and stability are no longer affected if you: crouch, jump, walk or sprint
-* DMR kits and some long barrels were converted into "AP kits" that can penetrate shields, body armor and walls
-* More weapon attachments have descriptions now with more details, like ammo pick up changes, damage values etc.
-* A LOT of weapon attachments were rebalanced
-* Mag increasing attachments will now slow down your reload speed
-* Some attachments like Stocks and Foregrips can now speed up your reload speed
-* All scopes don't have accuracy/stability bonuses anymore - you can choose whichever one you like the look of more
-* Scopes on Sniper rifles will now have "logical" concealment
-* Every shotgun will now deal a minimal % of it's damage with every shot. % depends on the shotgun type. For more info check the shotgun tab.
+* Weapons' accuracy and stability are no longer affected if you: crouch, jump, walk or sprint.
+* DMR kits and some long barrel attachments were converted into "AP kits" that can penetrate shields, body armor and walls, at the cost of ammo pick up.
+* More weapon attachments have descriptions now, and with more details like ammo pick up changes, damage values for damage over time effects, etc.
+* A LOT of weapon attachments were rebalanced.
+* Mag increasing attachments will now slow down your reload speed.
+* Some attachments like Stocks and Foregrips can now speed up your reload speed.
+* All scopes no longer have accuracy/stability bonuses - you can choose whichever optic you like the look of more, as long as it fits your concealment requirement.
+* Scopes on Sniper rifles will now have "logical" concealment - since snipers are starting with a huge 4x zoom optic, switching to a red dot should give you more concealment, don't you think?
+* Every shotgun will now deal a minimal % of it's damage with every shot - the % depends on the shotgun type. To deal full damage all pellets from the shot need to connect to the target. For a more detailed breakdown of new shotgun damage mechanics go to the shotgun tab bellow.
 
 # Melee weapons overhaul:
-Melee weapon damage that you see in your inventory now represents how much % of enemy's HP your weapon will deal with a swing. This includes charged damage as well. So if you have a melee weapon with 25(50) damage, it will kill an enemy in 4(2) hits.
-
+Melee weapon damage that you see in your inventory now represents how much % of enemy's HP your weapon will deal with a swing. This includes charged damage as well. So if you have a melee weapon with 25(50) damage, it will kill an enemy in 4(2) hits.  
 Melee weapons now deal 20%-75% minimum damage per hit.
 
 Some enemies take less melee damage:
 * Bulldozers receive _10x_ less melee damage.
 * Headless bulldozers receive _15x_ less melee damage.
 * Most bosses receive _20x_ less melee damage.
-* Winters and his shields receive _2x_ less melee damage.
-
-Weapon Butt melee now has 31 concealment by default making it the best concealment option. Considering it's mediocre at best damage, this should be a nice option to consider for low detection builds.
+* Cpt. Winters and his shields receive _2x_ less melee damage.
 
 Bulldozers' melee resistance is increased by extra 2x when playing on Death Sentence difficulty, since their health is doubled on this difficulty.
 
-Melee knockdown now depends on weapon's range. More range your melee has, less knockdown it has. It might not always make sense when you look at some melees. Too bad.
-
-Grey swats can now be knocked down by melee weapons.
-
-Almost all melee charge sounds were removed, due to charge time mismatch. To add clarity, new option for melee UI was added to Gilza's options menu and it's enabled by default.
-
-"Kazaguruma" and "Lumber Lite L2 chainsaw" melee weapons can now deal chainsaw-like melee damage while holding the weapon in front of you. This feature is directly ported from [IREnFIST](https://modworkshop.net/mod/28585).
+Additional changes:
+1) Melee knockdown now depends on melee weapon's range. More range your melee has, less knockdown it has. It may not always make sense when you look at some melees, but the range statistic is something that you may be used to by playing with certain weapons before, so instead of altering range, knockdown stat was changed instead.
+2) Grey and Zeal swats can now be knocked down as easily by melee weapons as thier blue SWAT counterparts.
+3) Almost all melee charge sounds were removed, due to new charge time mismatching their sounds. To add clarity, new option for melee UI was added to Gilza's options menu and it's enabled by default. This option highlights your total charge progress, and shows you your current melee damage, including active skills. Can be disabled.
+4) "Kazaguruma" and "Lumber Lite L2 chainsaw" melee weapons can now deal chainsaw-like melee damage while holding the weapon in front of you. This feature is directly ported from [IREnFIST](https://modworkshop.net/mod/28585), with a few adjustments.
+5) Weapon Butt melee now has 31 concealment by default making it the best concealment option. Considering it's mediocre at best damage, this should be a nice option to consider for low detection builds.
 
 # Assault rifles:
 ### General AR updates
@@ -299,3 +295,4 @@ Secondary flamethrower has less damage per tick and worse ammo economy.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable
 * All stats left untouched except for DOT (damage-over-time) effects
 * All important stats are now included in each throwable's description
+
