@@ -78,7 +78,7 @@ Bulldozers' melee resistance is increased by extra 2x when playing on Death Sent
 
 Additional changes:
 1) Melee knockdown now depends on melee weapon's range. More range your melee has, less knockdown it has. It may not always make sense when you look at some melees, but the range statistic is something that you may be used to by playing with certain weapons before, so instead of altering range, knockdown stat was changed instead.
-2) Grey and Zeal swats can now be knocked down as easily by melee weapons as thier blue SWAT counterparts.
+2) Grey and Zeal swats can now be knocked down as easily by melee weapons as their blue SWAT counterparts.
 3) Almost all melee charge sounds were removed, due to new charge time mismatching their sounds. To add clarity, new option for melee UI was added to Gilza's options menu and it's enabled by default. This option highlights your total charge progress, and shows you your current melee damage, including active skills. Can be disabled.
 4) "Kazaguruma" and "Lumber Lite L2 chainsaw" melee weapons can now deal chainsaw-like melee damage while holding the weapon in front of you. This feature is directly ported from [IREnFIST](https://modworkshop.net/mod/28585), with a few adjustments.
 5) Weapon Butt melee now has 31 concealment by default making it the best concealment option. Considering it's mediocre at best damage, this should be a nice option to consider for low detection builds.
@@ -290,4 +290,5 @@ Body expertise skill works wonders with these weapons.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable. Pick up rates can be found in throwable descriptions.
 * Most stats were left untouched, except for DOT (damage-over-time) effects, and a few throwable projectile weapons to make them more varied (or just usable - looking at you "Ace of Spades" with 40 damage in vanilla).
 * All important stats are now included in each throwable's description.
+
 
