@@ -601,7 +601,7 @@ Any <=250 damage class fully automatic weapons with silencers. Primary should be
 Stand still to create an area. While inside of your area you (mostly) take less damage and quickly recover health. If you are outside of your area you take more damage and don't heal. Kills you get automatically pick up ammo boxes from killed enemies if you are inside of your area. However you have no armor and you are really slow. Sometimes you just can't have everything.
 
 ### Additional info/tips
-This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choice is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the ricochet "Porcupine" perk card. Never use the suit, since it's always worse than the Light Ballistic Vest for this perk, because of the Porcupine perk card.
+This is the ultimate camper perk. Snipers and LMG's are favoured heavily, but do as you please. Your armor choice is irrelevant to your survival, but you should pick different armor based on the map that you play on - if you play on smaller sized maps, pick bigger armors to deal more free damage from the ricochet "Porcupine" perk card. Never use the suit, since it's always worse than the Light Ballistic Vest for this perk, because of the Porcupine perk card. All damage resistance skills are applied AFTER guardian clamps incoming damage, which means that you can still gain benefits and improve your survivability if you use damage resistance/absorption skills.
 
 ### Build(s) to try
 Barebone skills - Partners in crime for bonus health is required. Hostage taker could help with armor regen, especially if you are not inside of your defensive area.
@@ -772,3 +772,4 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
