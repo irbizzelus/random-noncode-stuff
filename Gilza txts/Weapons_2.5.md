@@ -34,6 +34,7 @@ Compensation still exists for weapons with extremely low recoil however, for the
 ## Hip-fire adjustments:
 Recoil during hip-fire now has a 36 stability point penalty, and accuracy during hip-fire now has a 20 accuracy point penalty. Both changes were done to incentivize aiming down sights at mid ranges.  
 Technician's "Fire Control" skill can remove both of these penalties.  
+While bipoded both of these penalties are ignored.
 
 ## Burst-Fire
 A new burst-fire mode was added to some weapons, and is available on them by default. Every weapon with burst-fire functionality will have a description with information on the burst-fire mode, like burst bullet count, or if the burst itself may have a different rate of fire during the burst.  
@@ -290,6 +291,7 @@ Body expertise skill works wonders with these weapons.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable. Pick up rates can be found in throwable descriptions.
 * Most stats were left untouched, except for DOT (damage-over-time) effects, and a few throwable projectile weapons to make them more varied (or just usable - looking at you "Ace of Spades" with 40 damage in vanilla).
 * All important stats are now included in each throwable's description.
+
 
 
 
