@@ -99,14 +99,20 @@ Additional changes:
 |450 dmg|1|1|Usually highest recoil and by far the worst ammo economy. Best combined with ammo related skills. Usage in single-fire mode recommended.|
 
 ### New AR attachments
-* M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but they are categorized as ammunition
-* 7.62 Little Friend now has a 5.56 conversion kit - it reduces damage but increases ammo pick up
-* Byk-1 now has a 5.45 conversion kit - it reduces damage but increases ammo pick up
-* AMCAR now has RRLP rounds - they reduce damage class to 125 and increase ammo pick up
-* Falcon rifle now has 7.62x51mm SP rounds - they reduce damage class to 250 and increase ammo pick up
-* Car-4, AK 7.62 and Golden AK 7.62 now have HP rounds - they can be used to upgrade weapon's damage class (which affects ammo pick up)
-* 7.62 Little Friend and Byk-1 now have a High velocity round for their underbarrel launchers - increase grenade travel speed by 3x with a 20% ammo pick up cost. Note: only works if you are the lobby host, otherwise reverts itself to standard round stats.
+Damage class adjusting ammunition was added to some weapons - this ammunition attachment allows you to change damage class of your weapon. In addition to damage, ammo pick up is adjusted to match new damage class. Other stats may be adjusted as well. Weapons that have recieved such ammunition: 
+* 7.62 Little Friend now has a 5.56 conversion kit
+* Byk-1 now has a 5.45 conversion kit
+* AMCAR now has RRLP rounds
+* Falcon rifle now has 7.62x51mm SP rounds
+* Car-4 now has HP rounds
+* AK 7.62 and Golden AK 7.62 now have HP rounds
+* Cavity 9mm now has 9x19mm QuakeMaker rounds
+* KS12 Urban now has 12.7x55mm PS12A rounds
+
+Other attachment updates/additions:
 * Gewehr3's CQB and Sniper kits have new updated values: CQB kit now has reduced damage class (200) with increases to other stats, while the Sniper kit acts like an AP kit
+* 7.62 Little Friend and Byk-1 now have a High velocity round for their underbarrel launchers - this round increases grenade travel speed by 3x with a 20% ammo pick up cost. Note: only works if you are the lobby host, otherwise reverts itself to standard round stats.
+* M308 and Galant rifles now have AP rounds - similar to AP(DMR) kits, but they are categorized as a separate ammunition attachment.
 
 # Shotguns:
 
@@ -291,6 +297,7 @@ Body expertise skill works wonders with these weapons.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable. Pick up rates can be found in throwable descriptions.
 * Most stats were left untouched, except for DOT (damage-over-time) effects, and a few throwable projectile weapons to make them more varied (or just usable - looking at you "Ace of Spades" with 40 damage in vanilla).
 * All important stats are now included in each throwable's description.
+
 
 
 
