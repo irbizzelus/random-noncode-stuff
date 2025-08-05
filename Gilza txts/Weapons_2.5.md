@@ -83,10 +83,19 @@ Additional changes:
 
 # Assault rifles:
 ### General AR updates
-* All DMR kits and some long barrels were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved. Affected weapons: Car-4, AK74, AK 7.62, Golden AK 7.62, AMR16, Clarion, Gewehr3, KS12 (upper receiver).
-* About a third of all AR's had their rate of fire updated
+* All DMR kits and some long barrel attachments were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved. Affected weapons: Car-4, AK74, AK 7.62, Golden AK 7.62, AMR16, Clarion, Gewehr3, KS12 (upper receiver).
+* About a half of all AR's had their rate of fire updated.
 
-### New attachments
+### New damage classes
+|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
+|--------|--------|--------|--------|
+|125 dmg|3|4|Best for crits and "Berserk" skills.|
+|155 dmg|2|3|Average rifles, should feel the most similar to vanilla PD2 AR's. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduce your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendy" customization option of sorts.|
+|200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of ammo pick up. Benefits heavily if used along with "Overkill", "Body Expretise", "Berserker" or crit skills, due to newly gained breakpoints from them.|
+|250 dmg|1|2|Most stable and comfortable time to kill, but poor ammo economy if not accurate.|
+|450 dmg|1|1|Usually highest recoil and by far the worst ammo economy. Best combined with ammo related skills. Usage in single-fire mode recommended.|
+
+### New AR attachments
 * M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but they are categorized as ammuntion
 * 7.62 Little Friend now has a 5.56 conversion kit - it reduces damage but increases ammo pick up
 * Byk-1 now has a 5.45 conversion kit - it reduces damage but increases ammo pick up
@@ -95,15 +104,6 @@ Additional changes:
 * Car-4, AK 7.62 and Golgen AK 7.62 now have HP rounds - they can be used to upgrade weapon's damage class (which affects ammo pick up)
 * 7.62 Little Friend and Byk-1 now have a High velocity round for their underbarrel launchers - increase grenade travel speed by 3x with a 20% ammo pick up cost. Note: only works if you are the lobby host, otherwise reverts itself to standard round stats.
 * Gewehr3's CQB and Sniper kits have new updated values: CQB kit now has reduced damage class (200) with increases to other stats, while the Sniper kit acts like an AP kit
-
-### New damage classes
-|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
-|--------|--------|--------|--------|
-|125 dmg|3|4|Best for crits|
-|155 dmg|2|3|Average rifles, should feel the most similar to vanilla PD2 AR's. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduce your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendy" option of sorts.|
-|200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of 15% ammo pick up. Benefits from "Overkill" aced the best, due to damage class upgrade|
-|250 dmg|1|2|Most stable and comfortable TTK, but poor ammo economy if not accurate.|
-|450 dmg|1|1|Usually highest recoil and worst ammo economy. Best combined with body expertise/ammo related skills.|
 
 # Shotguns:
 
@@ -295,4 +295,5 @@ Secondary flamethrower has less damage per tick and worse ammo economy.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable
 * All stats left untouched except for DOT (damage-over-time) effects
 * All important stats are now included in each throwable's description
+
 
