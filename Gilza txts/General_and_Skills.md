@@ -124,6 +124,7 @@ Custom "special" category weapons are not supported.
 * While charging your melee weapons new melee UI will appear showing your charge amount and damage in %. This can be tweaked or disabled in Gilza's mod options.
 * You can spoof Gilza's custom perks, to avoid getting auto kicked in higher difficulty public lobbies, since some players are purists and can not comprehend any rebalance mods. This option can be disabled in Gilza's mod options.
 * You can reset your perk progression to re-acquire perk decks, allowing you to try new custom perk decks without grinding XP to unlock them. This option does not reset amount of perk points you have already earned.
+* While purchasing weapons on the blackmarket, they can now be sorted by their damage classes, either in ascending or descending order. This option can be disabled.
 * VanillaHud Plus's buff list (infoHUD) is supported for all major skill updates that Gilza makes.
 
 # Known issue:
@@ -285,6 +286,7 @@ Good luck, have fun! :D
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
+
 
 
 
