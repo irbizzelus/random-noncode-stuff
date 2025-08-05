@@ -577,7 +577,7 @@ Speed is your life.
 Moving provides you with points to a meter which provides bonuses to dodge, weapon swap speed, weapon reload speed and interaction speeds. Kills fill up this meter as well, and also recover your stamina. You trade almost all of your health for armor, and you gain a little bit of armor when you dodge once a second. More damaged your armor is - more movement speed you get.
 
 ### Additional info/tips
-One of a few (if not the only) perk deck that actually gets use out of the Running from Death skill. Adrenaline spike is an RNG based temporary effect that gives you practical god mode and increased kill potential, but keep in mind that once it's over you are screwed if you are not in cover. This is the ultimate run and gun perk deck, but it has a flaw - you can't really use text chat since you cant move and use chat, and not moving with this deck is a death sentence.
+One of a few (if not the only) perk deck that actually gets use out of the Running from Death skill. Adrenaline spike is an RNG based temporary effect that gives you practical god mode and increased kill potential, but keep in mind that once it's over you are screwed if you are not in cover. This is the ultimate run and gun perk deck, but it has a flaw - you can't really use text chat since you cant move and use chat, and not moving with this deck is a death sentence. Note that "Revitalized" skill activates after Speed Junkie's 7th card's armor regeneration skill, when you have no armor. This allows you to use "Revitalized" as a backup armor regen skill on dodge, while you have no armor, in case Junkie's 1 second cooldown is in effect.
 
 ### Build(s) to try
 Barebone skills - Bullseye for armor gating and dodge skills.  
@@ -772,4 +772,5 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
