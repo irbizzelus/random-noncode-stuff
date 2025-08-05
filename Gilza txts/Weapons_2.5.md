@@ -18,7 +18,7 @@ Amount of recoil now depends on your weapon's base stability value - stability v
 
 Horizontal recoil will now always favor weapons into a certain pre-defined direction - either left or right. Horizontal recoil will never jump from left to right (and vice versa), but the pull to whichever direction, is overall stronger then in the base game.
 
-Weapon attachments and/or skills now affect weapon recoil 2x less. In vanilla upgrading a weapon from 0 to 100 stability with attachments/skills effectevely reduced weapon camera recoil by 6x times. Max possible imrovement you can get now is 3x. This makes basic stability stat more important when choosing a weapon, and makes it harder to make it into a "laser" gun.
+Weapon attachments and/or skills now affect weapon recoil 2x less. In vanilla upgrading a weapon from 0 to 100 stability with attachments/skills effectively reduced weapon camera recoil by 6x times. Max possible improvement you can get now is 3x. This makes basic stability stat more important when choosing a weapon, and makes it harder to make it into a "laser" gun.
 
 ## Recoil: new compensation
 Whenever you hold the trigger your weapon's recoil forces your camera to climb up. If you stop holding the trigger, your camera will go down to where-ever you were aiming at the start of the trigger pull. This mechanic is almost completely gone now, because weapons have more overall recoil, and after a lengthy burst your camera would come back down to the floor. 
@@ -38,11 +38,11 @@ Technician's "Fire Control" skill can remove both of these penalties.
 ## Burst-Fire
 A new burst-fire mode was added to some weapons, and is available on them by default. Every weapon with burst-fire functionality will have a description with information on the burst-fire mode, like burst bullet count, or if the burst itself may have a different rate of fire during the burst.  
 To select burst-fire mode, use your fire mode keybind. Order of fire mode cycling is as follows: single->burst->full auto.  
-Burst-Fire has lower overall DPS than full auto fire mode (roughly 25% less DPS), due to slighlty increased delays in-between bursts.  
+Burst-Fire has lower overall DPS than full auto fire mode (roughly 25% less DPS), due to slightly increased delays in-between bursts.  
 If a skill has a limit to what fire mode it can work with, burst-fire is counted as a separate fire mode - so if such skill does not specify support for burst-fire mode, it does not work with it.
 
 ## Fire mode penalties:  
-Diffierent fire modes have different accuracy penalties, but single-fire has no penalties at all. These penalties are applied only when your weapon is switched to a specific fire mode - switching your weapon's fire mode during the heist, will negate this penalty, for as long as your weapon's fire mode is set to single-fire. This was done to make fire mode toggling mid match an actualy usefull mechanic, since you are now incentivized to switch to single-fire for long range (most likely sniper) takedowns. Fire mode penalties are not applied while bipoded.  
+Different fire modes have different accuracy penalties, but single-fire has no penalties at all. These penalties are applied only when your weapon is switched to a specific fire mode - switching your weapon's fire mode during the heist, will negate this penalty, for as long as your weapon's fire mode is set to single-fire. This was done to make fire mode toggling mid match an actually useful mechanic, since you are now incentivized to switch to single-fire for long range (most likely sniper) takedowns. Fire mode penalties are not applied while bipoded.  
 
 Full-auto fire mode has a 20 accuracy point penalty.   
 Burst-fire mode has a 12 point accuracy penalty.
@@ -92,18 +92,18 @@ Additional changes:
 |Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
 |--------|--------|--------|--------|
 |125 dmg|3|4|Best for crits and "Berserk" skills.|
-|155 dmg|2|3|Average rifles, should feel the most similar to vanilla PD2 AR's. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduce your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendy" customization option of sorts.|
+|155 dmg|2|3|Average rifles, should feel the most similar to vanilla PD2 AR's. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduce your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
 |200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of ammo pick up. Benefits heavily if used along with "Overkill", "Body Expretise", "Berserker" or crit skills, due to newly gained breakpoints from them.|
 |250 dmg|1|2|Most stable and comfortable time to kill, but poor ammo economy if not accurate.|
 |450 dmg|1|1|Usually highest recoil and by far the worst ammo economy. Best combined with ammo related skills. Usage in single-fire mode recommended.|
 
 ### New AR attachments
-* M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but they are categorized as ammuntion
+* M308 and Galant rifles now have AP rounds - same as AP(DMR) kits, but they are categorized as ammunition
 * 7.62 Little Friend now has a 5.56 conversion kit - it reduces damage but increases ammo pick up
 * Byk-1 now has a 5.45 conversion kit - it reduces damage but increases ammo pick up
 * AMCAR now has RRLP rounds - they reduce damage class to 125 and increase ammo pick up
 * Falcon rifle now has 7.62x51mm SP rounds - they reduce damage class to 250 and increase ammo pick up
-* Car-4, AK 7.62 and Golgen AK 7.62 now have HP rounds - they can be used to upgrade weapon's damage class (which affects ammo pick up)
+* Car-4, AK 7.62 and Golden AK 7.62 now have HP rounds - they can be used to upgrade weapon's damage class (which affects ammo pick up)
 * 7.62 Little Friend and Byk-1 now have a High velocity round for their underbarrel launchers - increase grenade travel speed by 3x with a 20% ammo pick up cost. Note: only works if you are the lobby host, otherwise reverts itself to standard round stats.
 * Gewehr3's CQB and Sniper kits have new updated values: CQB kit now has reduced damage class (200) with increases to other stats, while the Sniper kit acts like an AP kit
 
@@ -115,19 +115,19 @@ Additional changes:
 * Rate of fire was updated for almost every shotgun, and it is now balanced around other shotguns within same damage class.
 
 ### New shotgun damage
-Shotgun damage in vanilla Payday 2 is always the same if at least one of your shotgun pellets hits an enemy, and its always equal to the damage stat you see in your invenotry.  
+Shotgun damage in vanilla Payday 2 is always the same if at least one of your shotgun pellets hits an enemy, and its always equal to the damage stat you see in your inventory.  
 In most video games, shotgun's damage is spread across every fired pellet. So if you were to hit an enemy, you would deal "shotgun's damage/amount of pellets" per every pellet you hit, so not every hit would deal full damage.  
 Gilza uses a new "hybrid" system which adds a "minimal shotgun damage multiplier" property to all shotguns. It ensures that your shotgun will always deal a certain % of it's maximum damage with every shot, but in order to deal maximum damage, you need for all pellets to connect to your target.
 
 For ease of explanation, here is an example: Let's take a shotgun with 10 pellets and max total damage of 200. In vanilla PD2 you would deal 200 damage if at least one of your pellets hits an enemy. In most other games every pellet would deal 20 damage individually.  
-With Gilza, this same shotgun will also have a "minimal shotgun damage multiplier" property. This property usualy depends on shotguns's damage class, but for the sake of this example let's say for this shotgun it's equal to 0.5.  
+With Gilza, this same shotgun will also have a "minimal shotgun damage multiplier" property. This property usually depends on shotguns's damage class, but for the sake of this example let's say for this shotgun it's equal to 0.5.  
 Anytime you fire this shotgun, first pellet that hits an enemy, would ALWAYS deal 100 damage. After it, other pellets from the same shot will deal "100/9" or ~11.11 damage.  
 
 This new system ensures that your shotgun can always kill enemies in a set amount of shots, and it also allows for multi-hits to be almost as effective as they are in vanilla Payday 2, since even 1 connected pellet from a shot, will deal at least some % of your shotgun's maximum damage. However at the same time, it makes shotguns slightly less consistent, since you now need for all pellets to connect to deal full damage, and full damage is usually important for kill breakpoints. Yours, and your shotgun's accuracy stat are now even more important than before.
 
 This new damage system still scales with damage drop off.  
 As for headshots: if any of your pellets from the same shot connects to the head, your minimal damage will also receive a headshot multiplier. Additional pellets deal extra headshot damage only if they land in the head.  
-Shotgun multiplier is different per shotgun class - double barrels for example always have a multiplier of 1, so you only need 1 pellet to connect, additonal pellets will deal 0 damage. Because of that, doubel barrel shotguns will feel the most similar to vanilla PD2 shotguns.
+Shotgun multiplier is different per shotgun class - double barrels for example always have a multiplier of 1, so you only need 1 pellet to connect, additional pellets will deal 0 damage. Because of that, double barrel shotguns will feel the most similar to vanilla PD2 shotguns.
 
 ### New damage classes
 |Shotgun type|Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Minimal shotgun damage multiplier|Notes|
@@ -135,7 +135,7 @@ Shotgun multiplier is different per shotgun class - double barrels for example a
 |Double barrel|900 dmg|1|1|1|Can one-shot-bodyshot light and heavy swats. One-shot everyone else (except Bulldozers) in the head.|
 |Pump-action|450 dmg|1|1|0.8|Slowest, but most reliable of them all. The only type to have new "Breaching" rounds.|
 |Semi-auto no mag|325 dmg|1|2|0.67|The in-betweeners. Become 1-1 shots to kill type with overkill skill if all pellets connect.|
-|Some semi-auto's and full-auto's with mags|155 dmg|2|3|0.5|Spammm. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduce your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendy" customization option of sorts.|
+|Some semi-auto's and full-auto's with mags|155 dmg|2|3|0.5|Spammm. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduce your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
 
 ### Shotgun ammo.
 Additional stats, like damage-over-time damage/duration, and ammo pick up changes, are included in game ammo descriptions.
@@ -146,7 +146,7 @@ Additional stats, like damage-over-time damage/duration, and ammo pick up change
 * **Flechette**: "Pellet" amount reduced to 5. Still provides body armor pen and increased damage range, at the cost of ammo pick up and worse multi-hit potential.
 * **AP slugs**: provides same AP and similar range bonuses as in vanilla PD2, but ammo pick up is worse.
 * **Dragon's breath**: Reduces amount of pellets to 8. Deals 350 fire damage over a 2.5 second period to any lit target. Activation range and ammo pick up reduced, compared to vanilla.
-* **Tombstone slug**: Deals 250 damage over 6 seconds, and stun-locks enemies during full poision duration. Damage is no longer affected by weapon's damage drop off, and always deals full damage. Helpfull for low damage class shotguns, and/or vampire-like-regen perks. 
+* **Tombstone slug**: Deals 250 damage over 6 seconds, and stun-locks enemies during full poison duration. Damage is no longer affected by weapon's damage drop off, and always deals full damage. Helpful for low damage class shotguns, and/or vampire-like-regen perks. 
 
 # Light machine guns:
 
@@ -209,11 +209,11 @@ Pistols are now a comfortable alternative for mid ranges, while SMG's are better
 |88 dmg|3|6|Used by Bernetti auto. Spammy.|
 |95 dmg|3|5|Most Full auto pistols. Spammy.|
 |125 dmg|3|4|Best for crits and "Berserker" skills. |
-|155 dmg|2|3|Average, perfect for loud. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduced your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendy" customization option of sorts.|
+|155 dmg|2|3|Average, perfect for loud. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduced your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
 |250 dmg|1|2|Heavy and reliable pistols, best all around if user is accurate.|
 |450 dmg|1|1|Revolvers. Ammo related skills recommended.|
 
-The Peacemaker .45 revolver has a damage class of 650, which allows it to one-shot bodyshot light swats, and 2 shot bodyshot tazers without skill investments, it can also hit enemies through each other and can pierce enemy body armor by default. All of this was done to compensate it's god-awfull reload speed. Otherwise has revolver-like ammo pick up and other stats.
+The Peacemaker .45 revolver has a damage class of 650, which allows it to one-shot bodyshot light swats, and 2 shot bodyshot tazers without skill investments, it can also hit enemies through each other and can pierce enemy body armor by default. All of this was done to compensate it's god-awful reload speed. Otherwise has revolver-like ammo pick up and other stats.
 
 # Sub machine guns:
 
@@ -231,7 +231,7 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 |--------|--------|--------|--------|
 |95 dmg|3|5 |Best for Crits. Tend to have high ROF|
 |125 dmg|3|4 |Best for Crits and "Berserker" skills.|
-|155 dmg|2|3|Average. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduced your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendy" customization option of sorts.|
+|155 dmg|2|3|Average. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduced your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
 |200 dmg|2|3|Average, but with less restrictive modding. Benefits heavily if used along with "Overkill", "Body Expretise", "Berserker" or crit skills, due to newly gained breakpoints from them.|
 |250 dmg|1|2 |Heavy hitters, most reliable option if user is accurate.|
 
@@ -240,9 +240,9 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 
 # Specials:
 ### Bows/crossbows:
-* Added body armor peircing to all bows and crossbows by default.
+* Added body armor piercing to all bows and crossbows by default.
 * Updated damage/accuracy/stability stats, so bows and crossbows would feel slightly more different one from another.
-* Both bows and crossbows can now gain benefit from "Body Expertise" skill, alowing you to rely only on bodyshots if you use it.
+* Both bows and crossbows can now gain benefit from "Body Expertise" skill, allowing you to rely only on bodyshots if you use it.
 * Fixed stats for some bows that displayed incorrect information.  
 
 ### OVE9000 Saw:
@@ -259,7 +259,7 @@ Magazines now completely change how flamethrower performs:
 |Mag|Stats|Playstyle|
 |--------|--------|--------|
 |Default|Only 20% chance for afterburn (75% base game), afterburn will deal 300 damage over 2 seconds.|All around an ok choice|
-|Rare|leaves you with only 1 damage, but makes afterburn happen more often. Strongest afterburn damage over longest period of time, with highest amount of damage instances per second|Poke enemies to get them to burn, delaying them and letting them burn out while you are in cover. Best option for regen-on-hit perks, and for a more CC focused playstyle.|
+|Rare|Leaves you with only 1 damage, but makes afterburn happen more often. Strongest afterburn damage over longest period of time, with highest amount of damage instances per second|Poke enemies to get them to burn, delaying them and letting them burn out while you are in cover. Best option for regen-on-hit perks, and for a more CC focused playstyle.|
 |Well done|Doubles your damage but decreases chances for afterburn. Afterburn also deals really low damage|Be more direct with your flames and don't rely on afterburn at all|
 
 ### Miniguns (+Hailstorm):
@@ -278,9 +278,9 @@ Body expertise skill works wonders with these weapons.
 * Basilisk 3V received 2 new attachments that limit it's mag capacity for ease of use, while also providing some other minor stat adjustments.
 * Added a high velocity grenade to almost all GL's.
 
-#### Grenade launcher's ammunition with noticable differenes:
-* High velocity rounds: New greande type (not avialable on Basilisk 3V and Arbiter grenade launchers). Grenade's travel speed is tripled at a cost of 20% ammo pick up. Other stats are identicall to standard frag round. NOTE: does not work as a client, because host handles projectiles in PD2 and i can't do anything about it. What i can do, is make your ammo pick up identicall to the standard frag round if you are playing as a client, so you wouldnt have to worry about swapping nade types all the time.
-* Poison grenades: practically can't kill anything, BUT the damage over time effect is now longer, and during IT'S FULL DURATION enemies are now stun locked in the vomitting animation. This makes poision an extremely effective slow-down/crowd control tool, escpecially if you use it in chokes, or on enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now. Ammo pick up is extremly low, and max ammo is reduced heavily to compensate new CC power.
+#### Grenade launcher's ammunition with noticeable differences:
+* High velocity rounds: New grenade type (not avialable on Basilisk 3V and Arbiter grenade launchers). Grenade's travel speed is tripled at a cost of 20% ammo pick up. Other stats are identical to standard frag round. NOTE: does not work as a client, because host handles projectiles in PD2 and i can't do anything about it. What i can do, is make your ammo pick up identical to the standard frag round if you are playing as a client, so you wouldn't have to worry about swapping nade types all the time.
+* Poison grenades: practically can't kill anything, BUT the damage over time effect is now longer, and during IT'S FULL DURATION enemies are now stun locked in the vomiting animation. This makes poison an extremely effective slow-down/crowd control tool, especially if you use it in chokes, or on enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now. Ammo pick up is extremly low, and max ammo is reduced heavily to compensate new CC power.
 * Incendiary grenades: Ammo pick up is reduced by a bit more than in the base game.
 * Sting grenades (the shotgun-like one) now provides 250% increased ammo pick up instead of ~150%
 
@@ -290,3 +290,4 @@ Body expertise skill works wonders with these weapons.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable. Pick up rates can be found in throwable descriptions.
 * Most stats were left untouched, except for DOT (damage-over-time) effects, and a few throwable projectile weapons to make them more varied (or just usable - looking at you "Ace of Spades" with 40 damage in vanilla).
 * All important stats are now included in each throwable's description.
+
