@@ -93,7 +93,7 @@ Additional changes:
 |--------|--------|--------|--------|
 |125 dmg|3|4|Best for crits and "Berserk" skills.|
 |155 dmg|2|3|Average rifles, should feel the most similar to vanilla PD2 AR's. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduce your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
-|200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of ammo pick up. Benefits heavily if used along with "Overkill", "Body Expretise", "Berserker" or crit skills, due to newly gained breakpoints from them.|
+|200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of ammo pick up. Benefits heavily if used along with "Overkill", "Body Expertise", "Berserker" or crit skills, due to newly gained breakpoints from them.|
 |250 dmg|1|2|Most stable and comfortable time to kill, but poor ammo economy if not accurate.|
 |450 dmg|1|1|Usually highest recoil and by far the worst ammo economy. Best combined with ammo related skills. Usage in single-fire mode recommended.|
 
@@ -232,7 +232,7 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 |95 dmg|3|5 |Best for Crits. Tend to have high ROF|
 |125 dmg|3|4 |Best for Crits and "Berserker" skills.|
 |155 dmg|2|3|Average. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduced your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
-|200 dmg|2|3|Average, but with less restrictive modding. Benefits heavily if used along with "Overkill", "Body Expretise", "Berserker" or crit skills, due to newly gained breakpoints from them.|
+|200 dmg|2|3|Average, but with less restrictive modding. Benefits heavily if used along with "Overkill", "Body Expertise", "Berserker" or crit skills, due to newly gained breakpoints from them.|
 |250 dmg|1|2 |Heavy hitters, most reliable option if user is accurate.|
 
 ### New attachments
@@ -279,8 +279,8 @@ Body expertise skill works wonders with these weapons.
 * Added a high velocity grenade to almost all GL's.
 
 #### Grenade launcher's ammunition with noticeable differences:
-* High velocity rounds: New grenade type (not avialable on Basilisk 3V and Arbiter grenade launchers). Grenade's travel speed is tripled at a cost of 20% ammo pick up. Other stats are identical to standard frag round. NOTE: does not work as a client, because host handles projectiles in PD2 and i can't do anything about it. What i can do, is make your ammo pick up identical to the standard frag round if you are playing as a client, so you wouldn't have to worry about swapping nade types all the time.
-* Poison grenades: practically can't kill anything, BUT the damage over time effect is now longer, and during IT'S FULL DURATION enemies are now stun locked in the vomiting animation. This makes poison an extremely effective slow-down/crowd control tool, especially if you use it in chokes, or on enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now. Ammo pick up is extremly low, and max ammo is reduced heavily to compensate new CC power.
+* High velocity rounds: New grenade type (not available on Basilisk 3V and Arbiter grenade launchers). Grenade's travel speed is tripled at a cost of 20% ammo pick up. Other stats are identical to standard frag round. NOTE: does not work as a client, because host handles projectiles in PD2 and i can't do anything about it. What i can do, is make your ammo pick up identical to the standard frag round if you are playing as a client, so you wouldn't have to worry about swapping nade types all the time.
+* Poison grenades: practically can't kill anything, BUT the damage over time effect is now longer, and during IT'S FULL DURATION enemies are now stun locked in the vomiting animation. This makes poison an extremely effective slow-down/crowd control tool, especially if you use it in chokes, or on enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now. Ammo pick up is extremely low, and max ammo is reduced heavily to compensate new CC power.
 * Incendiary grenades: Ammo pick up is reduced by a bit more than in the base game.
 * Sting grenades (the shotgun-like one) now provides 250% increased ammo pick up instead of ~150%
 
@@ -290,5 +290,6 @@ Body expertise skill works wonders with these weapons.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable. Pick up rates can be found in throwable descriptions.
 * Most stats were left untouched, except for DOT (damage-over-time) effects, and a few throwable projectile weapons to make them more varied (or just usable - looking at you "Ace of Spades" with 40 damage in vanilla).
 * All important stats are now included in each throwable's description.
+
 
 
