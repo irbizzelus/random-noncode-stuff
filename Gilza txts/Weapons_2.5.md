@@ -99,7 +99,7 @@ Additional changes:
 |450 dmg|1|1|Usually highest recoil and by far the worst ammo economy. Best combined with ammo related skills. Usage in single-fire mode recommended.|
 
 ### New AR attachments
-Damage class adjusting ammunition was added to some weapons - this ammunition attachment allows you to change damage class of your weapon. In addition to damage, ammo pick up is adjusted to match new damage class. Other stats may be adjusted as well. Weapons that have recieved such ammunition: 
+Damage class adjusting ammunition was added to some weapons - this ammunition attachment allows you to change damage class of your weapon. In addition to damage, ammo pick up is adjusted to match new damage class. Other stats may be adjusted as well. Weapons that have received such ammunition: 
 * 7.62 Little Friend now has a 5.56 conversion kit
 * Byk-1 now has a 5.45 conversion kit
 * AMCAR now has RRLP rounds
@@ -297,6 +297,7 @@ Body expertise skill works wonders with these weapons.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable. Pick up rates can be found in throwable descriptions.
 * Most stats were left untouched, except for DOT (damage-over-time) effects, and a few throwable projectile weapons to make them more varied (or just usable - looking at you "Ace of Spades" with 40 damage in vanilla).
 * All important stats are now included in each throwable's description.
+
 
 
 
