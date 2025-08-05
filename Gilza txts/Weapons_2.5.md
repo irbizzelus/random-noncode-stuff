@@ -46,6 +46,7 @@ Different fire modes have different accuracy penalties, but single-fire has no p
 
 Full-auto fire mode has a 20 accuracy point penalty.   
 Burst-fire mode has a 12 point accuracy penalty.
+Volley fire mode has a +16 accuracy bonus, since this fire mode usualy adjusts DPS to be lower, and this fire mode is only available on low accuracy weapons.
 
 ## Single-fire input buffering
 Toggleable option in settings. If you spam your "Fire Weapon" keybind, your inputs will be buffered, and your weapon may automatically fire even if you clicked the button again too soon. This feature is supported for weapons with 150 or more rounds per minute rate of fire.  
@@ -290,6 +291,7 @@ Body expertise skill works wonders with these weapons.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable. Pick up rates can be found in throwable descriptions.
 * Most stats were left untouched, except for DOT (damage-over-time) effects, and a few throwable projectile weapons to make them more varied (or just usable - looking at you "Ace of Spades" with 40 damage in vanilla).
 * All important stats are now included in each throwable's description.
+
 
 
 
