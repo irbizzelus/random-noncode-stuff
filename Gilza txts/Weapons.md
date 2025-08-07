@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for DEV patch: 2.5
+Stats are updated for Gilza version: 2.5
 
 # General weapon handling updates:
 ## Recoil: general changes
@@ -297,6 +297,7 @@ Body expertise skill works wonders with these weapons.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable. Pick up rates can be found in throwable descriptions.
 * Most stats were left untouched, except for DOT (damage-over-time) effects, and a few throwable projectile weapons to make them more varied (or just usable - looking at you "Ace of Spades" with 40 damage in vanilla).
 * All important stats are now included in each throwable's description.
+
 
 
 
