@@ -141,7 +141,7 @@ Shotgun multiplier is different per shotgun class - double barrels for example a
 |--------|--------|--------|--------|--------|--------|
 |Double barrel|900 dmg|1|1|1|Can one-shot-bodyshot light and heavy swats. One-shot everyone else (except Bulldozers) in the head.|
 |Pump-action|450 dmg|1|1|0.8|Slowest, but most reliable of them all. The only type to have new "Breaching" rounds.|
-|Semi-auto no mag|325 dmg|1|2|0.67|The in-betweeners. Become 1-1 shots to kill type with overkill skill if all pellets connect.|
+|Semi-auto no mag|325 dmg|1|2|0.67|The in-betweeners. Become 1-1 shots to kill type with "overkill" skill if all pellets connect.|
 |Some semi-auto's and full-auto's with mags|155 dmg|2|3|0.5|Spammm. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduce your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
 
 ### Shotgun ammo
@@ -297,6 +297,7 @@ Body expertise skill works wonders with these weapons.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable. Pick up rates can be found in throwable descriptions.
 * Most stats were left untouched, except for DOT (damage-over-time) effects, and a few throwable projectile weapons to make them more varied (or just usable - looking at you "Ace of Spades" with 40 damage in vanilla).
 * All important stats are now included in each throwable's description.
+
 
 
 
