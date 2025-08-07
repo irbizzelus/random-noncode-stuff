@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to select the perk you are interested in: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for DEV patch: 2.5
+Stats are updated for Gilza version: 2.5
 
 # General info:
 
@@ -772,6 +772,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
 
