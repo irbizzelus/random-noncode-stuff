@@ -24,7 +24,7 @@ Here are the most important aspects of Gilza's rebalance which you need to know 
 | -------- |
 |   ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/New_loc_example_perk.png) |
 
-### General perk information structure
+### Perk information structure
 Most perk decks noted bellow will follow this format:
 1) Perk name (adjustment amount) - adjustment amount is a scale from 0 to 5 (0-none, 1-least, 5-most) for changes that were done to the perk deck. Keep in mind that all perk decks, even those at 5/5, were updated while trying to keep their theme/bonuses relatively similar to original idea/purpose/theme of the perk deck, at the very least in my personal opinion.
 2) Image showcase of the changes - easiest way to go through all the changes.
@@ -772,6 +772,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
 
