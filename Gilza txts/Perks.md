@@ -61,11 +61,11 @@ Added grenade pick ups, bag throwing distance bonus, and a small speed boost com
 Adjusted the 3rd card to provide "shouting" bonus to both basic and aced version of inspire. Vanilla description describes the buff as "shouting distance", even though it only affects intimidations and enemy highlights. Now it's both more clear in what it does and does a little extra thing (total max range for inspire is 11.25m now, so not that big of a change). In addition, damage resistance aspects of this perk were buffed both due to global damage resistance update, and because of the shared Underdog skill trigger (for more info on these changes, scroll up to [General info - Gilza rebalance changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes)). Build variety may have improved slightly, but gameplay is overall untouched.
 
 ### Build(s) to try
-Barebone skills: ICTV armor is heavily favoured. Hostage taker or First Aid Kits are recommended for health upkeep. Inspire is handy to have if you have points to spare. Bullseye is always needed. Your general buffs are oriented mostly at your teammates, while you just gain passive buffs, which leads to an overall passive playstyle.  
+Barebone skills: ICTV armor is heavily favoured. "Hostage Taker" or First Aid Kits are recommended for health upkeep. "Inspire" is handy to have if you have points to spare. "Bullseye" is always needed. Your general buffs are oriented mostly at your teammates, while you just gain passive buffs, which leads to an overall passive playstyle.  
 
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Basic Sniper https://pd2builder.netlify.app/?s=xa0HgF00kF0-9010-61d0&p=0&a=6&t=4&d=3  
 This is meant to be something that is close to home for the Sniper Crewchief build in vanilla, though with Gilza's gameplay loop you will be relying on your secondary and melee a lot more. But hey, at least sniping is a lot easier as you only need to aim for the body.  
-This build is using all barebone skills - ICTV armor, hostage taker, and inspire. Sniping is favoured due to the passive nature of this perk deck, but you can try to rely on any weapons of your choice, with appropriate skill adjustments to this build.  
+This build is using all barebone skills - ICTV armor, "Hostage Taker", and "Inspire". Sniping is favoured due to the passive nature of this perk deck, but you can try to rely on any weapons of your choice, with appropriate skill adjustments to this build.  
 Weapons to use:  
 1600 damage class sniper rifle with any secondary of your choice. Flashbangs or zapper grenades, depending on heist length. Any melee of your choice, but if you decide to use melee mostly for dozers, 75 damage melee's are the best. 
 
@@ -81,7 +81,7 @@ Weapons to use:
 Added increased self-healing while playing on DS difficulty. This change was done purely to bump this perk up a bit, since it's already pretty decent, but it's drastic change in effectiveness between DW and DS is a bit too much. Overall gameplay is identical.
 
 ### Build(s) to try
-Barebone skills: Hostage taker for health regen, which stacks with muscle's natural health regen. Partners in crime for improved total health. Bullseye for armor gating. Up you go aced to get more health after being revived. Depending on how aggressive you are, you could opt in for first aid kits, to easier maintain your max health.
+Barebone skills: "Hostage Taker" for health regen, which stacks with muscle's natural health regen. "Partners in Crime" for improved total health. "Bullseye" for armor gating. "Up You Go" aced to get more health after being revived. Depending on how aggressive you are, you could opt in for first aid kits, to easier maintain your max health.
 
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Crit Muscle https://pd2builder.netlify.app/?s=xkgF0100dg0-6gF00105g0001f0&p=1&a=0&t=4&d=5  
 Stay below 25 total detection. A run and gun version of muscle. Focusing armor skills with muscle in general is not a great idea, since most of your survivability comes from your health, which should be improved first.  
@@ -96,10 +96,10 @@ Preferred combo: Vulcan Minigun and Bronco revolver with <25 total detection. Al
 This perk is perfectly fine and does not require any changes, the only reason it's even mentioned here was to avoid questions like "why no armorer here?"
 
 ### Build(s) to try
-Barebone skills - If you play on Death Sentence difficulty, either run ICTV, or run CTV with frenzy aced to gain 2 tap armor. For difficulties bellow, use any armor you prefer, though higher armors are favoured, and never forget bullseye (either basic or aced) for armor gating.
+Barebone skills - If you play on Death Sentence difficulty, either run ICTV, or run CTV with "Frenzy" aced to gain 2 tap armor. For difficulties bellow, use any armor you prefer, though higher armors are favoured, and never forget "Bullseye" (either basic or aced) for armor gating.
 
 Build 1 - Jack of all trades https://pd2builder.netlify.app/?s=090-4xkkFg1380-6580-5h58&p=2&a=6&t=6&d=30  
-Ultimate powerhouse able to achieve any task. Spare 1 point you can use however you wish, but getting extra accuracy from stable shot will most likely be best value.   
+Ultimate powerhouse able to achieve any task. Spare 1 point you can use however you wish, but getting extra accuracy from "Stable Shot" will most likely be best value.   
 Weapons to use:  
 Use a primary shotgun of your choice, but 155 damage class is recommended due to combination of berserker and overkill, allowing you to gain a massive damage increase. Secondary can be a shotgun to gain benefits from overkill, a SMG to deal with Bulldozers, a high accuracy weapon for long range, or any weapon with shield AP capabilities. Any 35+ damage class melee. 
 
@@ -115,10 +115,10 @@ Use a primary shotgun of your choice, but 155 damage class is recommended due to
 Copycat and Hacker in vanilla are both just straight upgrades to this deck, so to compensate, this deck is now slightly more effective in it's own playstyle. Dodge buffs might be extremely small, but do consider that new options in the artful dodger skill sub-tree are also indirectly buffing this deck. Additionally, AP chance can now work well with both new Surefire and Silencer AP skills, instead of being a joke of a bonus.
 
 ### Build(s) to try
-Barebone skills - Use bullseye to armor gate whenever your armor breaks. You can use First Aid Kits if you want to rely on your health as well, but rogue is not exactly build for health. Additional dodge skills are welcome.
+Barebone skills - Use "Bullseye" to armor gate whenever your armor breaks. You can use First Aid Kits if you want to rely on your health as well, but rogue is not exactly build for health. Additional dodge skills are welcome.
 
 Build 1 - Run and Gun https://pd2builder.netlify.app/?s=09001000810-6j0-4R5O1G0100&p=3&a=0&t=b&d=3  
-Ultimate speed build. 90% of the time you will be running, to gain extra 10% dodge, and hip firing with your akimbo smg's to deal damage and armor gate with bullseye. Use silenced weapons to gain 90% total body armor AP chance, since hipfiring akimbos are not exactly known for their accuracy. Botomless pockets and crits will allow you to gain enough damage to avoid running out of ammo, even if your headshot accuracy overall is low. You can also move some skills around to replace unseen strike for body expertise, for more reliable bodyshot damage, but this is up to you.  
+Ultimate speed build. 90% of the time you will be running, to gain extra 10% dodge, and hip firing with your akimbo smg's to deal damage and armor gate with "Bullseye". Use silenced weapons to gain 90% total body armor AP chance, since hipfiring akimbos are not exactly known for their accuracy. "Botomless Pockets" and crits will allow you to gain enough damage to avoid running out of ammo, even if your headshot accuracy overall is low. You can also move some skills around to replace "Unseen Strike" for "Body Expertise", for more reliable bodyshot damage, but this is up to you.  
 Weapons to use:  
 Use any akimbo SMG's of your choice, and a high accuracy secondary of your choice. You can use a secondary with shield AP along with accuracy, but due to your high mobility, you should not have any troubles while flanking shields. Use any melee of your choice, 20-25 damage class will most likely fit the best. You can replace your throwable for Ace of Spades as well, since they deal solid damage with crits. Keep total detection <25.
 
@@ -158,13 +158,13 @@ Akimbo pistols with 78 damage, And a 125 secondary pistol modded for accuracy to
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crook_vanilla.png)  |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Crook.png)   |
 
 ### Changes Summary
-Added 75% AP chance to allow for easier stacking of this statistic with Surefire, or Silencer AP skills. This perk deck was significantly improved via indirect buffs to the Ghost's artful dodger sub-tree, allowing you to both gain dodge cheaper, and also gaining armor on dodge from the new tier 4 Revitalised skill. Improved trigger for the Underdog skill also allows you to get 2 tap armor on DS with the standard Ballistic Vest, granting you 5 more dodge than the usual HBV you would use on DS.
+Added 75% AP chance to allow for easier stacking of this statistic with "Surefire", or silencer AP skills. This perk deck was significantly improved via indirect buffs to the Ghost's Artful Dodger sub-tree, allowing you to both gain dodge cheaper, and also gaining armor on dodge from the new tier 4 "Revitalised" skill. Improved trigger for the "Underdog" skill also allows you to get 2 tap armor on DS with the standard Ballistic Vest, granting you 5 more dodge than the usual HBV you would use on DS.
 
 ### Build(s) to try
-Barebone skills - Since this deck focuses on dodge and armor you should prioritize similar skills. Bullseye for armor gating is always needed. Surefire aced allows you to gain 100% total AP chance against body armor, so it's a solid option to consider.
+Barebone skills - Since this deck focuses on dodge and armor you should prioritize similar skills. "Bullseye" for armor gating is always needed. "Surefire" aced allows you to gain 100% total AP chance against body armor, so it's a solid option to consider.
 
 Build 1 - Default (DS specific) https://pd2builder.netlify.app/?s=xa004100xc0-90wj1k00g11I&p=5&a=3&t=b&d=3  
-2 tap armor and 35 dodge, same as vanilla. Unlike vanilla, this one is cheaper to build, and has additional passive armor gating from basic revitalized. Keep total detection <25.  
+2 tap armor and 35 dodge, same as vanilla. Unlike vanilla, this one is cheaper to build, and has additional passive armor gating from basic "Revitalized". Keep total detection <25.  
 Weapons to use:  
 Any assault rifle of your choice (lower damage classes preferred) with a silencer, focusing on concealment and accuracy. Secondary flamethrower for shields and decent DPS, or any other low damage class weapon with shield AP. Use 35+ damage class melee with high concealment against bulldozers, and throwables axes/knives/cards to save on ammo.
 
@@ -189,7 +189,7 @@ All passive stealth bonuses were buffed from 10-20% to 25%. Saving 2.5 seconds o
 This is not anything new, but your general playstyle for loud should be sniping most of the time, because enemies will target you less if you stand still, and also target you less if you are further away from enemies than your teammates are. And since enemies will always focus you for a few seconds after you damage them, it is recommended you run one-shoting weapons, and snipers fit this role the best.
 
 ### Build(s) to try
-Barebone skills - Dodge and/or stealth skills should be prioritized, depending on your playstyle. Bullseye is always required for loud. Skills that improve balistic vests are extremely beneficial, since this perk now favours the Light Ballistic Vest.  
+Barebone skills - Dodge and/or stealth skills should be prioritized, depending on your playstyle. "Bullseye" is always required for loud. Skills that improve balistic vests are extremely beneficial, since this perk now favours the Light Ballistic Vest.  
 
 Build 1 - Backline Sniper https://pd2builder.netlify.app/?s=5O000h009410380-68N9k00g100&p=6&a=1&t=b&d=53  
 Stay behind your team and snipe enemies before they get a chance to even shoot at you. Don't forget to stay crouched to gain burglar's benefits. You may replace basic swan song with blodthirst basic if you want an additional option for dealing with bulldozers. You can use any secondary deployable that would fit your current game the best, decide which based on your teammates' loadouts. You can also bring a grenade case if u want to use grenades yourself, instead of throwable axes/knives/cards.  
@@ -212,7 +212,7 @@ This perk deck is affected by all the important mod updates mentioned in [Genera
 For DS builds - 3 tap armor is achieved much easier now and even 4 tap is possible. 5+ is possible with maniac/crew chiefs on your team, making this deck absolutely busted in coordinated teams. As long as you have the temporary DR bonus that is.
 
 ### Build(s) to try
-Barebone skills - ICTV armor, underdog and frenzy aced for stackable damage resistance. Bullseye for armor gating.
+Barebone skills - ICTV armor, underdog and frenzy aced for stackable damage resistance. "Bullseye" for armor gating.
 
 Build 1 - DMG resist overload https://pd2builder.netlify.app/?s=010912018N1Q120-610-71I&p=7&a=6&t=j&d=0  
 Use bipodable LMG's to gain damage resist while bipoded, and stack a huge amount of damage resistance. You can swap shock and awe aced for bullseye aced if you want to upkeep your position for longer (not recommended for DS difficulty). You can also swap all skills in technician that provide your LMG's a DPS increase for nine lives aced and get 3 points on top, if you feel like your survivability is not high enough, and you would like to get an extra down instead of additional DPS. Partners in crime allows you to gain 2 tap health for DS difficulty, so if you play at lower difficulties you can replace convert skills with anything else.   
@@ -258,10 +258,10 @@ Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random ch
 Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
 
 ### Build(s) to try
-Barebone skills - Bullseye for armor gating, and additional dodge and healing skills are highly recommended. Up you go is almost mandatory to avoid instant deaths after revives.
+Barebone skills - "Bullseye" for armor gating, and additional dodge and healing skills are highly recommended. "Up you go" is almost mandatory to avoid instant deaths after revives.
 
 Build 1 - Ultimate ammo guy. https://pd2builder.netlify.app/?s=016V1400c11Q0-82h5g00g100&p=9&a=0&t=j&d=0  
-Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from Fully Loaded and Crits combo, but your teammates might thank you. Keep your total detection <25.    
+Embrace ammo supportive playstyle. Using ammo bags for yourself will not be required since you already have enough ammo from "Fully Loaded" with crits combo, but your teammates might thank you. Keep your total detection <25.    
 Weapons to use:  
 125 damage class Assault rifle modded for accuracy and concealment, since Designated Marksman skill is already helping you with recoil. 95/125/155 damage class SMG modded for stability and concealment, mostly to melt bulldozers at point blank ranges. Use viper/concussion grenades to help with revives. Any high concealment melee of your choice.
 
@@ -272,13 +272,13 @@ Weapons to use:
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Grinder_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Grinder.png)  |
 
 ### Changes Summary
-Slightly improved AP chance (5% big wow) to allow for this stat to work better with other AP skills like Surefire and Silencers AP skills.
+Slightly improved AP chance (5% big wow) to allow for this stat to work better with other AP skills like "Surefire" and silencers AP skill.
 
 ### Additional info/tips
 For DS specifically - run this deck when you have Crew Chief on your team for the 3 tap health breakpoint with fastest self-healing of all decks in the game. Otherwise this deck is still sorta mid tier for DS.
 
 ### Build(s) to try
-Barebone skills - Bullseye for armor gating, partners in crime for extra health. LBV armor with die hard aced is recommended, since 70 armor helps quite a bit.  
+Barebone skills - "Bullseye" for armor gating, partners in crime for extra health. LBV armor with die hard aced is recommended, since 70 armor helps quite a bit.  
 
 Build 1 - Crits with AP https://pd2builder.netlify.app/?s=wb0914009k00120-6121S000300&p=a&a=1&t=1&d=3  
 If silenced weapons are used you will have 85% chance to pierce enemy body armor total, allowing you to play with lazy aim. Keep your regen stacks up as much as you can, to maintain regen immediately after armor break, but don't rely on your health too much while playing on DS difficulty, since you can't get 3 tap health on your own. If you feel confident enough, you can replace up you go with melee skills to help with bulldozers, though SMG with crits should be more than enough to deal with them.  
@@ -311,7 +311,7 @@ New resistance effect that you gain from Yakuza will now reduce this supression 
 Gameplay overall is about the same - shoot, duck to cover to recover, shoot. Gained buffs will improve this aspect by allowing you to do this faster and more often, while damage resist from behind and low health movement speed bonus will allow you to relocate easier. 
 
 ### Build(s) to try
-Barebone skills - ICTV armor, frenzy aced for improved damage resistance, especially from behind, armor recovery skills, and bullseye for armor gating.  
+Barebone skills - ICTV armor, "Frenzy" aced for improved damage resistance, especially from behind, armor recovery skills, and "Bullseye" for armor gating.  
 
 Build 1 - Duck and Sniper https://pd2builder.netlify.app/?s=09002V00cP10-91010-411I&p=b&a=6&t=6&d=3  
 Pay close attention to your armor status and duck from and into cover depending on your current armor status. Since your armor regeneration time is extremely quick you can have extremely high out of cover uptime. Also don't be afraid of running away, since your damage resistance to enemies behind you is extremely high. Use molotovs to bring your health as close to 0 as possible to speed up your armor recovery, after you have interacted with a Doctor Bag. Use melee against bulldozers.   
@@ -336,7 +336,7 @@ This perk is mostly buffed, but still feels pretty balanced, while being much ea
 Gameplay is about the same as in vanilla, and can be even more passive now, since you can get armor recovery bonuses from teammates. Damaging yourself with explosives to heal might still be a decent idea in some cases, but relying on it, in my opinion, is not needed at all anymore.
 
 ### Build(s) to try
-Barebone skills - Bullseye is the only mandatory skill, as this deck has one of the highest variety options, just keep in mind that you can't play aggressively with this perk unless your stored health is high/maxed out, since you are vulnerable if you don't have any of it. High dps builds can help you gain this stored health, while high survivability builds can rely on teammates' kills for survival, while providing them with support options like breaching charges, drill skills, ammo etc.
+Barebone skills - "Bullseye" is the only mandatory skill, as this deck has one of the highest variety options, just keep in mind that you can't play aggressively with this perk unless your stored health is high/maxed out, since you are vulnerable if you don't have any of it. High dps builds can help you gain this stored health, while high survivability builds can rely on teammates' kills for survival, while providing them with support options like breaching charges, drill skills, ammo etc.
 
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Crit Sniper https://pd2builder.netlify.app/?s=1GgFgF00940-9030l0-41d0&p=c&a=1&t=4&d=3  
 This build has 7 spare points which you can use to either improve your converted cops with more skills, give yourself minor melee/stability/ammo pick up range buffs, or you can use them to ace low blow and allow yourself to build weapons with a total goal of <25 total detection. Otherwise, keep total detection <5.  
@@ -392,7 +392,7 @@ Basically all armors are now flipped. This is a side grade to vanilla version of
 Since changes above are mostly focused at DS difficulty where armor gating is important, another small change was made for lower end armors, which favours lower difficulties. Your total amount of armor gain per minute is higher with lower end armors like the suit. This is true for both passive and on-damage effect. So if you preferred to run ICTV anarchist in vanilla on lower difficulties, you can now go for something like a HBV or a suit, to gain movement speed and about the same armor gain per minute.
 
 ### Build(s) to try
-Barebone skills - Bullseye, and even that one is a maybe, since you don't HAVE to have it to gain armor gating.   
+Barebone skills - "Bullseye", and even that one is a maybe, since you don't HAVE to have it to gain armor gating.   
 
 Build 1 - Heavy weapons guy https://pd2builder.netlify.app/?s=010012006F1Q0-41Y0010-778&p=e&a=6&t=6&d=0  
 While bipoded and hitting headshots you can maintain your armor up for a long time, since your damage taken to armor recovered is so heavily tilted in your favour. Aim at around chest area of enemies to deal increased damage from body expertise on bodyshots, and to regain armor on headshots. Since LMG accuracy even while bipoded is not perfect, you will be able to gain benefits from both skills reliably, on top of having the best passive armor gating from new ICTV anarchist.  
@@ -425,7 +425,7 @@ Any weapons you want. 450/250 Assault rifle as a primary is most likely going to
 Same as with armorer, this deck is here to let you know that it has no changes. Descriptions were updated for card #1 and #9 to fix incorrect values and let you know that kills refill 1 second for the cooldown.
 
 ### Build(s) to try
-Barebone skills - Bullseye for armor gating and to bring yourself over the 50% threshold easier. Passive healing from hostage taker could be helpful for lower difficulties, since self healing from damage taken is lower due to lowered damage, compared to DS difficulty.  
+Barebone skills - "Bullseye" for armor gating and to bring yourself over the 50% threshold easier. Passive healing from hostage taker could be helpful for lower difficulties, since self healing from damage taken is lower due to lowered damage, compared to DS difficulty.  
 
 Build 1 - Survivalist https://pd2builder.netlify.app/?s=xk0p1000ch0-90101G000pf0&p=g&a=3&t=g&d=5  
 Fairly standard kingping gameplay, with unseen strike being your main DPS skill. Since you can force enemies to damage you, while being semi-invulnerable you can activate the damage activation part of the skill, then go to cover for 6 seconds, activate crit boosts, and go on a kill spree to recover your injector. Repeat this cycle endlessly.  
@@ -487,7 +487,7 @@ Removed LOS (line of sight) requirement to the target. Increased amount that the
 This deck's main issue is how expensive it is to run well (skill points wise), even though it does work pretty well when it's set up, so not that many changes were needed.
 
 ### Build(s) to try
-Barebone skills - Bullseye for armor gating, ICTV armor to gain benefits from damage absorption, health buffs from partners in crime, and preferably hostage taker for additional passive regen, if your team doesn't have great DPS.
+Barebone skills - "Bullseye" for armor gating, ICTV armor to gain benefits from damage absorption, health buffs from partners in crime, and preferably hostage taker for additional passive regen, if your team doesn't have great DPS.
 
 Build 1 - Shotgun Survivalist https://pd2builder.netlify.app/?s=1G1W00xk6F10-910-6100&p=j&a=6&t=f&d=3  
 Fairly simple build, take converts to gain health improvements, and then tag your teammates (preferably human players) to improve your survivability with absorption and constant health regen.  
@@ -580,7 +580,7 @@ Moving provides you with points to a meter which provides bonuses to dodge, weap
 One of a few (if not the only) perk deck that actually gets use out of the Running from Death skill. Adrenaline spike is an RNG based temporary effect that gives you practical god mode and increased kill potential, but keep in mind that once it's over you are screwed if you are not in cover. This is the ultimate run and gun perk deck, but it has a flaw - you can't really use text chat since you cant move and use chat, and not moving with this deck is a death sentence. Note that "Revitalized" skill activates after Speed Junkie's 7th card's armor regeneration skill, when you have no armor. This allows you to use "Revitalized" as a backup armor regen skill on dodge, while you have no armor, in case Junkie's 1 second cooldown is in effect.
 
 ### Build(s) to try
-Barebone skills - Bullseye for armor gating and dodge skills.  
+Barebone skills - "Bullseye" for armor gating and dodge skills.  
 
 Build 1 - Default (DS difficulty specific) https://pd2builder.netlify.app/?s=xa0-6d0-7h2002l1u0005zc&a=0&t=4&d=3  
 Run and gun. Use grenades mostly for revives. Mark special units before melting them. Weapons with silencers can gain AP to make run and gun playstyle's natural inaccuracy from movement more forgiving. Keep total detection <25.   
@@ -629,7 +629,7 @@ Info on all the 9th card replacements (including 3 new ones from custom perks) a
 Copycat overall is a really good deck, but amount of health you gain from it is simply too good. Gaining 3 tap health on DS with a 2 second invulnerability by just having a joker is a bit too good, considering some options you can get from the 9th perk card copies, so some of the neutral aspects (non-copy parts) of the deck were nerfed.  
 - Choose a boost for cards 1,3,5,7: Health bonus is reduced from 20% to 15%, to make 3 tap health builds on DS harder to get. Armor and dodge bonuses unchanged. Crouch and bag movement speed bonus was unchanged, but this bonus now also allows to carry more total ammo. This is a niche upgrade, but can be sometimes useful, when you just simply don't need other upgrades.
 - Card 1: Identical
-- Card 3: Identical, but the heal bonus is different when using Bullseye skill. This was done in such a way because both of these skills share a cooldown in the code. It is possible to split these timers, but if i did so, all infoHUD's out there will be broken and display incorrect information. This way infoHUD's wont be broken and overall amount per minute is the same, even though you could argue that this will lead to slightly less healing since you can't always activate this skill after it's cooldown is over, but that's a small price to pay considering other buffs this perk got.
+- Card 3: Identical, but the heal bonus is different when using "Bullseye" skill. This was done in such a way because both of these skills share a cooldown in the code. It is possible to split these timers, but if i did so, all infoHUD's out there will be broken and display incorrect information. This way infoHUD's wont be broken and overall amount per minute is the same, even though you could argue that this will lead to slightly less healing since you can't always activate this skill after it's cooldown is over, but that's a small price to pay considering other buffs this perk got.
 - Card 5: Identical
 - Card 7: Updated the invulnerability effect to activate how you would assume it would activate in vanilla. In vanilla this skill can activate even if your armor is full, wasting the cooldown. Additionally, in vanilla, you can take enough damage for this skill to activate, but you would still go down because your health reached 0 before the skill was activated. Now there is a safety net for this effect, limiting you to just 1 health in such scenarios. To compensate slightly, this cooldown was increased from 15 to 20 seconds.
 
@@ -772,5 +772,6 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
