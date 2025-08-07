@@ -123,7 +123,7 @@ Shotgun multiplier is different per shotgun class - double barrels for example a
 |--------|--------|--------|--------|--------|--------|
 |Double barrel|900 dmg|1|1|1|Can one-shot-bodyshot light and heavy swats. One-shot everyone else in the head.|
 |Pump-action|450 dmg|1|1|0.8|Slowest of them all. The only type to have new "Breaching" rounds.|
-|Semi-auto no mag|325 dmg|1|2|0.67|The in-betweeners. Become 1-1 shots to kill type with overkill skill.|
+|Semi-auto no mag|325 dmg|1|2|0.67|The in-betweeners. Become 1-1 shots to kill type with "Overkill" skill.|
 |Some semi-auto's and full-auto's with mags|155 dmg|2|3|0.5|Spammm.|
 
 ### Shotgun ammo.
@@ -281,3 +281,4 @@ Secondary flamethrower has less damage per tick and worse ammo economy.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable
 * All stats left untouched except for DOT (damage-over-time) effects
 * All important stats are now included in each throwable's description
+
