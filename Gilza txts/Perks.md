@@ -58,7 +58,7 @@ Added grenade pick ups, bag throwing distance bonus, and a small speed boost com
 
 
 ### Changes Summary
-Adjusted the 3rd card to provide "shouting" bonus to both basic and aced version of inspire. Vanilla description describes the buff as "shouting distance", even though it only affects intimidations and enemy highlights. Now it's both more clear in what it does and does a little extra thing (total max range for inspire is 11.25m now, so not that big of a change). In addition, damage resistance aspects of this perk were buffed both due to global damage resistance update, and because of the shared Underdog skill trigger (for more info on these changes, scroll up to [General info - Gilza rebalance changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes)). Build variety may have improved slightly, but gameplay is overall untouched.
+Adjusted the 3rd card to provide "shouting" bonus to both basic and aced version of inspire. Vanilla description describes the buff as "shouting distance", even though it only affects intimidations and enemy highlights. Now it's both more clear in what it does and does a little extra thing (total max range for inspire is 11.25m now, so not that big of a change). In addition, damage resistance aspects of this perk were buffed both due to global damage resistance update, and because of the shared Underdog skill trigger (for more info on these changes, scroll up to [General info - Gilza rebalance changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes)). Build variety may have improved slightly, but gameplay is overall untouched. (Damage resistance in vanilla is also 8% - 6% is a typo)
 
 ### Build(s) to try
 Barebone skills: ICTV armor is heavily favoured. "Hostage Taker" or First Aid Kits are recommended for health upkeep. "Inspire" is handy to have if you have points to spare. "Bullseye" is always needed. Your general buffs are oriented mostly at your teammates, while you just gain passive buffs, which leads to an overall passive playstyle.  
@@ -772,6 +772,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
 
