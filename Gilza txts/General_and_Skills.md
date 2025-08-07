@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to select the section you are looking for: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Information is up to date with DEV patch: 2.5
+Information is up to date with Gilza version: 2.5
 
 Originally inspired by [IREnFIST](https://modworkshop.net/mod/28585) 
 
@@ -286,3 +286,4 @@ Good luck, have fun! :D
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
+
