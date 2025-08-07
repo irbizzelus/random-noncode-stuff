@@ -473,7 +473,7 @@ Barebone skills - First aid kits fit this perk deck the best, so you should almo
 Build 1 - Meta Slave https://pd2builder.netlify.app/?s=0R0H00xk1400380-6305g000100&p=i&a=3&t=c&d=53  
 Gilza's revision of classic stoic izhma build. But you can run other guns than izhma now. You can replace "Die Hard" for "Up You Go" skill if you want to conserve your first aid kit usage after being revived, at the cost of slighlty lowered total health. 
 Weapons to use:  
-155 primary shotgun and a 325 secondary shotgun. Use flechette on the secondary shotgun to deal with snipers. Use tazer or a 35 damage class melee. Secondary deployable can be switched out to anything current heist/lobby requires most. Use either tazer or a poison melee weapon for utility, or run weapon butt for highest concealment bonus. Keep total detection <25.
+155 primary shotgun and a 325 secondary shotgun. Use flechette on the secondary shotgun to deal with snipers. Secondary deployable can be switched out to anything current heist/lobby requires most. Use either tazer or a poison melee weapon for utility, or run weapon butt for highest concealment bonus. Keep total detection <25.
 
 # Tag Team (2/5):
 
@@ -772,6 +772,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
 
