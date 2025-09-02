@@ -112,7 +112,9 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 
 # Custom Weapons Support
 
-This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes. Beware: some custom weapons may have attachments that change damage/ammo pick up/total max ammo, or other stats in such a way that it will not match Gilza's values well, making them either too good, or bad. I can't do anything about it, other then __manually__ adding support for __every gun individually__, and that is tedious, but this is planned for future patches.
+This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes. Beware: some custom weapons may have attachments that change damage/ammo pick up/total max ammo, or other stats in such a way that it will not match Gilza's values well, making them either too good, or bad. I can't do anything about it, other then __manually__ adding support for __every gun individually__. This is planned for future patches.
+
+Custom "special" category weapons are not supported.
 
 Currently supported attachment mods:  
 All of FrenchyAU's tacticool attachments packs (250+ attachments). Check Gilza's dependencies & Instructions tab on the [MWS page](https://modworkshop.net/mod/39854) for links.
@@ -126,8 +128,6 @@ Currently supported custom weapons:
 * [L115](https://modworkshop.net/mod/17368)
 * [MW2022 Marlin Model 336](https://modworkshop.net/mod/42220)
 * [MW2022 S&W Model 500](https://modworkshop.net/mod/42438)
-
-Custom "special" category weapons are not supported.
 
 # Additional QOL features
 
@@ -297,6 +297,7 @@ Good luck, have fun! :D
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
+
 
 
 
