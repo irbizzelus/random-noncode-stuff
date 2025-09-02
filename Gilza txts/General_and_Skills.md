@@ -200,6 +200,7 @@ Good luck, have fun! :D
 | Tier 4 | Fully Loaded | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Fully_Loaded.png)  |  Ammo pick up amount was effectively buffed, since in vanilla, if you have a maxed out perk deck, neutral perk card #6 always gives you 1.35x ammo pick up increase, while this skill buffs this amount to 1.75x, making total bonus from this skill to be roughly ~23%, and now it's 25%. Since you now can pick up grenades without "Fully Loaded", grenade pick up you have with this skill was also increased, compared to vanilla. |
 | Tier 3 |  Extra Lead | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Extra_Lead.png) | Bonuses swapped since aced version in vanilla provided less value then basic. This also slightly buffs ammo bags if you want to use them as secondary deployable with "Jack Of All Trades" skill. |
 | Tier 3  | Saw Massacare | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Saw_Massacare.png) | Aced version now provides ammo pick up for the saw, making it more combat viable. This is the only ammo pick up in the game that always stays the same, regardless of any other skills/perks that adjust ammo pick up rates. |
+| Tier 2  | Bulletstorm | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Bulletstorm.png) | Grenade and rocket launchers no longer provide infinite ammo on use, but instead allow to fire directly from the magazine. This was done mostly to combat Commando rocket spam, but it also helps balance all other grenade launchers, by making them rely more on ammo pickups, instead of this skill. |
 
 ### Technician - Engineer
 
@@ -286,4 +287,5 @@ Good luck, have fun! :D
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
+
 
