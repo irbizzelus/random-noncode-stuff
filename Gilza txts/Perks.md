@@ -228,7 +228,7 @@ Bipodable LMG of your choice, and a secondary SMG for close quarters combat, sin
 |  ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Sociopath_vanilla.png)  | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Sociopath.png) |
 
 ### Changes Summary
-This perk deck is affected by all the important mod updates mentioned in [General info - Gilza rebalance changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes) above. Except for melee and Underdog trigger, other parts of the deck were untouched, since it's already good enough.
+This perk deck is affected by all the important mod updates mentioned in [General info - Gilza rebalance changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes) above. Except for melee and Underdog trigger, other parts of the deck were untouched, since it's already good enough. 2% damage resistance is not noticable due to new DR stacking mechanics.
 
 ### Additional info/tips
 Tip for both vanilla and Gilza - this is not a melee deck, despite how many buffs it gives to melee. This deck provides powerful armor regen/gating for mid ranges, as long as you are using one-shoting weapons, so you should focus on that.
@@ -502,9 +502,9 @@ Use any shotgun you want as primary, preferably with AP slugs, and if you feel l
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Hacker.png)  |
 
 ### Changes Summary
-Nerfed ECM cooldown to 140 seconds, nerfing it for both stealth and loud.  
-Cooldown gain per kill reduced from 6 to 4 seconds. ECM duration in loud increased to 12 seconds to compensate much longer breaks in between uses. Healing gained per kill was increased to compensate longer intervals in-between activations. Temporary dodge now requires 3 kills, and provides the same dodge bonus, but for longer to compensate breaks between uses.  
-This perk deck is simply too good, and the main reason for that is just the ECM stun effect. Making ECMs activate less often allows for stun spammibility of this deck to go down, while other buffs keep player survivability at roughly the same level.
+Nerfed ECM cooldown to 150 seconds, nerfing it for both stealth and loud.  
+Cooldown gain per kill reduced from 6 to 4 seconds. ECM duration in loud increased to 9 seconds to compensate much longer breaks in between uses. Healing gained per kill was increased to also compensate longer intervals in-between activations. Temporary dodge now requires 3 kills, and provides the same dodge bonus, but for longer to compensate breaks between uses.  
+This perk deck is simply too good, and the main reason for that is just the ECM stun effect. Making ECMs activate less often allows for stun spammibility of this deck to go down, while other buffs, both to the deck and artful dodger skill tree, keep player survivability at roughly the same level.
 
 ### Build(s) to try
 Barebone skills - get additional dodge and "bullseye" for armor gating, rest is up to you.
@@ -772,6 +772,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
 
