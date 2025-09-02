@@ -117,6 +117,16 @@ This mod will automatically search for custom weapons and convert their damage s
 Currently supported attachment mods:  
 All of FrenchyAU's tacticool attachments packs (250+ attachments). Check Gilza's dependencies & Instructions tab on the [MWS page](https://modworkshop.net/mod/39854) for links.
 
+Currently supported custom weapons:  
+* [DT MDRX 7.62x51mm](https://modworkshop.net/mod/35608)
+* [HK G3A3 HK79](https://modworkshop.net/mod/23676)
+* [M4A1 Grenadier](https://modworkshop.net/mod/37996) and it's [addon](https://modworkshop.net/mod/40785)
+* [Payday 3 Tribune 32](https://modworkshop.net/mod/51546)
+* [SKS](https://modworkshop.net/mod/17243)
+* [L115](https://modworkshop.net/mod/17368)
+* [MW2022 Marlin Model 336](https://modworkshop.net/mod/42220)
+* [MW2022 S&W Model 500](https://modworkshop.net/mod/42438)
+
 Custom "special" category weapons are not supported.
 
 # Additional QOL features
@@ -287,5 +297,6 @@ Good luck, have fun! :D
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
+
 
 
