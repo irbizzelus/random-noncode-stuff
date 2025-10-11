@@ -32,7 +32,7 @@ On this page you can find __ALL__ general and skill related changes this mod mak
 
 ### Enemy changes
 All enemies now have same amount of health on all difficulties, with values being similar to vanilla Death Wish difficulty.  
-Headshot multipliers are not set to 2x for most enemies, with exceptions for some special enemies.
+Headshot multipliers are now set to 2x for most enemies, with exceptions for some special enemies.
 
 ### Melee rework (important for some skills)
 Melee weapons now deal % damage - if your melee has 35 damage, it will deal 35% of enemy's health in one hit. Some enemies are exceptions to this rule.
@@ -297,6 +297,7 @@ Good luck, have fun! :D
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
+
 
 
 
