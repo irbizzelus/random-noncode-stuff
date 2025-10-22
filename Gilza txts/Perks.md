@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to select the perk you are interested in: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for Gilza version: 2.5.1
+Stats are updated for Gilza version: 2.5.2
 
 # General info:
 
@@ -133,7 +133,7 @@ Use any akimbo SMG's of your choice, and a high accuracy secondary of your choic
 
 ### Changes Summary
 Probably the biggest rework of all vanilla perk decks, because vanilla version is just ass. Armor recovery is a stat that could've been important if default armor recovery timer was 5 or more seconds instead of 3, or if different armors actually altered this timer, but this is not the reality. This rework has only kept the final 9th card the same, because that effect is relatively powerful, compared to the rest of this deck.  
-- Card 1: Now rewards you for landing "badass" kills with throwing knives or melee weapons, to somewhat fulfill the fantasy of John Wick movies, in which anything can be a powerful weapon in your hands.  
+- Card 1: Now rewards you for landing "badass" kills with throwing knives or melee weapons, to somewhat fulfill the fantasy of John Wick movies, in which anything can be a powerful weapon in your hands. Extra armor added to allow for 2 tap armor on DS difficulty.  
 - Card 3: Statistical buffs to akimbos are the same (-16 in vanilla is an error, actual buff is just -8), and the armor recovery bonus was converted into a temporary bonus (like Overkill skill) to keep this aspect of the original perk still present. Limiting trigger to specific weapon types makes it less powerful than if you had it passively at all times from any kill, but since this bonus can be increased (in Card 7) and other bonuses were also added, it would be a bit too good otherwise.  
 - Card 5: Now provides 10 second of invulnerability with 30 second cooldown (similarly to armorer, effective cooldown is 30-10=20 seconds), if you manage to secure a specific combo. In my experience this combo is extremely difficult to achieve, especially at higher difficulties, which makes the reward that you get balanced, even if you consider the 7th card buff.  
 - Card 7: Having a bounty system on a perk deck that is named "Hitman" is just simply cool, this was good enough of a reason to add this. After killing your bounty you will now improve aspects of previous hitman specific perk cards, making the user of this deck more effective than it's vanilla counterpart, but only sometimes, and not for too long, which makes it balanced, while also allowing you to play it roughly how you would in vanilla (aka relying purely on recovery).
@@ -434,12 +434,13 @@ Primary focused on accuracy, secondary focused on DPS or shield AP. Kobus 90 wit
 
 # Sicario (1/5):
 
-| Vanilla (1st card) | Gilza (1st card) |
+|  | Updated cards - 1, 3, 9 |
 | -------- | -------- |
-| ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario_vanilla.png) | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario.png) |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario.png)  |
 
 ### Changes Summary
-Smokebomb cooldown was reduced from 60 to 45 seconds, since this perk deck is alright.
+UPDATE ME
 
 ### Additional info/tips
 Do not equip new revitalized skill from tier 4 artful dodge subtree since it doesn't do anything when you have sicario.
@@ -726,7 +727,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Biker
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Biker.png) |
 | -------- |
-| Copies only the first card, just like in vanilla. For details on first card updates go to the Biker tab, but as TLDR: it has more reliable armor gating now. |
+| Copies only the first card, just like in vanilla. For details on first card updates go to the Biker tab, but as TLDR: it has more reliable armor gating now. To compensate said improvements, regenerative bonuses were sligtly nerfed. |
 
 ### 9th copy - Kingpin
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Kingpin.png) |
@@ -772,6 +773,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
 
