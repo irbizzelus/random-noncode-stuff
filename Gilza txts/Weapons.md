@@ -275,7 +275,7 @@ Magazines now completely change how flamethrower performs:
 * Ammo capacity stats changed from 750(mag)/750(total) to 600(mag)/900(total).
 * Reload sped up by 20%.
 * Ammo pick up altered, and is now different between the two miniguns we have, since one does more damage per bullet then another.
-* Hailstorm now has 210/630 ammo, better accuracy/stability stats and no damage drop-off penalties. Ammo pick up for it is slightly better then in vanilla as well.
+* Hailstorm now has 210/525 ammo, better accuracy/stability stats and no damage drop-off penalties, but it's ability to pierce multiple enemies in volley mode was removed.
 
 Body expertise skill works wonders with these weapons.
 
@@ -298,6 +298,7 @@ Body expertise skill works wonders with these weapons.
 * All throwables can now be picked up from ammo boxes if you have any perk with 6th common perk card maxed out, but pick up rate is different for every throwable. Pick up rates can be found in throwable descriptions.
 * Most stats were left untouched, except for DOT (damage-over-time) effects, and a few throwable projectile weapons to make them more varied (or just usable - looking at you "Ace of Spades" with 40 damage in vanilla).
 * All important stats are now included in each throwable's description.
+
 
 
 
