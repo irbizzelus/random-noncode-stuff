@@ -449,7 +449,7 @@ Improved Sicario's neutral game by making the 3rd card "Twitch" much more reliab
 Do not equip new revitalized skill from tier 4 artful dodge subtree since it doesn't do anything when you have sicario.
 
 ### Build(s) to try
-Barebone skills - Since sicario's dodge has extra RNG involved, you should try to rely on your health a bit more, so hostage taker and/or First Aid Kits are solid options. Use "Bullseye" for armor gating as always, and never equip revitalized, because this skill effectively does nothing for sicario.
+Barebone skills - New sicario dodge is easier to manage, but its still low relatively to other dodge skills, so you should rely on your health a bit more. Hostage taker and/or First Aid Kits are solid options. Use "Bullseye" for armor gating as always, and never equip revitalized, because this skill effectively does nothing for sicario.
 
 Build 1 - Supportive Smokey Sniper https://pd2builder.netlify.app/?s=5O5g0V008110-7102h14000h00&p=h&a=0&t=e&d=5  
 Use your smoke to help with revives, objectives, or if you feel like situation is threatening enough. Insider assets is a great supportive skill, even if it's not viable on every heist. Aced swan song allows for both clutch moments and great damage bursts. Stockholm syndrome will elevate your survivability if your team did not bring enough doctor bags, and will allow for some additional crowd control if your stacks are high enough.   
@@ -776,6 +776,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
 
