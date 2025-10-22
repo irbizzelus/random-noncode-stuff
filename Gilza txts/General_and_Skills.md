@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to select the section you are looking for: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Information is up to date with Gilza version: 2.5.1
+Information is up to date with Gilza version: 2.5.2
 
 Originally inspired by [IREnFIST](https://modworkshop.net/mod/28585) 
 
@@ -74,22 +74,23 @@ Also your perks can get reset. Perk reset DOES NOT remove how many perk points y
 All enemies will now have same amount of health on all difficulties.  
 New health values are similar to vanilla Death Wish difficulty, and can be found in the table bellow:  
 
-| Enemy type | Health |  Headshot multiplier |
-| -------- | -------- | -------- |
-|  Light Swat | 500 | 2 |
-|  Heavy Swat | 900 | 2 |
-|  Street cop/Sniper | 250 | 2 
-|  Shield | 500 | 2 |
-|  Medic/Tazer/Marshal sniper | 1250 | 2 |
-|  Marshal shield pre-brake | 900 | 2 |
-|  Marshal shield post-brake | 2500 | 2 |
-|  Cloaker | 1540 | 2.8 |
-|  Bulldozer | 12000 | 6 |
-|  Headless Bulldozer* | 12000 | 1 |
-|  Minigun Bulldozer | 24000 | 6 |
-|  Cpt. Winters | 4000 | 4 |
+| Enemy type | Health |  Headshot multiplier | Proj. Explosive damage mul** |
+| -------- | -------- | -------- | -------- |
+|  Light Swat | 500 | 2 | - |
+|  Heavy Swat | 900 | 2 | - |
+|  Street cop/Sniper | 250 | 2 | - |
+|  Shield | 500 | 2 | - |
+|  Medic/Tazer/Marshal sniper | 1250 | 2 | 0.69 |
+|  Marshal shield pre-brake | 900 | 2 | - |
+|  Marshal shield post-brake | 2500 | 2 | - |
+|  Cloaker | 1540 | 2.8 | 0.42 |
+|  Bulldozer | 12000 | 6 | - |
+|  Headless Bulldozer* | 12000 | 1 | - |
+|  Minigun Bulldozer | 24000 | 6 | - |
+|  Cpt. Winters | 4000 | 4 | - |
 
-\* - only takes half damage from bullets, to compensate new increased weapon damage. Health unchanged to avoid issues with explosive weapon damage sync.
+\* - only takes half damage from bullets, to compensate new increased weapon damage. Health unchanged to avoid issues with explosive weapon damage sync.    
+\** - while using projectile explosive weapons like grenade launchers (but not bows/crossbows), lobby host handles damage calculations for those explosions. Due to the difference between vanilla and Gilza's healthpools this could lead to a situation where certain enemies would die faster if you are hosting with Gilza, than if you were to play as client with a host who is running vanilla. To eliminate this issue, explosive damage multipliers were added to some enemies for the host who is running Gilza, to make time to kill and kill breakpoints same across host/client play.
 
 All Bulldozers on Death Sentence difficulty have 2x health.  
 Bosses have different levels of health, headshot multipliers and melee resistances, resembling their stats as close to vanilla as possible.  
@@ -112,22 +113,7 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 
 # Custom Weapons Support
 
-This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes. Beware: some custom weapons may have attachments that change damage/ammo pick up/total max ammo, or other stats in such a way that it will not match Gilza's values well, making them either too good, or bad. I can't do anything about it, other then __manually__ adding support for __every gun individually__. This is planned for future patches.
-
-Custom "special" category weapons are not supported.
-
-Currently supported attachment mods:  
-All of FrenchyAU's tacticool attachments packs (250+ attachments). Check Gilza's dependencies & Instructions tab on the [MWS page](https://modworkshop.net/mod/39854) for links.
-
-Currently supported custom weapons:  
-* [DT MDRX 7.62x51mm](https://modworkshop.net/mod/35608)
-* [HK G3A3 HK79](https://modworkshop.net/mod/23676)
-* [M4A1 Grenadier](https://modworkshop.net/mod/37996) and it's [addon](https://modworkshop.net/mod/40785)
-* [Payday 3 Tribune 32](https://modworkshop.net/mod/51546)
-* [SKS](https://modworkshop.net/mod/17243)
-* [L115](https://modworkshop.net/mod/17368)
-* [MW2022 Marlin Model 336](https://modworkshop.net/mod/42220)
-* [MW2022 S&W Model 500](https://modworkshop.net/mod/42438)
+This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes, but even then some stats may not fit Gilza well. For the list of custom weapons currently supported by Gilza go to the [Weapon info page](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md#custom-weapons-support).
 
 # Additional QOL features
 
@@ -178,7 +164,7 @@ Good luck, have fun! :D
 
 | Tier level | Skill | Description |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
-| Tier 4 | Graze | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Graze.png)  |  Damage calculations were updated to remove the need for headshots, and to make this skill's damage more consistent. Minimal trigger distance was added to incentivize sniping. Semi automatic AR's and SMG's were allowed to make this sub-tree make a bit more sense, since majority of other skills bellow are focused on single fire mode. |
+| Tier 4 | Graze | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Graze.png)  |  UPDATE ME |
 | Tier 3 |  Body Economy | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Body_Economy.png) | Similarly to vanilla this skill will now provide reload bonuses, but they are now harder to achieve. Ability to reload your other weapon after a kill was kept, since reload bonus only disappears after a kill, after a reload. Ammo bonuses for bodyshots were added to make this skill a bodyshot alternative for "Ammo Efficiency" skill which is focused on headshots, and to allow for "Graze" kills to give you some extra ammo. |
 | Tier 2   | Designated Marksman | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Designated_Marksman.png) | Now has a new effect that is based on Gilza's new weapon recoil, other upgrades were mostly untouched. Ability to tweak zoom amount was added since having more zoom is not always needed, so you can now customize it however you like. |
 | Tier 2   | Slow and Steady | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Mastermind/Slow_And_Steady.png) | New upgrade for a slower playstyle, especially with bipod'able weapons.  |
@@ -207,7 +193,7 @@ Good luck, have fun! :D
 
 | Tier level | Skill | Description |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
-| Tier 4 | Fully Loaded | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Fully_Loaded.png)  |  Ammo pick up amount was effectively buffed, since in vanilla, if you have a maxed out perk deck, neutral perk card #6 always gives you 1.35x ammo pick up increase, while this skill buffs this amount to 1.75x, making total bonus from this skill to be roughly ~23%, and now it's 25%. Since you now can pick up grenades without "Fully Loaded", grenade pick up you have with this skill was also increased, compared to vanilla. |
+| Tier 4 | Fully Loaded | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Fully_Loaded.png)  |  Ammo pick up amount was effectively buffed, since in vanilla, if you have a maxed out perk deck, neutral perk card #6 always gives you 1.35x ammo pick up increase, while this skill buffs this amount to 1.75x, making total bonus from this skill to be roughly ~23%, and now it's 25%. Since you now can pick up grenades without "Fully Loaded", grenade pick up you have with this skill was increased relatively to vanilla. The pickups themslevs are also amount based now instead of RNG based to make individual greanade amounts balancing easier. |
 | Tier 3 |  Extra Lead | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Extra_Lead.png) | Bonuses swapped since aced version in vanilla provided less value then basic. This also slightly buffs ammo bags if you want to use them as secondary deployable with "Jack Of All Trades" skill. |
 | Tier 3  | Saw Massacare | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Saw_Massacare.png) | Aced version now provides ammo pick up for the saw, making it more combat viable. This is the only ammo pick up in the game that always stays the same, regardless of any other skills/perks that adjust ammo pick up rates. |
 | Tier 2  | Bulletstorm | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Enforcer/Bulletstorm.png) | Grenade and rocket launchers no longer provide infinite ammo on use, but instead allow to fire directly from the magazine. This was done mostly to combat Commando rocket spam, but it also helps balance all other grenade launchers, by making them rely more on ammo pickups, instead of this skill. |
@@ -233,7 +219,7 @@ Good luck, have fun! :D
 
 | Tier level | Skill | Description |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
-| Tier 4 | Body Expertise | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Body_Expertise.png)  |  Basic version now allows you to deal full headshot damage on most enemies, if you have lazy aim. This is fine since new ammo economy is extremely tough even if you never miss headshots. Aced version now allows to pierce enemy body armor if your AP chance has failed, but with reduced damage, similarly to new Surefire, while also providing a new DPS skill option, which only has a few specific breakpoints that it can actually work well with. Also feels a bit weird, because bodyshots now do more damage then headshots. LOL. |
+| Tier 4 | Body Expertise | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Body_Expertise.png)  |  More supported weapon types added. Basic version now allows you to deal full headshot damage on most enemies, if you have lazy aim. This is fine since new ammo economy is extremely tough even if you never miss headshots. Aced version now allows to pierce enemy body armor if your AP chance has failed, but with reduced damage, similarly to new Surefire, while also providing a new DPS skill option, which only has a few specific breakpoints that it can actually work well with. Also feels a bit weird, because bodyshots now do more damage then headshots, allowing for an actual leg meta. LOL. |
 | Tier 3 |  Lock N Load | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Lock_N_Load.png) | In vanilla you get more reload speed on a smaller magazine weapon, even though they already have faster reload speeds. This backwards logic never made sense to me, so this is now working in reverse. |
 | Tier 3  | Surefire | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Surefire.png) | Aced version now provides a passive AP chance for enemy body armor, and also a failsafe in case this chance fails - if AP chance fails you can still penetrate enemy body armor, but such shots have a 50% damage penalty. This is a compensation for the generally better weapon efficiency with bodyshots, and also a really good option to combine with other new AP chance skills. Or it can be combined with new "Body Expertise" aced version to practically nullify the 50% damage penalty. |
 | Tier 2   | Heavy Impact | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Heavy_Impact.png) | Max possible chances tripled, but to get them you need to have a high enough threat level on your weapon. This was added to make this skill more synergetic with "loud" weapons.  |
@@ -271,7 +257,7 @@ Good luck, have fun! :D
 | Tier level | Skill | Description |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
 | Tier 4 | Bottomless Pockets | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Bottomless_Pockets.png)  |  Now provides increased ammo capacity for small-caliber weapons and improved ammo pick up, especially for secondaries, and can now help both sides of this sub-tree. |
-| Tier 3 |  Trigger Happy | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Trigger_Happy.png) | Now combines effects of conditional "on-hit" pistol skills Desperado and Trigger Happy into one skill, to make left side of this tree focused on pistols. Overall effectiveness of those bonuses reduced to compensate. Aced bonus allows you to use single fire mode pistols in practically full auto mode. Since this is a single-fire mode which your character automatically handles for you, this is still considered single fire, so the full-auto fire mode penalties to accuracy do not apply. |
+| Tier 3 |  Trigger Happy | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Trigger_Happy.png) | Now combines effects of conditional "on-hit" pistol skills Desperado and Trigger Happy into one skill, to make left side of this tree focused on pistols. Overall effectiveness of those bonuses reduced to compensate. Aced bonus allows you to use single fire mode pistols in practically full auto mode. Since this is a single-fire mode which your character automatically handles for you, this is still considered single fire. Ace'ing this skill also makes full auto fire mode inaccuracy penalties no longer apply to your pistols. |
 | Tier 3  | Double Trouble | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Double_Trouble.png) | Now provides new bonuses for akimbo weapons, to make right side of this sub-tree focused on akimbo weapons. |
 | Tier 2   | Gun Nut | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Gun_Nut.png) | Magazine capacity was removed, to avoid confusion when using revolvers. Rate of fire effect is smaller, compensating for new pistol ROF adjustments, and new "Trigger Happy". Slightly nerfed reload speed bonus which was moved here from skill known in vanilla as "Desperado".  |
 | Tier 1  | Equilibrium | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Equilibrium.png)  | Slightly improved aced version, since Mastermind's Stable Shot skill would just be a straight up better alternative otherwise. |
@@ -297,6 +283,7 @@ Good luck, have fun! :D
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
+
 
 
 
