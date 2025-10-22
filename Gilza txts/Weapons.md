@@ -150,7 +150,7 @@ Additional stats, like damage-over-time damage/duration, and ammo pick up change
 
 * **Breaching round**: new ammo type for __*primary*__ pump-action shotguns - can open any locked space that OVE9000 saw usually can. Also allows to pen shields and body armor. Can not be used with silencers. Great substitute for the OVER9000 saw if you are running shotgun skills.
 * **Buckshot**: doubles your damage, removes extra headshot damage, increases pellet count and allows for body and multi-enemy AP. Built for multi-hit spam.
-* **HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, which leads to enemies in the blast radius receiving more damage. Note: Gilza reduced damage dealt to other players while using any kind of explosive bullets, so using double barrel shotguns with HE ammo should be safe around your teammates.
+* **HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, which leads to enemies in the blast radius receiving more damage. Note: Gilza reduces damage dealt to other players while using any kind of explosive bullets, so using double barrel shotguns with HE ammo should be safe around your teammates.
 * **Flechette**: "Pellet" amount reduced to 5. Still provides body armor pen and increased damage range, at the cost of ammo pick up and worse multi-hit potential.
 * **AP slugs**: provides same AP and similar range bonuses as in vanilla PD2, but ammo pick up is worse.
 * **Dragon's breath**: Reduces amount of pellets to 8. Deals 350 fire damage over a 2.5 second period to any lit target. Activation range and ammo pick up reduced, compared to vanilla.
@@ -325,4 +325,5 @@ Currently supported custom weapons:
 * [HX25 Handheld Grenade Launcher](https://modworkshop.net/mod/21556)
 * [SIG Sauer MCX SPEAR/XM7 NGSW-R](https://modworkshop.net/mod/36582)
 * [Railgun Rorsch MK-1](https://modworkshop.net/mod/22281)
+
 
