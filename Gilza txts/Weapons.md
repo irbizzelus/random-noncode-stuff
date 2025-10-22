@@ -261,7 +261,7 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 
 ### Flamethrowers:
 Ammo capacity was reduced, reload speed and damage were increased.  
-Secondary flamethrower has identical stats to primary, but with lower ammo pick up.
+Secondary flamethrower has identical stats to primary, but with lower ammo pick up.    
 Flamethrowers can normaly deal bonus headshot damage, and thanks to Gilza, they can now benefit from the Body Exprertise skill.
 
 Magazines now completely change how flamethrower performs:
@@ -325,3 +325,4 @@ Currently supported custom weapons:
 * [HX25 Handheld Grenade Launcher](https://modworkshop.net/mod/21556)
 * [SIG Sauer MCX SPEAR/XM7 NGSW-R](https://modworkshop.net/mod/36582)
 * [Railgun Rorsch MK-1](https://modworkshop.net/mod/22281)
+
