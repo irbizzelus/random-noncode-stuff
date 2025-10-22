@@ -432,7 +432,7 @@ Fairly standard kingping gameplay, with unseen strike being your main DPS skill.
 Weapons to use:  
 Primary focused on accuracy, secondary focused on DPS or shield AP. Kobus 90 with AP ammunition attachment is a solid option. Any 75 damage class melee to deal with bulldozers, or a 35 damage class melee if either of your weapons has shield AP, to compensate lower ammo pick ups with more melee kills.
 
-# Sicario (1/5):
+# Sicario (3/5):
 
 |  | Updated cards - 1, 3, 9 |
 | -------- | -------- |
@@ -440,7 +440,10 @@ Primary focused on accuracy, secondary focused on DPS or shield AP. Kobus 90 wit
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Sicario.png)  |
 
 ### Changes Summary
-UPDATE ME
+Improved Sicario's neutral game by making the 3rd card "Twitch" much more reliable, as well as a few other QOL imporvements.
+- Card 1: Now allows for smoke regeneration on kill to happen while the smoke itself is active, to allow the player to use the smoke more agressively. 
+- Card 3: Basically made the card work as it's described in vanilla's description. In vanilla, despite what the description says, the skill works differently, and you should understand how it works in vanilla first: any time you take bullet damage, you will recieve the 20% dodge bonus to yourself, after which the 4 second cooldown activates, during said cooldown you are not allowed to gain more dodge from this card. After the cooldown is over, taking bullet damage again will add 20% more bonus dodge from this card, and the 4 second cooldown is activated again. If at any point you dodge, you lose any amount of accumulated dodge you got from this card. The obvious issue you may notice, besided inaccurate description, is the fact that this skill, even if you know how it works and have info huds tracking it's cooldowns and values, its still basically uselses, because it will provide you with bonus dodge completely randomly, making it extremely unreliable. Gilza's rework will now work as it's actualy described in vanilla: any time you take bullet damage (or melee dmg, thats a Gilza bonus) you gain 15% dodge without any cooldowns. If you take 2 hits in a row, you have 30% bonus dodge from this card now. After you sucessfully dodge by any means, this dodge bonus is now removed, and the skill goes on cooldown during which you can not recieve any bonus dodge from it. To make this, much more reliable and predictable skill balanced, dodge gain was reduced from 20% to 15%, and the cooldown itself will now scale with armor used (because having a reliable dodge which fully refills armor on ICTV would be busted). Cooldown scales from 4 (suit) to 16 (ICTV) seconds. This makes sicario's neutral game without the smoke much more reliable and easier.   
+- Card 9: Made description more accurate, as this card never affected neutral cards, like medic bag interaction speed. Additionaly, the 3rd card's cooldown will no longer be activated if you are standing inside of your sicario smoke screen, which allows for said bonus to climb to near 100% dodge chance, and it will not reset on dodge untill you leave the smoke area. This makes sicario smokes a much more reliable survival tools, because having to gamble for your life after using a survival ability with a 60 second long cooldown seems absurd when anarchist/armorer get 2 seconds reliably every 15 seconds. Also keep in mind, that even though this ability can allow you to reach "god mode" by getting you to 100% dodge via the 3rd card, it may only do so if that card is currently not on cooldown, since activating the smoke does not reset the cooldown from the 3rd card. This is important mostly if u are going to give ICTV sicario a try, since lower armor cooldowns are much shorter and will most likely be availalbe during the smoke.
 
 ### Additional info/tips
 Do not equip new revitalized skill from tier 4 artful dodge subtree since it doesn't do anything when you have sicario.
@@ -773,6 +776,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
 
 
 
