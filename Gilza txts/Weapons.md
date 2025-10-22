@@ -291,7 +291,7 @@ Body expertise skill works wonders with these weapons.
 * High velocity rounds: New grenade type (not available on Basilisk 3V and Arbiter grenade launchers). Grenade's travel speed is tripled at a cost of 20% ammo pick up. Other stats are identical to standard frag round. NOTE: does not work as a client, because host handles projectiles in PD2 and i can't do anything about it. What i can do, is make your ammo pick up identical to the standard frag round if you are playing as a client, so you wouldn't have to worry about swapping nade types all the time.
 * Poison grenades: practically can't kill anything, BUT the damage over time effect is now longer, and during IT'S FULL DURATION enemies are now stun locked in the vomiting animation. This makes poison an extremely effective slow-down/crowd control tool, especially if you use it in chokes, or on enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now. Ammo pick up is extremely low, and max ammo is reduced heavily to compensate new CC power.
 * Incendiary grenades: Ammo pick up is reduced by a bit more than in the base game.
-* Sting grenades (the shotgun-like one) now provide a higher pick up rate, provide multi-enemy and body AP. They also increase total ammo capacity and reload speed for non-underbarrel launchers. 
+* Sting grenades (the shotgun-like one) now provide a higher ammo pick up rate, provide multi-enemy and body AP. They also increase total ammo capacity and reload speed for non-underbarrel launchers. 
 
 # Throwables:
 ### General updates:
@@ -325,5 +325,3 @@ Currently supported custom weapons:
 * [HX25 Handheld Grenade Launcher](https://modworkshop.net/mod/21556)
 * [SIG Sauer MCX SPEAR/XM7 NGSW-R](https://modworkshop.net/mod/36582)
 * [Railgun Rorsch MK-1](https://modworkshop.net/mod/22281)
-
-
