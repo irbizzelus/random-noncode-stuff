@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for Gilza version: 2.5.1
+Stats are updated for Gilza version: 2.5.2
 
 # General weapon handling updates:
 ## Recoil: general changes
@@ -56,7 +56,7 @@ This system is also enabled for burst-fire mode.
 # General weapon tweaks:
 * Weapons' accuracy and stability are no longer affected if you: crouch, jump, walk or sprint.
 * DMR kits and some long barrel attachments were converted into "AP kits" that can penetrate shields, body armor and walls, at the cost of ammo pick up.
-* All weapons that by default come with armor piercing properties, have halved ammo pick up compared to their non AP counterparts in the same damage class.
+* All weapons that by default come with armor piercing properties, have reduced ammo pick up compared to their non AP counterparts in the same damage class.
 * All weapons that come equipped with underbarrel launchers have 30% less ammo pick up.
 * More weapon attachments have descriptions now, and with more details like ammo pick up changes, damage values for damage over time effects, etc.
 * A LOT of weapon attachments were rebalanced.
@@ -87,7 +87,7 @@ Additional changes:
 
 # Assault rifles:
 ### General AR updates
-* All DMR kits and some long barrel attachments were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is halved. Affected weapons: Car-4, AK74, AK 7.62, Golden AK 7.62, AMR16, Clarion, Gewehr3, KS12 (upper receiver).
+* All DMR kits and some long barrel attachments were reworked into "Armor piercing kits" that can penetrate shields, body armor and walls, but ammo pick up while using them is reduced. Affected weapons: Car-4, AK74, AK 7.62, Golden AK 7.62, AMR16, Clarion, Gewehr3, KS12 (upper receiver).
 * About a half of all AR's had their rate of fire updated.
 
 ### New damage classes
@@ -143,14 +143,14 @@ Shotgun multiplier is different per shotgun class - double barrels for example a
 |Double barrel|900 dmg|1|1|1|Can one-shot-bodyshot light and heavy swats. One-shot everyone else (except Bulldozers) in the head.|
 |Pump-action|450 dmg|1|1|0.8|Slowest, but most reliable of them all. The only type to have new "Breaching" rounds.|
 |Semi-auto no mag|325 dmg|1|2|0.67|The in-betweeners. Become 1-1 shots to kill type with "overkill" skill if all pellets connect.|
-|Some semi-auto's and full-auto's with mags|155 dmg|2|3|0.5|Spammm. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduce your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
+|Some semi-auto's and full-auto's with mags|160 dmg|2|3|0.5|Spammm. Getting to 161 damage with attachments allows for great new breakpoints with Overkill skill active, and getting to 163 damage with both Overkill and Underdog skills active will improve some breakpoints further.|
 
 ### Shotgun ammo
 Additional stats, like damage-over-time damage/duration, and ammo pick up changes, are included in game ammo descriptions.
 
 * **Breaching round**: new ammo type for __*primary*__ pump-action shotguns - can open any locked space that OVE9000 saw usually can. Also allows to pen shields and body armor. Can not be used with silencers. Great substitute for the OVER9000 saw if you are running shotgun skills.
-* **Buckshot**: doubles your damage, removes extra headshot damage, increases pellet count and allows for body AP. Built for multi-hit spam.
-* **HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, which leads to enemies in the blast radius receiving more damage.
+* **Buckshot**: doubles your damage, removes extra headshot damage, increases pellet count and allows for body and multi-enemy AP. Built for multi-hit spam.
+* **HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, which leads to enemies in the blast radius receiving more damage. Note: Gilza reduced damage dealt to other players while using any kind of explosive bullets, so using double barrel shotguns with HE ammo should be safe around your teammates.
 * **Flechette**: "Pellet" amount reduced to 5. Still provides body armor pen and increased damage range, at the cost of ammo pick up and worse multi-hit potential.
 * **AP slugs**: provides same AP and similar range bonuses as in vanilla PD2, but ammo pick up is worse.
 * **Dragon's breath**: Reduces amount of pellets to 8. Deals 350 fire damage over a 2.5 second period to any lit target. Activation range and ammo pick up reduced, compared to vanilla.
@@ -221,7 +221,7 @@ Pistols are now a comfortable alternative for mid ranges, while SMG's are better
 |250 dmg|1|2|Heavy and reliable pistols, best all around if user is accurate.|
 |450 dmg|1|1|Revolvers. Ammo related skills recommended.|
 
-The Peacemaker .45 revolver has a damage class of 650, which allows it to one-shot bodyshot light swats, and 2 shot bodyshot tazers without skill investments, it can also hit enemies through each other and can pierce enemy body armor by default. All of this was done to compensate it's god-awful reload speed. Otherwise has revolver-like ammo pick up and other stats.
+The Peacemaker .45 revolver has a damage class of 650, which allows it to one-shot bodyshot light swats, and 2 shot bodyshot tazers without skill investments, it can also hit enemies through each other and can pierce enemy body armor by default. All of this was done to compensate it's god-awful reload speed. It has 10% less ammo pick up than other revolvers, but all other stats are revolver-like.
 
 # Sub machine guns:
 
@@ -262,6 +262,7 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 ### Flamethrowers:
 Ammo capacity was reduced, reload speed and damage were increased.  
 Secondary flamethrower has identical stats to primary, but with lower ammo pick up.
+Flamethrowers can normaly deal bonus headshot damage, and thanks to Gilza, they can now benefit from the Body Exprertise skill.
 
 Magazines now completely change how flamethrower performs:
 |Mag|Stats|Playstyle|
@@ -290,7 +291,7 @@ Body expertise skill works wonders with these weapons.
 * High velocity rounds: New grenade type (not available on Basilisk 3V and Arbiter grenade launchers). Grenade's travel speed is tripled at a cost of 20% ammo pick up. Other stats are identical to standard frag round. NOTE: does not work as a client, because host handles projectiles in PD2 and i can't do anything about it. What i can do, is make your ammo pick up identical to the standard frag round if you are playing as a client, so you wouldn't have to worry about swapping nade types all the time.
 * Poison grenades: practically can't kill anything, BUT the damage over time effect is now longer, and during IT'S FULL DURATION enemies are now stun locked in the vomiting animation. This makes poison an extremely effective slow-down/crowd control tool, especially if you use it in chokes, or on enemies that are really far away. Also keeping your grinder/anarchist regen is even easier now. Ammo pick up is extremely low, and max ammo is reduced heavily to compensate new CC power.
 * Incendiary grenades: Ammo pick up is reduced by a bit more than in the base game.
-* Sting grenades (the shotgun-like one) now provides 250% increased ammo pick up instead of ~150%
+* Sting grenades (the shotgun-like one) now provide a higher pick up rate, provide multi-enemy and body AP. They also increase total ammo capacity and reload speed for non-underbarrel launchers. 
 
 # Throwables:
 ### General updates:
@@ -299,9 +300,28 @@ Body expertise skill works wonders with these weapons.
 * Most stats were left untouched, except for DOT (damage-over-time) effects, and a few throwable projectile weapons to make them more varied (or just usable - looking at you "Ace of Spades" with 40 damage in vanilla).
 * All important stats are now included in each throwable's description.
 
+# Custom Weapons Support
+Gilza will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes. Beware: some custom weapons may have attachments that change damage/ammo pick up/total max ammo, or other stats in such a way that it will not match Gilza's values well, making them either too good, or bad. I can't do anything about it, other then __manually__ adding support for __every gun individually__. This is planned for future patches.
 
+Custom "special" category weapons are not supported.
 
+Currently supported attachment mods:  
+All of FrenchyAU's tacticool attachments packs (250+ attachments). Check Gilza's dependencies & Instructions tab on the [MWS page](https://modworkshop.net/mod/39854) for links.
 
-
-
-
+Currently supported custom weapons:  
+* [DT MDRX 7.62x51mm](https://modworkshop.net/mod/35608)
+* [HK G3A3 HK79](https://modworkshop.net/mod/23676)
+* [M4A1 Grenadier](https://modworkshop.net/mod/37996) and it's [addon](https://modworkshop.net/mod/40785)
+* [Payday 3 Tribune 32](https://modworkshop.net/mod/51546)
+* [SKS](https://modworkshop.net/mod/17243)
+* [L115](https://modworkshop.net/mod/17368)
+* [MW2022 Marlin Model 336](https://modworkshop.net/mod/42220)
+* [MW2022 S&W Model 500](https://modworkshop.net/mod/42438)
+* [Defiance Blast Rifle](https://modworkshop.net/mod/32588)
+* [HK416](https://modworkshop.net/mod/19357)
+* [XR-2](https://modworkshop.net/mod/35603)
+* [Stoner 63A LMG & AR](https://modworkshop.net/mod/40135)
+* [Typhoon](https://modworkshop.net/mod/36055)
+* [HX25 Handheld Grenade Launcher](https://modworkshop.net/mod/21556)
+* [SIG Sauer MCX SPEAR/XM7 NGSW-R](https://modworkshop.net/mod/36582)
+* [Railgun Rorsch MK-1](https://modworkshop.net/mod/22281)
