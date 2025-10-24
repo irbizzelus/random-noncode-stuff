@@ -308,20 +308,31 @@ Custom "special" category weapons are not supported.
 Currently supported attachment mods:  
 All of FrenchyAU's tacticool attachments packs (250+ attachments). Check Gilza's dependencies & Instructions tab on the [MWS page](https://modworkshop.net/mod/39854) for links.
 
-Currently supported custom weapons:  
+### Currently supported custom weapons:  
+_Assault Rifles_:
 * [DT MDRX 7.62x51mm](https://modworkshop.net/mod/35608)
 * [HK G3A3 HK79](https://modworkshop.net/mod/23676)
 * [M4A1 Grenadier](https://modworkshop.net/mod/37996) and it's [addon](https://modworkshop.net/mod/40785)
-* [Payday 3 Tribune 32](https://modworkshop.net/mod/51546)
 * [SKS](https://modworkshop.net/mod/17243)
-* [L115](https://modworkshop.net/mod/17368)
-* [MW2022 Marlin Model 336](https://modworkshop.net/mod/42220)
-* [MW2022 S&W Model 500](https://modworkshop.net/mod/42438)
 * [Defiance Blast Rifle](https://modworkshop.net/mod/32588)
 * [HK416](https://modworkshop.net/mod/19357)
 * [XR-2](https://modworkshop.net/mod/35603)
-* [Stoner 63A LMG & AR](https://modworkshop.net/mod/40135)
-* [Typhoon](https://modworkshop.net/mod/36055)
-* [HX25 Handheld Grenade Launcher](https://modworkshop.net/mod/21556)
+* [Stoner 63A LMG & AR](https://modworkshop.net/mod/40135) (AR+LMG)
 * [SIG Sauer MCX SPEAR/XM7 NGSW-R](https://modworkshop.net/mod/36582)
+
+_SMGs_:
+* [Payday 3 Tribune 32](https://modworkshop.net/mod/51546)
+* [Typhoon](https://modworkshop.net/mod/36055)
+Snipers:
+* [L115](https://modworkshop.net/mod/17368)
+* [MW2022 Marlin Model 336](https://modworkshop.net/mod/42220)
+
+_Pistols_:
+* [MW2022 S&W Model 500](https://modworkshop.net/mod/42438)
+
+_LMG's_:
+* [Stoner 63A LMG & AR](https://modworkshop.net/mod/40135) (AR+LMG)
+
+_Specials_:
+* [HX25 Handheld Grenade Launcher](https://modworkshop.net/mod/21556)
 * [Railgun Rorsch MK-1](https://modworkshop.net/mod/22281)
