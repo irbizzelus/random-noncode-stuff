@@ -44,7 +44,7 @@ All damage resistance upgrades are now additive instead of multiplicative. For m
 Extent of skill changes is too vast to sum up, so you should check the "Skills Legend" picture on top of the skills section bellow, which summarizes skill rework information - if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
 
 Most perks received minor updates to improve their design (mostly for DS difficulty), with only 3 perks gaining "major" reworks. Don't forget to go over general (or "neutral") perk deck cards on the [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) page, since they apply to all perks, and by extension to all builds.  
-Additionaly, 3 new custom perks were added - "Brawler", "Speed Junkie" and "Guardian".
+Additionally, 3 new custom perks were added - "Brawler", "Speed Junkie" and "Guardian".
 
 ### Weapon Changes
 <ins>Damage and ammo:</ins>
@@ -283,5 +283,3 @@ Good luck, have fun! :D
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
-
-
