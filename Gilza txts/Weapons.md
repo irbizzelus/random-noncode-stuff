@@ -66,6 +66,15 @@ This system is also enabled for burst-fire mode.
 * Scopes on Sniper rifles will now have "logical" concealment - since snipers are starting with a huge 4x zoom optic, switching to a red dot should give you more concealment, don't you think?
 * Every shotgun will now deal a minimal % of it's damage with every shot - the % depends on the shotgun type. To deal full damage all pellets from the shot need to connect to the target. For a more detailed breakdown of new shotgun damage mechanics go to the shotgun tab bellow.
 
+## Improved flashlights
+Flashlight texture is improved by Gilza (if you have other mods adjusting this texture, they will most likely conflict, with gilza taking priority).    
+Flashlight range increased from 10 to 40 meters, but the flashlight brightness now goes down over distance.    
+Initial flashlight glow that comes out of the flashlight attachment is greatly reduced to reduce self-blinding.
+Visuals:
+| Vanilla | Gilza |
+| -------- | -------- |
+|  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Weapon_Images/Vanilla%20Flashlight.jpg)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Weapon_Images/Gilza%20Flashlight.jpg)  |
+
 # Melee weapons overhaul:
 Melee weapon damage that you see in your inventory now represents how much % of enemy's HP your weapon will deal with a swing. This includes charged damage as well. So if you have a melee weapon with 25(50) damage, it will kill an enemy in 4(2) hits.  
 Melee weapons now deal 20%-75% minimum damage per hit.
@@ -179,7 +188,8 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 ### General Sniper updates
 * Damage drop-off removed, they now deal same damage regardless of distance.
 * Can now one-shot headshot any enemy (except Dozers and cpt. Winters).
-* Now balanced around BODYSHOTS, and how many bullets it takes to kill enemies in the body. This makes most snipers a great option for people with lazy aim.
+* Now balanced around BODYSHOTS, and how many bullets it takes to kill enemies in the body. This makes most snipers a great option for people with lazy aim. (for those who prefer to pop heads, use semi-auto snipers)
+* All sniper rifles that come by default with a scope had their conceamnet stat decreased by 1, but all scope attachments will now increase your total concealment instead of reducing it, allowing you to use a holo sight instead of the default scope without losing concealment (because this makes no sense in vanilla).
 
 ### New damage classes
 
