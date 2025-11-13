@@ -10,7 +10,7 @@
 
 Information is up to date with Gilza version: 2.5.3
 
-Following description is copied almost 1-to-1 from modworkshop as the shortened introduction to the mod. To get to the "in-depth" section, scroll down to "[Global changes](https://github.com/irbizzelus/random-noncode-stuff/edit/main/Gilza%20txts/General_and_Skills.md#global-changes)".
+Following description is copied almost 1-to-1 from modworkshop as the shortened introduction to the mod. To get to the "in-depth" section, scroll down to "[Global changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/General_and_Skills.md#global-changes)".
 
 Originally inspired by [IREnFIST](https://modworkshop.net/mod/28585)    
 
@@ -285,3 +285,4 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
+
