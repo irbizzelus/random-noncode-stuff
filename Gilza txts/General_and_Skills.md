@@ -10,7 +10,9 @@
 
 Information is up to date with Gilza version: 2.5.3
 
-Originally inspired by [IREnFIST](https://modworkshop.net/mod/28585) 
+Following description is copied almost 1-to-1 from modworkshop as the shortened introduction to the mod. To get to the "in-depth" section, scroll down to "[Global changes](https://github.com/irbizzelus/random-noncode-stuff/edit/main/Gilza%20txts/General_and_Skills.md#global-changes)".
+
+Originally inspired by [IREnFIST](https://modworkshop.net/mod/28585)    
 
 # Welcome to Gilza  
 ("Gilza" is a Russian word for "Bullet casing")  
@@ -68,6 +70,28 @@ Also your perks can get reset. Perk reset DOES NOT remove how many perk points y
 
 <ins>__**EVEN MORE IMPORTANT**__</ins>: if you are going to give Gilza a try, check all mods that Gilza requires to function, under "Dependencies and Instructions" tab on the [MWS page](https://modworkshop.net/mod/39854). All mods that are tagged as "optional" are sorted in order of importance, from highest at the top to lowest at the bottom. I recommend getting everything before (but preferably also including) FrenchyAu's weapon attachment packs.
 
+# Custom Weapons Support
+
+This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes, but even then some stats may not fit Gilza well. For the list of custom weapons currently supported by Gilza go to the [Weapon info page](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md#custom-weapons-support).
+
+# Additional QOL features
+
+* While charging your melee weapons new melee UI will appear showing your charge amount and damage in %. This can be tweaked or disabled in Gilza's mod options.
+* You can spoof Gilza's custom perks, to avoid getting auto kicked in higher difficulty public lobbies, since some players are purists and can not comprehend any rebalance mods. This option can be disabled in Gilza's mod options.
+* You can reset your perk progression to re-acquire perk decks, allowing you to try new custom perk decks without grinding XP to unlock them. This option does not reset amount of perk points you have already earned.
+* While purchasing weapons on the blackmarket, they can now be sorted by their damage classes, either in ascending or descending order. This option can be disabled.
+* VanillaHud Plus's buff list (infoHUD) is supported for all major skill updates that Gilza makes.
+
+# Known issue:
+You can crash when entering a heist, while using Jackal SMG or one of the Chimano pistols, with certain attachment combos. This can only happen with weapons that you have modified attachments on before installing Gilza. Remove any gadgets from these weapons, or simply re-purchase them to avoid this issue.
+
+# Supported languages (depends on your SuperBLT's language):
+- English
+- Russian - а именно описания всех навыков, перков, оружий, элементы HUD'а и меню. Некоторые элементы могут быть на английском - если найдете что-нибудь не переведенное, пишите в комменты.
+
+Enjoy figuring out your new META and please provide feedback if something feels way too powerful.
+Good luck, have fun! :D
+
 # Global changes
 
 ### Enemies
@@ -110,28 +134,6 @@ Critical hits will now always deal 2.25x damage, instead of multiplying your dam
 
 <ins>Other</ins>  
 Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in game.
-
-# Custom Weapons Support
-
-This mod will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes, but even then some stats may not fit Gilza well. For the list of custom weapons currently supported by Gilza go to the [Weapon info page](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Weapons.md#custom-weapons-support).
-
-# Additional QOL features
-
-* While charging your melee weapons new melee UI will appear showing your charge amount and damage in %. This can be tweaked or disabled in Gilza's mod options.
-* You can spoof Gilza's custom perks, to avoid getting auto kicked in higher difficulty public lobbies, since some players are purists and can not comprehend any rebalance mods. This option can be disabled in Gilza's mod options.
-* You can reset your perk progression to re-acquire perk decks, allowing you to try new custom perk decks without grinding XP to unlock them. This option does not reset amount of perk points you have already earned.
-* While purchasing weapons on the blackmarket, they can now be sorted by their damage classes, either in ascending or descending order. This option can be disabled.
-* VanillaHud Plus's buff list (infoHUD) is supported for all major skill updates that Gilza makes.
-
-# Known issue:
-You can crash when entering a heist, while using Jackal SMG or one of the Chimano pistols, with certain attachment combos. This can only happen with weapons that you have modified attachments on before installing Gilza. Remove any gadgets from these weapons, or simply re-purchase them to avoid this issue.
-
-# Supported languages (depends on your SuperBLT's language):
-- English
-- Russian - а именно описания всех навыков, перков, оружий, элементы HUD'а и меню. Некоторые элементы могут быть на английском - если найдете что-нибудь не переведенное, пишите в комменты.
-
-Enjoy figuring out your new META and please provide feedback if something feels way too powerful.
-Good luck, have fun! :D
 
 -----
 
