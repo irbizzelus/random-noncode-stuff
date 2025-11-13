@@ -342,6 +342,7 @@ _Pistols_:
 
 _LMG's_:
 * [Stoner 63A LMG & AR](https://modworkshop.net/mod/40135) (AR+LMG)
+* [Blyspruta MX63 Light Machine Gun](https://modworkshop.net/mod/48405)
 
 _Specials_:
 * [HX25 Handheld Grenade Launcher](https://modworkshop.net/mod/21556)
