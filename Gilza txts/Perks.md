@@ -67,7 +67,7 @@ Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) 
 This is meant to be something that is close to home for the Sniper Crewchief build in vanilla, though with Gilza's gameplay loop you will be relying on your secondary and melee a lot more. But hey, at least sniping is a lot easier as you only need to aim for the body.  
 This build is using all barebone skills - ICTV armor, "Hostage Taker", and "Inspire". Sniping is favored due to the passive nature of this perk deck, but you can try to rely on any weapons of your choice, with appropriate skill adjustments to this build.  
 Weapons to use:  
-1300-1600 damage class sniper rifle with either secondary snipers, or a 250 damage class smg, toggled to single to get value from sharpshooter skill subtree, while being switchable to full-auto against bulldozers. Flashbangs or zapper grenades, depending on heist length. Any melee of your choice, but the 35-50 damage ones or the electric stun ones would probably feel the best. 
+1300-1600 damage class sniper rifle with either secondary snipers, or a 250 damage class SMG, toggled to single fire mode to get value from the sharpshooter skill tree, while being switchable to full-auto against bulldozers. Flashbangs or zapper grenades, depending on heist length. Any melee of your choice, but the 35-50 damage ones or the electric stun ones would probably feel the best. 
 
 -----
 
@@ -368,7 +368,7 @@ Barebone skills - ICTV armor and frenzy aced. With this set up you can maintain 
 
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Gas Overload https://pd2builder.netlify.app/?s=1000wp00oB1Q0-810-615G&p=d&a=6&t=j&d=0  
 Comes with 2 extra skill points which you should spend however you wish.    
-Gas spam. You will cycle your Viper grenades, underbarrel gas, and secondary grenade launcher with gas. This is the ultimate war crime build, and it wasn't even specifically made because it's funny, but because gas grenades have extremely low ammo pick up, so even with this set up, it could still be a challenge to keep at least 1 gas cloud afloat. And you want to keep it up, to maintain maxed maniac stacks indefinitely. Use primary AR to land kills on stunned enemies with easy headshots.  
+Gas spam. You will cycle your Viper grenades, underbarrel gas, and secondary grenade launcher with gas. This is the ultimate war crime build, and it wasn't even specifically made because it's funny, but because gas grenades are extremely affective area denial tool, and are also a huge help for keeping up maniac stacks. Gas weapons have extremely low ammo pick up, so even with this set up, it could still be a challenge to keep at least 1 gas cloud afloat, and you want to keep it up, to maintain maxed maniac stacks. Use primary AR to land kills on stunned enemies with easy headshots.  
 Weapons to use:  
 Specifically little friend 7.62 assault rifle with gas grenades for the underbarrel. Can be replaced by KETCHNOV Byk-1 AR with gas underbarrel, but it's a slightly worse option. Use any secondary grenade launcher with gas grenades. Use viper grenade throwable. Cycle those 3. Use 75 melee against bulldozers.
 
@@ -777,3 +777,4 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
+
