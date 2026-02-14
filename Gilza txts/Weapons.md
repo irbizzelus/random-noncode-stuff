@@ -350,9 +350,8 @@ _Pistols_:
 _LMG's_:
 * [Stoner 63A LMG & AR](https://modworkshop.net/mod/40135) (AR+LMG)
 * [Blyspruta MX63 Light Machine Gun](https://modworkshop.net/mod/48405)
+* [Crosskill Sawblade (Colt LMG)](https://modworkshop.net/mod/54327)
 
 _Specials_:
 * [HX25 Handheld Grenade Launcher](https://modworkshop.net/mod/21556)
 * [Railgun Rorsch MK-1](https://modworkshop.net/mod/22281)
-
-
