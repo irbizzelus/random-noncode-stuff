@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to select the section you are looking for: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Information is up to date with Gilza version: 2.5.3
+Information is up to date with Gilza version: 2.6
 
 Following description is copied almost 1-to-1 from modworkshop as the shortened introduction to the mod. To get to the "in-depth" section, scroll down to "[Global changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/General_and_Skills.md#global-changes)".
 
@@ -40,6 +40,9 @@ Headshot multipliers are now set to 2x for most enemies, with exceptions for som
 Melee weapons now deal % damage - if your melee has 35 damage, it will deal 35% of enemy's health in one hit. Some enemies are exceptions to this rule.
 
 ### Skills/Perks
+<ins>Default upgrages</ins>  
+By default, regardless of equipeed skills, perks and weapons, all weapon swap speeds are sped up by 50%. This is done to incentivize players to use both of their weapons proactively more often, as Gilza's ammo economy is extremely harsh if played otherwise.
+
 <ins>Damage resistance</ins>  
 All damage resistance upgrades are now additive instead of multiplicative. For more info scroll down to [Global changes - skills](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/General_and_Skills.md#skills).
 
@@ -121,6 +124,9 @@ Bosses have different levels of health, headshot multipliers and melee resistanc
 This is one of a few changes that make combat easier and more forgiving for players with bad aim, since bodyshots mostly deal more damage.
 
 ### Skills
+<ins>Default upgrages</ins>  
+By default, regardless of equipeed skills, perks and weapons, all weapon swap speeds are sped up by 50%. This is done to incentivize players to use both of their weapons proactively more often, as Gilza's ammo economy is extremely harsh if played otherwise.
+
 <ins>Damage resistance</ins>  
 Damage resistance skills are now additive instead of multiplicative.  
 In vanilla, if you have two 30% damage resistance skills, they would give you 100% * 0.7 * 0.7 = 49%, so 51% total damage resistance, while Gilza would allow for full 60% total damage resistance in this case. Vanilla approach especially hurts if you are trying to stack multiple damage resistance skills.
@@ -281,8 +287,9 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 | Tier 3  | Berserker* | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Berserker.png) | This is an overall nerf that makes this skill not as reliable. But, as an upside, you can now use healing skills to keep your health at 30% with "Frenzy" or more without it, to avoid being killed by snipers. |
 | Tier 2   | Bloodthirst | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Bloodthirst.png) | Max stack amount was updated to match new melee damage.  |
 | Tier 2   | Martial Arts | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Martial_Arts.png) | New skill to make your melee weapons feel much more fluid and overall better to use.  |
-| Tier 1  | Tough Guy | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Tough_Guy.png)  | This skill now reduces camera shake from melee attacks to make melee playstyles more comfortable, other bonuses are the same. |
+| Tier 1  | Tough Guy | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Fugitive/Tough_Guy.png)  | This skill now reduces camera shake and physical knockback from melee attacks to make melee playstyles more comfortable, other bonuses are the same. |
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
+
 
