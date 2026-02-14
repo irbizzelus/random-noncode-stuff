@@ -44,8 +44,8 @@ If a skill has a limit to what fire mode it can work with, burst-fire is counted
 
 ## Fire mode penalties:  
 Different fire modes have different accuracy penalties, but single-fire has no penalties at all. These penalties are applied only when your weapon is switched to a specific fire mode - switching your weapon's fire mode during the heist, will negate this penalty, for as long as your weapon's fire mode is set to single-fire. This was done to make fire mode toggling mid match an actually useful mechanic, since you are now incentivized to switch to single-fire for long range (most likely sniper) takedowns. Fire mode penalties are not applied while bipoded.  
-* Full-auto fire mode has a 16 accuracy point penalty.
-* Burst-fire mode has a 8 point accuracy penalty.
+* Full-auto fire mode has a -16 accuracy point penalty.
+* Burst-fire mode has a -8 point accuracy penalty.
 * Volley fire mode has a +20 accuracy bonus, since this fire mode usually adjusts DPS to be lower, and this fire mode is only available on low accuracy weapons.
 
 ## Single-fire input buffering
@@ -354,4 +354,5 @@ _LMG's_:
 _Specials_:
 * [HX25 Handheld Grenade Launcher](https://modworkshop.net/mod/21556)
 * [Railgun Rorsch MK-1](https://modworkshop.net/mod/22281)
+
 
