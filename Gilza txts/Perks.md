@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to select the perk you are interested in: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for Gilza version: 2.5.3
+Stats are updated for Gilza version: 2.6
 
 # General info:
 
@@ -112,7 +112,9 @@ Use a primary shotgun of your choice, but 155 damage class is recommended due to
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Rogue_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Rogue.png)  |
 
 ### Changes Summary
-Copycat and Hacker in vanilla are both just straight upgrades to this deck, so to compensate, this deck is now slightly more effective in it's own playstyle. Dodge buffs might be extremely small, but do consider that new options in the artful dodger skill sub-tree are also indirectly buffing this deck. Additionally, AP chance can now work well with both new Surefire and Silencer AP skills, instead of being a joke of a bonus.
+Copycat and Hacker in vanilla are both just straight upgrades to this deck, so to compensate, this deck is now slightly more effective in it's own playstyle. Dodge buffs might be extremely small, but do consider that new options in the artful dodger skill sub-tree are also indirectly buffing this deck. Additionally, AP chance can now work well with both new Surefire and Silencer AP skills, instead of being a joke of a bonus.    
+
+Weapon swap speed amount is lower than in vanilla to compensate the default increased weapon swap speed that any player gets by default with Gilza. Note that total swap speed relative to vanilla is faster, since in vanilla rogue normaly provided a 1.8x multiplier, while in Gilza its a 33% increase to the default increased speed of 1.5x, leading to a total increase of 2x.
 
 ### Build(s) to try
 Barebone skills - Use "Bullseye" to armor gate whenever your armor breaks. You can use First Aid Kits if you want to rely on your health as well, but rogue is not exactly build for health. Additional dodge skills are welcome.
@@ -777,4 +779,3 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
-
