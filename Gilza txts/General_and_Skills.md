@@ -220,8 +220,8 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 | Tier level | Skill | Description |  Summary and reasons for the change(s) |
 | -------- | -------- | -------- | -------- |
 | Tier 4 | Fire Trap | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Fire_Trap.png)  | Maximum total duration of firetraps is now 140 seconds longer (+10s each) for one full heist day, if you have 14 trip mines. Increased range also makes them a slightly more effective area denial tool. If you are planning to run this skill, you probably should skip the "Combat Engineering" skill, which buffs your trip mine's explosive damage, since you are most likely going to deal majority of your trip mine damage with fire instead of the initial explosion. |
-| Tier 3 |  Kickstarter | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Kickstarter.png) | Basic version is the same, but got new description. Aced version can now repair drills/saws 50% faster if you fail your melee repair chances, to avoid situations where this skill may do nothing for the whole heist, if you get unlucky enough. |
-| Tier 1  | Hardware Expert | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Hardware_Expert.png)  | Basic version's drill/saw repair speed slightly nerfed, since this skill gives a bit too much for just 1 skill point. Aced version is the same, but got new description. |
+| Tier 3 |  Kickstarter | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Kickstarter.png) | Aced version can now repair drills/saws 50% faster if you fail your melee repair chances, to avoid situations where this skill may do nothing for the whole heist, if you get unlucky enough. |
+| Tier 1  | Hardware Expert | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Skill_Images/Technician/Hardware_Expert.png)  | Basic version's drill/saw repair speed slightly nerfed, since this skill gives a bit too much for just 1 skill point. |
 
 ### Technician - Oppressor
 
@@ -291,5 +291,3 @@ Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in
 
 \* - berserk visual screen flash preview: (Color, size, and how exactly it flashes, can be adjusted in Gilza mod options.)  
 ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Skill_Images/Fugitive/Berserker_Visuals.gif?raw=true)
-
-
