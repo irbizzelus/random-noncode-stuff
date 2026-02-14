@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for Gilza version: 2.5.3
+Stats are updated for Gilza version: 2.6
 
 # General weapon handling updates:
 ## Recoil: general changes
@@ -44,8 +44,8 @@ If a skill has a limit to what fire mode it can work with, burst-fire is counted
 
 ## Fire mode penalties:  
 Different fire modes have different accuracy penalties, but single-fire has no penalties at all. These penalties are applied only when your weapon is switched to a specific fire mode - switching your weapon's fire mode during the heist, will negate this penalty, for as long as your weapon's fire mode is set to single-fire. This was done to make fire mode toggling mid match an actually useful mechanic, since you are now incentivized to switch to single-fire for long range (most likely sniper) takedowns. Fire mode penalties are not applied while bipoded.  
-* Full-auto fire mode has a 20 accuracy point penalty.
-* Burst-fire mode has a 12 point accuracy penalty.
+* Full-auto fire mode has a 16 accuracy point penalty.
+* Burst-fire mode has a 8 point accuracy penalty.
 * Volley fire mode has a +20 accuracy bonus, since this fire mode usually adjusts DPS to be lower, and this fire mode is only available on low accuracy weapons.
 
 ## Single-fire input buffering
@@ -77,22 +77,27 @@ Visuals:
 
 # Melee weapons overhaul:
 Melee weapon damage that you see in your inventory now represents how much % of enemy's HP your weapon will deal with a swing. This includes charged damage as well. So if you have a melee weapon with 25(50) damage, it will kill an enemy in 4(2) hits.  
-Melee weapons now deal 20%-75% minimum damage per hit.
+Melee weapons now deal 25%-100% minimum damage per hit.
 
-Some enemies take less melee damage:
-* Bulldozers receive _10x_ less melee damage.
-* Headless bulldozers receive _15x_ less melee damage.
-* Most bosses receive _20x_ less melee damage.
-* Cpt. Winters and his shields receive _2x_ less melee damage.
+Captain Winters, Bulldozers and bosses take less melee damage.
 
-Bulldozers' melee resistance is increased by extra 2x when playing on Death Sentence difficulty, since their health is doubled on this difficulty.
+Bulldozers require this much charge % to be killed:
+
+| Bulldozer Type | Required charge on DW difficulty and bellow | Required charge on DS difficulty |
+| -------- | -------- | -------- |
+| Standard  | 1200% | 1750% |
+| Minigun  | 1750% | 3500% |
+|  Headless | 2000% | 4000% |
 
 Additional changes:
-1) Melee knockdown now depends on melee weapon's range. More range your melee has, less knockdown it has. It may not always make sense when you look at some melees, but the range statistic is something that you may be used to by playing with certain weapons before, so instead of altering range, knockdown stat was changed instead.
-2) Grey and Zeal swats can now be knocked down as easily by melee weapons as their blue SWAT counterparts.
-3) Almost all melee charge sounds were removed, due to new charge time mismatching their sounds. To add clarity, new option for melee UI was added to Gilza's options menu and it's enabled by default. This option highlights your total charge progress, and shows you your current melee damage, including active skills. Can be disabled.
-4) "Kazaguruma" and "Lumber Lite L2 chainsaw" melee weapons can now deal chainsaw-like melee damage while holding the weapon in front of you. This feature is directly ported from [IREnFIST](https://modworkshop.net/mod/28585), with a few adjustments.
-5) Weapon Butt melee now has 31 concealment by default making it the best concealment option. Considering it's mediocre at best damage, this should be a nice option to consider for low detection builds.
+1) You can set up a keybind in Gilza's mod options for a "melee only" toggle mode. While in this mode the game automatically charges melee weapons for you, and makes primary attack button the trigger for melee swings. You can cancel this mode by using the same keybind or melee attack button. Additional options, like position of this mode's indicator, it's size and location are also accessible in Gilza's mod options.
+2) Almost all melee weapon's timings (and sometimes animations) were tweaked to make them feel smoother, without weird delays after you swing them and can't fire your primary weapon.
+3) Melee knockdown now depends on melee weapon's range. More range your melee has, less knockdown it has. It may not always make sense when you look at some melees, but the range statistic is something that you may be used to by playing with certain weapons before, so instead of altering range, knockdown stat was changed instead.
+4) Grey and Zeal swats can now be knocked down as easily by melee weapons as their blue SWAT counterparts.
+5) Almost all melee charge sounds were removed, due to new charge time mismatching their sounds. To add clarity, new option for melee UI was added to Gilza's options menu and it's enabled by default. This option highlights your total charge progress, and shows you your current melee damage, including active skills. Can be disabled.
+6) "Kazaguruma" and "Lumber Lite L2 chainsaw" melee weapons can now deal chainsaw-like melee damage while holding the weapon in front of you. This feature is directly ported from [IREnFIST](https://modworkshop.net/mod/28585), with a few adjustments.
+7) Weapon Butt melee now has 31 concealment by default making it the best concealment option. Considering it's mediocre at best damage, this should be a nice option to consider for low detection builds.
+8) Melee weapons are now sorted in your inventory by damage from lowest to highest, while the first page is always dedicated to special melee weapon types like poison and electricity.
 
 # Assault rifles:
 ### General AR updates
@@ -170,6 +175,7 @@ Additional stats, like damage-over-time damage/duration, and ammo pick up change
 ### General LMG updates
 * Breakpoints and time to kill were kept the same, except for M60 that now has highest damage per shot but extremely slow rate of fire, allowing for new breakpoints with certain skill combos.
 * Accuracy and recoil are extremely poor, but bipoding can help significantly since you get extra accuracy when bipoded compared to vanilla PD2.
+* LMG's that can use bipods have generaly more total ammo to allow for better defesnive gameplay.
 
 ### New damage drop off introduced
 * 80% damage for the first 1.5 meters
@@ -205,7 +211,8 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 ### General Akimbo updates
 * Stability/accuracy/concealment stats are now copied 1 to 1 from non-akimbo counterparts
 * Damage is cut in half compared to non-akimbo counterparts, to compensate for the act of firing two shots at the same time. Otherwise revolvers with 450 damage would waste their ammo in under a minute. Ammo pick up is compensated for this change.
-* Ammo capacity on average is lower then other weapons - you are expected to use total ammo increasing skills while using these weapons.
+* Whenever you fire akimbo weapons, shots from both guns will land in the same location, and the delay between those 2 shots is removed. This was done to improve overall reliability with akimbo weapons if they are used in semi automatic mode and/or used at longer ranges.
+* All akimbos have 1.3x faster rate of fire and 1.5x more total ammo relative to their non-akimbo counterparts.
 
 # Pistols:
 
@@ -347,3 +354,4 @@ _LMG's_:
 _Specials_:
 * [HX25 Handheld Grenade Launcher](https://modworkshop.net/mod/21556)
 * [Railgun Rorsch MK-1](https://modworkshop.net/mod/22281)
+
