@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for Gilza version: 2.6
+Stats are updated for Gilza version: 2.6.01
 
 # General weapon handling updates:
 ## Recoil: general changes
@@ -37,10 +37,11 @@ Technician's "Fire Control" skill can remove both of these penalties.
 While bipoded both of these penalties are ignored.
 
 ## Burst-Fire
-A new burst-fire mode was added to some weapons, and is available on them by default. Every weapon with burst-fire functionality will have a description with information on the burst-fire mode, like burst bullet count, or if the burst itself may have a different rate of fire during the burst.  
+Burst-fire mode was added to some weapons, and is available on them by default. Burst-fire mode attachment was removed from all weapons that don't have burst fire by default. Every weapon with burst-fire functionality will have a description with information on the burst-fire mode, like burst bullet count, or if the burst itself may have a different rate of fire during the burst.  
 To select burst-fire mode, use your fire mode keybind. Order of fire mode cycling is as follows: single->burst->full auto.  
 Burst-Fire has lower overall DPS than full auto fire mode (roughly 25% less DPS), due to slightly increased delays in-between bursts.  
-If a skill has a limit to what fire mode it can work with, burst-fire is counted as a separate fire mode - so if such skill does not specify support for burst-fire mode, it does not work with it.
+If a skill has a limit to what fire mode it can work with, burst-fire is counted as a separate fire mode - so if such skill does not specify support for burst-fire mode, it does not work with it.    
+Burst fire has 2nd highest accuracy and best recoil out of all weapon fire-mode options.
 
 ## Fire mode penalties:  
 Different fire modes have different accuracy penalties, but single-fire has no penalties at all. These penalties are applied only when your weapon is switched to a specific fire mode - switching your weapon's fire mode during the heist, will negate this penalty, for as long as your weapon's fire mode is set to single-fire. This was done to make fire mode toggling mid match an actually useful mechanic, since you are now incentivized to switch to single-fire for long range (most likely sniper) takedowns. Fire mode penalties are not applied while bipoded.  
