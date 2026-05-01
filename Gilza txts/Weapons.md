@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for Gilza version: 2.6.01
+Stats are updated for Gilza version: 2.6.02
 
 # General weapon handling updates:
 ## Recoil: general changes
@@ -227,6 +227,7 @@ Pistols are now a comfortable alternative for mid ranges, while SMG's are better
 * Broomstick's long barrel is now an AP kit.
 * Matever .357 revolver (including akimbo version) can now use AP rounds, similar to an AP kit.
 * White Streak and Baby Deagle (including akimbo versions) can now use AP rounds, similar to an AP kit. They come in 2 versions - standard and low velocity.
+* Strix's low velocity slide was changed into a damage class conversion kit.
 
 ### New damage classes
 
@@ -260,9 +261,11 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 |155 dmg|2|3|Average. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduced your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
 |200 dmg|2|3|Average, but with less restrictive modding. Benefits heavily if used along with "Overkill", "Body Expertise", "Berserker" or crit skills, due to newly gained breakpoints from them.|
 |250 dmg|1|2 |Heavy hitters, most reliable option if user is accurate.|
+|450 dmg|1|1 |Heaviest hitter, currently only avaialbe on the Ballerina single fire SMG.|
 
 ### New attachments
 * Kobus90 and it's akimbo version can now use AP rounds.
+* Ballerina SMG's long barrel was converted into an AP kit.
 
 # Specials:
 ### Bows/crossbows:
