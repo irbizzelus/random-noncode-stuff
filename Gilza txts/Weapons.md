@@ -344,7 +344,8 @@ _Assault Rifles_:
 _SMGs_:
 * [Payday 3 Tribune 32](https://modworkshop.net/mod/51546)
 * [Typhoon](https://modworkshop.net/mod/36055)
-Snipers:
+
+_Snipers_:
 * [L115](https://modworkshop.net/mod/17368)
 * [MW2022 Marlin Model 336](https://modworkshop.net/mod/42220)
 
