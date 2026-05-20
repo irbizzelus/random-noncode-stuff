@@ -43,6 +43,7 @@ Melee weapons now deal % damage - if your melee has 35 damage, it will deal 35% 
 <ins>Default upgrages</ins>  
 - By default, regardless of equipeed skills, perks and weapons, all weapon swap speeds are sped up by 50%. This is done to incentivize players to use both of their weapons proactively more often, as Gilza's ammo economy is extremely harsh if played otherwise.
 - Ammo pick up rates for standard and throwable weapons now scales with equipped armor (suit/ictv etc), with bigger armors providing more ammo per pickup. This should help low movement armors with ammo pickups.
+- While hosting a lobby (either online or offline) Team AI bots will now drop less ammo boxes from their kills. Every kill they get now has a 25% chance to drop ammo whenever you have 3 bots, 50% at 2 bots, and 75% at 1 bot. This only affects Team AI, and does not affect converts and sentries.
 
 <ins>Damage resistance</ins>  
 All damage resistance upgrades are now additive instead of multiplicative. For more info scroll down to [Global changes - skills](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/General_and_Skills.md#skills).
@@ -128,6 +129,7 @@ This is one of a few changes that make combat easier and more forgiving for play
 <ins>Default upgrages</ins>  
 - By default, regardless of equipeed skills, perks and weapons, all weapon swap speeds are sped up by 50%. This is done to incentivize players to use both of their weapons proactively more often, as Gilza's ammo economy is extremely harsh if played otherwise.
 - Ammo pick up rates for standard and throwable weapons now scales with equipped armor (suit/ictv etc), with bigger armors providing more ammo per pickup. This should help low movement armors with ammo pickups.
+- While hosting a lobby (either online or offline) Team AI bots will now drop less ammo boxes from their kills. Every kill they get now has a 25% chance to drop ammo whenever you have 3 bots, 50% at 2 bots, and 75% at 1 bot. This only affects Team AI, and does not affect converts and sentries.
 
 <ins>Damage resistance</ins>  
 Damage resistance skills are now additive instead of multiplicative.  
