@@ -77,6 +77,8 @@ Visuals:
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Weapon_Images/Vanilla%20Flashlight.jpg)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Weapon_Images/Gilza%20Flashlight.jpg)  |
 
 # New bipod deploy system
+[![Video preview](https://www.youtube.com/watch?v=y8_BJ50YIng)](https://www.youtube.com/watch?v=y8_BJ50YIng)
+
 This change only affects LMG's in vanilla.
 - Placement detection updated to allow for easier bipod placement on all surfaces.
 - While bipoded weapon is now forced into aim down sights stance, which supports vanilla scope options on vanilla LMGs.
