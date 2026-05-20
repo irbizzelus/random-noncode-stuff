@@ -249,8 +249,8 @@ Weapons to use:
 
 |  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
-|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Gambler_vanilla.png)  |
-|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Gambler.png)  |
+|  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Gambler_vanilla.png)  |
+|  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Gambler.png)  |
 
 ### Changes Summary
 Even though this is a full rework, the general idea of "pick up ammo for bonuses" is still here, but with a more "gambly" twist!  
