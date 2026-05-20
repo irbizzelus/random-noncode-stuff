@@ -140,7 +140,7 @@ With Gilza's system there's only 1 problem that needs to be solved: max resist g
 This change also allows you to calculate damage resistances and breakpoints (mostly for Death Sentence difficulty) easier.
 
 <ins>Critical hits</ins>  
-Critical hits will now always deal 2.25x damage, instead of multiplying your damage by enemy's headshot multiplier. This change effectively buffs them, since 80% of enemies you are dealing with have 2x headshot multipliers now. This does however nerf crits against bulldozers, which was the main reason for this change.
+Critical hits will now always deal 2.25x damage, instead of multiplying your damage by enemy's headshot multiplier. This change effectively buffs them, since 80% of enemies you are dealing with have 2x headshot multipliers now. This does however nerf crits against bulldozers, which was the main reason for this change. The only exception to this rule are enemy turrets that take 10x damage from crits, to match vanilla behaviour.
 
 <ins>Other</ins>  
 Vehicle FOV was changed from base 75 to 90 - you can change it in mod options in game.
