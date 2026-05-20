@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to select the section you are looking for: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Information is up to date with Gilza version: 2.6.02
+Information is up to date with Gilza version: 2.7
 
 Following description is copied almost 1-to-1 from modworkshop as the shortened introduction to the mod. To get to the "in-depth" section, scroll down to "[Global changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/General_and_Skills.md#global-changes)".
 
