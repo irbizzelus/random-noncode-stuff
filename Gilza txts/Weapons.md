@@ -76,6 +76,26 @@ Visuals:
 | -------- | -------- |
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Weapon_Images/Vanilla%20Flashlight.jpg)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Weapon_Images/Gilza%20Flashlight.jpg)  |
 
+# New bipod deploy system
+This change only affects LMG's in vanilla.
+- Placement detection updated to allow for easier bipod placement on all surfaces.
+- While bipoded weapon is now forced into aim down sights stance, which supports vanilla scope options on vanilla LMGs.
+- Bipoded weapons can now be mantled on walls at 45 degree angles to allow for corner peaking (and for some style points).
+- Accuracy bonus changed from a 1.66x multiplier to a flat +40 point increase, after bipod is fully deployed.
+- Bipod deploy is now split in 2 modes: automatic deploy and manual deploy.
+
+#### Manual deploy
+- Acts exactly like bipod deploy does in vanilla - on bipod keybind press, bipod is deployed with limited camera movement and without being able to do certain interactions.
+- Bipod deploy speed is 33% slower than vanilla to compensate other buffs that bipods now get, and to also make it feel different from automatic deploy.
+- After deploy animation is played weapon gains full accuracy immediately.
+
+#### Automatic deploy
+- Triggers on it's own if player is near a valid surface.
+- Camera limits are disabled while in this mode, and if player aims too far off center bipod is unmounted.
+- After deployment allows for all standard player actions like using melee, interacting with objects like deployables, moving, etc - to prevent frustrations if bipod was deployed at a time when player may not have wanted that. This should obstruct gameplay minimally, if at all.
+- Bipod deploy animation is skipped to reduce visual clutter, and to allow shooting immediately on bipod deploy
+- After deployment weapon accuracy is reduced to 10% of it's maximum, and slowly goes up over a short period of ~3 seconds, after which weapon gains full accuracy. (this timer is shorter if "faster bipod deploy" skill is equipped)
+
 # Melee weapons overhaul:
 Melee weapon damage that you see in your inventory now represents how much % of enemy's HP your weapon will deal with a swing. This includes charged damage as well. So if you have a melee weapon with 25(50) damage, it will kill an enemy in 4(2) hits.  
 Melee weapons now deal 25%-100% minimum damage per hit.
