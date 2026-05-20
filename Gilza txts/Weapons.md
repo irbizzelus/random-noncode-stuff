@@ -99,6 +99,7 @@ Additional changes:
 6) "Kazaguruma" and "Lumber Lite L2 chainsaw" melee weapons can now deal chainsaw-like melee damage while holding the weapon in front of you. This feature is directly ported from [IREnFIST](https://modworkshop.net/mod/28585), with a few adjustments.
 7) Weapon Butt melee now has 31 concealment by default making it the best concealment option. Considering it's mediocre at best damage, this should be a nice option to consider for low detection builds.
 8) Melee weapons are now sorted in your inventory by damage from lowest to highest, while the first page is always dedicated to special melee weapon types like poison and electricity.
+9) Added a QOL option to Gilza's options menu allowing you to disable camera tilt while charging melee weapons to reduce motion sickness if you extensively use melee (like with the new Brawler perk deck)
 
 # Assault rifles:
 ### General AR updates
