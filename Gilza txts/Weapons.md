@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for Gilza version: 2.6.02
+Stats are updated for Gilza version: 2.7
 
 # General weapon handling updates:
 ## Recoil: general changes
@@ -176,7 +176,8 @@ Additional stats, like damage-over-time damage/duration, and ammo pick up change
 ### General LMG updates
 * Breakpoints and time to kill were kept the same, except for M60 that now has highest damage per shot but extremely slow rate of fire, allowing for new breakpoints with certain skill combos.
 * Accuracy and recoil are extremely poor, but bipoding can help significantly since you get extra accuracy when bipoded compared to vanilla PD2.
-* LMG's that can use bipods have generaly more total ammo to allow for better defesnive gameplay.
+* All LMG's can now pierce through multiple enemies by default to allow for better crowd clearing. Note that if bullet is stopped by enemy's body armor, it does not continue traveling through them.
+* All LMG's can now use optics that assault rifles can normally use, allowing for ads both while mounted and not mounted on a bipod.
 
 ### New damage drop off introduced
 * 80% damage for the first 1.5 meters
@@ -197,6 +198,7 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 * Can now one-shot headshot any enemy (except Dozers and cpt. Winters).
 * Now balanced around BODYSHOTS, and how many bullets it takes to kill enemies in the body. This makes most snipers a great option for people with lazy aim. (for those who prefer to pop heads, use semi-auto snipers)
 * All sniper rifles that come by default with a scope had their conceamnet stat decreased by 1, but all scope attachments will now increase your total concealment instead of reducing it, allowing you to use a holo sight instead of the default scope without losing concealment (because this makes no sense in vanilla).
+* Wallbaning was removed from all snipers with 1300 and less damage to make higher end sniper rifles have something unique going for them.
 
 ### New damage classes
 
@@ -228,6 +230,7 @@ Pistols are now a comfortable alternative for mid ranges, while SMG's are better
 * Matever .357 revolver (including akimbo version) can now use AP rounds, similar to an AP kit.
 * White Streak and Baby Deagle (including akimbo versions) can now use AP rounds, similar to an AP kit. They come in 2 versions - standard and low velocity.
 * Strix's low velocity slide was changed into a damage class conversion kit.
+* Unlike all other weapon types in Gilza, pistols have 2 distinct recoil presets - standard and revolver. Revolver recoil is only used by 450+ dmg pistols (aka revolvers) to make them feel more like the hand cannons that they are designed to be, while all other pistols have fairly easy to control recoil.
 
 ### New damage classes
 
@@ -247,9 +250,9 @@ The Peacemaker .45 revolver has a damage class of 650, which allows it to one-sh
 ### New damage drop off introduced
 
 * 120% damage for the first 1.5 meters
-* 100% damage for 6.5 meters after
-* Progressive decrease in damage for the next 8 meters
-* 50% damage at and after max range
+* 100% damage for 7.5 meters after
+* Progressive decrease in damage for the next 12 meters
+* 70% damage at, and after max range
 
 These changes make SMG's a more distinct CQB category. While being extremely effective, both in DPS and ammo economy, at point blank ranges, they will loose their fire power really quickly at longer distances. If you want to have more firepower at range use pistols or snipers.
 
