@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for Gilza version: 2.7
+Stats are updated for Gilza version: 2.8
 
 # General weapon handling updates:
 ## Recoil: general changes
@@ -188,11 +188,11 @@ Additional stats, like damage-over-time damage/duration, and ammo pick up change
 
 * **Breaching round**: new ammo type for __*primary*__ pump-action shotguns - can open any locked space that OVE9000 saw usually can. Also allows to pen shields and body armor. Can not be used with silencers. Great substitute for the OVER9000 saw if you are running shotgun skills.
 * **Buckshot**: doubles your damage, removes extra headshot damage, increases pellet count and allows for body and multi-enemy AP. Built for multi-hit spam.
-* **HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, which leads to enemies in the blast radius receiving more damage. Note: Gilza reduces damage dealt to other players while using any kind of explosive bullets, so using double barrel shotguns with HE ammo should be safe around your teammates.
+* **HE Slug**: doubles your damage, but removes extra headshot damage. Shoots explosives. Damage radius fall of was reduced, which leads to enemies in the blast radius receiving more damage, but max range was reduced from 2 to 1.5 meters to compensate. Note: Gilza reduces damage dealt to other players while using any kind of explosive bullets, so using double barrel shotguns with HE ammo should be safe around your teammates.
 * **Flechette**: "Pellet" amount reduced to 5. Still provides body armor pen and increased damage range, at the cost of ammo pick up and worse multi-hit potential.
 * **AP slugs**: provides same AP and similar range bonuses as in vanilla PD2, but ammo pick up is worse.
 * **Dragon's breath**: Reduces amount of pellets to 8. Deals 350 fire damage over a 2.5 second period to any lit target. Activation range and ammo pick up reduced, compared to vanilla.
-* **Tombstone slug**: Deals 250 damage over 6 seconds, and stun-locks enemies during full poison duration. Damage is no longer affected by weapon's damage drop off, and always deals full damage. Helpful for low damage class shotguns, and/or vampire-like-regen perks. 
+* **Tombstone slug**: Now deals an extremely low % of enemy's health with poison, with extremely short intervals between damage ticks. Poison stun-locks enemies during the full poison duration. Added guaranteed enemy stagger on hit. Added multi-enemy penetration. Added 50% chance to pierce body armor. Added damage range buff of 20%. Pellet amount reduced to 6. Helpful for low damage class shotguns, and/or vampire-like-regen perks. 
 
 # Light machine guns:
 
@@ -260,7 +260,7 @@ Pistols are now a comfortable alternative for mid ranges, while SMG's are better
 |Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
 |--------|--------|--------|--------|
 |88 dmg|3|6|Used by Bernetti auto. Spammy.|
-|95 dmg|3|5|Most Full auto pistols. Spammy.|
+|100 dmg|3|5|Most Full auto pistols. Spammy.|
 |125 dmg|3|4|Best for crits and "Berserker" skills. |
 |155 dmg|2|3|Average, perfect for loud. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduced your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
 |250 dmg|1|2|Heavy and reliable pistols, best all around if user is accurate.|
@@ -282,7 +282,7 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 ### New damage classes
 |Damage class|Headshots to kill a light swat|Headshots to kill a heavy swat|Notes|
 |--------|--------|--------|--------|
-|95 dmg|3|5 |Best for Crits. Tend to have high ROF|
+|100 dmg|3|5 |Best for Crits and/or Body Expertise. Tend to have high ROF|
 |125 dmg|3|4 |Best for Crits and "Berserker" skills.|
 |155 dmg|2|3|Average. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduced your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
 |200 dmg|2|3|Average, but with less restrictive modding. Benefits heavily if used along with "Overkill", "Body Expertise", "Berserker" or crit skills, due to newly gained breakpoints from them.|
@@ -290,8 +290,11 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 |450 dmg|1|1 |Heaviest hitter, currently only avaialbe on the Ballerina single fire SMG.|
 
 ### New attachments
+* Ballerina's long barrel was converted into an AP kit.
 * Kobus90 and it's akimbo version can now use AP rounds.
-* Ballerina SMG's long barrel was converted into an AP kit.
+* Patchett L2A1 and it's akimbo version can now use AP rounds.
+* Signature and it's akimbo version can now use AP rounds.
+* Mark 10 and it's akimbo version can now use AP rounds.
 
 # Specials:
 ### Bows/crossbows:
