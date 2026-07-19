@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to select the perk you are interested in: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for Gilza version: 2.7
+Stats are updated for Gilza version: 2.8
 
 # General info:
 
@@ -112,7 +112,7 @@ Use a primary shotgun of your choice, but 155 damage class is recommended due to
 |  ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Rogue_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Rogue.png)  |
 
 ### Changes Summary
-Copycat and Hacker in vanilla are both just straight upgrades to this deck, so to compensate, this deck is now slightly more effective in it's own playstyle. Dodge buffs might be extremely small, but do consider that new options in the artful dodger skill sub-tree are also indirectly buffing this deck. Additionally, AP chance can now work well with both new Surefire and Silencer AP skills, instead of being a joke of a bonus.    
+Copycat and Hacker in vanilla are both just straight upgrades to this deck, so to compensate, this deck is now slightly more effective in it's own playstyle. Dodge buff might be extremely small, but do consider that new options in the artful dodger skill sub-tree are also indirectly buffing this deck. Additionally, AP chance can now work well with both new Surefire and Silencer AP skills, instead of being a joke of a bonus.    
 
 Weapon swap speed bonus is lower than in vanilla to compensate the default increased weapon swap speed that any player gets by default with Gilza. Note that total swap speed relative to vanilla is faster, since in vanilla rogue normaly provided a 1.8x multiplier, while in Gilza its a 33% increase to the default increased speed of 1.5x, leading to a total increase of 2x.
 
@@ -274,7 +274,8 @@ Weapons to use:
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Grinder_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Grinder.png)  |
 
 ### Changes Summary
-Slightly improved AP chance (5% big wow) to allow for this stat to work better with other AP skills like "Surefire" and silencers AP skill.
+Slightly improved AP chance (5% big wow) to allow for this stat to work better with other AP skills like "Surefire" and silencers AP skill.  
+QOL update not mentioned in the cards above: Grinder can now gain regeneration stacks from weapons that stun enemies and also by shooting converted enemies. This was done to make heal-on-damage effect more consistent with other perks that utilize the same heal-on-damage effect.
 
 ### Additional info/tips
 For DS specifically - run this deck when you have Crew Chief on your team for the 3 tap health breakpoint with fastest self-healing of all decks in the game. Otherwise this deck is still sorta mid tier for DS.
@@ -322,15 +323,17 @@ Weapons to use:
 
 # Ex-president (4/5):
 
-|  | Updated cards - 5, 7, 9 |
+|  | Updated cards - 1, 3, 5, 7, 9 |
 | -------- | -------- |
 |  Vanilla | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Ex-president_vanilla.png)  |
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Ex-president.png)  |
 
 ### Changes Summary
+- Card 1: Instead of losing all stored health upon armor recovery, player will now lose however much health was used to recover his primary health, and then reduced further by 48 points. This was done to allow for player to maintain stored health much easier, especially in cases where stored health wasn't even used to heal any health. This buff mostly targets lower end armors, since the dodge aspect of this deck was slightly nerfed.
+- Card 3: Terminology updates for description consistency. 
 - Card 5: Replaced 15 passive dodge chance (10 in vanilla is a typo, it's actually 15) with new "Static" dodge chance, which can not be adjusted by any skills or armors (yes, ICTV has 20 dodge). This dodge chance allows for all armors to gain extra survivability equally, since you will always trade amount of stored health, which is more important now, for armor. This does bring the 2 Piece suit down, since you can't get 30 passive 40 running dodge anymore, but this is a small price to pay, in my opinion, considering that this version makes literally every other armor usable, depending on your build.  
 - Card 7: Added "shield" or "absorption" mechanic for stored health to improve survivability by making stored health take damage first, before your actual health. This allows for low health situations to be less frustrating, since now after your armor is destroyed, even if you were to take damage to your health, stored health will be depleted first instead. Also while at full health you can also get better benefits from stored health after your armor breaks.  
-- Card 9: To compensate 2 features mentioned above, which generally improve your survivability, 9th perk deck card was somewhat nerfed. Vanilla version increases your armor recovery timer's depletion rate by a certain %. So if your timer is at 4 seconds, depending on your armor, this recovery timer may end up being 0.28-1 seconds long after a kill. Despite how good this is, there is 1 issue however: this only applies if your armor is completely broken. New version of this skill is much more reliable since it now applies the bonus to armor recovery until your armor fully recovers, and it's now affected by both your teammates' and your kills. The numbers themselves however are much less powerful than vanilla. The biggest bonus per kill you can get now is -0.25 seconds, and the bonus will also only apply to the armor recovery part of the skill, without altering the armor suppression 1 second delay, and also having a ceiling to it's bonus of lowest possible recovery timer at 0.8 seconds. But allowing this effect to also be improved by other players' kills this makes it fit better with the other passive aspects of this perk.
+- Card 9: Vanilla version increases your armor recovery timer's depletion rate by a certain %. So if your timer is at 4 seconds, depending on your armor, this recovery timer may end up being 0.28-1 seconds long after a kill. Despite how good this is, there is 1 issue however: this only applies if your armor is completely broken. New version of this skill is much more reliable since it now applies the bonus to armor recovery until your stored health was consumed, either to shield or restore your primary health, and it's now affected by both your teammates' and your kills. The numbers themselves however are much less powerful than vanilla. The biggest bonus per kill you can get now is -0.25 seconds, and the bonus will also only apply to the armor recovery part of the skill, without altering the armor suppression 1 second delay, and also having a ceiling to it's bonus of lowest possible recovery timer at 0.8 seconds. But allowing this effect to also be improved by other players' kills makes it fit better with the other passive team aspects of this perk.
 
 This perk is mostly buffed, but still feels pretty balanced, while being much easier to run, since you don't have to run an explosive shotgun to break your armor to heal yourself anymore. Most armors also have new stored health amounts now, which are balanced around DS difficulty and how many 225 hits you can take there while at maxed amount of stored health (based around 2 skills - 10% damage resistance from any source, and "Partners in Crime"'s 30% health boost).
 
@@ -387,7 +390,8 @@ Akimbo SMG's or Pistols with lowest total ammo and highest ammo pick up ratio. S
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Anarchist.png)  |
 
 ### Changes Summary
-There are only 2 important changes:
+QOL update not mentioned above: sentry guns can now activate the "on damage" armor regeneration part of the perk, to make it more consistent with other heal-on-damage effects.  
+Otherwise there are only 2 important changes:  
 1) Armor gating is now achieved easier if you run high end armors instead of low end armors, since bigger armors have shortest time in-between regeneration
 2) Chosen armor affects amount and cooldown of the "armor regen on enemy hit" effect from the 9th perk card, and similarly to the first effect it has shorter cooldowns for higher armors
 
@@ -510,7 +514,7 @@ Use any shotgun you want as primary, preferably with AP slugs, and if you feel l
 
 ### Changes Summary
 Nerfed ECM cooldown to 150 seconds, nerfing it for both stealth and loud.  
-Cooldown gain per kill reduced from 6 to 4 seconds. ECM duration in loud increased to 9 seconds to compensate much longer breaks in between uses. Healing gained per kill was increased to also compensate longer intervals in-between activations. Temporary dodge now requires 3 kills, and provides the same dodge bonus, but for longer to compensate breaks between uses.  
+Cooldown gain per kill reduced from 6 to 4 seconds. ECM duration in loud increased to 9 seconds to compensate much longer breaks in between uses. Healing gained per kill was increased to also compensate longer intervals in-between activations. Temporary dodge now requires 3 kills, provides 5% less dodge, but for a longer duration to compensate breaks between uses.  
 This perk deck is simply too good, and the main reason for that is just the ECM stun effect. Making ECMs activate less often allows for stun spammibility of this deck to go down, while other buffs, both to the deck and artful dodger skill tree, keep player survivability at roughly the same level.
 
 ### Build(s) to try
@@ -768,7 +772,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Brawler
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Brawler.png) |
 | -------- |
-| Best armor gating option if you use melee weapons, that does not provide any additional healing/sustain bonuses. If you don't use melee, having 1 stack of regeneration active is also decent, since it can armor gate about as often as anarchist, but it doesn't provide a damage invulnerability bonus. |
+| Best armor gating option if you use melee weapons, that does not provide any additional healing/sustain bonuses. If you don't use melee, having 1 stack of regeneration active is also decent, since it can armor gate about as often as some anarchist armor options, but it doesn't provide a damage invulnerability bonus. |
 
 ### 9th copy - Speed Junkie
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Speed_Junkie.png) |
@@ -779,4 +783,3 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
 | -------- |
 | One of the strongest health healing options which doesn't provide 3 tap health, slows you down, and makes interactions slower. Good option for smaller sized maps. |
-
