@@ -16,7 +16,7 @@ Gilza's CUSTOM perk decks are located closer to the bottom of the page, right be
 
 ### Gilza rebalance changes
 Here are the most important aspects of Gilza's rebalance which you need to know before going through most of the perk updates bellow:
-1) Melee damage is now applied as a % of enemy's total health per hit, so a 35 damage melee kills an enemy in 3 hits. Some enemies, like Bulldozers and Bosses, have resistance to melee-%-damage and will take less damage (for example - Bulldozers take 10x less melee damage). This makes melee weapons overall much more effective, but most skills and perks affecting melee were nerfed to compensate.
+1) Melee damage is now applied as a % of enemy's total health per hit, so a 35 damage melee kills an enemy in 3 hits. Some enemies, like Bulldozers and Bosses, have resistance to melee-%-damage and will take less damage (for example - Bulldozers take ~10x less melee damage). This makes melee weapons overall much more effective, but most skills and perks affecting melee were nerfed to compensate.
 2) Damage resistance is now combined additively instead of multiplicatively. This affects all damage resistance skills in the game, effectively buffing this statistic, especially if you decide to stack multiple DR skills. Note that max possible damage resistance is only 80%, to avoid "god mode" situations. (Example: in vanilla having 25% DR, 10% DR, and 15% DR would reduce incoming damage by: 100% * 0.75 * 0.9 * 0.85 = 57.375% or about 43% total damage resistance. With Gilza you will instead get 50% damage resistance total with the same combo.)
 3) "Underdog" skill activation trigger is now different. In vanilla this skill is based on enemies that are currently hostile to you, but with Gilza this check was replaced with a LOS (line-of-sight) check between you and the enemy, making this skill more consistent for Online play. In addition, instead of activating for 7 seconds, then having a 1 (or more) second cooldown before activating the 7 second buff again, this skill will now endlessly re-activate itself as long as you have required amount of enemies within your LOS, but the lingering duration was reduced to 5 seconds to compensate. This skill's activation trigger is shared with, and affects some perk cards for: Crew Chief, Infiltrator and Sociopath perk decks.
 
@@ -122,7 +122,7 @@ Barebone skills - Use "Bullseye" to armor gate whenever your armor breaks. You c
 Build 1 - Run and Gun https://pd2builder.netlify.app/?s=09001000810-6j0-4R5O1G0100&p=3&a=0&t=b&d=3  
 Ultimate speed build. 90% of the time you will be running, to gain extra 10% dodge, and hip firing with your akimbo smg's to deal damage and armor gate with "Bullseye". Use silenced weapons to gain 90% total body armor AP chance, since hipfiring akimbos are not exactly known for their accuracy. "Botomless Pockets" and crits will allow you to gain enough damage to avoid running out of ammo, even if your headshot accuracy overall is low. You can also move some skills around to replace "Unseen Strike" for "Body Expertise", for more reliable bodyshot damage, but this is up to you.  
 Weapons to use:  
-Use any akimbo SMG's of your choice, and a high accuracy secondary of your choice. You can use a secondary with shield AP along with accuracy, but due to your high mobility, you should not have any troubles while flanking shields. Use any melee of your choice, 20-25 damage class will most likely fit the best. You can replace your throwable for Ace of Spades as well, since they deal solid damage with crits. Keep total detection <25.
+Use any akimbo SMG's of your choice, and a high accuracy secondary of your choice. You can use a secondary with shield AP along with accuracy, but due to your high mobility, you should not have any troubles while flanking shields. Use any melee of your choice, <=35 damage class will most likely fit the best. You can replace your throwable for Ace of Spades as well, since they deal solid damage with crits. Keep total detection <25.
 
 -----
 
@@ -149,7 +149,7 @@ Barebone skills - focus on getting skills for akimbos/smg's/pistols which activa
 Build 1 - Somewhat standard. https://pd2builder.netlify.app/?s=xa0-64V0-9010128T0138&p=4&a=6&t=b&d=3  
 Pistols pistols pistols. Spam them as much as you can, since your ammo pick up should not be a problem. Use melee weapons to get to the invulnerability combo.  
 Weapons to use:  
-Akimbo pistols with 78 damage, And a 125 secondary pistol modded for accuracy to deal with snipers or to kill your bounty target if it's far away. Use silencers on all weapons to gain 50% AP chance on bodyshots. Use throwable knives/axes/cards to activate combo and armor heal. Use a 75 damage melee, because with basic berserk it will be a reliable oneshot, allowing for relatively easy combos. 
+Akimbo pistols with 78 damage, And a 125 secondary pistol modded for accuracy to deal with snipers or to kill your bounty target if it's far away. Use silencers on all weapons to gain 50% AP chance on bodyshots. Use throwable knives/axes/cards to activate combo and armor heal. Use a 100 damage melee, because with basic berserk it will be a reliable oneshot, allowing for relatively easy combos. 
 
 -----
 
@@ -319,7 +319,7 @@ Barebone skills - ICTV armor, "Frenzy" aced for improved damage resistance, espe
 Build 1 - Duck and Sniper https://pd2builder.netlify.app/?s=09002V00cP10-91010-411I&p=b&a=6&t=6&d=3  
 Pay close attention to your armor status and duck from and into cover depending on your current armor status. Since your armor regeneration time is extremely quick you can have extremely high out of cover uptime. Also don't be afraid of running away, since your damage resistance to enemies behind you is extremely high. Use molotovs to bring your health as close to 0 as possible to speed up your armor recovery, after you have interacted with a Doctor Bag. Use melee against bulldozers.   
 Weapons to use:  
-450 or 250 damage class assault rifle. You can use an AP kit on those rifles, allowing you to avoid getting shock and awe, and getting extra 6 skill points, that you probably should invest in melee or survivability skills. Use a 250 secondary SMG in single fire to gain benefits from sharpshooter sub tree skills, you may also sometimes switch to full auto fire mode to deal with bulldozers, but melee should be preferred against them at all times. Use molotovs to bring your health down, and use a 75 damage class melee for bulldozers.
+450 or 250 damage class assault rifle. You can use an AP kit on those rifles, allowing you to avoid getting shock and awe, and getting extra 6 skill points, that you probably should invest in melee or survivability skills. Use a 250 secondary SMG in single fire to gain benefits from sharpshooter sub tree skills, you may also sometimes switch to full auto fire mode to deal with bulldozers, but melee should be preferred against them at all times. Use molotovs to bring your health down, and use a 100 damage class melee for bulldozers.
 
 # Ex-president (4/5):
 
@@ -346,7 +346,7 @@ Barebone skills - "Bullseye" is the only mandatory skill, as this deck has one o
 Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Crit Sniper https://pd2builder.netlify.app/?s=1GgFgF00940-9030l0-41d0&p=c&a=1&t=4&d=3  
 This build has 7 spare points which you can use to either improve your converted cops with more skills, give yourself minor melee/stability/ammo pick up range buffs, or you can use them to ace low blow and allow yourself to build weapons with a total goal of <25 total detection. Otherwise, keep total detection <5.  
 Weapons to use:  
-1600 damage class sniper rifle, and any secondary of your choice. Flashbangs or zapper grenades, depending on heist length. Any melee of your choice, but if you mainly use it against Bulldozers, use the 75 damage class.
+1600 damage class sniper rifle, and any secondary of your choice. Flashbangs or zapper grenades, depending on heist length. Any melee of your choice, but if you mainly use it against Bulldozers, use the 100 damage class.
 
 Build 2 - Crittin' slinger https://pd2builder.netlify.app/?s=09090-4o50-90301S0R0300&p=c&a=1&t=2&d=3  
 Silenced pistols that practically have infinite ammo and solid dps. Need i say more?  
@@ -375,7 +375,7 @@ Build 1 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) 
 Comes with 2 extra skill points which you should spend however you wish.    
 Gas spam. You will cycle your Viper grenades, underbarrel gas, and secondary grenade launcher with gas. This is the ultimate war crime build, and it wasn't even specifically made because it's funny, but because gas grenades are extremely affective area denial tool, and are also a huge help for keeping up maniac stacks. Gas weapons have extremely low ammo pick up, so even with this set up, it could still be a challenge to keep at least 1 gas cloud afloat, and you want to keep it up, to maintain maxed maniac stacks. Use primary AR to land kills on stunned enemies with easy headshots.  
 Weapons to use:  
-Specifically little friend 7.62 assault rifle with gas grenades for the underbarrel. Can be replaced by KETCHNOV Byk-1 AR with gas underbarrel, but it's a slightly worse option. Use any secondary grenade launcher with gas grenades. Use viper grenade throwable. Cycle those 3. Use 75 melee against bulldozers.
+Specifically little friend 7.62 assault rifle with gas grenades for the underbarrel. Can be replaced by KETCHNOV Byk-1 AR with gas underbarrel, but it's a slightly worse option. Use any secondary grenade launcher with gas grenades. Use viper grenade throwable. Cycle those 3. Use 100 melee against bulldozers.
 
 Build 2 - Engineer is engi-here. https://pd2builder.netlify.app/?s=010010006Fh40Z0-610-5g11I&p=d&a=6&t=b&d=70   
 Keep your little friends near chokes for free and constant damage, helping you upkeep your Hysteria stacks. Rely on your sentries to shut down shields, and don't forget to refill/repair them. Use melee against any enemy, but do focus on bulldozers.  
@@ -437,7 +437,7 @@ Barebone skills - "Bullseye" for armor gating and to bring yourself over the 50%
 Build 1 - Survivalist https://pd2builder.netlify.app/?s=xk0p1000ch0-90101G000pf0&p=g&a=3&t=g&d=5  
 Fairly standard kingpin gameplay, with unseen strike being your main DPS skill. Since you can force enemies to damage you, while being semi-invulnerable you can activate the damage activation part of the skill, then go to cover for 6 seconds, activate crit boosts, and go on a kill spree to recover your injector. Repeat this cycle endlessly.  
 Weapons to use:  
-Primary focused on accuracy, secondary focused on DPS or shield AP. Kobus 90 with AP ammunition attachment is a solid option. Any 75 damage class melee to deal with bulldozers, or a 35 damage class melee if either of your weapons has shield AP, to compensate lower ammo pick ups with more melee kills.
+Primary focused on accuracy, secondary focused on DPS or shield AP. Kobus 90 with AP ammunition attachment is a solid option. Any 100 damage class melee to deal with bulldozers, or a 35 damage class melee if either of your weapons has shield AP, to compensate lower ammo pick ups with more melee kills.
 
 # Sicario (3/5):
 
@@ -571,7 +571,7 @@ Barebone skills - ICTV armor, "bullseye" is not recommended at all, since passiv
 Build 1 - Default https://pd2builder.netlify.app/?s=09090001sz380-8580-421aN&a=6&t=b&d=3  
 Relatively close to perfect build with this deck. Take agro from your enemies, deal massive melee damage, use a converted enemy as an additional anchor for your defensive bonuses, use "Counterstrike" against cloakers and to stun bulldozers, or even use it as a bonus damage option, if you run melees with less then 50 damage.  
 Weapons to use:  
-Any 100 accuracy primary that can deal with shields and snipers. So a sniper rifle most likely. Thanatos is probably the best option, to help you shutdown bulldozers, after their face shield plate is gone. Secondary saw is your primary weapon, since it has identical stats to primary saw. If range is not a problem (on heists like No mercy) you can try double saw setup. Use throwable knifes/axes/cards for close-mid range kills, mostly to proc first regeneration effect. Use 50 or 75 damage class melee weapons for reliable one-shots, or a chainsaw type weapon. You can also use lower damage class melees if you don't mind holding the charge button a bit, or if you want to rely on counterstrike's bonus damage.
+Any 100 accuracy primary that can deal with shields and snipers. So a sniper rifle most likely. Thanatos is probably the best option, to help you shutdown bulldozers, after their face shield plate is gone. Secondary saw is your primary weapon, since it has identical stats to primary saw. If range is not a problem (on heists like No mercy) you can try double saw setup. Use throwable knifes/axes/cards for close-mid range kills, mostly to proc first regeneration effect. Use 50+ damage class melee weapons for reliable one-shots, or a chainsaw type weapon. You can also use lower damage class melees if you don't mind holding the charge button a bit, or if you want to rely on counterstrike's bonus damage.
 
 Build 2 (By [Razer125](https://steamcommunity.com/profiles/76561199376033342/)) - Cursed Sentry build https://pd2builder.netlify.app/?s=100b0001cN000R0-610-616F&a=6&t=4&d=6  
 This build is only cursed in a sense that sentry guns will always take a % of your weapons' total ammo capacity, which brawler already reduces, leading to a situation where literally every weapon now qualifies for the "low total ammo capacity" requirement that sentry builds usually require. Now you just need to pick weapons with best ammo pick up rates, and you are good to go. Sentries don't really help you that much, outside of piercing shields, but they are a solid additional distraction, which helps the theme of the perk of being a meat shield and/or a distractor. Use remaining 1 skill point as you see fit.  
@@ -653,7 +653,7 @@ Barebone skills - Always run "Bullseye" for armor gating, rest is up to you.
 Build 1 - Brawler copy https://pd2builder.netlify.app/?s=1G000100811Q380-62h1i00g150&p=m&c=3-41&a=0&t=h&d=03  
 A unique version of copycat that is not available in vanilla. Use Brawler's 9th copy (23/25), and stack all neutral "pick a boost" cards for dodge (3/4). You can use either Doctor bags or Ammo bags as your primary deployable since both are maxed out, but ammo is preferred, since this build doesn't provide high damage bonuses. Brawler copy card will provide you with the best armor gating in the game, but you need to perfectly time a kill once every 6 seconds to gain this benefit, if you don't actively use melee. This benefit + dodge + health invulnerability provides a relatively easy to play, but not the most powerful playstyle.   
 Weapons to use:  
-200 damage class silenced Assault Rifle primary focused on accuracy and concealment, and a 200 damage class silenced SMG secondary focused on stability. Weapons with burst fire mode recommended. Any 20-35 damage class melee.
+200 damage class silenced Assault Rifle primary focused on accuracy and concealment, and a 200 damage class silenced SMG secondary focused on stability. Weapons with burst fire mode recommended. Any 25+ damage class melee.
 
 ### 9th card copies
 Replaced mimicking card's name to always be the name of the copied perk deck, instead of showing the name of the card from the perk deck you are copying. On top of the fact that this is confusing because you simply can't know all of their names, they are also not always correct, because sometimes a mimicking 9th card can combine bonuses of multiple cards of a perk deck with multiple different names.  
