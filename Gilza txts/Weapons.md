@@ -16,7 +16,7 @@ All weapons' recoil was overall increased. However, first 5 bullets fired from y
 
 Amount of recoil now depends on your weapon's base stability value - stability value that you see whenever you purchase a weapon, before skills/weapon attachments were applied. Lower base stability means higher overall recoil. Because of these changes, 2 weapons with identical stability values after skills/attachments __will__ feel different, if their base stability is different.
 
-Horizontal recoil will now always favor weapons into a certain pre-defined direction - either left or right. Horizontal recoil will never jump from left to right (and vice versa), but the pull to whichever direction, is overall stronger than in the base game.
+Horizontal recoil will now always favor weapons into a certain predefined direction - either left or right. Horizontal recoil will never jump from left to right (and vice versa), but the pull to whichever direction, is overall stronger than in the base game.
 
 Weapon attachments and/or skills now affect weapon recoil 2x less. In vanilla upgrading a weapon from 0 to 100 stability with attachments/skills effectively reduced weapon camera recoil by 6x times. Max possible improvement you can get now is 3x. This makes basic stability stat more important when choosing a weapon, and makes it harder to make it into a "laser" gun.
 
