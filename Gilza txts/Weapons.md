@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for Gilza version: 2.8
+Stats are updated for Gilza version: 2.8.1
 
 # General weapon handling updates:
 ## Recoil: general changes
@@ -324,6 +324,7 @@ Magazines now completely change how flamethrower performs:
 ### Miniguns (+Hailstorm):
 * Time to kill and breakpoints are identical for headshots, but better for bodyshots due to Gilza's health pool updates.
 * Ammo capacity stats changed from 750(mag)/750(total) to 600(mag)/900(total).
+* Similarly to LMG's, are now capable of piercing through multiple enemies for better crowd control. Note that hitting body armor prevents multi-enemy piercing.
 * Reload sped up by 20%.
 * Ammo pick up altered, and is now different between the two miniguns we have, since one does more damage per bullet then another.
 * Hailstorm now has 210/525 ammo, better accuracy/stability stats and no damage drop-off penalties, but it's ability to pierce multiple enemies in volley mode was removed.
@@ -333,7 +334,7 @@ Body expertise skill works wonders with these weapons.
 ### Grenade and rocket launchers (Underbarrels included):
 * Overall ammo pick up for all launchers is ~15% lower then in vanilla PD2, but now varies more depending on the grenade launcher and it's damage.
 * All grenades now have MUCH more detail in their descriptions. They now include ammo pick up adjustments, damage over time, and other additional properties.
-* Piglet launcher received a reload speed buff.
+* Both primary grenade launchers received a significant reload speed and ammo capacity buffs to make them a more appealing option.
 * Basilisk 3V received 2 new attachments that limit it's mag capacity for ease of use, while also providing some other minor stat adjustments.
 * Added a high velocity grenade to almost all GL's.
 
