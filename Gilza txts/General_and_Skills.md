@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to select the section you are looking for: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Information is up to date with Gilza version: 2.8
+Information is up to date with Gilza version: 2.8.1
 
 Following description is copied almost 1-to-1 from modworkshop as the shortened introduction to the mod. To get to the "in-depth" section, scroll down to "[Global changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/General_and_Skills.md#global-changes)".
 
@@ -40,6 +40,11 @@ Headshot multipliers are now set to 2x for most enemies, with exceptions for som
 Melee weapons now deal % damage - if your melee has 35 damage, it will deal 35% of enemy's health in one hit. Some enemies are exceptions to this rule.
 
 ### Skills/Perks
+Extent of skill changes is too vast to sum up, so you should check the "Skills Legend" picture on top of the skills section bellow, which summarizes skill rework information - if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
+
+Most perks received minor updates to improve their design (mostly for DS difficulty), with only 3 perks gaining "major" reworks. Don't forget to go over general (or "neutral") perk deck cards on the [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) page, since they apply to all perks, and by extension to all builds.  
+Additionally, 3 new custom perks were added - "Brawler", "Speed Junkie" and "Guardian".
+
 <ins>Default upgrages</ins>  
 - By default, regardless of equipeed skills, perks and weapons, all weapon swap speeds are sped up by 50%. This is done to incentivize players to use both of their weapons proactively more often, as Gilza's ammo economy is extremely harsh if played otherwise.
 - Ammo pick up rates for standard and throwable weapons now scales with equipped armor (suit/ictv etc), with bigger armors providing more ammo per pickup. This should help low movement armors with ammo pickups.
@@ -47,11 +52,6 @@ Melee weapons now deal % damage - if your melee has 35 damage, it will deal 35% 
 
 <ins>Damage resistance</ins>  
 All damage resistance upgrades are now additive instead of multiplicative. For more info scroll down to [Global changes - skills](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/General_and_Skills.md#skills).
-
-Extent of skill changes is too vast to sum up, so you should check the "Skills Legend" picture on top of the skills section bellow, which summarizes skill rework information - if a skill was updated or not, and how significantly. Check out whatever you think might be interesting :)
-
-Most perks received minor updates to improve their design (mostly for DS difficulty), with only 3 perks gaining "major" reworks. Don't forget to go over general (or "neutral") perk deck cards on the [perk](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md) page, since they apply to all perks, and by extension to all builds.  
-Additionally, 3 new custom perks were added - "Brawler", "Speed Junkie" and "Guardian".
 
 ### Weapon Changes
 <ins>Damage and ammo:</ins>
@@ -135,7 +135,8 @@ This is one of a few changes that make combat easier and more forgiving for play
 Damage resistance skills are now additive instead of multiplicative.  
 In vanilla, if you have two 30% damage resistance skills, they would give you 100% * 0.7 * 0.7 = 49%, so 51% total damage resistance, while Gilza would allow for full 60% total damage resistance in this case. Vanilla approach especially hurts if you are trying to stack multiple damage resistance skills.
 
-With Gilza's system there's only 1 problem that needs to be solved: max resist going close to and over 100%. In vanilla it's impossible due to endless multiplications, but with Gilza's approach it would be possible. So to compensate, maximum possible damage resistance value was added: 80%. 
+With Gilza's system there's only 1 problem that needs to be solved: max resist going close to and over 100%. In vanilla it's impossible due to endless multiplications, but with Gilza's approach it would be possible. So to compensate, maximum possible damage resistance value was added: 60% for Death Wish and lower difficulties, and 75% for Death Sentence.
+Maximum damage resistance can only be overwritten if a singular damage resistance skill has higher DR than the allowed maximum. For example "Painkillers" skill would still provide it's 80% damage resistance, even if your maximum DR is normally 60%.
 
 This change also allows you to calculate damage resistances and breakpoints (mostly for Death Sentence difficulty) easier.
 
