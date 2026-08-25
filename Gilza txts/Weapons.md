@@ -16,7 +16,7 @@ All weapons' recoil was overall increased. However, first 5 bullets fired from y
 
 Amount of recoil now depends on your weapon's base stability value - stability value that you see whenever you purchase a weapon, before skills/weapon attachments were applied. Lower base stability means higher overall recoil. Because of these changes, 2 weapons with identical stability values after skills/attachments __will__ feel different, if their base stability is different.
 
-Horizontal recoil will now always favor weapons into a certain pre-defined direction - either left or right. Horizontal recoil will never jump from left to right (and vice versa), but the pull to whichever direction, is overall stronger then in the base game.
+Horizontal recoil will now always favor weapons into a certain pre-defined direction - either left or right. Horizontal recoil will never jump from left to right (and vice versa), but the pull to whichever direction, is overall stronger than in the base game.
 
 Weapon attachments and/or skills now affect weapon recoil 2x less. In vanilla upgrading a weapon from 0 to 100 stability with attachments/skills effectively reduced weapon camera recoil by 6x times. Max possible improvement you can get now is 3x. This makes basic stability stat more important when choosing a weapon, and makes it harder to make it into a "laser" gun.
 
@@ -83,7 +83,7 @@ This change only affects LMG's in vanilla.
 - Placement detection updated to allow for easier bipod placement on all surfaces.
 - While bipoded weapon is now forced into aim down sights stance, which supports vanilla scope options on vanilla LMGs.
 - Bipoded weapons can now be mantled on walls at 45 degree angles to allow for corner peaking (and for some style points).
-- Accuracy bonus changed from a 1.66x multiplier to a flat +40 point increase, after bipod is fully deployed.
+- Accuracy bonus of +40 points is applied whenever the bipod is fully deployed.
 - Bipod deploy is now split in 2 modes: automatic deploy and manual deploy.
 
 #### Manual deploy
@@ -156,7 +156,7 @@ Other attachment updates/additions:
 # Shotguns:
 
 ### General shotgun updates
-* All shotguns now have new damage fall-off. In short: more damage per shot = better damage distance. For more details use "More weapon stats" mod in game.
+* All shotguns now have new damage fall-off. In short: more damage per shot = better damage distance.
 * All shotguns now always fire 10 pellets per shot.
 * Rate of fire was updated for almost every shotgun, and it is now balanced around other shotguns within same damage class.
 
@@ -326,13 +326,13 @@ Magazines now completely change how flamethrower performs:
 * Ammo capacity stats changed from 750(mag)/750(total) to 600(mag)/900(total).
 * Similarly to LMG's, are now capable of piercing through multiple enemies for better crowd control. Note that hitting body armor prevents multi-enemy piercing.
 * Reload sped up by 20%.
-* Ammo pick up altered, and is now different between the two miniguns we have, since one does more damage per bullet then another.
+* Ammo pick up altered, and is now different between the two miniguns we have, since one does more damage per bullet than another.
 * Hailstorm now has 210/525 ammo, better accuracy/stability stats and no damage drop-off penalties, but it's ability to pierce multiple enemies in volley mode was removed.
 
 Body expertise skill works wonders with these weapons.
 
 ### Grenade and rocket launchers (Underbarrels included):
-* Overall ammo pick up for all launchers is ~15% lower then in vanilla PD2, but now varies more depending on the grenade launcher and it's damage.
+* Overall ammo pick up for all launchers is a bit lower than in vanilla PD2, but it now also varies more depending on the grenade launcher and it's damage.
 * All grenades now have MUCH more detail in their descriptions. They now include ammo pick up adjustments, damage over time, and other additional properties.
 * Both primary grenade launchers received a significant reload speed and ammo capacity buffs to make them a more appealing option.
 * Basilisk 3V received 2 new attachments that limit it's mag capacity for ease of use, while also providing some other minor stat adjustments.
