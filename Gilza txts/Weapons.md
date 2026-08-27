@@ -266,7 +266,8 @@ Pistols are now a comfortable alternative for mid ranges, while SMG's and shotgu
 |250 dmg|1|2|Heavy and reliable pistols, best all around if user is accurate.|
 |450 dmg|1|1|Revolvers. Ammo related skills recommended.|
 
-The Peacemaker .45 revolver has a damage class of 650, which allows it to one-shot bodyshot light swats, and 2 shot bodyshot tazers without skill investments, it can also hit enemies through each other and can pierce enemy body armor by default. All of this was done to compensate it's god-awful reload speed. It has 10% less ammo pick up than other revolvers, but all other stats are revolver-like.
+The Peacemaker .45 revolver has a damage class of 650, which allows it to one-shot bodyshot light swats, and 2 shot bodyshot tazers without skill investments, it can also hit enemies through each other and can pierce enemy body armor by default. All of this was done to compensate it's god-awful reload speed. It has 10% less ammo pick up than other revolvers, but all other stats are revolver-like.    
+The Pipette Mk.2 pistol was given 1000 damage and multi enemy penetration. If combined with body AP skills and "Trigger Happy" this pistol can one-shot-bodyshot all enemies besides cloakers, and do collaterals easily. All of this to compensate it's rate of fire of 27 rounds per minute. 
 
 # Sub machine guns:
 
