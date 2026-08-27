@@ -307,7 +307,7 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 ### OVE9000 Saw:
 * Allows for reloads at any time.
 * Can now always penetrate enemy body armor regardless of skills/attachments.
-* Can only deal extra damage with headshots to Bulldozers, or if "Body Expertise" skill is used.
+* Can only deal bonus headshots damage to Bulldozers, or if "Body Expertise" skill is used.
 * Can now pick up ammo with Aced "Saw Massacre" skill.
 
 ### Flamethrowers:
