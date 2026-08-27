@@ -185,10 +185,10 @@ Any assault rifle of your choice (lower damage classes preferred), focusing on c
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Burglar.png)  |
 
 ### Changes Summary
-All passive stealth bonuses were buffed from 10-20% to 25%. Saving 2.5 seconds on a pager in stealth is still worse than having a Pocket ECM, but at least it doesn't feel nearly as useless anymore. Improvements to the 5th card of the deck allow you to go for the "Hybrid" stealth-loud playstyle much better now, since LBV will now have same exact dodge amount as the 2-Piece Suit, allowing you to gain a little more survivability, and not even losing out on concealment if you equip the Inner Pockets skill. Additionally using silenced weapons will now improve your concealment even more, allowing for much more flexibility when it comes down to weapon variety.
+All passive stealth bonuses were buffed from 10-20% to 25%. Saving 2.5 seconds on a pager in stealth is still worse than having a Pocket ECM, but at least it doesn't feel nearly as useless anymore. Improvements to the 5th card of the deck allow you to go for the "Hybrid" stealth-loud playstyle much better now, since LBV will now have same exact dodge amount as the 2-Piece Suit, allowing you to gain a little more survivability, and not even losing out on concealment if you equip the Inner Pockets skill. Additionally using silenced weapons will now improve your concealment even more, allowing for much more flexibility when it comes down to weapon variety in low detection risk builds.
 
 ### Additional info/tips
-This is not anything new, but your general playstyle for loud should be sniping most of the time, because enemies will target you less if you stand still, and also target you less if you are further away from enemies than your teammates are. And since enemies will always focus you for a few seconds after you damage them, it is recommended you run one-shoting weapons, and snipers fit this role the best.
+This is not anything new, but your general playstyle for loud should be sniping most of the time, because enemies will target you less if you stand still, and also target you less if you are further away from enemies than your teammates are. And since enemies will always focus you for a few seconds after you damage them, it is recommended you run one-shoting weapons, and snipers/DMRs fit this role the best.
 
 ### Build(s) to try
 Barebone skills - Dodge and/or stealth skills should be prioritized, depending on your playstyle. "Bullseye" is always required for loud. Skills that improve balistic vests are extremely beneficial, since this perk now favours the Light Ballistic Vest.  
@@ -230,10 +230,10 @@ Bipodable LMG of your choice, and a secondary SMG for close quarters combat, sin
 |  ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Sociopath_vanilla.png)  | ![](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza_pics/Perk_Images/Sociopath.png) |
 
 ### Changes Summary
-This perk deck is affected by all the important mod updates mentioned in [General info - Gilza rebalance changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes) above. Except for melee and Underdog trigger, other parts of the deck were untouched, since it's already good enough. 2% damage resistance is not noticeable due to new DR stacking mechanics.
+This perk deck is affected by all the important mod updates mentioned in [General info - Gilza rebalance changes](https://github.com/irbizzelus/random-noncode-stuff/blob/main/Gilza%20txts/Perks.md#gilza-rebalance-changes) above. Except for melee and Underdog trigger, other parts of the deck were untouched, since it's already good enough. 2% less damage resistance is not noticeable due to new DR stacking mechanics.
 
 ### Additional info/tips
-Tip for both vanilla and Gilza - this is not a melee deck, despite how many buffs it gives to melee. This deck provides powerful armor regen/gating for mid ranges, as long as you are using one-shoting weapons, so you should focus on that.
+Tip for both vanilla and Gilza - this is not a melee deck, despite how many buffs it gives to melee. This deck provides powerful armor regen/gating for mid ranges, especially if you are using one-shoting weapons, so you should focus on that.
 
 ### Build(s) to try
 Barebone skills - ICTV armor and melee skills. High burst damage weapons like shotguns and snipers are preferred.  
@@ -254,10 +254,10 @@ Weapons to use:
 
 ### Changes Summary
 Even though this is a full rework, the general idea of "pick up ammo for bonuses" is still here, but with a more "gambly" twist!  
-Adjusted all perk cooldowns to be at 4 seconds. Added more elements of random chance by allowing self-damage. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "Gambling" nature of the perk deck name.
+Adjusted all perk cooldowns to be at 4 seconds for consistency. Added more elements of random chance by allowing self-damage from pickups. Improved supportive capabilities with shorter cooldowns and more consistent healing amounts. Improved survivability by adding dodge to the final card, but also kept it's amount random to match the "gambling" nature of the perk deck.
 
 ### Additional info/tips
-Dodge amount you gain stays with you forever, so you can try to avoid picking up ammo boxes if your dodge chance and health are maxed, to avoid them from rolling negative effects.
+Dodge amount you gain stays with you forever, so you might want to avoid picking up ammo boxes if your dodge chance and health are maxed - to avoid them from rolling negative effects.
 
 ### Build(s) to try
 Barebone skills - "Bullseye" for armor gating, and additional dodge and healing skills are highly recommended. "Up you go" is almost mandatory to avoid instant deaths after revives.
