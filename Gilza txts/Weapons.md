@@ -81,10 +81,10 @@ Visuals:
 
 This change only affects LMG's in vanilla.
 - Placement detection updated to allow for easier bipod placement on all surfaces.
-- While bipoded weapon is now forced into aim down sights stance, which supports vanilla scope options on vanilla LMGs.
+- While bipoded, weapon is now forced into aim down sights stance, which supports vanilla scope options on vanilla LMGs.
 - Bipoded weapons can now be mantled on walls at 45 degree angles to allow for corner peaking (and for some style points).
 - Accuracy bonus of +40 points is applied whenever the bipod is fully deployed.
-- Bipod deploy is now split in 2 modes: automatic deploy and manual deploy.
+- Bipod deploy is now split into 2 modes: automatic deploy and manual deploy.
 
 #### Manual deploy
 - Acts exactly like bipod deploy does in vanilla - on bipod keybind press, bipod is deployed with limited camera movement and without being able to do certain interactions.
@@ -96,7 +96,7 @@ This change only affects LMG's in vanilla.
 - Camera limits are disabled while in this mode, and if player aims too far off center bipod is unmounted.
 - After deployment allows for all standard player actions like using melee, interacting with objects like deployables, moving, etc - to prevent frustrations if bipod was deployed at a time when player may not have wanted that. This should obstruct gameplay minimally, if at all.
 - Bipod deploy animation is skipped to reduce visual clutter, and to allow shooting immediately on bipod deploy
-- After deployment weapon accuracy is reduced to 10% of it's maximum, and slowly goes up over a short period of ~3 seconds, after which weapon gains full accuracy. (this timer is shorter if "faster bipod deploy" skill is equipped)
+- After deployment weapon accuracy is reduced to 10% of it's maximum, and slowly goes up over a short period of ~3 seconds, after which weapon gains full accuracy. (this timer is shorter if faster bipod deploy "Slow and Steady" skill is equipped)
 
 # Melee weapons overhaul:
 Melee weapon damage that you see in your inventory now represents how much % of enemy's HP your weapon will deal with a swing. This includes charged damage as well. So if you have a melee weapon with 25(50) damage, it will kill an enemy in 4(2) hits.  
@@ -133,7 +133,7 @@ Additional changes:
 |--------|--------|--------|--------|
 |125 dmg|3|4|Best for crits and "Berserk" skills.|
 |155 dmg|2|3|Average rifles, should feel the most similar to vanilla PD2 AR's. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduce your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
-|200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of ammo pick up. Benefits heavily if used along with "Overkill", "Body Expertise", "Berserker" or crit skills, due to newly gained breakpoints from them.|
+|200 dmg|2|3|Basically 155 class, but with better anti-dozer potential and less restrictive customization, at a cost of ammo pick up. Benefits heavily if used along with "Overkill", "Body Expertise" or crit skills, due to newly gained breakpoints from them.|
 |250 dmg|1|2|Most stable and comfortable time to kill, but poor ammo economy if not accurate.|
 |450 dmg|1|1|Usually highest recoil and by far the worst ammo economy. Best combined with ammo related skills. Usage in single-fire mode recommended.|
 
