@@ -274,11 +274,11 @@ Weapons to use:
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Grinder_vanilla.png)  | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Grinder.png)  |
 
 ### Changes Summary
-Slightly improved AP chance (5% big wow) to allow for this stat to work better with other AP skills like "Surefire" and silencers AP skill.  
-QOL update not mentioned in the cards above: Grinder can now gain regeneration stacks from weapons that stun enemies and also by shooting converted enemies. This was done to make heal-on-damage effect more consistent with other perks that utilize the same heal-on-damage effect.
+Slightly improved AP chance (5% big wow) to allow for this stat to work better with other AP skills like "Surefire" and "The Professional" AP skill.  
+QOL update not mentioned in the cards above: Grinder can now gain regeneration stacks from weapons that stun enemies and also by shooting converted enemies. This was done to make heal-on-damage effect more consistent with other perks that have the same heal-on-damage bonuses.
 
 ### Additional info/tips
-For DS specifically - run this deck when you have Crew Chief on your team for the 3 tap health breakpoint with fastest self-healing of all decks in the game. Otherwise this deck is still sorta mid tier for DS.
+For DS specifically - run this deck when you have Crew Chief on your team for the 3 tap health breakpoint with fastest self-healing of all decks in the game. Otherwise this deck is still just "ok" for DS.
 
 ### Build(s) to try
 Barebone skills - "Bullseye" for armor gating, partners in crime for extra health. LBV armor with die hard aced is recommended, since 70 armor helps quite a bit.  
@@ -303,15 +303,15 @@ Any primary weapon of your choice. Saw as secondary on heists where saw can be u
 ### Changes Summary
 Improved anti-healing part of the perk deck by nullifying any healing from any source, except for deployables. Heal on revive is now always set 10%, even on lower difficulties, to improve reliability of the deck. Added 3 new effects:
 1) Resistance to armor piercing shots (from snipers) - was added to make this deck less risky, since you have to run at low health to gain benefits.
-2) Resistance when getting shot from behind (180° behind you) - was added to make the "duck to cover" gameplay less frustrating. You are already required to almost instantly react to your armor being broken and seeking (or ducking in) cover on higher difficulties, being shot from behind when you get flanked makes your "shoot, duck in cover, shoot" gameplay even less powerful than it already is. This feature mostly will help you with running to cover, or avoiding being screwed by flanking enemies, without allowing you to fight back with improved damage resistance.
-3) Resistance to armor suppression effect - for those who know what this is: it doesn't happen at all anymore, but total recovery will still be increased by 0.5 seconds when shot.  
-For those who don't know:  
-Armor suppression is an effect that applies to you when you are getting shot at, even if you are not getting hit (and always applies if you are hit by the shot). If you get suppressed while your armor is recovering, the recovery timer is set to it's maximum duration, and then 1 extra second is added on top from suppression. Practically speaking, this effect is always applied to you, because usually when you play you are being shot at all the time, but there are a few instances when you can receive damage without this effect, like melee or fire damage. 1 extra second that is added to your armor recovery from this effect is always equal to 1, because it can not be affected by armor recovery skills. This is why having 25% armor recovery bonus will improve your armor recovery to ((3 * 0.75) + 1 = 3.15) seconds, insead of expected (4 * 0.75 = 3) seconds, when you get shot at. This means that even if your armor recovery bonus was something like 999999%, your armor recovery after being shot would still be 1.00001 seconds long.
-New resistance effect that you gain from Yakuza will now reduce this suppression effect timer to always be 0.5 seconds instead of 1 second, and will also remove armor recovery timer reset if you got shot at, but did not take any damage, making both swat turret vans and random nearby shots completely irrelevant for your armor recovery.
+2) Resistance when getting shot from behind (180° behind you) - was added to make the "duck to cover" gameplay less frustrating. You are already required to almost instantly react to your armor being broken and seeking (or ducking in) cover on higher difficulties, being shot from behind when you get flanked makes your "shoot, duck in cover, recover, shoot" gameplay even less powerful than it already is. This feature mostly will help you with running to cover, or avoiding being screwed by flanking enemies, without allowing you to fight back with improved damage resistance.
+3) Resistance to armor suppression effect - for those who know what this does: suppression doesn't happen at all anymore, but total recovery will still be increased by 0.5 seconds when shot.  
+For those who don't know what this effect normally does:  
+Armor suppression is an effect that applies to you when you are getting shot at, regardless of if you are getting hit or not. If you get suppressed while your armor is recovering, the armor recovery timer is reset to it's maximum duration, and then 1 extra second is added on top from suppression. Practically speaking, this effect is always applied to you because main source of damage in this game is enemy bullets, but there are a few instances when you can receive damage without this effect like melee or fire damage. Additional armor recovery time which suppression adds will always be equal 1, because it's not affected by armor recovery skills. This is why having 25% armor recovery bonus will improve your armor recovery to ((3 * 0.75) + 1 = 3.15) seconds, instead of expected (4 * 0.75 = 3) seconds, when you get shot at. This means that even if your armor recovery bonus was something like 999999%, your armor recovery after being shot would still be 1.00001 seconds long.
+New resistance effect that you gain from Yakuza will reduce this suppression effect timer to always be 0.5 seconds instead of 1 second, and will also remove armor recovery timer reset if you got shot at, but did not take any damage, making both swat turret vans and random nearby shots completely irrelevant for your armor recovery.
 
 
 ### Additional info/tips
-Gameplay overall is about the same - shoot, duck to cover to recover, shoot. Gained buffs will improve this aspect by allowing you to do this faster and more often, while damage resist from behind and low health movement speed bonus will allow you to relocate easier. 
+Gameplay overall is about the same - shoot, duck to cover to recover, shoot. Gained buffs will improve this aspect by allowing you to do this faster and more often, while new damage resist from behind will help you survive flanking enemies and relocate to new cover easier. 
 
 ### Build(s) to try
 Barebone skills - ICTV armor, "Frenzy" aced for improved damage resistance, especially from behind, armor recovery skills, and "Bullseye" for armor gating.  
