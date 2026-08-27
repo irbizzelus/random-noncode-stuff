@@ -455,7 +455,7 @@ The obvious issue you may notice, besides inaccurate description, is the fact th
 Gilza's rework will now work as it's actually described in vanilla: any time you take bullet or melee (that's new) damage you gain 15% dodge without any cooldowns. If you take 2 hits in a row, you have 30% bonus dodge from this card now. After you successfully dodge by any means, this dodge bonus is now removed, and the skill goes on cooldown during which you can not receive any bonus dodge from it.    
 To make this, much more reliable and predictable skill balanced, dodge gain was reduced from 20% to 15%, and the cooldown itself now scales with used armors (because having a reliable dodge which fully refills armor on ICTV would be busted). Cooldown scales from 2.5 (suit) to 14 (ICTV) seconds. This makes sicario's neutral game without the smoke much more reliable and easier.   
 
-Card 9: Made description more accurate, as this card never affected neutral cards, like medic bag interaction speed. Additionally, while you are standing inside of the smoke screen, the 3rd card's cooldown will be prevented from activating, allowing the dodge bonus to potentially climb to 100% chance, because its never reset.    
+Card 9: Made description more accurate, as this card never affected neutral cards, like medic bag interaction speed. Additionally, while you are standing inside of the smoke screen, the 3rd card's cooldown will be prevented from activating, allowing the dodge bonus to potentially climb to 100% chance, because it's never reset.    
 This was done to make sicario smokes a much more reliable survival tool, because having to gamble for your life after using an ability with an effective 50 second long cooldown seems absurd when anarchist/armorer get 2 seconds reliably every 13 seconds. Also keep in mind, that even though this ability can allow you to reach "god mode" by getting you to 100% dodge via the 3rd card, it may only do so if that card is currently not on cooldown. This is important mostly if u are going to give high end armors like ICTV a try, since lower armors' cooldowns are shorter and will most likely become available while you are in the smoke.
 
 ### Additional info/tips
@@ -479,10 +479,10 @@ Any sniper rifles you prefer, 1600 are perfect for graze due to their breakpoint
 ### Changes Summary
 All the changes are numerical, for the most part reducing effectiveness of this perk deck, mainly by nerfing it's ability to consistently heal.
 - Card 1: Changed direct to indirect damage split from 75% to 70% to increase incoming damage taken. Reduced damage-over-time part of the damage split to 10 seconds from 11.2 (12 is vanilla's inaccuracy) to make DOT go down faster, dealing more damage.
-- Card 7: Cooldown gain while at low health reduced from 2 to 1.5 seconds to compensate new threshold of 45%. This skill should now activate much more often, improving survivability as compensation for the nerfs in the first perk card.
+- Card 7: Cooldown gain while at low health reduced from 2 to 1.5 seconds to compensate new improved threshold of 45%. This skill should now activate much more often, improving survivability as compensation for the nerfs in the first perk card.
 - Card 9: Similarly to card 7, this is a compensation for the first card, to make healing slightly better, since you now take more direct damage, and DOT damage you get is drained faster.
 
-Overall this deck should feel about the same, but you should play it more carefully, since you take more damage faster, leading to worse damage taken to healed ratio. Self healing skills are practically mandatory now.
+Overall this deck should feel about the same, but it now requires a bit more effort and better cover usage since you now take more damage faster. Self healing skills are even more important now.
 
 ### Build(s) to try
 Barebone skills - First aid kits fit this perk deck the best, so you should almost always run them. "Hostage Taker" and partners in crime also benefit this deck extremely well.  
@@ -500,8 +500,8 @@ Weapons to use:
 |  Gilza | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Tag_Team.png)  |
 
 ### Changes Summary
-Removed LOS (line of sight) requirement to the target. Increased amount that the timer is increased by per kill, to keep the effect going for longer easier. Increased max possible damage absorption, and reduced required amount of kills to get it, to improve survivability.  
-This deck's main issue is how expensive it is to run well (skill points wise), even though it does work pretty well when it's set up, so not that many changes were needed.
+Removed LOS (line of sight) requirement to the target. Increased timer extension per kill, to keep the effect going for longer easier. Increased max possible damage absorption and reduced required amount of kills to get it, to improve survivability.  
+This deck's main issue is how expensive it is to run (skill points wise), even though it does work pretty well when it's set up, so not that many changes were required.
 
 ### Build(s) to try
 Barebone skills - "Bullseye" for armor gating, ICTV armor to gain benefits from damage absorption, health buffs from partners in crime, and preferably hostage taker for additional passive regen, if your team doesn't have great DPS.
@@ -521,7 +521,7 @@ Use any shotgun you want as primary, preferably with AP slugs, and if you feel l
 ### Changes Summary
 Nerfed ECM cooldown to 150 seconds, nerfing it for both stealth and loud.  
 Cooldown gain per kill reduced from 6 to 4 seconds. ECM duration in loud increased to 9 seconds to compensate much longer breaks in between uses. Healing gained per kill was increased to also compensate longer intervals in-between activations. Temporary dodge now requires 3 kills, provides 5% less dodge, but for a longer duration to compensate breaks between uses.  
-This perk deck is simply too good, and the main reason for that is just the ECM stun effect. Making ECMs activate less often allows for stun spammibility of this deck to go down, while other buffs, both to the deck and artful dodger skill tree, keep player survivability at roughly the same level.
+This perk deck is simply too good, and the main reason for that is just the ECM stun effect. Making ECMs activate less often allows for stun spam'ibility of this deck to go down, while other buffs, both to the deck and artful dodger skill tree, keep player survivability at roughly the same level if used correctly.
 
 ### Build(s) to try
 Barebone skills - get additional dodge and "bullseye" for armor gating, rest is up to you.
@@ -541,16 +541,40 @@ Any weapons that benefit from crits (a.k.a. guns with low damage with high rate 
 
 ### Changes Summary
 Moved to Support category.  
-Probably the furthest from vanilla rework of any deck. Vanilla leech simply has too many things going for it. Is it supposed to be a kingpin replacement with activateable semi god mode? Is it supposed to be a support healing deck like gambler? Is it supposed to be a clutch deck that allows you to pick yourself up and carry your team to victory? This deck simply has too many aspects to make it make sense, while also being both overpowered and braindead easy to use if you combine it with mult-kill weapons like rocket launchers or graze sniper rifles.  
-This rework is my attempt to make this perk deck fulfill more of a supportive role, while keeping most aspects of this deck. But also changing them somewhat significantly.
-- Card 1: Increased cooldown from 40 to 60 seconds. Reduced amount of divisible health segments from 5 to 4. Reduced threshold for damage that is required to deplete 2 segments from 200 to 150. Whenever you go down your cooldown will be forced to at least 20 seconds, to prevent you from immediately reviving yourself to reduce potential clutch moments when deck is maxed at 9/9 cards and to also punish you for not using the cooldown (this actualy makes new buffed Messiah really good with Leech, allowing you to improve your cooldown while downed easier). Removed teammate heal on damage taken. Removed invulnerability and heal after 2 kills. Replaced both previously mentioned removed mechanics with a new one which combines previous two in a new way. After taking damage you lose 1-2 health segments and then get invulnerability for a short period. Securing a kill during this period can recover 1 health segment and recover health for your teammates. Added new supportive feature: if you revive a teammate while the Amuple effect is active, when Ampule effect is over you will get healed automatically, to improve your survivability. The 25% team heal reduction you have with other Leech players on your team is a vanilla feature that is normally not mentioned in the description.
-- Card 3: Made the last stand mechanic more similar to the Swan Song effect, which does not allow you to heal or use FAK Uppers skill, since this threshold is much harder to get to now, so you need to be punished more if you ever get to it. If you revive a teammate you won't go down after Ampule effect ends even if you were at 0 health, to improve the new supportive nature of this deck.
-- Card 5: Updated description to signify teammate healing effect change, which is now triggered during the invulnerability state. Added healing for both self and revived player to better establish this deck as a support deck.
-- Card 7: Moved total health bonus here, total health with Leech is still 414 health. Reviving teammates reduces Ampule cooldown by 10 seconds. Being revived does the same, to make effective cooldown punishment from going down only 10 seconds long. Reviving a teammate during the Ampule effect now provides additional 10 seconds bonus to the cooldown, after the effect is over. This practically doubles your cooldown gain per revive during the Ampule effect, but only for 1 revive per Ampule effect activation.
-- Card 9: While ampule effect is active max possible amount of segments is now 5 (instead of 10), and amount of healing while getting kills in the invulnerable state is now doubled at 2 segments. This allows you to reliably heal yourself while effect is active on lower difficulties, since you will mostly be taking 1 segment worth of damage, while also allowing you to have a semi god mode on DS difficulty, since you mostly will be both losing and gaining 2 segments. This is still a semi god mode, because you only have a short time period (currently 1 second) to get a kill to recover your health. Heal amount on teammates is increased even more since you will trigger this healing effect less often than vanilla Leech can. Self revive now has an additional cost of 40 seconds of cooldown to reduce un-losable gameplay scenarios.
+Probably the most noticeable core gameplay difference relative to it's vanilla variant. Vanilla leech simply has too many things going for it. Is it supposed to be a kingpin replacement with activateable semi god mode? Is it supposed to be a support healing deck like gambler? Is it supposed to be a clutch deck that allows you to pick yourself up and carry your team to victory? This deck simply has too many aspects to make it make sense, while also being both overpowered and braindead easy to use if you combine it with mult-kill weapons like rocket launchers or "Graze" sniper rifles.  
+This rework is my attempt to make this perk deck fulfill more of a supportive role, while keeping most features of this deck, even if some of them were changed significantly.    
+
+Card 1:
+- Increased cooldown from 40 to 60 seconds.
+- Reduced amount of health segments from 5 to 4.
+- Reduced threshold for damage that is required to deplete 2 segments in one shot from 200 to 150.
+- Whenever you go down the Ampule cooldown is forced to at least 20 seconds, to prevent you from immediately reviving yourself if the deck is maxed out at 9/9 cards, and to also punish you for not using the cooldown. This makes new buffed "Messiah" a really good combo with Leech, allowing you to shorten your cooldown while downed easier.
+- Removed teammate heal on damage taken.
+- Removed invulnerability and self-heal after getting 2 kills.
+- Replaced the previous 2 removed mechanics with a new one which combines them in a new way: After taking damage and losing 1-2 health segments you now get invulnerability for a short period. Securing a kill during the invulnerability period can recover 1 health segment and recover health for your teammates.
+- Added new supportive feature: if you revive a teammate while the Amuple effect is active, after the Ampule effect ends you will get automatically healed, to improve your survivability.
+- Added info about the 25% teammate healing reduction you get when you have additional Leech players on your team. This is a vanilla feature.
+
+Card 3:
+- Made the last stand mechanic more similar to the Swan Song effect, which does not allow you to heal or use FAK Uppers skill, because this threshold is harder to get to now, so you need to be punished more if you ever get to it. If you revive a teammate, you won't go down after Ampule effect ends even if you were at 0 health, to improve the new supportive nature of this deck.
+
+Card 5:
+- Updated description to signify teammate healing effect change, which is now triggered during the invulnerability state.
+- Added healing for both self and a revived player after revives, to better establish this as a support deck.
+
+Card 7:
+- Moved total health bonus here, total health with Leech is still 414 health.
+- Reviving teammates reduces Ampule cooldown by 10 seconds. Being revived does the same, to make effective cooldown punishment from going down only 10 seconds long.
+- Reviving a teammate during the Ampule effect provides additional 10 seconds of cooldown recovery, after the Ampule effect is finished. This was added to make activation of the Ampule for the sake of reviving another player more valuable.
+
+Card 9:
+- While ampule effect is active maximum possible amount of segments is increased to 5.
+- Amount of healing while getting kills in the invulnerable state is now doubled at 2 segments. This allows you to reliably heal yourself while effect is active on lower difficulties, since you will mostly be taking 1 segment worth of damage, while allowing you to have a semi god mode on DS difficulty, since you mostly will be both losing and gaining 2 segments. This is still a semi god mode, because you only have a short time period to get a kill and recover your health.
+- Heal amount on teammates is increased even more since you will trigger this healing effect less often than vanilla Leech can.
+- Self revive now has an additional cost of 40 seconds of cooldown to reduce frequency of un-losable gameplay scenarios.
 
 ### Additional info/tips
-Please, please, please use "Painkillers" skill on higher difficulties. Bonuses that you get from teammate revives are not incredibly strong, while letting your teammates go down again because they are in a vulnerable position and you don't have this skill is both foolish and not nice. This is a general tip for using Inspire skill, but it applies to this new version of Leech the most.
+Please, please, please use "Painkillers" skill on higher difficulties. Bonuses that you get from teammate revives are not incredibly strong, while letting your teammates go down again because they are in a vulnerable position and you don't have this skill is selfish, foolish and generally not very nice. This is a general tip for using Inspire skill, but it applies to this new version of Leech the most.
 
 ### Build(s) to try
 Barebone skills - You can use FAK's without using hostage taker to heal, or use "Hostage Taker" with any other deployable for passive healing. Investing into armor is not recommended since your health bonuses provide big enough bonuses already. Go for mid tier armors, aiming for 70 armor on DS difficulty. Messiah, at least basic, is favored heavily since it's extremely effective at shortening cooldown while downed. Up you go aced also helps with healing after you go down really well.
