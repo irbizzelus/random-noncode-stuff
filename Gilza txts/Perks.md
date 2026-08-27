@@ -568,7 +568,7 @@ Card 7:
 - Reviving a teammate during the Ampule effect provides additional 10 seconds of cooldown recovery, after the Ampule effect is finished. This was added to make activation of the Ampule for the sake of reviving another player more valuable.
 
 Card 9:
-- While ampule effect is active maximum possible amount of segments is increased to 5.
+- Maximum possible amount of segments was changed to 5.
 - Amount of healing while getting kills in the invulnerable state is now doubled at 2 segments. This allows you to reliably heal yourself while effect is active on lower difficulties, since you will mostly be taking 1 segment worth of damage, while allowing you to have a semi god mode on DS difficulty, since you mostly will be both losing and gaining 2 segments. This is still a semi god mode, because you only have a short time period to get a kill and recover your health.
 - Heal amount on teammates is increased even more since you will trigger this healing effect less often than vanilla Leech can.
 - Self revive now has an additional cost of 40 seconds of cooldown to reduce frequency of un-losable gameplay scenarios.
@@ -615,7 +615,7 @@ Lowest damage class akimbo pistols for primary and shotgun secondary with dragon
 
 ### Summary
 Speed is your life.  
-Moving provides you with points to a meter which provides bonuses to dodge, weapon swap speed, weapon reload speed and interaction speeds. Kills fill up this meter as well, and also recover your stamina. You trade almost all of your health for armor, and you gain a little bit of armor when you dodge once a second. More damaged your armor is - more movement speed you get.
+Moving provides you with adrenaline which provides bonuses to dodge, weapon swap speed, weapon reload speed and interaction speeds. Kills fill up this meter as well, and also recover your stamina. You trade almost all of your health for a bit of armor, and you gain a little bit of armor when you dodge once a second. More damaged your armor is - more movement speed you get.
 
 ### Additional info/tips
 One of a few (if not the only) perk deck that actually gets use out of the "Running from Death" skill. Adrenaline spike is an RNG based temporary effect that gives you practical god mode and increased kill potential, but keep in mind that once it's over you are screwed if you are not in cover. This is the ultimate run and gun perk deck, but it has a flaw - you can't really use text chat since you cant move and use chat, and not moving with this deck is a death sentence. Note that "Revitalized" skill activates after Speed Junkie's 7th card's armor regeneration skill, when you have no armor. This allows you to use "Revitalized" as a backup armor regen skill on dodge, while you have no armor, in case Junkie's 1 second cooldown is in effect.
@@ -667,12 +667,12 @@ Any LMG primary of your choice. Any pistol as secondary, since you can swap to a
 Info on all the 9th card replacements (including 3 new ones from custom perks) are further bellow.
 
 ### Changes Summary
-Copycat overall is a really good deck, but amount of health you gain from it is simply too good. Gaining 3 tap health on DS with a 2 second invulnerability by just having a joker is a bit too good, considering some options you can get from the 9th perk card copies, so some of the neutral aspects (non-copy parts) of the deck were nerfed.  
+Copycat overall is a really good deck, but amount of health you gain from it is too high. Gaining 3 tap health on DS with a 2 second invulnerability by just having a joker is a bit too good, considering some options you can get from the 9th perk card copies, so some of the neutral aspects (non-copy parts) of the deck were nerfed.  
 - Choose a boost for cards 1,3,5,7: Health bonus is reduced from 20% to 15%, to make 3 tap health builds on DS harder to get. Armor and dodge bonuses unchanged. Crouch and bag movement speed bonus was unchanged, but this bonus now also allows to carry more total ammo. This is a niche upgrade, but can be sometimes useful, when you just simply don't need other upgrades.
 - Card 1: Identical
-- Card 3: Identical, but the heal bonus is different when using "Bullseye" skill. This was done in such a way because both of these skills share a cooldown in the code. It is possible to split these timers, but if i did so, all infoHUD's out there will be broken and display incorrect information. This way infoHUD's wont be broken and overall amount per minute is the same, even though you could argue that this will lead to slightly less healing since you can't always activate this skill after it's cooldown is over, but that's a small price to pay considering other buffs this perk got.
+- Card 3: Identical, but the heal bonus is different when using "Bullseye" skill. This was done in such a way because both of these skills share a cooldown in the code. It is possible to split these timers, but if i did so, all infoHUD's out there will be broken and display incorrect information. This way infoHUD's wont be broken and overall amount of healing per minute is the same, even though you could argue that this will lead to slightly less healing since you can't always activate this skill after it's cooldown is over, but that's a small price to pay considering other buffs this perk got.
 - Card 5: Identical
-- Card 7: Updated the invulnerability effect to activate how you would assume it would activate in vanilla. In vanilla this skill can activate even if your armor is full, wasting the cooldown. Additionally, in vanilla, you can take enough damage for this skill to activate, but you would still go down because your health reached 0 before the skill was activated. Now there is a safety net for this effect, limiting you to just 1 health in such scenarios. To compensate slightly, this cooldown was increased from 15 to 20 seconds.
+- Card 7: Updated the invulnerability effect to activate how you would assume it would activate in vanilla. In vanilla this skill can activate even if your armor is full, potentially wasting the cooldown. Additionally, in vanilla, you can take enough damage for this skill to activate, but you would still go down because your health reached 0 before the skill was activated. Now there is a safety net for this effect, limiting you to just 1 health in such scenarios. To compensate slightly, this cooldown was increased from 15 to 20 seconds.
 
 ### Additional info/tips
 Focus on keeping your health above 50% threshold to be able to trigger the invulnerability effect. If you are running 9th copies that don't provide you with additional healing, do not get yourself more health, unless you are using Hostage Taker, because 3rd card always recovers a flat amount of health, and it would be easier to get to 50% threshold from this healing if your max health is not increased.
@@ -681,7 +681,7 @@ Focus on keeping your health above 50% threshold to be able to trigger the invul
 Barebone skills - Always run "Bullseye" for armor gating, rest is up to you.  
 
 Build 1 - Brawler copy https://pd2builder.netlify.app/?s=1G000100811Q380-62h1i00g150&p=m&c=3-41&a=0&t=h&d=03  
-A unique version of copycat that is not available in vanilla. Use Brawler's 9th copy (23/25), and stack all neutral "pick a boost" cards for dodge (3/4). You can use either Doctor bags or Ammo bags as your primary deployable since both are maxed out, but ammo is preferred, since this build doesn't provide high damage bonuses. Brawler copy card will provide you with the best armor gating in the game, but you need to perfectly time a kill once every 6 seconds to gain this benefit, if you don't actively use melee. This benefit + dodge + health invulnerability provides a relatively easy to play, but not the most powerful playstyle.   
+A unique version of copycat that is not available in vanilla. Use Brawler's 9th copy (23/25), and stack all neutral "pick a boost" cards for dodge (3/4). You can use either Doctor bags or Ammo bags as your primary deployable since both are maxed out, but ammo is preferred, since this build doesn't provide high damage bonuses. Brawler copy card can potentially provide you with the best armor gating in the game, but you need to actively use melee for best stacking. This benefit + dodge + health invulnerability provides a really fun, even if not the most powerful, playstyle.   
 Weapons to use:  
 200 damage class silenced Assault Rifle primary focused on accuracy and concealment, and a 200 damage class silenced SMG secondary focused on stability. Weapons with burst fire mode recommended. Any 25+ damage class melee.
 
@@ -692,7 +692,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Crew Chief
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Crew_Chief.png) |
 | -------- |
-| This card now provides highest damage resistance of all 9th card copies while providing additional minor buffs. |
+| This card now provides highest damage resistance of all 9th card copies while providing additional team buffs. |
 
 ### 9th copy - Muscle
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Muscle.png) |
@@ -777,7 +777,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Sicario
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Sicario.png) |
 | -------- |
-| Copies first card like vanilla, so only change is to the smoke bomb cooldown: 60 to 45 seconds. |
+| Copies first card like vanilla. |
 
 ### 9th copy - Stoic
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Stoic.png) |
