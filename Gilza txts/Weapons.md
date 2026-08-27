@@ -221,7 +221,7 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 * Can now one-shot headshot any enemy (except Dozers and cpt. Winters).
 * Now balanced around BODYSHOTS, and how many bullets it takes to kill enemies in the body. This makes most snipers a great option for people with lazy aim. (for those who prefer to pop heads, use semi-auto snipers)
 * All sniper rifles that come by default with a scope had their conceamnet stat decreased by 1, but all scope attachments will now increase your total concealment instead of reducing it, allowing you to use a holo sight instead of the default scope without losing concealment (because this makes no sense in vanilla).
-* Wallbaning was removed from all snipers with 1300 and less damage to make higher end sniper rifles have something unique going for them.
+* Wallbang'ing was removed from all snipers with 1300 and less damage to make higher end sniper rifles have something unique going for them.
 
 ### New damage classes
 
@@ -230,7 +230,7 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 |Semi-auto |650 dmg|1 |2|2 |3 |The anti-trash (enemy type) rifles. Should be used mostly for headshots.|
 |Lever-action |950 dmg|1|1|2|2|Can one tap heavy swats, so you only have to go for headshots on some special enemies.|
 |Bolt action |1300 dmg|1|1 |1 |2 |Bolt snipers are slow, but you can one tap bodyshot everyone except for the cloaker, dozer and cpt. Winters. Pretty good, ay?|
-|Heavy bolt action |1600 dmg|1|1 |1 |1 |Same as bolt actions, but can one-shot-bodyshot cloakers as well. This class is used for low mag capacity bolt snipers. This class is combined best with "Graze" skill, due to it's new damage multiplier.|
+|Heavy bolt action |1600 dmg|1|1 |1 |1 |Same as bolt actions, but can one-shot-bodyshot cloakers as well. This class is used for low mag capacity bolt snipers. This class is combined best with "Graze" skill.|
 |The 50cal|6500 dmg|1|1|1 |1 |The one and only Dozer-buster. Takes 2 bodyshots to kill a dozer, minigun versions take 4. Double bullet amount for DS difficulty.|
 
 # All akimbo weapons:
@@ -246,7 +246,7 @@ LMG's will now be better at long range bipoded support, but slightly worse at po
 * Now have no damage drop-off, which makes them more effective at longer distances than SMG's.
 * Rate of fire for all pistols was updated to overall lower values, to compensate more reliable breakpoints, and new pistol skills.
 
-Pistols are now a comfortable alternative for mid ranges, while SMG's are better up close and snipers are better at longer ranges.
+Pistols are now a comfortable alternative for mid ranges, while SMG's and shotguns are better up close and snipers are better at longer ranges.
 
 ### New attachments
 * Broomstick's long barrel is now an AP kit.
@@ -285,7 +285,7 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 |100 dmg|3|5 |Best for Crits and/or Body Expertise. Tend to have high ROF|
 |125 dmg|3|4 |Best for Crits and "Berserker" skills.|
 |155 dmg|2|3|Average. This class is based on 150 damage breakpoint, which is important against heavy swats, but it starts with extra 5 damage, so in case you have attachments that reduced your damage by 1, the breakpoint can still be there. With other damage classes losing 1 damage will affect their breakpoints against a certain enemy type. This is a "Noob Friendly" customization option of sorts.|
-|200 dmg|2|3|Average, but with less restrictive modding. Benefits heavily if used along with "Overkill", "Body Expertise", "Berserker" or crit skills, due to newly gained breakpoints from them.|
+|200 dmg|2|3|Average, but with less restrictive modding. Benefits heavily if used along with "Overkill", "Body Expertise" or crit skills, due to newly gained breakpoints from them.|
 |250 dmg|1|2 |Heavy hitters, most reliable option if user is accurate.|
 |450 dmg|1|1 |Heaviest hitter, currently only avaialbe on the Ballerina single fire SMG.|
 
@@ -300,14 +300,14 @@ These changes make SMG's a more distinct CQB category. While being extremely eff
 ### Bows/crossbows:
 * Added body armor piercing to all bows and crossbows by default.
 * Updated damage/accuracy/stability stats, so bows and crossbows would feel slightly more different one from another.
-* Both bows and crossbows can now gain benefit from "Body Expertise" skill, allowing you to rely only on bodyshots if you use it.
+* Both bows and crossbows can now gain benefit from "Body Expertise" skill, allowing you to rely only on bodyshots if you use this combo.
 * Fixed stats for some bows that displayed incorrect information.  
 
 ### OVE9000 Saw:
 * Allows for reloads at any time.
 * Can now always penetrate enemy body armor regardless of skills/attachments.
-* No longer deals extra damage with headshots, except for Bulldozers.
-* Can now pick up ammo with Saw Massacre (ACED) skill.
+* Can only deal extra damage with headshots to Bulldozers, or if "Body Expertise" skill is used.
+* Can now pick up ammo with Aced "Saw Massacre" skill.
 
 ### Flamethrowers:
 Ammo capacity was reduced, reload speed and damage were increased.  
@@ -327,7 +327,7 @@ Magazines now completely change how flamethrower performs:
 * Similarly to LMG's, are now capable of piercing through multiple enemies for better crowd control. Note that hitting body armor prevents multi-enemy piercing.
 * Reload sped up by 20%.
 * Ammo pick up altered, and is now different between the two miniguns we have, since one does more damage per bullet than another.
-* Hailstorm now has 210/525 ammo, better accuracy/stability stats and no damage drop-off penalties, but it's ability to pierce multiple enemies in volley mode was removed.
+* Hailstorm now has 210/525 ammo, better accuracy/stability stats and no damage drop-off penalties.
 
 Body expertise skill works wonders with these weapons.
 
@@ -354,7 +354,7 @@ Body expertise skill works wonders with these weapons.
 # Custom Weapons Support
 Gilza will automatically search for custom weapons and convert their damage stats to work with Gilza's health changes. Beware: some custom weapons may have attachments that change damage/ammo pick up/total max ammo, or other stats in such a way that it will not match Gilza's values well, making them either too good, or bad. I can't do anything about it, other then __manually__ adding support for __every gun individually__. This is planned for future patches.
 
-Custom "special" category weapons are not supported.
+Custom "special" category weapons are not supported by the "automatic adjustments" system.
 
 Currently supported attachment mods:  
 All of FrenchyAU's tacticool attachments packs (250+ attachments). Check Gilza's dependencies & Instructions tab on the [MWS page](https://modworkshop.net/mod/39854) for links.
