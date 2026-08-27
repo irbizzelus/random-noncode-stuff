@@ -777,7 +777,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Sicario
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Sicario.png) |
 | -------- |
-| Copies first card like vanilla. |
+| Identical to vanilla. |
 
 ### 9th copy - Stoic
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Stoic.png) |
