@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to view weapon category chapters: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for Gilza version: 2.8.1
+Stats are updated for Gilza version: 2.8.11
 
 # General weapon handling updates:
 ## Recoil: general changes
