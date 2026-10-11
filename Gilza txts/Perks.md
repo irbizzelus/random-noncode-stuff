@@ -8,7 +8,7 @@
 
 <p align="right"> Use this icon to select the perk you are interested in: <img width="286" height="71"  src="https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/main/Gilza_pics/headings_icon.png"> </p>
 
-Stats are updated for Gilza version: 2.8.11
+Stats are updated for Gilza version: 2.8.2
 
 # General info:
 
@@ -807,7 +807,7 @@ In the same way, mini-icon from the perk deck you are copying will always be wha
 ### 9th copy - Speed Junkie
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Speed_Junkie.png) |
 | -------- |
-| Highest amount of bonus dodge you can get from copy cards, but it's near impossible to reach. |
+| Highest amount of bonus dodge you can get from copycat cards, but it's really difficult to reach and upkeep, while also limiting armor regeneration. |
 
 ### 9th copy - Guardian
 | ![](https://raw.githubusercontent.com/irbizzelus/random-noncode-stuff/refs/heads/main/Gilza_pics/Perk_Images/Copycat_9_Guardian.png) |
