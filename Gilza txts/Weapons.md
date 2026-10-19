@@ -12,9 +12,9 @@ Stats are updated for Gilza version: 2.8.2
 
 # General weapon handling updates:
 ## Recoil: general changes
-All weapons' recoil was overall increased. However, first 5 bullets fired from your weapon will have reduced recoil, so firing in short controlled burst is beneficial, especially at longer ranges. Reduced recoil for first 5 bullets does not apply to Shotguns, Snipers, and single shot fire mode Pistols.
+All weapons' recoil was overall increased. However, first 5 bullets fired from your weapon will have reduced recoil, so firing in short controlled burst is beneficial, especially at longer ranges. Reduced recoil for first 5 bullets does not apply to Shotguns, Snipers, and Pistols with single shot fire mode.
 
-Amount of recoil now depends on your weapon's base stability value - stability value that you see whenever you purchase a weapon, before skills/weapon attachments were applied. Lower base stability means higher overall recoil. Because of these changes, 2 weapons with identical stability values after skills/attachments __will__ feel different, if their base stability is different.
+Amount of recoil now depends on your weapon's base stability value - stability value that you see whenever you purchase a weapon, before skills and/or weapon attachments were applied. Lower base stability means higher overall recoil, relative to other weapons in the same category. Because of these changes, 2 weapons of the same category with identical stability values after skills/attachments __will__ feel different, if their base stability is different. Overall weapon kick depends on the weapon category, so 2 weapons with same stability stat __will__ have different recoil if one of them is an Assault rifle and another is an LMG.
 
 Horizontal recoil will now always favor weapons into a certain predefined direction - either left or right. Horizontal recoil will never jump from left to right (and vice versa), but the pull to whichever direction, is overall stronger than in the base game.
 
@@ -151,7 +151,7 @@ Damage class adjusting ammunition was added to some weapons - this ammunition at
 Other attachment updates/additions:
 * Gewehr3's CQB and Sniper kits have new updated values: CQB kit now has reduced damage class (200) with increases to other stats, while the Sniper kit acts like an AP kit
 * 7.62 Little Friend and Byk-1 now have a High velocity round for their underbarrel launchers - this round increases grenade travel speed by 3x with a 20% ammo pick up cost. Note: only works if you are the lobby host, otherwise reverts itself to standard round stats.
-* M308 and Galant rifles now have AP rounds - similar to AP(DMR) kits, but they are categorized as a separate ammunition attachment.
+* M308 and Galant rifles now have AP rounds - similar to AP kits, but they are categorized as a separate ammunition attachment.
 
 # Shotguns:
 
