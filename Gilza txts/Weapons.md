@@ -10,6 +10,15 @@
 
 Stats are updated for Gilza version: 2.8.2
 
+# Weapon damage:
+All weapons in Gilza are assigned to a specific "damage class" instead of each having a unique damage value. This was done for ease of understanding of damage breakpoints, weapon modifications (using attachments), and for ease of balancing.
+
+Each damage class is setup for a specific kill breakpoint. If you use a weapon with base 250 damage and modify it with a muzzle device that reduces the damage to 249, you would need 1 more bullet to kill some enemies, which will eat through your ammo faster, and with Gilza's ammo economy that's not something you'd want.
+
+Damage breakpoints are usually setup against light and heavy SWAT's, but with some weapons, if their damage is high enough, breakpoins would be setup to work against certain special enemies. Some damage classes are setup to work with certain skills, for example 325 damage on shotguns is combined well with the Overkill skill which provides a 40% damage increase, increasing damage from 325 to 450, which is another important breakpoint.
+
+The 155 damage class used by some weapons is the only exception to this strict setup, as it's actually based on a 150 damage breakpoint, but has some extra damage on top for easier weapon modifications.
+
 # General weapon handling updates:
 ## Recoil: general changes
 All weapons' recoil was overall increased. However, first 5 bullets fired from your weapon will have reduced recoil, so firing in short controlled burst is beneficial, especially at longer ranges. Reduced recoil for first 5 bullets does not apply to Shotguns, Snipers, and Pistols with single shot fire mode.
